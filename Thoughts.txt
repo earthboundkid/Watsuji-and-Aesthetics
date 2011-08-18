@@ -1,3 +1,4 @@
+##Overall
 Art forms to talk about: Music (rock, hip-hop, religious), architecture (vs. fūdo?), haiku/poetry, theater, fashion, tea, cooking, painting (suiboku vs. youga), literature, archery, budo, museums
 
 Overall questions on Watsuji--how good of a job is he doing of sorting out the following binaries (privileged term first):
@@ -7,11 +8,16 @@ Overall questions on Watsuji--how good of a job is he doing of sorting out the f
 - Climate - History
 - State - Religion
 
+
+-	John Donne’s “no man is an island” is a great quote.
+
 ##Chapter 2: Watsuji
 
 -	Defense of human interconnectedness can be a pri or a post, but etymology is somewhere in between.
 
 -	Hermeneutics is a dynamic interplay of reason (logos), praxis, and theoria. Cf. Watsuji’s threefold method. Double cf. the emphasis on shutai as subject of praxis.
+	
+	The reason the search for a logical basis for math was so unsatisfying is that mathematical axioms are not more fundamental than reason itself. Math combines axiom to make facts, but it's all on the basis of reason.
 
 -	Does it make sense to criticize Watsuji as reciprocal in relations and also as too community heavy?
 
@@ -26,12 +32,24 @@ Overall questions on Watsuji--how good of a job is he doing of sorting out the f
 -	Emptiness is the theory that everything exists as a part/whole in two directions. In the downward direction, it is reducible to its parts. In the upwards direction, it is always a part of a greater whole. People are made of organs and cells, but their part of a society and world. Doing physiology works by going from parts to person, and doing psychology (well) works by going from society to person. Mind is the name for the motive force in the whole-part, and body is the name for the motive force in the part-whole.
 	Cf. Reduction (down)/Construction (up)/Destruction (out)
 
--	John Donne’s “no man is an island” is a great quote.
-
 -	Is Watsuji secretly an egoist because I harm myself when I betray my 間/absolute/emptiness?
 	Yes, but so what? Egoism is troublesome because it has a false picture of self. As long as you have the right picture of self, then things like “self-sacrifice” become possible as ways of reaffirming the self.
 
+-	Watsuji is a theorist of the One and the Many, but unlike in Plotinus et al., for Watsuji, the One 人 is constructed out of the Many 間 to which it returns.
+
+-	Kant has a problem with retards and animals, because only the autonomous and rational have intrinsic worth. Does Watsuji have an equivalent problem?
+
+-	Funny (?) example: People want cellphones more than clean water.
+
+-	Negation as love. Love is about a "fusion of horizons" etc. as is Watsuji's cleavage. The thing about fusing horizons is that no matter how far you go, you never meet the horizon.
+
 ## Chapter 3: Aesthetic Experience
+
+-	Defend exploration of aesthetics on the ground that it, like ethics, is a uniquely human activity, therefore it must come from ningen sonzai. 
+
+-	Look for genus & species of aesthetics as definition. Genus seems like experience (duh), so of course it falls under dialectic, like everything else experienced. What is particular to the aesthetic part of it though?
+
+-	Defend self from the obvious problem that Watsuji hates observers? Or wait for chapter four…
 
 -	For Kant, stars are paradigmatic objects of beauty because not subject to practical concern, but Watsuji is basically obsessed with praxis. どうすんの？
 
@@ -65,6 +83,8 @@ Watsuji seems to be similar, since he also sees Good as one’s own good due to 
 
 -	Recall Stan Lee’s greatest invention was the illusion of a community of comic book artists (a “scene”)
 	Re: Hip hop music, chiptunes, etc.
+
+-	Remember the great Punk Cycle: Rebel ⇄ Sell out. This is very Watsujian.
 
 -	At 424c of Republic, Plato assumes that a change of music will (signal? cause?) a change of the polis.
 	Does Watsuji have similar assumptions? (Yeah, probably.) Is it a cause or an effect?
