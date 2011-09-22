@@ -1,37 +1,58 @@
 Chapter 2. Anthropology and Method
 
+- Ethics as first philosophy:
+ Cf. Aristotle on ethos as root of logic
+ Cf. Aristotle on man by nature desires to know
+rational animal = account giving animal = political animal.
+epistemological modals are oughts not cans. 
+Wittgenstein On Certainty, etc.
+Practice vs. Theory. Practice is the first wrung on the ladder.
+
+- Ethics & Rinrigaku
+ Ethics = Rin + Ri + Gaku
+ Watsuji is an existentialist still
+
+Maybe it’s perverse to make ethics the first philosophy, being as how it should be the crown jewel that comes last, the goal, not the (hopefully uncontroversial) basis of further insights?…
+
+Is ethics objective or subjective? Kant is subjective, because it depends on the subject’s intention not the consequences. Mill is objective, because it depends on the objective consequences, not the subject’s intentions. But for Kant, your duties are objective matter as is whether you as a subject comport to your duties correctly. And for Mill, what makes a consequence good is just that subject out there are pleased by it. So, Kant is objective and Mill is subjective. Clearly, this is a contradiction. So which is it? Either objectively subjective or subjectively objective…
+
 - Bio:
  Confucian Doctor Dad, Romantics, Shaw, Koeber, Nietzsche, Kirkegaard, Soseki, Buddhism, Nishida, Heidegger, Marxists, War, Post-War
 
-- Ethics as first philosophy:
- Ethics = Rin + Ri + Gaku
- Cf. Aristotle on ethos as root of logic
- Watsuji is an existentialist still
-
+##The Emptiness of Ningen
 - Ningen
- Etymology isn't destiny, but it is history
+ Etymology isn’t destiny, but it is history
 	*	Defense of human interconnectedness can be a pri or a post, but etymology is somewhere in between.
 	- But Watsuji goes beyond mere etymology in later chapters.
 *	Funny (?) example: People want cellphones more than clean water.
 
+“men always seek society” (Treatise, 2.3.1.8/402)
+
 - Emptiness
  Fundamental law
 
- Negation in Hegel vs. Emptiness in Buddhism
+Illustrate with teenage rebellion.
 
-*	There are at least three senses of negation: Hegelian, Buddhist, teenage rebellion
 
-*	Emptiness is the theory that everything exists as a part/whole in two directions. In the downward direction, it is reducible to its parts. In the upwards direction, it is always a part of a greater whole. People are made of organs and cells, but their part of a society and world. Doing physiology works by going from parts to person, and doing psychology (well) works by going from society to person. Mind is the name for the motive force in the whole-part, and body is the name for the motive force in the part-whole.
+*	There are at least two senses of negation: Buddhist and Hegelian. 
+
+	*	空 = openness? Emptiness is the theory that everything exists as a part/whole in two directions. In the downward direction, it is reducible to its parts. In the upwards direction, it is always a part of a greater whole. People are made of organs and cells, but their part of a society and world. Doing physiology works by going from parts to person, and doing psychology (well) works by going from society to person. Mind is the name for the motive force in the whole-part, and body is the name for the motive force in the part-whole.
 	Cf. Reduction (down)/Construction (up)/Destruction (out)
-
-*	Is emptiness reducible or not?
+	Cf. Pre-Socratic reductionists (atomists and others who want to make up objects out of more primordial components) vs. Pre-Socratic holists (apeironists like Parmenides, Zeno, etc.). As per Dōgen, we only affirm objects fully when we understand them in this double sided relationship. (Is emptiness reducible or not?)
 
 *	Is emptiness just the transcendent third term? Why not? Emptiness is creative in East Asian Buddhism. In Platonism, Becoming is creative because it is between Being and Nothing on the Great Chain of Beings.
 
-*	Negation as love. Love is about a "fusion of horizons" etc. as is Watsuji's cleavage. The thing about fusing horizons is that no matter how far you go, you never meet the horizon.
+	No, because emptiness is empty. That means it cannot be transcendent in Ames’s sense of defining the other without being defined. It is the absolute, but only a relative absolute, but THE relative absolute.
 
- Sonzai
- Seken
+	* Hegel: Thesis, etc. Love.
+
+	*	Negation as love. Love is about a “fusion of horizons” etc. as is Watsuji’s cleavage. The thing about fusing horizons is that no matter how far you go, you never meet the horizon.
+
+	* Jesus/Paul says that Love thy neighbor is a summary of commandments 6-10. This can be made to fit W under my definition of love.
+
+#Our Sonzai in Seken
+* Heidegger's Being in the World
+
 *	Watsuji is a theorist of the One and the Many, but unlike in Plotinus et al., for Watsuji, the One 人 is constructed out of the Many 間 to which it returns.
 
 *	Does it make sense to criticize Watsuji as reciprocal in relations and also as too community heavy?
@@ -47,4 +68,6 @@ Chapter 2. Anthropology and Method
 
 *	Hermeneutics is a dynamic interplay of reason (logos), praxis, and theoria. Cf. Watsuji’s threefold method. Double cf. the emphasis on shutai as subject of praxis.
 	
-	The reason the search for a logical basis for math was so unsatisfying is that mathematical axioms are not more fundamental than reason itself. Math combines axiom to make facts, but it's all on the basis of reason.
+	The reason the search for a logical basis for math was so unsatisfying is that mathematical axioms are not more fundamental than reason itself. Math combines axiom to make facts, but it’s all on the basis of reason.
+
+Am I following my own method here? by putting the “methodology” section first, aren’t i putting more or less an epistemology first instead of a ethico-politics first?

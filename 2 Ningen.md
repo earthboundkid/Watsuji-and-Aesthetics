@@ -6,17 +6,15 @@
 ##Chapter 2. Anthropology and Method
 
 ###Ethics as first philosophy
-Following René Descartes and the subjective turn in philosophy, it has become usual to regard epistemology as the “first philosophy.” This is evident in the very title of Descartes’ most famous work: _Meditations on First Philosophy In Which the Existence of God and the Distinction between the Soul and the Body are Demonstrated_. Whatever else Descartes though of himself as doing in his _Meditations_, it was clear that the bulk of his project consisted in applying the epistemology he had set out in the _Discourse on Method_. This methodological assumption of Descartes continues to have influence far beyond the small circle of those who accept his arguments for God or mind-body dualism. Thus it is widely taken for granted that a proper investigation into the nature of a particular discipline such as aesthetics must begin with an investigation into what Kant calls “the condition of the very possibility” of the discipline as a science. However, as natural as this starting point may seem, it is a historical aberration. Within the Western tradition the term “first philosophy” was originally coined by Aristotle to refer to the discipline now known as metaphysics. Hence it was widely accepted that an investigation into the nature of a discipline as a science could only be conducted once the _objects_ of that discipline had been properly categorized. 
+Following René Descartes and the subjective turn in philosophy, it has become usual to regard epistemology as the “first philosophy.” This is evident in the very title of Descartes’ most famous work: _Meditations on First Philosophy In Which the Existence of God and the Distinction between the Soul and the Body are Demonstrated_. Whatever else Descartes though of himself as doing in his _Meditations_, it was clear that the bulk of his project consisted in applying the epistemology he had previously set out in the _Discourse on Method_. This methodological assumption of Descartes continues to have an influence far beyond the small circle of those who accept his arguments for God or mind-body dualism. It is widely taken for granted that a proper investigation into the nature of a particular discipline such as aesthetics must begin with an investigation into what Kant calls “the condition of the very possibility” of the discipline as a science. However, as natural as this starting point may seem, it is a historical aberration. Within the Western tradition the term “first philosophy” was originally coined by Aristotle to refer to the discipline now known as metaphysics. Hence it was widely accepted that an investigation into the nature of a discipline as a science could only be conducted once the _objects_ of that discipline had been properly categorized. 
 
-In addition to these two approaches which can be broadly said to characterize ancient and modern first philosophy in the West, there is another tradition in the East of taking practical concerns as having primary significance. For classical Indian philosophers (_āstika_ and _nāstika_ alike), the primary questions to be resolved were soteriological, and out of these answers flowed quite sophisticated metaphysical, logical, and epistemic systems. However, for the ancient Chinese and the civilizations they influenced, the first questions to be resolved were ethical or political. For example, when Xunzi writes on _zhengming_ [正名][ch] (using language properly), he does so not from the metaphysical standpoint of Socrates, who worries that his definitions conform to the eternal Forms, nor from the epistemic standpoint of David Hume, who traces ideas back to their original impressions, but from the standpoint of the socio-political effects certain patterns of usage will have within society.
+In addition to these two approaches---which broadly speaking can be to characterize ancient and modern first philosophy in the West---there is another tradition in the East of taking practical concerns as having primary significance. For classical Indian philosophers (_āstika_ and _nāstika_ alike), the first questions to be resolved were soteriological, and out of these answers flowed quite sophisticated metaphysical, logical, and epistemic systems. For the ancient Chinese and the cultures they influenced, the first questions to be resolved were ethical or political. For example, when Xunzi writes on _zhengming_ [正名][ch] (using language properly), he does so not from the metaphysical standpoint of Socrates, who worries that his definitions conform to the eternal Forms, nor from the epistemological standpoint of David Hume, who traces ideas back to their original impressions, but from the standpoint of the socio-political effects certain patterns of usage will have within society.
 
-Turning then to the question of aesthetics, how should we begin our investigation? We might begin by relating aesthetics to knowledge and the question of how we as subjects obtain knowledge of it. We might begin by relating aesthetics to its objects and contrast the internal objects of experience with external objects of the world. We might begin by attempting to relate aesthetics to a larger soteriological or politico-ethical project. Of course, whichever approach we choose to employ to describe aesthetics will by necessity be “impure” and contain elements of the other approaches. However, I will argue that Watsuji Tetsurō was right to suggest that our first philosophy must be _ningen no gaku to shite no rinrigaku_ [人間の学としての倫理学][ja]--“the study of ethics as the study of human beings.” This approach retains the subjective turn’s focus on the human being as the starting point of inquiry, but at the same time, it suggests that we understand humankind not only as “the rational animal” and “the political animal” but also as “the ethical animal,” because human beings must be understood through their communities as well as through individuals.
+Turning then to the question of aesthetics, how should we begin our investigation? In a modernist project, we might begin by relating aesthetics to knowledge and the question of how we as subjects obtain knowledge of it. In a more classical vein, we might begin by relating aesthetics to its objects and contrast the internal objects of experience with external objects of the world. Or perhaps we might begin by attempting to relate aesthetics to a larger soteriological or politico-ethical project. Of course, whichever approach we choose to employ to describe aesthetics will by necessity be “impure” and contain elements of the other approaches. However, I will argue that Watsuji Tetsurō was right to suggest that our first philosophy must be _ningen no gaku to shite no rinrigaku_ [人間の学としての倫理学][ja]--“the study of ethics as the study of human beings.” 
 
-Practice vs. Theory. Practice is the first wrung on the ladder.
+The approach I will be advocating retains the modern subjective turn’s focus on the human being as the starting point of inquiry, but at the same time, it suggests that we understand humankind not only as “the rational animal” or “the political animal” but also as “the moral animal,” because human beings must be understood both through their communities and through the individuals in those communities. In a sense, accounts of human beings as the rational animal or the political animal are ultimately also accounts for human beings as the moral animal. As rational, we give accounts to one another, and these accounts we give are expected to be truthful ones because of our nature as moral. As political, we live together in community, and what makes this life possible are the moral virtues of humankind. The advantage of the approach that begins with ethics as its root is that it retains the practical dimension of aesthetics as its basis. We engage in aesthetic practices together for purposes both communal and individual. Without beginning from a basis in practice, one would lack the data necessary to classify the objects of aesthetic inquiry, since it through practice that we come to discriminate among those objects. Hence a metaphysical approach to first philosophy must nevertheless be backstopped through practice. Similarly, without beginning from a basis in practice, it would be impossible to determine how aesthetic knowledge is created, since it through practice that we recognize together what counts as having justified our true beliefs. Hence an epistemological approach to first philosophy will also ground out in a certain sense in an account of what justifies us to others when we make knowledge claims. Accounts of practice and justification are, of course, questions that fall under the domain of ethics.
 
-Logic as first philosophy, 
-
-Suppose, for example, that a critic insists that logic, not ethics, is philosophically prior. Surprisingly, this critic will find an implicit opponent in Aristotle, whose defense of the law of non-contradiction ultimately grounds out in the concerns of the community:
+Suppose, however, that a critic insists that logic, not ethics, is philosophically prior. Surprisingly, this critic will find an implicit opponent in Aristotle, whose defense of the law of non-contradiction ultimately grounds out in the concerns of the community:
 
 > There are some who, as we said, both themselves assert that it is possible for the same thing to be and not to be, and say that people can judge this to be the case. And among others many writers about nature use this language. But we have now posited that it is impossible for anything at the same time to be and not to be, and by this means have shown that this is the most indisputable of all principles.---Some indeed demand that even this shall be demonstrated, but this they do through want of education, for not to know of what things one should demand demonstration, and of what one should not, argues want of education. For it is impossible that there should be demonstration of absolutely everything (there would be an infinite regress, so that there would still be no demonstration); but if there are things of which one should not demand demonstration, these persons could not say what principle they maintain to be more self-evident than the present one.
 >
@@ -26,109 +24,37 @@ Suppose, for example, that a critic insists that logic, not ethics, is philosoph
 
 In other words, for Aristotle the ultimate grounds of logic as an metaphysical enterprise are the grounds of discourse among fellow human beings. [Λόγος][gr] is an account, and accounts are given among and between human beings. With the person who will not abide by the law of non-contradiction we cannot have a productive conversation, and so for that reason we may say that in a certain sense the communal understanding that allows for discourse must come even before logic in philosophical priority.
 
-If this is the case for logic, it is also the case for epistemology as well.
+If this is the case for logic, it is also the case for epistemology as well. While the difficulties with defining knowledge as a "justified, true belief" are well-known at this point, the core of any knowledge claim is inevitably that one purports to have a _trustworthy_ belief or ability. The standards for trustworthiness maybe personal so long as we are relying on this knowledge for our own purposes alone, however, so soon as we would ask others to trust this purported knowledge as well (which is of course the meaning of science as a human enterprise), we have entered into the realm of ethics.
 
-epistemological modals are oughts not cans. 
-
-
-am I following my own method here? by putting the “methodology” section first, aren’t i putting more or less an epistemology first instead of a ethico-politics first?
-
-### Biography
-Confucian Doctor Dad, Romantics, Shaw, Koeber (Kant, Dilthey), Schopenhauer/Nietzsche/Kierkegaard, Free theatre, Sōseki, Shirakaba, Buddhism/koji junrei, Nishida, Heidegger, Marxists, War, Post-War
-
-Dates for Shamon Dogen ’26 , Koushi ’38
+In retrospect then we see that while Immanuel Kant's famous questions are hopelessly intertwined, "What is man?" truly is the summation of the others, for by knowing this, we learn what we may know, what we ought to do, and where our hopes spring from. Furthermore, our philosophical anthropology must begin by accounting for active, practical aspect of humankind ("What ought I to do?") before it can adequately address the other two.
 
 ### Ethics and _Rinrigaku_
-For Watsuji, the study of ethics is, as its name in Japanese (_rinrigaku_ [倫理学][ja]) suggests, the study (学) of the patterns (理) of human relations (倫).§ Though Watsuji grounds his explanation in the Japanese language, a similar understanding of ethics can also be found in the West. Aristotle writes in the _Nicomachean Ethics_,
+In order to posit “the study of ethics as the study of human beings” (_ningen no gaku to shite no rinrigaku_ [人間の学としての倫理学][ja]) as the first philosophy, we must first clarify what this means somewhat, although a full clarification may not be possible without a complete account. For Watsuji, the study of ethics is, as its name in Japanese (_rinrigaku_ [倫理学][ja]) suggests, the study (学) of the patterns (理) of human relations (倫).<!-- §§§Look this up in Morohashi. --> Though Watsuji grounds his explanation in the Japanese language, a similar understanding of ethics can also be found in the West. Aristotle writes in the _Nicomachean Ethics_,
 
-§§§Look this up in Morohashi. 
-
-> moral virtue comes about as the result of habit, whence also its name (_ethike_) is one that is formed by a slight variation from the word _ethos_ (habit). [^]
+> moral virtue comes about as the result of habit, whence also its name ([ἠθική][gr]) is one that is formed by a slight variation from the word [ἔθος][gr] (habit). [^]
 
 [^]: Aristotle, _Nicomachean Ethics_, tr. W. D. Ross. Book II.1. 
 
 In other words, even for the highly metaphysical Greeks, ethics is ultimately founded on the giving an account ([λόγος][gr]) of the way of life ([ἦθος][gr]) of the community. For that reason, this study must begin with a hermeneutic understanding of the human being. 
 
-<<<quote of Watsuji here>>>
-W agrees but does his as rin+ri+gaku. 
+<!--<<<quote of Watsuji here>>> W agrees but does his as rin+ri+gaku. -->
 
-It might, however, be objected that the study of the patterns of human relation becomes no more than a mere sociology or physical anthropology. Surely ethics cannot rest at merely describing how a community happens to be. It must also describe how the community _ought_ to be. Yet, the objection goes, so long as ethicists focus exclusively on the observable, they will never understand normativity. For example, Seizō [Sekine][sc] objects in _A Comparative Study of the Origins of Ethical Thought_ that, “even Watsuji cannot help put proffer a transcendental principle” because “trust is based on laws of human existence, while betraying trust is contrary to these laws, which is exactly why it was prohibited” (138). This objection has merit, but to call Watsuji’s central principle “transcendental” is to miss the point somewhat. As Hall and Ames define it in _Thinking Through Confucius_,
+It might, however, be objected that the study of the patterns of human relation becomes no more than a mere sociology or physical anthropology. Surely ethics cannot rest at merely describing how a community happens to be. It must also describe how the community _ought_ to be. Yet, the objection goes, so long as ethicists focus exclusively on the observable, they will never understand normativity. For example, Seizō [Sekine][sc] objects in _A Comparative Study of the Origins of Ethical Thought_ that, “even Watsuji cannot help put proffer a transcendental principle” because “trust is based on laws of human existence, while betraying trust is contrary to these laws, which is exactly why it was prohibited” (138). This objection has merit, but to call Watsuji’s central ethical principle “transcendental” is to miss the point somewhat. As Hall and Ames define it in _Thinking Through Confucius_,
 
 > Strict transcendence may be understood as follows: a principle, _A_, is transcendent with respect to that, _B_, which it serves as principle if the meaning or import of _B_ cannot be fully accounted for without recourse to _A_, but the reverse is not true. (_Thinking Through Confucius_, 13)
 
-Under this definition, the laws of human existence are not as Sekine suggests "transcendent," because such laws are understood by and through human action as well as being the source of human action. 
+Under this definition, the Watsuji's ultimate ethical principle are not as Sekine suggests "transcendent," because such principles are understood by and through human action as well as being the source of human action. 
 
-Broadly speaking, if one may classify existential ethics as the tendency of thinkers to hang their metaethics on the principle that an action is right if and only if it is an authentic expression of one's self, then Watsuji's ultimate metaethics may be characterized as existential. As Sekine right notes, Watusji's ethics turns on the return to authenticity in double negation. However, properly understood one must also see that for Watsuji, authenticity is not an independent _A_ explaining the _B_ of normativity without being explained by it. Rather, authenticity for Watsuji evolves within a broader historical, geographical, and social context while also shaping that context. Hall and Ames write that, 
+Broadly speaking, if one may classify existential ethics as the tendency of thinkers to hang their metaethics on the principle that an action is right if and only if it is an authentic expression of one's being, then Watsuji's ultimate metaethics may be characterized as existential. As Sekine right notes, Watusji's ethics turns on what will be explained to be a return to authenticity in double negation. However, properly understood one must also see that for Watsuji, authenticity is not an independent _A_ explaining the _B_ of normativity without being explained by it. Rather, authenticity for Watsuji evolves within a broader historical, geographical, and social context while also shaping that context. Hall and Ames write that, 
 
 > The existentialist perspective can be adjusted toward classical Confucianism [that is, a non-transcendent view] only to the extent that it recognizes the relativity of the individual with respect to the society that determines, as well as is determined by, him. (_Thinking Through Confucius_, 14)
 
-This aptly describes the sort of modification that Watsuji has made to existentialism, and for this reason, it is right to say that his system is normative while lacking a truly transcendent principle.
+This aptly describes the sort of modification that Watsuji has made to existentialism, and for this reason, it is right to say that his system is normative while lacking a truly transcendent principle. 
 
-Re: Ri Aristotle agrees that ethos grounds logic.
 
-Maybe it’s perverse to make ethics the first philosophy, being as how it should be the crown jewel that comes last, the goal, not the (hopefully uncontroversial) basis of further insights?…
 
-Is ethics objective or subjective? Kant is subjective, because it depends on the subject’s intention not the consequences. Mill is objective, because it depends on the objective consequences, not the subject’s intentions. But for Kant, your duties are objective matter as is whether you as a subject comport to your duties correctly. And for Mill, what makes a consequence good is just that subject out there are pleased by it. So, Kant is objective and Mill is subjective. Clearly, this is a contradiction. So which is it? Either objectively subjective or subjectively objective…
+### Biography
+Confucian Doctor Dad, Romantics, Shaw, Koeber (Kant, Dilthey), Schopenhauer/Nietzsche/Kierkegaard, Free theatre, Sōseki, Shirakaba, Buddhism/koji junrei, Nishida, Heidegger, Marxists, War, Post-War
 
-- - - -
-
-- Bio:
- Confucian Doctor Dad, Romantics, Shaw, Koeber, Nietzsche, Kirkegaard, Soseki, Buddhism, Nishida, Heidegger, Marxists, War, Post-War
-
-- Ethics as first philosophy:
- Ethics = Rin + Ri + Gaku
- Cf. Aristotle on ethos as root of logic
- Cf. Aristotle on man by nature desires to know
- Watsuji is an existentialist still
-
-- Ningen
- Etymology isn’t destiny, but it is history
-	*	Defense of human interconnectedness can be a pri or a post, but etymology is somewhere in between.
-	- But Watsuji goes beyond mere etymology in later chapters.
-*	Funny (?) example: People want cellphones more than clean water.
-
-“men always seek society” (Treatise, 2.3.1.8/402)
-
-- Emptiness
- Fundamental law
-
- Negation in Hegel vs. Emptiness in Buddhism
-
-*	There are at least three senses of negation: Hegelian, Buddhist, teenage rebellion
-
-* 空 = openness?
-
-*	Emptiness is the theory that everything exists as a part/whole in two directions. In the downward direction, it is reducible to its parts. In the upwards direction, it is always a part of a greater whole. People are made of organs and cells, but their part of a society and world. Doing physiology works by going from parts to person, and doing psychology (well) works by going from society to person. Mind is the name for the motive force in the whole-part, and body is the name for the motive force in the part-whole.
-	Cf. Reduction (down)/Construction (up)/Destruction (out)
-	Cf. Pre-Socratic reductionists (atomists and others who want to make up objects out of more primordial components) vs. Pre-Socratic holists (apeironists like Parmenides, Zeno, etc.). As per Dōgen, we only affirm objects fully when we understand them in this double sided relationship.
-
-*	Is emptiness reducible or not?
-
-*	Is emptiness just the transcendent third term? Why not? Emptiness is creative in East Asian Buddhism. In Platonism, Becoming is creative because it is between Being and Nothing on the Great Chain of Beings.
-
-	No, because emptiness is empty. That means it cannot be transcendent in Ames’s sense of defining the other without being defined. It is the absolute, but only a relative absolute, but THE relative absolute.
-
-*	Negation as love. Love is about a “fusion of horizons” etc. as is Watsuji’s cleavage. The thing about fusing horizons is that no matter how far you go, you never meet the horizon.
-
-* Jesus/Paul says that Love thy neighbor is a summary of commandments 6-10. This can be made to fit W under my definition of love.
-
- Sonzai
- Seken
-*	Watsuji is a theorist of the One and the Many, but unlike in Plotinus et al., for Watsuji, the One 人 is constructed out of the Many 間 to which it returns.
-
-*	Does it make sense to criticize Watsuji as reciprocal in relations and also as too community heavy?
-
-*	Is Watsuji secretly an egoist because I harm myself when I betray my 間/absolute/emptiness?
-	Yes, but so what? Egoism is troublesome because it has a false picture of self. As long as you have the right picture of self, then things like “self-sacrifice” become possible as ways of reaffirming the self.
-
-- Methodology
- - Requirements
- - Wake/Wakaru
- - Unity/Division/Union
- - Reduction(??)/Construction/Destruction
-
-*	Hermeneutics is a dynamic interplay of reason (logos), praxis, and theoria. Cf. Watsuji’s threefold method. Double cf. the emphasis on shutai as subject of praxis.
-	
-	The reason the search for a logical basis for math was so unsatisfying is that mathematical axioms are not more fundamental than reason itself. Math combines axiom to make facts, but it’s all on the basis of reason.
-
+Dates for Shamon Dogen ’26 , Koushi ’38
 
