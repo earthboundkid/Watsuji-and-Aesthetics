@@ -1,6 +1,9 @@
 Chapter 2. Anthropology and Method
 
 - Ethics as first philosophy:
+
+We need hermeneutics to get us out of this bind
+
  Cf. Aristotle on ethos as root of logic
  Cf. Aristotle on man by nature desires to know
 rational animal = account giving animal = political animal.
@@ -8,11 +11,12 @@ epistemological modals are oughts not cans.
 Wittgenstein On Certainty, etc.
 Practice vs. Theory. Practice is the first wrung on the ladder.
 
+Maybe it’s perverse to make ethics the first philosophy, being as how it should be the crown jewel that comes last, the goal, not the (hopefully uncontroversial) basis of further insights?…
+
 - Ethics & Rinrigaku
  Ethics = Rin + Ri + Gaku
  Watsuji is an existentialist still
 
-Maybe it’s perverse to make ethics the first philosophy, being as how it should be the crown jewel that comes last, the goal, not the (hopefully uncontroversial) basis of further insights?…
 
 Is ethics objective or subjective? Kant is subjective, because it depends on the subject’s intention not the consequences. Mill is objective, because it depends on the objective consequences, not the subject’s intentions. But for Kant, your duties are objective matter as is whether you as a subject comport to your duties correctly. And for Mill, what makes a consequence good is just that subject out there are pleased by it. So, Kant is objective and Mill is subjective. Clearly, this is a contradiction. So which is it? Either objectively subjective or subjectively objective…
 
@@ -71,3 +75,5 @@ Illustrate with teenage rebellion.
 	The reason the search for a logical basis for math was so unsatisfying is that mathematical axioms are not more fundamental than reason itself. Math combines axiom to make facts, but it’s all on the basis of reason.
 
 Am I following my own method here? by putting the “methodology” section first, aren’t i putting more or less an epistemology first instead of a ethico-politics first?
+
+- Bigaku vs. kankaku gaku
