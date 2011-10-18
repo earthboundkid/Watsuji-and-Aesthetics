@@ -8,8 +8,29 @@ Overall questions on Watsuji--how good of a job is he doing of sorting out the f
 - Climate - History
 - State - Religion
 
+Chapters vs. Books
+Anthropology - RRG
+Aesthetics - KJ, MtP
+Subjectivity - RRG
+History - F
+Religion - KJ, GS, SD
 
 -	John Donne’s “no man is an island” is a great quote.
+
+##Preface
+- Biography:
+	- To understand how Watsuji’s ethics fit into an existential framework, it worth briefly reviewing the philosophical influences that he took in over the course of his life. 
+
+[Watsuji][sc] Tetsurō was born in Himeji?
+
+Confucian Doctor Dad, Romantics, Shaw, Koeber (Kant, Dilthey), Schopenhauer/Nietzsche/Kierkegaard, Free theatre, Sōseki, Shirakaba, Buddhism/koji junrei, Nishida, Heidegger, Marxists, War, Post-War
+
+Dates for Shamon Dogen ’26 , Koushi ’38
+
+- Politics (man, everyone calls him fascist…)
+	- Why? 1. The left hates any non-left
+	- 2. He tried to be in the middle, which doesn't work. You should condemn fascism straight up!
+	- 3. He made a lot of unfortunate choices in terms of supporting the war, not standing up for his colleagues.
 
 ##Chapter 2: Watsuji
 
@@ -123,6 +144,8 @@ Watsuji seems to be similar, since he also sees Good as one’s own good due to 
 -	Religion vs. nationalism :: individual vs. group? Nationalism is an endemic force in human life that causes us to identify our group as the absolute totality. Religion is the force that causes us to constantly defer and say that the totality is not yet come. In that sense, religion individualizes the communal or communalizes aloneness, whereas nationalism makes the individual subordinate to the community while also making each individual a sovereign unto herself. Religion is a kind of fellow feeling for the other (stranger); nationalism is the absence of a feeling of otherness internally and strong feeling otherness externally. Religion tries to move the cycle along; nationalism freezes the division in its place. 
 
 	As ever, I maintain it is silly to try to create cosmopolitanism by eliminating patriotism or create concern for strangers by eliminating concern for family. The point is to bring outsiders inside, not to eliminate the inside/outside binary. Once the outsiders are inside, if there's no love of insiders, what was the point? (Love your neighbor as yourself…)
+	
+	Liberalism and totalitarianism are both "bad" in Watsuji's sense because they attempt to freeze the private/public distinction in one place. For totalitarianism, there is no private, which is bad, but for liberalism, the private is one corner of reality with no public meaning (behind the wall of church and state), which is also bad. To be good, the private should grow into the public and shrink out from it as necessary.
 
 -	Museums are the one place where religion, nationalism, and aesthetics come together. Museums are substitute temples and often get filled with religious artifacts. They glorify their home nations either for plundering other people or for creating stuff itself. Cf. Heidegger’s theory of a work of art as temple based.
 
