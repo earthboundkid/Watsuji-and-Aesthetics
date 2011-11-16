@@ -1,65 +1,73 @@
+Can I shove the epistemology of art into this?
+
+
+The topic of this paper is, broadly speaking, “taste” or “aesthetics,” but some clarification of these terms is needed, since this is comparative dissertation that will examine Japanese, Classical Chinese, and Western concepts. Aesthetics in particular has a certain ambiguity that is reflected by the fact that it can be translated into Japanese in at least two distinct manners. One translation of aesthetics, _bigaku_ 美学, is a Sino-Japanese compound meaning literally “the study of the beautiful.” (That it is _bi_ which is studied is particularly noteworthy because it means the beautiful adjectivally rather than a Greek conception of Beauty as a freestanding noun. This has the effect of relating Japanese _bigaku_ always to the context of the beautiful rather than an abstracted study of beauty divorced from contextuality.) Another translation of aesthetics into Japanese is as _kansei_ 感性, which might also be rendered into English as “sensibility.” This second translation is perhaps closer to the root Greek word [αἰσθάνομαι][gr], “I perceive.” Unlike the neutral “sense” or “perception,” however, the _kan_ part of _kansei_ strongly implies the feeling of emotion or value, not merely valueless sense data. For the purposes of this study, the question is how it is possible for something like _kansei_, our individual value feelings, to be the basis of _bigaku_, what is felt to be beautiful as such. “Taste” is the name we give to that ability which converts from the one aesthetic order to the other: _kansei_ to _bigaku_. By refining our taste, we widen our sensibilities in order to make sharper judgments of the values inherent in the world around us. At the same time, we must also resolve the question of whether taste as an appreciation of the beautiful can be separated from other forms of value judgment, such as the ethical and the political.
+
+> ***OED aesthetic, adj. and n.*** Etymology:  mod. < Greek αἰσθητικ-ός , of or pertaining to αἰσθητά , things perceptible by the senses, things material (as opposed to νοητά things thinkable or immaterial), also ‘perceptive, sharp in the senses’; < vb. stem αἰσθε- ‘feel, apprehend by the senses’. Applied in German by Baumgarten (1750–58, Æsthetica) to ‘criticism of taste’ considered as a science or philosophy; against which, as a misuse of the word found in German only, protest was made by Kant (1781, Crit. R.V. 21), who applied the name, in accordance with the ancient distinction of αἰσθητά and νοητά , to ‘the science which treats of the conditions of sensuous perception,’ a sense retained in the Kantian philosophy, and found in English c1800. But Baumgarten's use of æsthetik found popular acceptance, and appeared in English after 1830, though its adoption was long opposed. (See below.) Recent extravagances in the adoption of a sentimental archaism as the ideal of beauty have still further removed æsthetic and its derivatives from their etymological and purely philosophical meaning. ‘The pronunciations /ɛsˈθɛtɪk/ , /iːsˈθɛtɪk/ , /ɛsˈθiːtɪk/ , /iːsˈθiːtɪk/ , are all in use; the second is at present most common in London’ ( N.E.D., 1884). 
+
 Outline:
+* What is distinctive about aesthetic experience as opposed to ordinary experience? Is aesthetic judgment subjective or objective? Is there a difference between performance art and the plastic arts? (Chapter 3)
 
-Thoughts:
--	3 needs to follow the reduction construction destruction pattern. 
-- Aesthetic experience
-	- Bigaku vs. Kangaku
-- The subjectivity/objectivity of aesthetic judgment
- - Trust as ground of ordinary truth
- - Truth value of aesthetic judgments vs. Kant
-	- Kantian disinterest vs. Detachment during construction
+##Chapter 3. Aesthetic Experience and the Meeting Point of Feeling
+
+###Defining the aesthetic
+	- Bigaku vs. Kansei theories towards a definition of aesthetics
+	- Sonzai vs. Seken
+	- Synesthesia and aspect perception
+		- things "look" soft or sharp or sound bright, etc.
+		- 3d vision
+	- The relation of subject-object as reflective of the relation of self-other
+###Aesthetic experience as distance and dissolution
+###Subjectivity and objectivity in aesthetic judgment
+###The relation of subject-object as reflective of the relation of self-other
+###Disinterest and *muga*
+	- Watsuji on nudes.
+###Bringing forth the between in theater
+	- Theater
+	- Self-Other vs. Subject-Object
+	- Distance & Ecstasy
+	- The Causes of Art
+
+##Chapter 3. Aesthetic Experience and the Meeting Point of Feeling
+###Crisis of East and West
+PROBLEM:
+-	Tea ceremony: shows the aesthetic as action, not observation. Flower arranging: show the aesthetic as contextual, not universal (flowers are for the occasion).
+HOW CAN THESE "ARTS" BE AESTHETIC IF AESTHETICS IS ALL DETACHED AND WHATNOT?
+-	Western paintings are appreciated by looking at the image and considering what is an image of or how the image looks. Eastern paintings are appreciated by imagining painting it yourself.
+
+###Defining the aesthetic
+:	Recycle art & technology.
+-	Aesthetic subjectivism is the view that the most important part of a painting qua artwork is the frame. The frame (culturally) prompts you to see the painting as artwork. But actually everything is artwork and the distinction between artwork/non-artwork is specious.
+
+-	Look for genus & species of aesthetics as definition. Genus seems like experience (duh), so of course it falls under dialectic, like everything else experienced. What is particular to the aesthetic part of it though?
+-	Bigaku vs. kankaku gaku
 -	Example of driving a car as aspectival perception.
-
 - 	Sonzai and Seken: the content that the subject experiences.
+-	How different are aisthesis and theoria? Both are a vision of the thing in itself. I guess for Plato the difference is that theoria is powered by anamnensis whereas aisthesis is sensual.
+-	Plato was pro-Beauty while being anti-aesthesis and anti-art because he thought the Truth of the Being of a thing is its Real Beauty. I think Watsuji can also be taken to be pro-Being-Authentic, but his essences are dynamic not static
+-	Defend exploration of aesthetics on the ground that it, like ethics, is a uniquely human activity, therefore it must come from ningen sonzai. 
 
-- Bigaku vs. kankaku gaku
-
-Is ethics objective or subjective? Kant is subjective, because it depends on the subject’s intention not the consequences. Mill is objective, because it depends on the objective consequences, not the subject’s intentions. But for Kant, your duties are objective matter as is whether you as a subject comport to your duties correctly. And for Mill, what makes a consequence good is just that subject out there are pleased by it. So, Kant is objective and Mill is subjective. Clearly, this is a contradiction. So which is it? Either objectively subjective or subjectively objective…
-
+###Aesthetic experience as distance and dissolution
+== Blyth!
+-	Aesthetic XP is "good" b/c it follows the dynamic cycle.
 -	Taste judgment also follows the law of ningen: I like as an individual vs. we like as an art-world. The aesthetic experience is a moment in this process.
 
--	Tea ceremony: shows the aesthetic as action, not observation. Flower arranging: show the aesthetic as contextual, not universal (flowers are for the occasion).
 
--	How different are aisthesis and theoria? Both are a vision of the thing in itself. I guess for Plato the difference is that theoria is powered by anamnensis whereas aisthesis is sensual.
-
+###Disinterest and *muga*
+-	For Kant, stars are paradigmatic objects of beauty because not subject to practical concern, but Watsuji is basically obsessed with praxis. どうすんの？
+-	Kantian disinterest vs. Detachment during construction
+Is ethics objective or subjective? Kant is subjective, because it depends on the subject’s intention not the consequences. Mill is objective, because it depends on the objective consequences, not the subject’s intentions. But for Kant, your duties are objective matter as is whether you as a subject comport to your duties correctly. And for Mill, what makes a consequence good is just that subject out there are pleased by it. So, Kant is objective and Mill is subjective. Clearly, this is a contradiction. So which is it? Either objectively subjective or subjectively objective…
 -	In _Kusa Makura_, Sōseki concludes that _compassion_ is the right way to do aisthesis. 
-
 -	Ends vs. Means, Intrinsic value vs. Instrumental value, is the core of what it is to have Kantian disinterest. The disinterested view just "lets it be." Watsuji is similar, but for him being is doing. How you go about letting it be is active, not contemplative. Think about fanfic and fan-wikis and fannon. These things show that "letting it be" means "letting it do."
 	
 	Re: also emotion in Japanese verse. The scene "contains" the emotion already. Isn't that absurd though? No, because the containing is about an active engagement of subject and object, not a passive reception of the object by the subject. Hence Watsuji's aesthetics are a re-descriptive of Japanese history not accidentally or insidiously but essentially since re-description is what we do when we do aesthetics. 
 
--	Aesthetic subjectivism is the view that the most important part of a painting qua artwork is the frame. The frame (culturally) prompts you to see the painting as artwork. But actually everything is artwork and the distinction between artwork/non-artwork is specious.
 
+###The relation of subject-object as reflective of the relation of self-other
 -	Riken no ken as Whiteheadian perspective taking. Defend the view from each against the view from nowhere.
-
--	Defend exploration of aesthetics on the ground that it, like ethics, is a uniquely human activity, therefore it must come from ningen sonzai. 
-
--	Look for genus & species of aesthetics as definition. Genus seems like experience (duh), so of course it falls under dialectic, like everything else experienced. What is particular to the aesthetic part of it though?
-
--	Defend self from the obvious problem that Watsuji hates observers? Or wait for chapter four…
-
--	For Kant, stars are paradigmatic objects of beauty because not subject to practical concern, but Watsuji is basically obsessed with praxis. どうすんの？
-
 -	Watsuji says that pain can be shared. That means other aesthetic experiences are also sharable. 
 
--	Does the “mindfulness” of washing the floor fit my scheme?
-
--	Trust and truth apt-ness
-
--	Plato was pro-Beauty while being anti-aesthesis and anti-art because he thought the Truth of the Being of a thing is its Real Beauty. I think Watsuji can also be taken to be pro-Being-Authentic, but his essences are dynamic not static
-
--	When I say, “This ice cream is delicious,” am I telling you about the ice cream or about me?
-	Plausibly, it could be either depending on circumstances. Imagine I’m picking out ice cream for my birthday party. In that case, I want ice cream that suits me. On the other hand, suppose I am picking out ice cream for someone else’s birthday party. In that case, I am guessing what the birthday boy and guests will like (Which is a fact about the ice cream somehow? It has the property of BEING LIKABLE??).
-
--	Is comedy subjective or objective?
-
--	Love for Aristophanes in the Symposium is love of one’s other half, that is another bit of oneself. 
-Watsuji seems to be similar, since he also sees Good as one’s own good due to the interconnection of selves.
-
--	Western paintings are appreciated by looking at the image and considering what is an image of or how the image looks. Eastern paintings are appreciated by imagining painting it yourself.
-
+###Bringing forth the between in theater
 -	Are we really disinterested when watching a play? Don’t we really want to know if the hero will win or the lovers be happy? Or am I confusing disinterested with uninterested? 
 
--	Hershock: You can tell if you’ve found the appropriate because the jazz band keeps on swingin’ in the style of an infinite goal.
 
--	What is the purpose of criticism? Is it just “understanding” art? To allow for deeper experiences? Or is it to kick art in a new direction? (Cf. Watsuji on “understanding” as the new goal brought by hermeneutics.)

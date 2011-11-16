@@ -1,4 +1,15 @@
+
+Restore: Chapter 3. Analyzing aisthesis
+Construct: Chapter 4. Creating a subject
+Destroy: Chapter 5. History & Chapter 6. Religion.
+
 Maybe checkout polis-teki for the Aristotle ethics? Also Toshite
+
+* • How is aesthetic agreement possible? Is there such a thing as compulsion in aesthetic judgment? Is aesthetic experience active (agentive) or passive (observed)? (Chapter 4)
+
+* • Why are there regional variations in aesthetics? Is there such a thing as progress in aesthetics? What is genius? Is aesthetics independent or is it subordinate to other concerns? Why are there persistent aesthetic disagreements? (Chapter 5)
+
+* • Is there any link between beauty and (moral) goodness? How does aesthetics relate to religion? (Chapter 6)
 
 ##Overall
 Art forms to talk about: Music (rock, hip-hop, religious), architecture (vs. fūdo?), haiku/poetry, theater, fashion, tea, cooking, painting (suiboku vs. youga), literature, archery, budo, museums
@@ -45,24 +56,7 @@ See outline.
 See outline.
 
 ## Chapter 4: Normativity/Subjectivity
--	Gustatory taste as culturally determined? Or maybe this is for four?
-
--	Hon'i vs. shii: Has to be here, to explain why hon'i are normative and how the subject is a field.
-
--	McCarthy quotes Kasulis as talking about a gloomy locker room, which strikes me as a good example.
-
--	Home theater system vs. a movie theater vs. a real theatre.
-
--	Recall Stan Lee’s greatest invention was the illusion of a community of comic book artists (a “scene”)
-	Re: Hip hop music, chiptunes, etc.
-
--	Remember the great Punk Cycle: Rebel ⇄ Sell out. This is very Watsujian.
-
--	At 424c of Republic, Plato assumes that a change of music will (signal? cause?) a change of the polis.
-	Does Watsuji have similar assumptions? (Yeah, probably.) Is it a cause or an effect?
-
--	Uniforms vs. fashion as imposed collectivity vs. intrinsic. You can not wear a uniform, but you can’t not have a fashion-style. While wearing a uniform we feel extra bad about betraying our duties. Why? Somaticity, probably.
-
+See outline.
 ## Chapter 5: Climate and History
 -	空 as 空間性
 
