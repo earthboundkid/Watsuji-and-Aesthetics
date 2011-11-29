@@ -1,5 +1,4 @@
-Can I shove the epistemology of art into this?
-
+#**I TOUCH WHAT I SAW**
 
 The topic of this paper is, broadly speaking, “taste” or “aesthetics,” but some clarification of these terms is needed, since this is comparative dissertation that will examine Japanese, Classical Chinese, and Western concepts. Aesthetics in particular has a certain ambiguity that is reflected by the fact that it can be translated into Japanese in at least two distinct manners. One translation of aesthetics, _bigaku_ 美学, is a Sino-Japanese compound meaning literally “the study of the beautiful.” (That it is _bi_ which is studied is particularly noteworthy because it means the beautiful adjectivally rather than a Greek conception of Beauty as a freestanding noun. This has the effect of relating Japanese _bigaku_ always to the context of the beautiful rather than an abstracted study of beauty divorced from contextuality.) Another translation of aesthetics into Japanese is as _kansei_ 感性, which might also be rendered into English as “sensibility.” This second translation is perhaps closer to the root Greek word [αἰσθάνομαι][gr], “I perceive.” Unlike the neutral “sense” or “perception,” however, the _kan_ part of _kansei_ strongly implies the feeling of emotion or value, not merely valueless sense data. For the purposes of this study, the question is how it is possible for something like _kansei_, our individual value feelings, to be the basis of _bigaku_, what is felt to be beautiful as such. “Taste” is the name we give to that ability which converts from the one aesthetic order to the other: _kansei_ to _bigaku_. By refining our taste, we widen our sensibilities in order to make sharper judgments of the values inherent in the world around us. At the same time, we must also resolve the question of whether taste as an appreciation of the beautiful can be separated from other forms of value judgment, such as the ethical and the political.
 
@@ -14,6 +13,7 @@ Outline:
 	- Bigaku vs. Kansei theories towards a definition of aesthetics
 	- Sonzai vs. Seken
 	- Synesthesia and aspect perception
+		- Touch what I saw
 		- things "look" soft or sharp or sound bright, etc.
 		- 3d vision
 	- The relation of subject-object as reflective of the relation of self-other
