@@ -2,19 +2,45 @@ Chapter 4.
 
 This is bigaku proper, not just kansei.
 
+Goals for chapter: 
+- basis for judgment in perspective taking/compassion/love
+	- T. Lipps: empathy
+	- Watsuji on the critic: a lover not a criticizer
+	- intention + ability for art (cf. my Deutsche paper)
+- explain connection of individual judgments and collective judgment
+- shutai over shukan
+- Examples from renga
+
+- Should I deal with the cold?
+
+83 Love (in Hegel) as the unity of self-and-other, "love consists of the contradiction that the self acquires itself by abandoning itself."
+
+> Therefore, the natural environment, consisting of such things as mountains and rivers, grasses and trees possesses a "_Thou_" characteristic in its primitive features. 178
+
+> For example, when we love or think fondly of a double row of maple trees, we deal with them as a _Thou_. 178
+
+178 We aren't deal with these trees on the analogy that they had egos too after finding our ego then inferring one in them. Prior to objectification, they were already a Thou for us. 
+
+> In other words, that a subject becomes Thou or He/She and opposes I is generally the first moment in the establishment of an object. WTZ10:188*
+
+Purposiveness vs. Perspective taking as love
+	- Meeting point of feeling! is in relation to other audience member, artist, object
+	- we also meet in feeling with the thing seen
+	- vs. Ability and intention
+
+Kimura Bin might be useful
+
+- 	Sonzai and Seken: the content that the subject experiences.
+-	How different are aisthesis and theoria? Both are a vision of the thing in itself. I guess for Plato the difference is that theoria is powered by anamnensis whereas aisthesis is sensual.
+-	Plato was pro-Beauty while being anti-aesthesis and anti-art because he thought the Truth of the Being of a thing is its Real Beauty. I think Watsuji can also be taken to be pro-Being-Authentic, but his essences are dynamic not static
+-	Defend exploration of aesthetics on the ground that it, like ethics, is a uniquely human activity, therefore it must come from ningen sonzai. 
+-	Ends vs. Means, Intrinsic value vs. Instrumental value, is the core of what it is to have Kantian disinterest. The disinterested view just "lets it be." Watsuji is similar, but for him being is doing. How you go about letting it be is active, not contemplative. Think about fanfic and fan-wikis and fannon. These things show that "letting it be" means "letting it do."
+	
+	Re: also emotion in Japanese verse. The scene "contains" the emotion already. Isn't that absurd though? No, because the containing is about an active engagement of subject and object, not a passive reception of the object by the subject. Hence Watsuji's aesthetics are a re-descriptive of Japanese history not accidentally or insidiously but essentially since re-description is what we do when we do aesthetics. 
+
 ##Chapter 4. Reconstructing the Subject of Aesthetics
 ~~~Subjectivity and objectivity in aesthetic *judgment*
 ###What is the source of normativity for an aesthetic?
-~~Theories of art~~
-###Crisis of East and West
-###Consideration of Possible Theories of Art
-	####Efficient Cause
-	####Formal Cause
-	####Material Cause
-	####Final Cause
-	####Place as Cause
-	####Confluence of causes
-	- Aida x Chora
 ###Aesthetic subject: Ideal observer or authoritative agent?
 ###Normativity and agenthood in Japanese linked verse
 

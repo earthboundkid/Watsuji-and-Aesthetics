@@ -29,12 +29,6 @@ Outline:
 	- The Causes of Art
 
 ##Chapter 3. Aesthetic Experience and the Meeting Point of Feeling
-###Crisis of East and West
-PROBLEM:
--	Tea ceremony: shows the aesthetic as action, not observation. Flower arranging: show the aesthetic as contextual, not universal (flowers are for the occasion).
-HOW CAN THESE "ARTS" BE AESTHETIC IF AESTHETICS IS ALL DETACHED AND WHATNOT?
--	Western paintings are appreciated by looking at the image and considering what is an image of or how the image looks. Eastern paintings are appreciated by imagining painting it yourself.
-
 ###Defining the aesthetic
 :	Recycle art & technology.
 -	Aesthetic subjectivism is the view that the most important part of a painting qua artwork is the frame. The frame (culturally) prompts you to see the painting as artwork. But actually everything is artwork and the distinction between artwork/non-artwork is specious.
@@ -42,10 +36,6 @@ HOW CAN THESE "ARTS" BE AESTHETIC IF AESTHETICS IS ALL DETACHED AND WHATNOT?
 -	Look for genus & species of aesthetics as definition. Genus seems like experience (duh), so of course it falls under dialectic, like everything else experienced. What is particular to the aesthetic part of it though?
 -	Bigaku vs. kankaku gaku
 -	Example of driving a car as aspectival perception.
-- 	Sonzai and Seken: the content that the subject experiences.
--	How different are aisthesis and theoria? Both are a vision of the thing in itself. I guess for Plato the difference is that theoria is powered by anamnensis whereas aisthesis is sensual.
--	Plato was pro-Beauty while being anti-aesthesis and anti-art because he thought the Truth of the Being of a thing is its Real Beauty. I think Watsuji can also be taken to be pro-Being-Authentic, but his essences are dynamic not static
--	Defend exploration of aesthetics on the ground that it, like ethics, is a uniquely human activity, therefore it must come from ningen sonzai. 
 
 ###Aesthetic experience as distance and dissolution
 == Blyth!
@@ -58,9 +48,6 @@ HOW CAN THESE "ARTS" BE AESTHETIC IF AESTHETICS IS ALL DETACHED AND WHATNOT?
 -	Kantian disinterest vs. Detachment during construction
 Is ethics objective or subjective? Kant is subjective, because it depends on the subject’s intention not the consequences. Mill is objective, because it depends on the objective consequences, not the subject’s intentions. But for Kant, your duties are objective matter as is whether you as a subject comport to your duties correctly. And for Mill, what makes a consequence good is just that subject out there are pleased by it. So, Kant is objective and Mill is subjective. Clearly, this is a contradiction. So which is it? Either objectively subjective or subjectively objective…
 -	In _Kusa Makura_, Sōseki concludes that _compassion_ is the right way to do aisthesis. 
--	Ends vs. Means, Intrinsic value vs. Instrumental value, is the core of what it is to have Kantian disinterest. The disinterested view just "lets it be." Watsuji is similar, but for him being is doing. How you go about letting it be is active, not contemplative. Think about fanfic and fan-wikis and fannon. These things show that "letting it be" means "letting it do."
-	
-	Re: also emotion in Japanese verse. The scene "contains" the emotion already. Isn't that absurd though? No, because the containing is about an active engagement of subject and object, not a passive reception of the object by the subject. Hence Watsuji's aesthetics are a re-descriptive of Japanese history not accidentally or insidiously but essentially since re-description is what we do when we do aesthetics. 
 
 
 ###The relation of subject-object as reflective of the relation of self-other
