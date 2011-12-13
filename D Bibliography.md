@@ -21,3 +21,4 @@ Shogakukan’s _Ruigo Jiten_
 Carter and Yamamoto
 Zenshu
 Chiaro Brivio’s dissertation _The Human Being: When Philosophy Meets History, Miki Kiyoshi, Watsuji Tetsurō and their Quest for a New Ningen_ (2009) for the University of Leiden
+Baumgarten in his *Aesthetica
