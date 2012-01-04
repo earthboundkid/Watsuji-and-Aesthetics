@@ -1,3 +1,6 @@
+- to do: 固有=distinct
+
+
 Chapter 3 other.
 - Odin on Heidegger on Nietzsche: N calls disinterest aloof, but H says that's only in Schopanhauer
 - To Have or To Be

@@ -155,7 +155,7 @@ In comparison to the other theories considered here, Aristotle’s is somewhat n
 ####Nietzsche and theater
 In _A Study of Nietzsche_ (1913), Watsuji follows Nietzsche’s lead in describing the Dionysian intoxication of the audience of Greek tragedy,
 
-> The inner life of the Dionysian audience enjoys the _same_ intoxication as that of the people who personally dance and sing; instead of expressing this joy with their entire bodies, however, they do so through the satyrs on the stage. There are no individuals there; the ego disappears and everyone melts into the root of nature. Accordingly, the distinction between the choral round dancers and the spectators exists solely as a fact of cognition and is by no means something that restricts inward fact. (636–7)[^]
+> The inner life of the Dionysian audience enjoys the _same_ intoxication as that of the people who personally dance and sing; instead of expressing this joy with their entire bodies, however, they do so through the satyrs on the stage. There are no individuals there; the ego disappears and everyone melts into the root of nature. Accordingly, the distinction between the choral round dancers and the spectators exists solely as a fact of cognition and is by no means something that restricts inward fact. (636--7)[^]
 
 [^]: Translations of _A Study of Nietzsche_ from David B. Gordon. _Self-Overcoming as the Overcoming of Modernity: Watsuji Tetsurō’s “A Study of Nietzsche” (1913) and Its Place in the Development of His Thought_. Doctoral thesis, University of Hawaii (1997).
 
@@ -193,7 +193,7 @@ As for Noh, it clearly reveals the structure of the aesthetic moment as the over
 ####Sakabe Megumi and Zeami
 The Japanese philosopher [Sakabe][sc] Megumi ([坂部恵][ja], 1936--2009) was inspired by Watsuji’s “Mask and Persona” and expanded on its themes in his own writing. In his essay “Mask and Shadow in Japanese Culture: Implicit Ontology in Japanese Thought,” he attempts to explain that the boundary between self and other is especially ambiguous in Japanese culture. He notes that the word _omote_ (which can variously be written as 面, おもて, or 表) “means the mask, the face, but at the same time it also means the surface” (245). He goes on to write,
 
-> What is surprising to me is that “_omote_,” with the connotation of surface, does not mean in the Japanese language or thought “the appearance” as opposed to some ideal entity (as in the case of Platonism) or to some real substance (as in the case of Kant’s “thing-in-itself”). (245–6)
+> What is surprising to me is that “_omote_,” with the connotation of surface, does not mean in the Japanese language or thought “the appearance” as opposed to some ideal entity (as in the case of Platonism) or to some real substance (as in the case of Kant’s “thing-in-itself”). (245--6)
 
 What this shows is that the Japanese people did not make a sharp distinction between what is on the surface of a thing and its interior “reality.” Instead they saw the reality as being real only insofar as it was a surface.
 
@@ -201,7 +201,7 @@ Sakabe sees this characteristic of Japanese language also exhibited by Noh theat
 
 Sakabe quotes Zeami Motokiyo ([世阿弥元清][ja], c. 1363--c. 1443), considered the founder of modern Noh aesthetics, who claims in his treatise _Kakyō_ [花鏡][ja] (“Flower-Mirror”) that a great actor must see himself with the eyes of the audience:
 
-> To repeat again, an actor must come to have an ability to see himself as the spectators do, grasp the logic of this fact that the eyes cannot see themselves, and find the skill to grasp the whole---left and right, ahead and behind. If an actor can achieve this, his peerless appearance will be as elegant as that of a flower or a jewel and will serve as living proof of his understanding. (246–7)
+> To repeat again, an actor must come to have an ability to see himself as the spectators do, grasp the logic of this fact that the eyes cannot see themselves, and find the skill to grasp the whole---left and right, ahead and behind. If an actor can achieve this, his peerless appearance will be as elegant as that of a flower or a jewel and will serve as living proof of his understanding. (246--7)
 
 Zeami refers to such seeing as _ri-ken no ken_ [離見の見][ja] or “the seeing of distant seeing.” As we have seen before, the preparatory step for a truly aesthetic experience is first the creation of psychic distance. In this case, the psychic distancing allows the actor to individuate himself as object of his own gaze. The actor steps outside of himself and observes himself from the point of view of the audience, creating yet another displacement of self in addition to the multiple displacements of the audience.
 
