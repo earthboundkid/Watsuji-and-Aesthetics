@@ -38,7 +38,7 @@ In order to posit “the study of ethics as the study of human beings” (_ninge
 
 As he writes in his _Study of Ethics_,
 
-> The word “ethics” (_rinri_ [倫理][ja]) is made from two parts: _rin_ [倫][ja] and _ri_ [理][ja]. _Rin_ means “fellows” (_nakama_ [なかま][ja]). “Fellows” means both the group as the relational system of specified persons and the individual persons who are prescribed by the group. […] It follows that _rin_ means “fellows” and also a specified form of conduct linkages (_kōi-teki renkan_ [行為的連関][ja]). As a result, _rin_ comes to mean a “pattern,” “form,” or “order” in human existence. (WTZ 10:12--3)
+> The word “ethics” (_rinri_ [倫理][ja]) is made from two parts: _rin_ [倫][ja] and _ri_ [理][ja]. _Rin_ means “fellows” (_nakama_ [なかま][ja]). “Fellows” means both the group as the relational system of specified persons and the individual persons who are prescribed by the group. […] It follows that _rin_ means “fellows” and also a specified form of linkages of conduct (_kōi-teki renkan_ [行為的連関][ja]). As a result, _rin_ comes to mean a “pattern,” “form,” or “order” in human existence. (WTZ 10:12--3)
 
 According to Morohashi’s _Dai Kan-Wa Jiten_, the meaning of the character [倫][zh] as “fellows” and derivatively their order can be seen even in the _Shuowen_ dictionary of the Han Dynasty, where [倫][zh] is defined the social classes of the human way. _Mencius_ 3A.4 lists what came to be known in Japan as _gorin_ [五倫][ja], the five key relationships: parent to child, ruler to vassal, husband to wife, elder to younger, and friend to friend. These relationships are general patterns which we must flesh out with particular content and meaning for our lives.
 
