@@ -22,3 +22,6 @@ Carter and Yamamoto
 Zenshu
 Chiaro Brivio’s dissertation _The Human Being: When Philosophy Meets History, Miki Kiyoshi, Watsuji Tetsurō and their Quest for a New Ningen_ (2009) for the University of Leiden
 Baumgarten in his *Aesthetica
+Kazuhisa Yoshida notes in "Two Faces of Postmodernism," 
+http://catb.org/jargon/html/koans.html
+Wollheim, Richard. “On Pictorial Representation” in Aesthetics and the Philosophy of Art. Eds. Peter Lamarque and Stein Haugom Olsen. Blackwell, 2004. Pp. 396–405.
