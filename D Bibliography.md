@@ -25,3 +25,4 @@ Baumgarten in his *Aesthetica
 Kazuhisa Yoshida notes in "Two Faces of Postmodernism," 
 http://catb.org/jargon/html/koans.html
 Wollheim, Richard. “On Pictorial Representation” in Aesthetics and the Philosophy of Art. Eds. Peter Lamarque and Stein Haugom Olsen. Blackwell, 2004. Pp. 396–405.
+* Shun, Kwong-Loi. _Mencius and Early Chinese Thought_. Stanford University Press, 1997.
