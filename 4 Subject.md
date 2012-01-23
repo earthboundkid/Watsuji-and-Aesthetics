@@ -96,19 +96,24 @@ The cold that we feel is an object which we feel inside yet at the same time it 
 
 Following Heidegger, Watsuji calls this state of being outside of oneself "ex-sistere." This going outside of oneself is the basis of space and time, which are parts of the structure of human existence. Hence when we see an object in the world, we are at once seeing something foreign to ourselves---an object which is objecting---but also something that is a part of us. The object exists in a space at a time, and that space and time are part of the shared structure of the human subject. To discover the object is to discover the _I_ opposed to the object and to discover the _we_ who gather around the object. 
 
+An extended quote from _Study of Ethics_ is illustrative of Watsuji's point:
+
+> For example, when we *love* or *think fondly of* a row of ginkgo trees, we are treating the row of trees as a *Thou*. It follows that it is not the case that we first find ourselves surrounded by simple "things" and then infer the subsistence of a special species among those things, that is, one with another *I*, and then finally reach the phase of loving the trees by applying an analogy from my relation to the other *I* to my relation to the trees. When we find the trees, they are already trees with a character given by the ground of human existence, for instance as a row of ginkgo trees. The *we* who finds the row of trees is the *we* who already socially created things like rows of trees and not a *we* which must find these things inferentially. Whatever sort of a thing it is we find, we have already found that object before as a *Thou*. In this sense, the spatiality of the subject (*shutai*) acts as the means of finding objective things. In other words, generally speaking, the first moment in the establishment of an object is when a subject becomes a *Thou* or a *He/She* and opposes the *I*. (WTZ 10:188)
+
+Our aesthetic appreciation of even natural objects like trees is mediated through the conceptual apparatus we possess as human beings in a community, and it is out of our communal humanity that these things emerge as potential objects of appreciation. 
+
 If this is the case, can Watsuji be said to be a realist about the object? Is his object just an idealist's figment of the imagination? Is Watsuji's account of existence so anthropocentric that it drains the outside world of its reality? I will argue that in spite of the superficial appeal of these accusations, Watsuji is still a realist at heart. In "I Touch What I Saw," Arindam Chakrabarti provides four tests for whether one is a realist about an apple:
 
-> (A) The apple is distinct from just an experience or idea of an apple.
->
-> (B)  The apple is distinct from just its red-color, its coldish touch, smooth texture and sweet taste, and also from just a series or set of these qualities. 
->
-> (C)  The apple that I now touch (or bite or smell) is the same as the apple that I saw a while ago. 
->
+> (A) The apple is distinct from just an experience or idea of an apple.<br />
+> (B)  The apple is distinct from just its red-color, its coldish touch, smooth texture and sweet taste, and also from just a series or set of these qualities. <br />
+> \(C)  The apple that I now touch (or bite or smell) is the same as the apple that I saw a while ago. <br />
 > (D)  The apple that I see is the same as the apple that you see. (105--6)
 
-(A) must be true if Watsuji's phenomenological account of ex-sistere is correct.  An apple is distinct from the experience of an apple, because the apple is a thing outside of the mind that is intended in the experience of the apple. (B) must be true if the distinction between the existential and predicative use of "being" that we have been making is correct. For X to be an apple is not the same as saying that an apple is, so the apple is more than just a collection of predicates. (C) follows from the _son_ aspect of _sonzai_: existence is a preservation against loss spread out over time. As for (D), it follows directly from our discussion of the subject as plural. You and I share a world, and on occasion we even share communal feelings. Of course, we may also share objects.
+(A) must be true if Watsuji's phenomenological account of ex-sistere is correct.  An apple is distinct from the experience of an apple, because the apple is a thing outside of the mind that is intended in the experience of the apple. (B) must be true if the distinction between the existential and predicative use of "being" that we have been making is correct. For X to be an apple is not the same as saying that an apple is, so the apple is more than just a collection of predicates. \(C) follows from the _son_ aspect of _sonzai_: existence is a preservation against loss spread out over time. As for (D), it follows directly from our discussion of the subject as plural. You and I share a world, and on occasion we even share communal feelings. Of course, we may also share objects.
 
-Returning then to the question of aesthetics, what is the object of aesthetic judgment? The object, as we have seen, emerges from the active, plural subject, but it also stands outside of the subject drawing the subject away from itself. There is a delicate interplay to be had. Should the subject stay where it is and refuse ex-sistere, there can be no object, but on the other hand, should the subject expand too far, it will swallow the object up and there will be no ex-sistere because the self has merely come into itself. Accordingly, we must firmly emphasize the dynamic, dialectical nature of the movement of double negation. As the term _sonzai_ implies, the subject-object complex has its existence as a temporary swelling in an ocean of impermanence. For a moment these waves roil through a field of relations, but always with the danger that a wave that grows too large becomes nothing more than the surface of the sea. What connects subjects and objects is that both spring from and return to emptiness itself. As we shall shortly see, understanding this is the key to understanding the basis of understanding aesthetic judgment.
+Nevertheless, it would be too quick to say that Watsuji is a straightforward realist, whether about subjects or objects. Rather, as a Buddhist, he gives an account that attempts to steer a "Middle Way" between realism and nihilism, and this leads us to affirm the existence of objects on the conventional level while denying their substantiality on the ultimate level and positing emptiness as the source of the creative impermanence of things.
+
+Returning then to the question of aesthetics, what is the object of aesthetic judgment? The object, as we have seen, emerges from the active, plural subject understood as the space of persistent relationships, but it also stands outside of the subject drawing the subject away from itself. There is a delicate interplay to be had. Should the subject stay where it is and refuse ex-sistere, there can be no object, but on the other hand, should the subject expand too far, it will swallow the object up and there will be no ex-sistere because the self has merely come into itself. Accordingly, we must firmly emphasize the dynamic, dialectical nature of the movement of double negation. As the term _sonzai_ implies, the subject-object complex has its existence as a temporary swelling in an ocean of impermanence. For a moment these waves roil through a field of relations, but always with the danger that a wave that grows too large becomes nothing more than the surface of the sea. What connects subjects and objects is that both spring from and return to emptiness itself. As we shall shortly see, understanding this is the key to understanding the basis of understanding aesthetic judgment and the appreciation of the object.
 
 ###The source of normativity in aesthetic judgment
 Now that we have reconsidered the nature of the subject and object of aesthetic judgment, we may begin to dig into the roots of its very possibility. How and why is aesthetic judgment possible? As Watsuji explains in _Study of Ethics_ though there is regional variation in morality---for example, one society may approve of human sacrifice while another condemns it---this does not undermine the universality of the basis of ethics. In all societies what is condemned are actions that undermine the trust basis of that society and what is praised are actions that reinforce the trust basis of that society. 
@@ -153,23 +158,17 @@ In other words, in fashion our aesthetic norms originate outside of the particul
 
 Hence there is a voice which is able to speak with authority about the kinds of taste experiences we “should” be having when we enter into an aesthetic experience. It is the voice of the society as it expresses itself as the source of the individual. Because this voice is trans-personal, it is possible for us as members of a community to discuss our tastes productively. It is not entirely “subjective” in the sense of being entirely individual-relative. On the other hand, since the voice is also the voice of the inmost source of the individual, this voice is “subjective” in the sense of being a part of the subject and able to, at times, command the assent of the subject.
 
-What about the other side of aesthetic judgment? Can the voice which speaks for the source of the subject also make claims on the object of aesthetic judgment? When we return to our prior discussion of the object, we see that it, just as much as the subject, emerges from emptiness to exist for a short time. As the word _sonzai_ implies, this existence is a spatiotemporally rooted struggle against impermanence. Therefore, the voice which speaks to me as the source of my being also has authority to speak to the object as the source of its being. As we said in the last chapter, for Watsuji, ethical good is the continual growth and development of the cycle of double negation, hence the aesthetic good is the growth and development of a harmony between the negation of distancing and the negation of dissolution
+What about the other side of aesthetic judgment? Can the voice which speaks for the source of the subject also make claims on the object of aesthetic judgment? When we return to our prior discussion of the object, we see that it, just as much as the subject, emerges from emptiness to exist for a short time. As the word _sonzai_ implies, this existence is a spatiotemporally rooted struggle against impermanence. Therefore, the voice which speaks to me as the source of my being also has authority to speak to the object as the source of its being. As we said in the last chapter, for Watsuji, ethical good is the continual growth and development of the cycle of double negation, hence the aesthetic good is the growth and development of a harmony between the negation of distancing and the negation of dissolution§
 
+WRAP UP§
 
-> In other words, that a subject becomes Thou or He/She and opposes I is generally the first moment in the establishment of an object. WTZ10:188*
-
-> Therefore, the natural environment, consisting of such things as mountains and rivers, grasses and trees possesses a "_Thou_" characteristic in its primitive features. 178
-
-> For example, when we love or think fondly of a double row of maple trees, we deal with them as a _Thou_. 178
-178 We aren't deal with these trees on the analogy that they had egos too after finding our ego then inferring one in them. Prior to objectification, they were already a Thou for us.
-
-
-- Trust and truth apt-ness
-    - Annette Baier (fish out of unfinished feminism article?)
-    - Truth always has a contextual field (in chapter 5 start talking about how to peel the field off)
-    - Trust as ground of ordinary truth
-    - Trust is the fabric in which subjects and objects are expressions
-    - Truth value of aesthetic judgments vs. Kant
+###The possibility of truth in aesthetic judgment
+1. Kant on truth in general/truth of aesthetics
+2. Watsuji on trust as truth
+- Trust is the fabric in which subjects and objects are expressions    
+- Truth always has a contextual field (in chapter 5 start talking about how to peel the field off)
+3. Baier on trust
+4. Aesthetic truth
 
 ###Forming aesthetic judgments
 - How do we judge something?
