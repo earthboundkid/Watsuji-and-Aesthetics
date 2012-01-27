@@ -74,3 +74,11 @@ The topic of this paper is, broadly speaking, “taste” or “aesthetics,” b
 - - - -
 
 The return to primordial unity is always a return with difference.
+
+- - - -
+
+Kant in the third critique declares that, "_Beauty_ is an object's form of *purposiveness* insofar as it is perceived in the object *without the presentation of a purpose*."[^] The final clause about the "presentation of a purpose," refers to the fact that aesthetic experience is disinterested, as was discussed previously. A beautiful object, like the stars, does nothing to advance our own practical projects. "Purposiveness" in turn is a form of causation by which a concept plays a causal role in the coming into being of an object. To give an Aristotelian example, shelter might cause a builder to bring a house into being, hence the house is purposive. From the point of view Humean causation, purposiveness is, in a sense, backwards, because something which exists temporally later (shelter) causes something to happen earlier (the builder begins building), whereas causation ought to be a constant conjunction in association between things earlier in time and things later in time. In order to iron out the wrinkles in this sequence, Kant might say instead that the *concept* of shelter preceded the construction, though the *reality* of shelter came only later. However, Kant also defines the beautiful as "what, without a concept, is liked universally."[^]
+
+[^]: Ak. V. 236.
+[^]: Ak. V. 219.
+K defines beauty as purposeless purposefulness
