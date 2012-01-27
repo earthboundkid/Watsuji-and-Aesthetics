@@ -69,9 +69,9 @@ One clear illustration of the process by which communities of aesthetic taste em
 
 > we *divide* food to taste it. The taste is on the tongue of each person. But can those tastes be *separate tastes*? In the case of dividing and tasting some sugar, do we not taste *an identical sweetness*? Should one person feel the sugar to be bitter, we will immediately treat that person as sick. That is, we will handle it as a case of one being temporarily deprived of the ability to taste an identical sweetness. […] If bodily sensation were something that separated people from each other, such things could not be. (WTZ 10:80)
 
-&nbsp;
+We will return to the example of physical taste in the next chapter when we look at the more closely contextual background out of which our judgments of taste arise, but for now suffice it to say that aesthetic judgment always takes place within a social and ethical context. In the aesthetic experience of tasting delicious food, for instance, one nearly loses oneself in rapture to the flavorful sensation of the dish. However, this experience of partial self-dissolution is always made possible first by specific cultural structures. Before we can experience a meeting of subject-object, there must be a coming together of individuals as a collective subject in a society. Hence our understanding of the subject of aesthetic experience can never be limited to an appreciation for the individual’s experience alone, but we must also appreciate the ways in which the communal whole enjoys the aesthetic experience as a subject. As Watsuji writes,
 
-We will return to the example of physical taste in the next chapter when we look at the more closely contextual background out of which our judgments of taste arise, but for now suffice it to say that aesthetic judgment always takes place within a social and ethical context. In the aesthetic experience of tasting delicious food, for instance, one nearly loses oneself in rapture to the flavorful sensation of the dish. However, this experience of partial self-dissolution is always made possible first by specific cultural structures. Before we can experience a meeting of subject-object, there must be a coming together of individuals as a collective subject in a society. Hence our understanding of the subject of aesthetic experience can never be limited to an appreciation for the individual’s experience alone, but we must also appreciate the ways in which the communal whole enjoys the aesthetic experience as a subject.
+> The discrimination between approval and disapproval is itself both individual and social and thus cannot be comprehended without recourse to the fundamental structure of a human being. (127–8)§
 
 ###What is an object?
 Having looked again at the subject, we must also look again at the object. In the last chapter, we suggest that an object is that which objects. Another way to look at the question is suggested by the Japanese word _sonzai_ [存在][ja], which means "to exist" or "to be." A. C. Graham notes in "'Being' in Western Philosophy Compared With *Shih/Fei* and *Yu/Wu* in Chinese Philosophy" that there has been a persistent tendency in Western philosophy to conflate the existential and predicative senses of "to be." This tendency is not seen in Chinese thought, and fallacies which rest on such an equivocation are difficult to translate into classical Chinese. As Watsuji notes, Japanese also distinguishes sharply between the existential verb (subject _ga aru_) and the predicative copula (subject predicate _dearu_). _Sonzai_ is for the most part equivalent to _ga aru_ just as the English "exist" is equivalent to "there is." The value of _sonzai_ for Japanese philosophy is that because it cannot be used to say that "_A_ is _B_," the grammar of the language makes it clear for a thing to exist is not the same as it having certain predicates. This helps overcome the tendency towards essentialism and eternalism in Western thinking. For a certain thing to "exist" need not require that the thing maintain certain properties. As with Watsuji's theory of anthropology, to be can be a dynamic interplay of negation and double negation rather than the maintenance of a simple static essence.
@@ -94,7 +94,7 @@ The cold that we feel is an object which we feel inside yet at the same time it 
 
 > When the cold is first discovered, we ourselves are already out in the cold. Therefore, that which is most primordially "being outside" is not a thing or object like the cold air, but we ourselves. "Going outside" is a fundamental prescript of our own structure, and intentionality as well is founded on nothing else. (WTZ 8:10)
 
-Following Heidegger, Watsuji calls this state of being outside of oneself "ex-sistere." This going outside of oneself is the basis of space and time, which are parts of the structure of human existence. Hence when we see an object in the world, we are at once seeing something foreign to ourselves---an object which is objecting---but also something that is a part of us. The object exists in a space at a time, and that space and time are part of the shared structure of the human subject. To discover the object is to discover the _I_ opposed to the object and to discover the _we_ who gather around the object. 
+Following Heidegger, Watsuji calls this state of existence in the world as a form of standing outside of oneself "ex-sistere." This going outside of oneself is the basis of space and time, which are parts of the structure of human existence. Hence when we see an object in the world, we are at once seeing something foreign to ourselves---an object which is objecting---but also something that is a part of us. The object exists in a space at a time, and that space and time are part of the shared structure of the human subject. To discover the object is to discover the _I_ opposed to the object and to discover the _we_ who gather around the object. 
 
 An extended quote from _Study of Ethics_ is illustrative of Watsuji's point:
 
@@ -156,38 +156,47 @@ Watsuji argues to the contrary that fashion is an everyday experience of a kind 
 
 In other words, in fashion our aesthetic norms originate outside of the particular individual, but they are nevertheless felt as the subjective tastes of individuals because those individuals are ultimately expressions through negation of the prior betweenness. Society may help shape my taste in fashion, but it is still _my_ taste. At the same time, however, by changing my taste in fashion, it is possible for me to change society’s taste in fashion. The two forms of taste are mutually entailing and are ultimately expressions of the ways in which I as individual am made in part by the fashion of my society and my society is made in part by me.
 
-Hence there is a voice which is able to speak with authority about the kinds of taste experiences we “should” be having when we enter into an aesthetic experience. It is the voice of the society as it expresses itself as the source of the individual. Because this voice is trans-personal, it is possible for us as members of a community to discuss our tastes productively. It is not entirely “subjective” in the sense of being entirely individual-relative. On the other hand, since the voice is also the voice of the inmost source of the individual, this voice is “subjective” in the sense of being a part of the subject and able to, at times, command the assent of the subject.
+Hence there is a voice which is able to speak with authority about the kinds of taste experiences we “should” be having when we enter into an aesthetic experience. It is the voice of the society as it expresses itself as the source of the individual. Because this voice is trans-personal, it is possible for us as members of a community to discuss our tastes productively. It is not entirely “subjective” in the sense of being entirely individual-relative. On the other hand, since the voice is also the voice of the inmost source of the individual, this voice is “subjective” in the sense of being a part of the subject and able to, at times, command the assent of the subject. These properties of the voice of aesthetic experience help explain why Kant felt that aesthetic judgment is universal but subjective---aesthetic judgment has a normativity that originates within the individual but extends beyond it---without thereby committing us to an implausibly universal coherence of tastes. The scope of the normativity of aesthetic judgment is only as wide as the subject itself. It extends toward anyone with whom I can have an interactive dialogue but it is not yet already extended towards "any rational being" in the absence of prior engagement with such beings.
 
-What about the other side of aesthetic judgment? Can the voice which speaks for the source of the subject also make claims on the object of aesthetic judgment? When we return to our prior discussion of the object, we see that it, just as much as the subject, emerges from emptiness to exist for a short time. As the word _sonzai_ implies, this existence is a spatiotemporally rooted struggle against impermanence. Therefore, the voice which speaks to me as the source of my being also has authority to speak to the object as the source of its being. As we said in the last chapter, for Watsuji, ethical good is the continual growth and development of the cycle of double negation, hence the aesthetic good is the growth and development of a harmony between the negation of distancing and the negation of dissolution§
-
-WRAP UP§
-
-###The possibility of truth in aesthetic judgment
-1. Kant on truth in general/truth of aesthetics
-2. Watsuji on trust as truth
-- Trust is the fabric in which subjects and objects are expressions    
-- Truth always has a contextual field (in chapter 5 start talking about how to peel the field off)
-3. Baier on trust
-4. Aesthetic truth
+What about the other side of aesthetic judgment? Can the voice which speaks for the source of the subject also make claims on the object of aesthetic judgment? When we return to our prior discussion of the object, we see that it, just as much as the subject, emerges from emptiness to exist for a short time. As the word _sonzai_ implies, this existence is a spatiotemporally rooted struggle against impermanence. Therefore, the voice which speaks to me as the source of my being also has authority to speak to the object as the source of its being. As we said in the last chapter, for Watsuji, ethical good is the continual growth and development of the cycle of double negation, hence the aesthetic good is the growth and development of a harmony between the negation of distancing and the negation of dissolution. An aesthetic object is good insofar as it is able to participate in the development of such a harmony.
 
 ###Forming aesthetic judgments
-- How do we judge something?
-  - Watsuji's model
-    - Feeling the sonzai of art objects means intention+ability for art objects
-    - Artist's ability
-    - Artist's intent
-      - auteur theory
-    - Cf. my Deutsche paper
-  - What is it for an object to have fullness?
-    - > The supreme value is absolute wholeness; and an aspiration, or upward drive, or eagerness for it, is "goodness." RRG134
-    - Kant on Purposiveness
-	- Emptiness as the basis for understanding purposiveness
-	- 和, harmony
-    - Ends vs. Means, Intrinsic value vs. Instrumental value, is the core of what it is to have Kantian disinterest. The disinterested view just "lets it be." Watsuji is similar, but for him being is doing. How you go about letting it be is active, not contemplative. Think about fanfic and fan-wikis and fannon. These things show that "letting it be" means "letting it do."
-    - Whitehead says its about an interplay of part and whole
-    - Hershock: You can tell if you’ve found the appropriate because the jazz band keeps on swingin’ in the style of an infinite goal.
-    - From ch. 2: "Both are ultimately lacking in substance when explored in sufficient depth, and this non-dual emptiness leads to the overflow of value that is celebrated by Miki and Sakai and is the focal point of aesthetics."
-    - Examples from Japanese art
+We have seen that the basis of normativity in aesthetic judgment is the mutual emergence of the subject and object of judgment from emptiness. However, the actual process of concretely forming a judgment remains to be brought into sharper focus. In the last chapter, we quoted from Watsuji's unfinished notes on art theory:
+
+> In this sense, the aesthetic appreciator can be said to be an appreciator who “contemplates the fullness (German, *[Fülle][de]*) of the object without interest (German, *[uninteressiert][de]*)” as Moritz Geiger says. (WTZ B1:145)
+
+The notion of the "fullness" of the object needs to be explored in further depth. How can we judge the fullness of an object? In the case of art objects, Watsuji mentions two criteria which recur in German theories of aesthetics: 
+
+> *art works are made by human beings*. Hence the artist's *[Wollen][de]* (German, "will") and *[Können][de]* ("ability") are in them. To the extent that artists are human beings, whoever they are it could not be the case that their *[Wollen][de]* and *[Können][de]* are so deep as to be absolutely beyond our grasp. (WTZ B1:153--4)
+
+This leads us towards a relatively straightforward method for forming an aesthetic judgment. As I see it, the method would roughly be as follows: First, on the basis of knowledge about the circumstances of the production of the work to be evaluated, we infer what sort of active spectator would be suitable to view the work in question according to the original intention (*[Wollen][de]*) of the artist. Second, we do what is necessary to become such a active spectator. (This may involve developing one's senses, becoming familiar with a canon, engaging with many similar works, prompting oneself in a certain way, or, in extreme cases, changing one's style of life or values, etc.) Third, we experience the work from the vantage point of the suitable spectator and see what sort of aesthetic experiences can be produced on the basis of the work as an object. Fourth, we evaluate the execution of the artist (*[Können][de]*) according to how well the work was able to achieve the aims set beforehand. Finally, it may be necessary on the basis of what is revealed by the prior evaluation of the work to revise one's view of suitable spectator for the work by returning to the first step, reevaluating the life of the artist, reengaging in the cultivation of suitability as spectator, and iteratively continuing the process of evaluation indefinitely in a hermeneutic cycle. Hence the judgment, "this is beautiful," can be taken to mean something like, "this will be seen as beautiful should one approach it in a suitable manner." The fullness of an art object in this case consists of its ability to live up to the intentions which caused it to come into being.
+
+The difficulty with this approach, as Watsuji points out in the same set of notes, is that not all aesthetic experiences are had in relation to works of art. We also have aesthetic experience of nature. However, judging those experiences is difficult because nature lacks something as straightforward as an artist's intention to evaluate it in light of. Watsuji remarks, "towards nature any *[Einstellung][de]* (German, attitude) is permitted" (WTZ B1:154), hence settling on a suitable manner from which to approach the object is significantly complicated. This in turn complicates the identification and assessment of the fullness of the object. On the other hand, Watsuji remarks that "nature is an unfathomably infinite fountain. As our eyes deepen, so deepens nature" (WTZ B1:153). That is, the more refined our understanding of nature becomes, the more nature presents for us to understand. The more we attune ourselves to the beauty of nature, the more beauty there is to uncover. That natural objects possess fullness is prima facie evident. The difficulty is in their assessment, but since natural objects emerge from the same emptiness as manmade objects, there must be some ground on which to form appropriate judgments of them.
+
+In _Study of Ethics_, we read that, "The supreme value is absolute wholeness; and an aspiration, or upward drive, or eagerness for it, is 'goodness.' (RRG134§)" and this applies as much to natural objects as manmade. Objects in general can express harmony (in Japanese, _wa_ [和][ja]) through their interrelation of part and whole into an organic unity that brings the many into a new phase of higher value without eliminating the parts. Emptiness is what allows objects to overflow any attempt to reductively capture them from a top-down or a bottom-up direction. There are two ways that this can be seen. Objects can become on the one hand a source of dissatisfaction because we attempt to fix them in place; however, conversely objects are able on the other hand to be a source of satisfaction, when we are able to approach them in such a way that we allow them to be what they will be. Aesthetic judgment, then, is a process by which we assess the harmonization of objects. In the art world, we assess this harmonization over the background of ongoing projects in the social construction of art history. In the natural world, we assess this harmonization by becoming sensitive to the "motives" of the things themselves. We enter into their world without either assimilating them to ourselves or entirely surrendering our own selves to them. Instead we ecstatically experience the fullness of things in the mode of ex-sistere. 
+
+###The attitude of the critic
+To understand judgment as our assessment of the harmony of aesthetic experience in greater depth, it is worth looking more closely at the attitude of the critic. The communicability of aesthetic judgments requires that we argue that "this will be seen as beautiful should one approach it in a suitable manner," but what is that manner?
+
+One approach to criticism is to be critical, that is, to criticize. One can search the object closely for faults in order to seize on them and present them to its creator and others. This attitude, however, is clearly of more use in fostering one's reputation among fellow connoisseurs than it is for allowing one to aesthetically engage with the object. It has its place, but it is not strictly aesthetic. 
+
+In a short essay entitled "Art Criticism" (_Geijutsu Hihyō_ [芸術批評][ja]), Watsuji explains his approach and the approach of Jean-Marie Guyau (1854--1888) to criticism. Both are opposed to the brand of criticism that seeks only to tear down. Watsuji interprets Guyau's view as being, "one who we ought to call a critic is one who is best sings praises to the beautiful and also one who is best able to explain this praise to others" (WTZ 8:189). While agreeing with this sentiment, Watsuji feels that we must not lose sight of the source of criticizing criticism either. In his view, "The ideal critic knows best how to praise beauty, while also being at the same time the most sensitive towards the ugly" (WTZ 8:190). When the critic criticizes, it should not be out of a desire to impress others with one's snobbish sophistication, but out of a sensitivity to the ways that object came so close to achieving greatness but fell short. Understanding the ugliness of the object comes from an understanding of the ideal whose fullness has not yet been realized.
+
+The attitude a critic must possess in order to simultaneously praise the beautiful and criticize the bad is, Watsuji and Guyau agree, love. Love, of course, can be understood in many ways beyond even the traditional Greek distinctions between [ἀγάπη][el] (charitable love), [ἔρως][el] (erotic love), [φιλία][el] (brotherly love), and [στοργή][el] (familial affection). To add in distinctions from the East Asian tradition, we might also mention [慈悲][zh] (Chinese _cibei_, Japanese _jihi_, Buddhist compassion),  [戀][zh] (*lian*/_koi_, yearning love), [愛][zh] (_ai_/_ai_, possessive love), and [仁][zh] (_ren_/_jin_, humane conduct). In _Study of Ethics_, Watsuji mentions Hegel's view of love (WTZ 10:87), given in _Philosophy of Right_:
+
+> Love is in general the consciousness of the unity of myself with another. I am not separate and isolated, but win my self-consciousness only by renouncing my independent existence, and by knowing myself as unity of myself with another and of another with me. […] The first element in love is that I will to be no longer an independent self-sufficing person, and that, if I were such a person, I should feel myself lacking and incomplete. The second element is that I gain myself in another person, in whom I am recognized, as he again is in me. Hence love is the most tremendous contradiction, incapable of being solved by the understanding. Nothing is more obstinate than this scrupulosity of self-consciousness, which, though negated, I yet insist upon as something positive. Love is both the source and solution of this contradiction. As a solution it is an ethical union.[^]
+
+[^]: Hegel, _Philosophy of Right_, §158, 
+
+Watsuji summarizes, "love is the contradiction that to abandon oneself is to acquire oneself" (WTZ 10:88). For our purposes, what love must mean is a willingness to go beyond one's horizons while accepting the otherness of the object. That is, love desires the other without needing to possess it or smother it. In Plato's _Symposium_, Aristophanes explains that the origin of love was the division of human beings from whole into halves, and now we must search the world for our other half.[^] The form of love that makes criticism possible is similar in that it too a drive to unify what was originally together, but in this case rather than being together as a two face person, we were together with the object as emptiness.
+
+[^]: See pages §§.
+
+  - What is the purpose of criticism? Is it just “understanding” art? To allow for deeper experiences? Or is it to kick art in a new direction? (Cf. Watsuji on “understanding” as the new goal brought by hermeneutics.)
+- Theodor Lipps: empathy
+  - TBS, it's not about love-y love. An aesthetic experience is successful to the degree it sucks you into a love spiral…
+
+- Examples from Japanese art
       - > Here is a unity gained not by geometrical proportions but by a balancing of forces which appeals to the emotions, a unity of a meeting of spirit. Just as spirits meet between man and man, so do they also meet between moss and stone or even between stone and stone. Every effort is made to avoid the orderly in order to achieve this "meeting of spirit". 192
       - 193 Balance of whitespace in a Japanese painting
       - > This well-measured balance may well be clear at a single glance, but we can discover no order or rule lying at the root of this delicacy of measure; it was achieved intuitively and it is a "meeting of feeling" that would disappear with the difference of a mere inch. 194
@@ -198,21 +207,10 @@ Lafleur on Watsuji's aesthetics
 - Hence the criticism Mayeda makes is kinda baffling.
 - Sakai at 113--4 talks about "symmetrical reciprocity" but I can't tell why.
 
-###The attitude of the critic
-This might actually make more sense as a back port to 3, actually maybe?
-- What is the proper mode of criticism?
-  - Does the “mindfulness” of washing the floor fit my scheme?
-  - Doesn't having good taste just make you into a princess and the pea type snob?
-    "No."
-  - What is the purpose of criticism? Is it just “understanding” art? To allow for deeper experiences? Or is it to kick art in a new direction? (Cf. Watsuji on “understanding” as the new goal brought by hermeneutics.)
-  - Quote young Watsuji on criticism needing love
-    - Watsuji on the critic: a lover not a criticizer
-    - Job of the critic is to love good stuff, praise beauty, while be sensitive to ugliness. WTZ 7:187--8
-  - 83 Love (in Hegel) as the unity of self-and-other, "love consists of the contradiction that the self acquires itself by abandoning itself."
-  - Love as a feeling
-    - T. Lipps: empathy
-    - Love for Aristophanes in the Symposium is love of one’s other half, that is another bit of oneself. Watsuji seems to be similar, since he also sees Good as one’s own good due to the interconnection of selves.
-  - TBS, it's not about love-y love. An aesthetic experience is successful to the degree it sucks you into a love spiral…
+samsara is really nirvana; heijou sin kore ze miti
+
+Be clearer about the descriptive project vs. the normative project. How we do it, vs. how we ought to do it.
+
 
 ###The interconnection of subjects in _renga_
 - Examples from renga/haiku
