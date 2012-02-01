@@ -28,3 +28,4 @@ Wollheim, Richard. “On Pictorial Representation” in Aesthetics and the Philo
 * Shun, Kwong-Loi. _Mencius and Early Chinese Thought_. Stanford University Press, 1997.
 G.W.F. Hegel Philosophy of Right Translated by S.W Dyde Batoche Books Kitchener 2001
 Plato's _Symposium_
+Lafluer Buddhist Emptiness in the Ethics and Aesthetics of Watsuji Tetsurō

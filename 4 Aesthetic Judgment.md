@@ -121,8 +121,39 @@ Nevertheless, it would be too quick to say that Watsuji is a straightforward rea
 
 Returning then to the question of aesthetics, what is the object of aesthetic judgment? The object, as we have seen, emerges from the active, plural subject understood as the space of persistent relationships, but it also stands outside of the subject drawing the subject away from itself. There is a delicate interplay to be had. Should the subject stay where it is and refuse ex-sistere, there can be no object, but on the other hand, should the subject expand too far, it will swallow the object up and there will be no ex-sistere because the self has merely come into itself. Accordingly, we must firmly emphasize the dynamic, dialectical nature of the movement of double negation. As the term _sonzai_ implies, the subject-object complex has its existence as a temporary swelling in an ocean of impermanence. For a moment these waves roil through a field of relations, but always with the danger that a wave that grows too large becomes nothing more than the surface of the sea. What connects subjects and objects is that both spring from and return to emptiness itself. As we shall shortly see, understanding this is the key to understanding the basis of understanding aesthetic judgment and the appreciation of the object.
 
+###The attitude of the critic
+§samsara is really nirvana; heijou sin kore ze miti
+
+To understand judgment as our assessment of the harmony of aesthetic experience in greater depth, it is worth looking more closely at the attitude of the critic. The communicability of aesthetic judgments requires that we argue that “this will be seen as beautiful should one approach it in a suitable manner,” but what is that manner?
+
+One approach to criticism is to be critical, that is, to criticize. One can search the object closely for faults in order to seize on them and present them to its creator and others. This attitude, however, is clearly of more use in fostering one’s reputation among fellow connoisseurs than it is for allowing one to aesthetically engage with the object. It has its place, but it is not strictly aesthetic. 
+
+In a short essay entitled “Art Criticism” (_Geijutsu Hihyō_ [芸術批評][ja]), Watsuji explains his approach and the approach of Jean-Marie Guyau (1854--1888) to criticism. Both are opposed to the brand of criticism that seeks only to tear down. Watsuji interprets Guyau’s view as being, “one who we ought to call a critic is one who is best sings praises to the beautiful and also one who is best able to explain this praise to others” (WTZ 8:189). While agreeing with this sentiment, Watsuji feels that we must not lose sight of the source of criticizing criticism either. In his view, “The ideal critic knows best how to praise beauty, while also being at the same time the most sensitive towards the ugly” (WTZ 8:190). When the critic criticizes, it should not be out of a desire to impress others with one’s snobbish sophistication, but out of a sensitivity to the ways that object came so close to achieving greatness but fell short. Understanding the ugliness of the object comes from an understanding of the ideal whose fullness has not yet been realized.
+
+The attitude a critic must possess in order to simultaneously praise the beautiful and criticize the bad is, Watsuji and Guyau agree, love. Love, of course, can be understood in many ways beyond even the traditional Greek distinctions between [ἀγάπη][el] (charitable love), [ἔρως][el] (erotic love), [φιλία][el] (brotherly love), and [στοργή][el] (familial affection). To add in distinctions from the East Asian tradition, we might also mention [慈悲][zh] (Chinese _cibei_, Japanese _jihi_, “compassion”),  [戀][zh] (*lian*, _koi_, “yearning love”), [愛][zh] (_ai_, _ai_, “possessive love”), and [仁][zh] (_ren_, _jin_, “humane conduct”). Each of these concepts of love has a different shade of meaning which has evolved historically and each reveals a different aspect of the attitude needed for aesthetic judgment. The thread that runs through them as concepts is the sense of outward yearning concern. In _Study of Ethics_, Watsuji mentions one view of love given by Hegel in _Philosophy of Right_ (WTZ 10:87). I believe Hegel captures something of commonality of our conceptions of love:
+
+> Love is in general the consciousness of the unity of myself with another. I am not separate and isolated, but win my self-consciousness only by renouncing my independent existence, and by knowing myself as unity of myself with another and of another with me. […] The first element in love is that I will to be no longer an independent self-sufficing person, and that, if I were such a person, I should feel myself lacking and incomplete. The second element is that I gain myself in another person, in whom I am recognized, as he again is in me. Hence love is the most tremendous contradiction, incapable of being solved by the understanding. Nothing is more obstinate than this scrupulosity of self-consciousness, which, though negated, I yet insist upon as something positive. Love is both the source and solution of this contradiction. As a solution it is an ethical union.[^]
+
+[^]: Hegel, _Philosophy of Right_, §158, 
+
+Watsuji summarizes, “love is the contradiction that to abandon oneself is to acquire oneself” (WTZ 10:88). For our purposes, what love must mean is a willingness to go beyond one’s horizons while accepting the otherness of the object. That is, love desires the other without needing to possess it or smother it. The feeling of ecstatic intoxication or disinterested enjoyment rests on just this. 
+
+In Plato’s _Symposium_, Aristophanes tells a myth about the origin of love. Once, human beings were wholes with four arms, four legs, and two faces, but now we have been divided into halves as punishment by the gods. As a result, we spend our lives searching for our lives in search of a lover to complete us, that is, searching for our other halves:
+
+> Why should this be so? It’s because, as I said, we used to be complete wholes in our original nature, and now “Love” is the name for our pursuit of wholeness, for our desire to be complete.[^] 
+
+[^]: *Symposium*, 192e.
+
+The form of love that makes criticism possible is similar in that it too is a drive to unify in cleavage what was originally together without division. In aesthetic judgment, we are not just looking for another person to complete us, but for oneness with the emptiness out of which subject and object co-arise. This return with difference is the foundation of aesthetic goodness and the drive that compels our experiences to evolve in progressively novel forms.
+
+To be sure, an overemphasis on the word “love” as the attitude of the critic can lead to a misunderstanding of what aesthetic judgment calls for. As we said above, the critic must always be ready to criticize the ugliness of the ugly. While this is compatible with a deeper understanding of love, it easily becomes obscured if our concept of love is too shallow. Another way of conceptualizing the attitude needed for aesthetic judgment that may prevent this misunderstanding is as empathy. The word “empathy” was coined as a translation of the German *[Einfühlung][de]* as it was popularized by Theodor Lipps (1851--1914).[^] Watsuji mentions Lipps in his unfinished notes on art theory and wrote about him several times in his early work, _Revival of the Idols_ (_Guzō Saikō_ [偶像再興][ja]).[^] The German *[Einfühlung][de]* and the Greco-English “empathy” are both compounds meaning “in feeling.” The preposition “in” suggest that while outside the thing being empathized with, we nevertheless enter into it ecstatically. We feel from our position as subjects into the the position of the object. In doing so, we achieve a meeting point of feeling with our fellow appreciators, the artist, and---most importantly---the object itself.
+
+[^]: See the Oxford English Dictionary entry on empathy.
+
+[^]: See _Lipps and Nietzsche_ (_Rippusu to Niiche_ [リップスとニイチェ][ja], WTZ 17:167--171), _Lipp’s Individualism_ (_Rippusu no Kojinshugi_ [リップスの個人主義][ja], WTZ 17:172--174), and _Lipp’s Warning_ (_Rippusu no Keikoku_ [リップスの警告][ja], WTZ 17:175--178).
+
 ###The source of normativity in aesthetic judgment
-Now that we have reconsidered the nature of the subject and object of aesthetic judgment, we may begin to dig into the roots of its very possibility. How and why is aesthetic judgment possible? As Watsuji explains in _Study of Ethics_ though there is regional variation in morality---for example, one society may approve of human sacrifice while another condemns it---this does not undermine the universality of the basis of ethics. In all societies what is condemned are actions that undermine the trust basis of that society and what is praised are actions that reinforce the trust basis of that society. 
+Now that we have reconsidered the nature of the subject and object of aesthetic judgment and the attitude need for aesthetic criticism, we may begin to dig into the roots of its very possibility. How and why is aesthetic judgment possible? As Watsuji explains in _Study of Ethics_ though there is regional variation in morality---for example, one society may approve of human sacrifice while another condemns it---this does not undermine the universality of the basis of ethics. In all societies what is condemned are actions that undermine the trust basis of that society and what is praised are actions that reinforce the trust basis of that society. 
 
 But if this is the case, how is it that we as individual members of society feel the call of conscience? If these values are being imposed on us from without in order to preserve society, then it is not clear why as individuals we should feel an *inner* impulse towards a morality made to preserve *outer* order. In that case, moral education is a kind of deformation of the person by which the individual is trained to ignore her authentic desires and interests and produce within herself a feeling of subordination to the order outside of her. Could it be that our call of conscience really be the result of a super-ego that is essential alien to us? Watsuji argues no. In the determination of guilt by a court of law, the one who accuses me stands in for society as whole, but in an affliction of conscience, the one who accuses me is the very emptiness at the heart of my self. In spite of the great degree of social determination that undoubtably goes into the formation of conscience, when we truly feel the call of conscience it does not feel to us as something coming from without but it feels as though it was coming from our inmost personality. 
 
@@ -183,35 +214,6 @@ In _Study of Ethics_, we read that, “The highest value is an absolute totality
 
 Of course, this discussion of the mechanics of aesthetic judgment is still somewhat more abstract than one might like. However, further specification of aesthetic judgment cannot be made in the absence of consideration of the subject which will be making the judgment. In the language of Arthur Danto, we need to specify the “art world” that will be judging the object and the “aesthetic predicates” which are significant within that art world. This is not to totally relativize aesthetic judgment. As stated above, the ecstatic assessment of the fullness of things cannot be divorced from aesthetic judgment, whatever specific form it takes. Nevertheless, a more concrete explanation of such judgment will require a concrete background against which to explicate it.
 
-###The attitude of the critic
-To understand judgment as our assessment of the harmony of aesthetic experience in greater depth, it is worth looking more closely at the attitude of the critic. The communicability of aesthetic judgments requires that we argue that “this will be seen as beautiful should one approach it in a suitable manner,” but what is that manner?
-
-One approach to criticism is to be critical, that is, to criticize. One can search the object closely for faults in order to seize on them and present them to its creator and others. This attitude, however, is clearly of more use in fostering one’s reputation among fellow connoisseurs than it is for allowing one to aesthetically engage with the object. It has its place, but it is not strictly aesthetic. 
-
-In a short essay entitled “Art Criticism” (_Geijutsu Hihyō_ [芸術批評][ja]), Watsuji explains his approach and the approach of Jean-Marie Guyau (1854--1888) to criticism. Both are opposed to the brand of criticism that seeks only to tear down. Watsuji interprets Guyau’s view as being, “one who we ought to call a critic is one who is best sings praises to the beautiful and also one who is best able to explain this praise to others” (WTZ 8:189). While agreeing with this sentiment, Watsuji feels that we must not lose sight of the source of criticizing criticism either. In his view, “The ideal critic knows best how to praise beauty, while also being at the same time the most sensitive towards the ugly” (WTZ 8:190). When the critic criticizes, it should not be out of a desire to impress others with one’s snobbish sophistication, but out of a sensitivity to the ways that object came so close to achieving greatness but fell short. Understanding the ugliness of the object comes from an understanding of the ideal whose fullness has not yet been realized.
-
-The attitude a critic must possess in order to simultaneously praise the beautiful and criticize the bad is, Watsuji and Guyau agree, love. Love, of course, can be understood in many ways beyond even the traditional Greek distinctions between [ἀγάπη][el] (charitable love), [ἔρως][el] (erotic love), [φιλία][el] (brotherly love), and [στοργή][el] (familial affection). To add in distinctions from the East Asian tradition, we might also mention [慈悲][zh] (Chinese _cibei_, Japanese _jihi_, “compassion”),  [戀][zh] (*lian*, _koi_, “yearning love”), [愛][zh] (_ai_, _ai_, “possessive love”), and [仁][zh] (_ren_, _jin_, “humane conduct”). Each of these concepts of love has a different shade of meaning which has evolved historically and each reveals a different aspect of the attitude needed for aesthetic judgment. The thread that runs through them as concepts is the sense of outward yearning concern. In _Study of Ethics_, Watsuji mentions one view of love given by Hegel in _Philosophy of Right_ (WTZ 10:87). I believe Hegel captures something of commonality of our conceptions of love:
-
-> Love is in general the consciousness of the unity of myself with another. I am not separate and isolated, but win my self-consciousness only by renouncing my independent existence, and by knowing myself as unity of myself with another and of another with me. […] The first element in love is that I will to be no longer an independent self-sufficing person, and that, if I were such a person, I should feel myself lacking and incomplete. The second element is that I gain myself in another person, in whom I am recognized, as he again is in me. Hence love is the most tremendous contradiction, incapable of being solved by the understanding. Nothing is more obstinate than this scrupulosity of self-consciousness, which, though negated, I yet insist upon as something positive. Love is both the source and solution of this contradiction. As a solution it is an ethical union.[^]
-
-[^]: Hegel, _Philosophy of Right_, §158, 
-
-Watsuji summarizes, “love is the contradiction that to abandon oneself is to acquire oneself” (WTZ 10:88). For our purposes, what love must mean is a willingness to go beyond one’s horizons while accepting the otherness of the object. That is, love desires the other without needing to possess it or smother it. The feeling of ecstatic intoxication or disinterested enjoyment rests on just this. 
-
-In Plato’s _Symposium_, Aristophanes tells a myth about the origin of love. Once, human beings were wholes with four arms, four legs, and two faces, but now we have been divided into halves as punishment by the gods. As a result, we spend our lives searching for our lives in search of a lover to complete us, that is, searching for our other halves:
-
-> Why should this be so? It’s because, as I said, we used to be complete wholes in our original nature, and now “Love” is the name for our pursuit of wholeness, for our desire to be complete.[^] 
-
-[^]: *Symposium*, 192e.
-
-The form of love that makes criticism possible is similar in that it too is a drive to unify in cleavage what was originally together without division. In aesthetic judgment, we are not just looking for another person to complete us, but for oneness with the emptiness out of which subject and object co-arise. This return with difference is the foundation of aesthetic goodness and the drive that compels our experiences to evolve in progressively novel forms.
-
-To be sure, an overemphasis on the word “love” as the attitude of the critic can lead to a misunderstanding of what aesthetic judgment calls for. As we said above, the critic must always be ready to criticize the ugliness of the ugly. While this is compatible with a deeper understanding of love, it easily becomes obscured if our concept of love is too shallow. Another way of conceptualizing the attitude needed for aesthetic judgment that may prevent this misunderstanding is as empathy. The word “empathy” was coined as a translation of the German *[Einfühlung][de]* as it was popularized by Theodor Lipps (1851--1914).[^] Watsuji mentions Lipps in his unfinished notes on art theory and wrote about him several times in his early work, _Revival of the Idols_ (_Guzō Saikō_ [偶像再興][ja]).[^] The German *[Einfühlung][de]* and the Greco-English “empathy” are both compounds meaning “in feeling.” The preposition “in” suggest that while outside the thing being empathized with, we nevertheless enter into it ecstatically. We feel from our position as subjects into the the position of the object. In doing so, we achieve a meeting point of feeling with our fellow appreciators, the artist, and---most importantly---the object itself.
-
-[^]: See the Oxford English Dictionary entry on empathy.
-
-[^]: See _Lipps and Nietzsche_ (_Rippusu to Niiche_ [リップスとニイチェ][ja], WTZ 17:167--171), _Lipp’s Individualism_ (_Rippusu no Kojinshugi_ [リップスの個人主義][ja], WTZ 17:172--174), and _Lipp’s Warning_ (_Rippusu no Keikoku_ [リップスの警告][ja], WTZ 17:175--178).
-
 ###Concrete examples of aesthetic judgment as the meeting point of spirit
 ####Traditional Japanese art forms
 In summary, the key to aesthetic judgment is the meeting point of feeling. In the case of art objects, the embodied subjects of the artist and the audience meet to form a community of taste. They establish norms and principles based on their mutual interaction and disinterested enjoyment of the object. The object as well, in art and nature, meets the subject and calls it out of itself into an ecstatic experience of the common ground between them. Judgment is rendered on the basis of the overall harmony felt when meeting with a loving empathy.
@@ -234,29 +236,27 @@ The rich feeling of the painting comes from the way that the viewer can perceive
 
 > This well-measured balance may well be clear at a single glance, but we can discover no order or rule lying at the root of this delicacy of measure; it was achieved intuitively and it is a “meeting of feeling” that would disappear with the difference of a mere inch. 194§
 
-Our examples can be further multiplied since as Watsuji writes, "This characteristic can be discovered also in the No, in the tea-ceremony and in Kabuki, all of them arts born of a "meeting of feel- ing·'." 197§
+Our examples can be further multiplied since as Watsuji writes, "This characteristic can be discovered also in the No, in the tea-ceremony and in Kabuki, all of them arts born of a "meeting of feel- ing·'." 197§ Why does Watsuji emphasize the importance of asymmetry to the meeting point of feeling? A naïve reading is that the blank spaces in one's garden, painting, and so forth represent "emptiness." William Lafleur considers this interpretation of Watsuji in "Buddhist Emptiness in the Ethics and Aesthetics of Watsuji Tetsurō," but rejects it:
 
 > Exactly what he means here by 'the moment of negation' is the critical point. My argument will be that he does not simply mean that these arts have as a characteristic of them what is sometimes called 'negative expression' -
 > that is, the prolonged silences and empty spaces that can be found in them. That is, they do not simply provide uswith some kind of aesthetic embodi mentofjno'v,theNihil,orontologicalnegation.Watsuji,Ithink,hasamore
 > sophisticated view and in it themeaning of 'negation' is intimately linked to the notion of emptiness as co-dependent origination.
-> 
-> 
+
+The more sophisticated view that Watsuji is trying to express is, according to Lafluer, about the dynamism of emptiness:
+
 > If we ask how this advances our understanding of Buddhist emptiness, we need at the outset to reject an interpretation which recommends itself as obvious but is, in fact,wrong andmisleading. As was suggested above, we may not identify emptiness with some kind of non-being which has been reified and now hasmanaged tobemirrored by and through blank spaces on an artist's canvas. Such an interpretation would not only involve a facile mimeticism but would also involve a fundamental misunderstanding of the meaning of emptiness. ForWatsuji's point about the void on the canvas is not that it
 > makes palpable and concrete something metaphysical called 'non-being' but that it operates tomake possible a series of relationships and reciprocities.
-> 
-> 
+
+Sakai criticized Watsuji's emptiness as "reductive" of the subject, but the use of emptiness in Japanese art shows that the meaning of emptiness is just the opposite of reduction. Emptiness overflows in value, filling the garden or canvas, etc. with life. Hence, Lafluer argues, the real meaning of rejecting symmetry lies in the mutuality of relations with others. A father and son, for example, §§§
+
 > But then why does the art so conspicuously avoid and reject any repre sentation through symmetry? The reason is, f think, that inWatsuji's view co-dependence is dynamic and multiple rather than static and single. In formal symmetry the balance and reciprocity is limited to the single and exact counterpart of a line, angle, or whatever. The observer can always designate theformal counterpart. But in the notion of emptiness there is reciprocity between forms and entities which are in no way mirror-images
 > of each other. The mutuality is total even between rocks and moss, what is vast and what isminuscule. This mutuality is also open-ended and multiple. Surely it isone forwhich the formalized and objectified balance achieved in
 > 'symmetry' is inadequate.3
 
-Lafleur on Watsuji’s aesthetics
-- The point of asymmetry isn’t “empty spaces→emptiness, derrrr”; it’s that there’s a relation of harmony in the dynamic meeting of spirit for the elements. A parent ≠ a child, but there can be no parents without children and vice-versa. The moss and stone aren’t the same thing but they are dynamic expressions of the same spirit in the same place.
 - Hence the criticism Mayeda makes is kinda baffling.
 - Sakai at 113--4 talks about “symmetrical reciprocity” but I can’t tell why.
 
-samsara is really nirvana; heijou sin kore ze miti
 
-Be clearer about the descriptive project vs. the normative project. How we do it, vs. how we ought to do it.
 ####The interconnection of subjects in _renga_
   - Importance of community, context§
 
@@ -300,7 +300,13 @@ One of the central considerations for any poet in that period of Japanese histor
 > <br/>
 > This path / is without a traveller / at the autumn dusk.
 
-In this verse, Bashō is doing several things simultaneously. Concretely, he observes the lonesome emptiness of the path he walks. Abstractly, he complains that few follow the Way or Dao [道][zh] to which he has dedicated his life. Literally, he connects himself into a long tradition of poetry about the lonesomeness of the evening in autumn. The overall effect of the verse comes from the interpenetration of these aspects in a single moment of time. Kawamoto explains, 
+In this verse, Bashō is doing several things simultaneously. Concretely, he observes the lonesome emptiness of the path he walks. Abstractly, he complains that few follow the Way or Dao [道][zh] to which he has dedicated his life. Literally, he connects himself into a long tradition of poetry about the lonesomeness of the evening in autumn. The overall effect of the verse comes from the interpenetration of these aspects in a single moment of time. 
+
+さびしさの うれしくもあり 秋の暮れ
+sabishisa no ureshiku mo ari aki no kure
+Yosa Buson (與謝蕪村)
+
+Kawamoto explains, 
 
 >_Hon’i_ is usually explained as the essential qualities inherent in an object and the emotional response deemed appropriate. However, […] the actual qualities of the phenomenon itself were second to the conceptual qualities acquired through literary precedent. To give a twist to Oscar Wilde’s famous remark […], there may have been autumn dusks for centuries in Japan, but no one saw them until the age of the _Shinkokinshū_ (ca. 1210), when the theme of autumn evening began to attract markedly strong interest.[^]
 
@@ -348,3 +354,4 @@ When we interpret Bashō’s poem from the perspective of the _hon’i_, we see 
 
 §Representationality vs. ecstasy. Identifying with the characters in Aïda.
 §This chapter: specifics of judgment Coming up next: how judgment goes out of its context
+Be clearer about the descriptive project vs. the normative project. How we do it, vs. how we ought to do it.
