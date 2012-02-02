@@ -224,13 +224,13 @@ On such example is the traditional Japanese garden. Unlike English gardens which
 
 > Here is a unity gained not by geometrical proportions but by a balancing of forces which appeals to the emotions, a unity of a meeting of spirit. Just as spirits meet between man and man, so do they also meet between moss and stone or even between stone and stone. Every effort is made to avoid the orderly in order to achieve this “meeting of spirit”. 192§
 
-The aesthetic judgment of a Japanese garden rests on the feeling that every element has a harmonious place within the greater whole. Each stone is placed is relation to every other stone, yet without imposing a rigidly geometrical concept of order.
+The aesthetic judgment of a Japanese garden rests on the feeling that every element has a harmonious place within the greater whole. Each stone is placed is relation to every other stone, yet without imposing a rigidly geometrical concept of order, just as in a good human society each person has role that harmonizes with others without reducing them to uniformity. As Confucius says in _Analects_ 13.23 harmony (_he_ [和][zh]) is preferable to mere uniformity (_tong_ [同])[zh].
 
-Similarly, traditional Japanese ink paintings, called *sumi-e* [墨絵][ja] or *suiboku* [水墨][ja] in Japanese, favor asymmetry over symmetry, yet the tonality of the composition of the whole must be very delicately balanced to allow the elements to form a greater harmony:
+Similarly, traditional Japanese ink paintings (called *sumi-e* [墨絵][ja] or *suiboku* [水墨][ja] in Japanese) favor asymmetry over symmetry, yet the tonality of the composition of the whole must be very delicately balanced to allow the elements to form a greater harmony:
 
 > the composition of a painting of this kind one can recognise no symmetry in any sense
 of the word, yet there is a sense of balance that reaches through
-the whole canvas; the surface left unpainted, wide and deep, balances with the dark shade of the sparrow and the power in the latter corresponds to that in the two or three bamboo leaves that are drawn particularly forcefully and prominently. Thus each of the components .has its essential position which is not to be altered. Through this connection of balance, this meeting of spirit, even a painting of this nature, with only one corner actually filled, gives a feeling of great richness of composition. 193--4
+the whole canvas; the surface left unpainted, wide and deep, balances with the dark shade of the sparrow and the power in the latter corresponds to that in the two or three bamboo leaves that are drawn particularly forcefully and prominently. Thus each of the components .has its essential position which is not to be altered. Through this connection of balance, this meeting of spirit, even a painting of this nature, with only one corner actually filled, gives a feeling of great richness of composition. 193--4§
 
 The rich feeling of the painting comes from the way that the viewer can perceive the creativity and spontaneity of the artist's brush just by looking. Each stroke is present and perfectly positioned, yet no simple, mechanical rule underlies their placement:
 
@@ -238,38 +238,38 @@ The rich feeling of the painting comes from the way that the viewer can perceive
 
 Our examples can be further multiplied since as Watsuji writes, "This characteristic can be discovered also in the No, in the tea-ceremony and in Kabuki, all of them arts born of a "meeting of feel- ing·'." 197§ Why does Watsuji emphasize the importance of asymmetry to the meeting point of feeling? A naïve reading is that the blank spaces in one's garden, painting, and so forth represent "emptiness." William Lafleur considers this interpretation of Watsuji in "Buddhist Emptiness in the Ethics and Aesthetics of Watsuji Tetsurō," but rejects it:
 
-> Exactly what he means here by 'the moment of negation' is the critical point. My argument will be that he does not simply mean that these arts have as a characteristic of them what is sometimes called 'negative expression' -
-> that is, the prolonged silences and empty spaces that can be found in them. That is, they do not simply provide uswith some kind of aesthetic embodi mentofjno'v,theNihil,orontologicalnegation.Watsuji,Ithink,hasamore
-> sophisticated view and in it themeaning of 'negation' is intimately linked to the notion of emptiness as co-dependent origination.
+> we may not identify emptiness with some kind of non-being which has been reified and now has managed to be mirrored by and through blank spaces on an artist's canvas. Such an interpretation would not only involve a facile mimeticism but would also involve a fundamental misunderstanding of the meaning of emptiness. For Watsuji's point about the void on the canvas is not that it makes palpable and concrete something metaphysical called 'non-being' but that it operates to make possible a series of relationships and reciprocities. (247)
 
-The more sophisticated view that Watsuji is trying to express is, according to Lafluer, about the dynamism of emptiness:
+The more sophisticated view that Watsuji is trying to express is, according to Lafluer, about the dynamic relationality of emptiness:
 
-> If we ask how this advances our understanding of Buddhist emptiness, we need at the outset to reject an interpretation which recommends itself as obvious but is, in fact,wrong andmisleading. As was suggested above, we may not identify emptiness with some kind of non-being which has been reified and now hasmanaged tobemirrored by and through blank spaces on an artist's canvas. Such an interpretation would not only involve a facile mimeticism but would also involve a fundamental misunderstanding of the meaning of emptiness. ForWatsuji's point about the void on the canvas is not that it
-> makes palpable and concrete something metaphysical called 'non-being' but that it operates tomake possible a series of relationships and reciprocities.
+> But then why does the art so conspicuously avoid and reject any representation through symmetry? The reason is, I think, that in Watsuji's view co-dependence is dynamic and multiple rather than static and single. In formal symmetry the balance and reciprocity is limited to the single and exact counterpart of a line, angle, or whatever. The observer can always designate the formal counterpart. But in the notion of emptiness there is reciprocity between forms and entities which are in no way mirror-images of each other. The mutuality is total even between rocks and moss, what is vast and what is minuscule. This mutuality is also open-ended and multiple. Surely it is one for which the formalized and objectified balance achieved in 'symmetry' is inadequate. (248)
 
-Sakai criticized Watsuji's emptiness as "reductive" of the subject, but the use of emptiness in Japanese art shows that the meaning of emptiness is just the opposite of reduction. Emptiness overflows in value, filling the garden or canvas, etc. with life. Hence, Lafluer argues, the real meaning of rejecting symmetry lies in the mutuality of relations with others. A father and son, for example, §§§
+Hence, Lafluer argues, the real meaning of rejecting symmetry lies in the non-symmetric mutuality of relations with others. A parent and child, for example, cannot come into being without one another, but the relationship between parent and child is not symmetrical, because parents and children are importantly different. So too, black ink of a bamboo shoot in _sumi-e_ harmonizes with the whitespace around it through their mutual co-arising---the bamboo would not be recognizable without a clear background and the background would be destroyed if the bamboo took up the whole canvas---yet the positions of the two cannot be interposed, since each gains its dynamic existence against the potential for loss (_sonzai_ [存在][ja]) in a unique manner.
 
-> But then why does the art so conspicuously avoid and reject any repre sentation through symmetry? The reason is, f think, that inWatsuji's view co-dependence is dynamic and multiple rather than static and single. In formal symmetry the balance and reciprocity is limited to the single and exact counterpart of a line, angle, or whatever. The observer can always designate theformal counterpart. But in the notion of emptiness there is reciprocity between forms and entities which are in no way mirror-images
-> of each other. The mutuality is total even between rocks and moss, what is vast and what isminuscule. This mutuality is also open-ended and multiple. Surely it isone forwhich the formalized and objectified balance achieved in
-> 'symmetry' is inadequate.3
+We previously explained that Sakai criticized Watsuji's emptiness as "reductive" of the subject, but we see from example of Japanese art that the meaning of emptiness is just the opposite of reduction. Emptiness overflows in value, filling the canvas with activity, the garden with life, and the tea hut with feeling. Sakai further charges that Watsuji's concept of persistent relationships (_aidagara_ [間柄][ja]) is overly symmetrical:
 
-- Hence the criticism Mayeda makes is kinda baffling.
-- Sakai at 113--4 talks about “symmetrical reciprocity” but I can’t tell why.
+> Assuming this predetermined harmony expressed by his concept of _aidagara_, one could easily understand why Watsuji defines the being-between of the human being as the transferential and mutual penetration of consciousnesses and as the symmetrical reciprocity of you and me. Of course, such a reciprocity cannot be attained in an ordinary situation, but the predetermined harmony of totality and the individual suggests the possibility of symmetrical reciprocity, pure sympathy, and eventually "communion" as the presence of national totality. (113--4)
 
+This interpretation of Watsuji is not wholly without grounding. Watsuji does suggest the possibility of reciprocity, sympathy, and even (somewhat concerningly) national totality; however, it is a mistake to refer to this as a "predetermined harmony" rather than a dynamic and evolving harmony, and Watsuji's notion of relationality is, we have seen, anything but symmetrical. Rather, he emphasized the ability of non-symmetrical relationships to nevertheless find a common ground in a harmonious meeting point of feeling.
 
 ####The interconnection of subjects in _renga_
   - Importance of community, context§
 
-An example of the meeting point of spirit worthy of an extended examination can be found in Japanese linked verse or _renga_ [連歌][ja], about which Watsuji explains,
+An example of the meeting point of spirit worthy of an extended examination can be found in Japanese linked verse or _renga_ [連歌][ja]. Linked verse is by its nature a collaborative process governed by the chances product of many imaginations rather than a single vision from a lead poet. In it, each poet contributes a verse which connects to the verse immediately before it, but not necessarily in continuity with the poem before that. Through this process, a group of poets would spend the evening creating a kaleidoscopic aesthetic performance in which the perspective of each poem shifts radically when read in juxtaposition with the poem after it rather than before it.  
+
+EXAMPLE RENGA§
+
+As we see, linked verse vividly demonstrates the importance of context to the object. No verse by itself has a particular meaning. Rather, its meaning depends crucially on what comes before and after it. On the other hand, linked verse also shows the way that such contextually dependent objects can begin to possess a life of their own which we ecstatically inhabit. As Watsuji writes in _Milieu_, 
 
 > Each verse in a linked poem has its own independent existence, yet there is a subtle link which unites these so that one existence evolves into another and there is an order which reaches through the whole. 196§
 
-Linked verse is by its nature a collaborative process governed by the chances product of many imaginations rather than a single vision from a lead poet. In it, each poet contributes a verse which connects to the verse immediately before it, but not necessarily in continuity with the poem before that. Through this process, a group of poets would spend the evening creating a kaleidoscopic aesthetic performance in which the perspective of each poem shifts radically when read in juxtaposition with the poem after it rather than before it.  Nevertheless, we do find something that connects these poems together while showing the individuality of the various authors. Watsuji asks,
+In spite of the kaleidoscopic recontextualizations of the individual verses,  nevertheless, there is something that connects these poems together to create a unitary whole. This whole shows the unity of authors as a collective subject while showing their particular individuality. How is this possible? Watsuji asks,
 
 > Yet how can such chance create artistic unity? Here again the answer lies in “meeting of feeling,” in this case a meeting of the heart. If there is no meeting between the tempers of a gathering of poets, no surpassing linked verse will come of the gathering. While preserving their own individuality, the poets combine their feelings and reveal their individual experience in a symphonic concord of each other’s hearts. (196)
 
-The aesthetic judgment of the participants clearly requires a certain frame of mind which can unite them in spite of their differences, and that this frame of mind can exist at all reveals to us the twofold nature of the human subject as both individual and collective. Because the human being is both individual and collective, linked verse is able to show the personality of its many collaborators both individually and collectively without having to negate one for the sake of the other. The structure of the linked verse meeting provides the authors with detachment from their ordinary concerns but their appreciation for their mutually crafted verses allows them to express their hearts openly in a “symphonic concord” of merging perspectives.
+The aesthetic judgment of the participants clearly requires a certain frame of mind which can unite them in spite of their differences, and that this frame of mind can exist at all reveals to us the twofold nature of the human subject as both individual and collective. When the participants achieve the meeting point of spirit, a greater whole is created out of which aesthetic judgment comes to have a normative force. Because the human being is both individual and collective, linked verse is able to show the personality of its many collaborators both individually and collectively without having to negate one for the sake of the other. The structure of the linked verse meeting provides the authors with detachment from their ordinary concerns but their appreciation for their mutually crafted verses allows them to express their hearts openly in a “symphonic concord” of merging perspectives.
 
+CUT??§§
 > Objects seeming to have no conceivable connection in the matter of
 content are linked one with another in accordance with associations §196
 in the words themselves. This is truly the extreme of illogicality in comparison with the picture given where content provides a logical thread. Yet this marshalling of words according to an association of ideas does make one sense a strong flavour of compositional unity in the whole, for even though there may be no link of intellectual
@@ -279,7 +279,13 @@ content between words, yet they are threaded together by emotional content.§197
 "meeting of feeling". §197
 
 
-One incident in the life of the *renga* poet Bashō ([芭蕉][ja], §§--§§) illustrates a key aspect of aesthetic judgment. One time a dispute arose about the proper interpretation of his disciple Kyorai’s poem, “On the edge of this rock, / Here is one more / Moon-viewer”:
+One incident in the life of the *renga* poet[^] Matsuo Bashō ([松尾 芭蕉][ja], 1644--1694) illustrates a key aspect of aesthetic judgment. One time a dispute arose about the proper interpretation of a poem by his disciple Kyorai ([去来][ja], 1651--1704). 
+
+
+
+“On the edge of this rock, / Here is one more / Moon-viewer”§
+
+[^]: Bashō is now often referred to as a haiku poet, but this is anachronistic. In Bashō's time, the initial verse of a *renga* sequence was referred to as a *hokku* [発句][ja]. The term *haiku* [俳句][ja] was coined by Masaoka Shiki ([正岡 子規][ja], 1867--1902) to refer to *hokku* which exist independent of a *renga* sequence. While Bashō certainly wrote what we would now call haiku, to properly understand his career it is important to recall that he considered himself a master of *renga*, not merely isolated verse.
 
 > Kyorai said, “Shadō asserted that this must be a monkey, but what I intend is another person.” Bashō retorted, “A monkey! What does he mean? What were you thinking when you composed the poem?” Kyorai answered, “As I was walking over the fields and mountains, singing under the light of the full moon, I found, on the edge of a rock, another man filled with poetical excitement.” Bashō said, “In the phrase, ‘There is one more person,’ you announce yourself; in this there is poetry.” […] My poetical taste is below the highest, but in Bashō’s interpretation, there is something fantastic, I think.[^]
 
@@ -287,7 +293,7 @@ One incident in the life of the *renga* poet Bashō ([芭蕉][ja], §§--§§) i
 
 About this incident, the translator R.H. Blyth remarks, “we have here the entertaining picture of Bashō telling Kyorai, not what he ought to have said, but what he ought to have meant by what he said” (343). Why is Bashō’s interpretation preferred over Kyorai’s? What is the source of his authority? As the master of Kyorai, Bashō is in a position to offer an authoritative interpretation of Kyorai’s work. Through a lifetime of training, Bashō has made himself able to instantly size up the merits of a haiku. He is able to speak for the poetic betweenness in which they operate. At the same time, one of the reasons that it is Bashō and not someone else who is in that position is that Kyorai as the author had always intended for the poem to be evaluated for someone with the degree of insight that he considered his master to have. Thus, as an author, Kyorai has the authority to invest Bashō with a claim to the authoritative interpretation. Bashō is the “ideal observer” or “suitable spectator” for the poem because he has cultivated his taste to its utmost. But notice that the judgment that Bashō achieved came not through passive contemplation or reflection but through a lifetime of embodied engagement in the poetic arts. Thus, it is better to describe Bashō not as “ideal observer” but as an “authoritative agent.” The connoisseur must be in some sense an accomplished creator who enacts their artistry as an expression of the betweenness out of which the artistic community emerges.
 
-Notice also Bashō’s interpretation of the poem: “In the phrase, ‘There is one more person,’ you announce yourself.” The experience of this verse also fits within the structure of detachment and ecstasy. “On the edge of this rock” introduces the scene with detachment. From a distance, the poet is observing a far off mountain peak. Then the poet writes, “There is one more.” From a detached perspective, this merely introduces another object of contemplation. But as Bashō recognizes, the detached perspective must now gain greater depth through its reflexivity. There is one more on the mountain, and I am on the mountain. This leads inexorably to the moment of aesthetic appreciation in which the difference between the poet’s self and the other on the peak are given union in a broader context: they are all moon-viewers, even the edge of the rock. In the moment of the aesthetic judgment, the subject expands to encompass everything, but the authority§ to speak for that subject is invested foremost in one who has cultivated the ability actively crystalize such moments.
+Notice also Bashō’s interpretation of the poem: “In the phrase, ‘There is one more person,’ you announce yourself.” The experience of this verse also fits within the structure of detachment and ecstasy. “On the edge of this rock” introduces the scene with detachment. From a distance, the poet is observing a far off mountain peak. Then the poet writes, “There is one more.” From a detached perspective, this merely introduces another object of contemplation. But as Bashō recognizes, the detached perspective must now gain greater depth through its reflexivity. There is one more on the mountain, and I am on the mountain. This leads inexorably to the moment of aesthetic experience in which the difference between the poet’s self and the other on the peak are given union in a broader context: they are all moon-viewers, even the edge of the rock. In the moment of the aesthetic judgment, the subject expands to encompass everything, but the normative authority to speak for that subject is invested by the aesthetic community in one who has cultivated the ability actively crystalize such moments.
 
 - Hon’i vs. shii: Has to be here, to explain why hon’i are normative and how the subject is a field.§
 - Re: also emotion in Japanese verse. The scene “contains” the emotion already. Isn’t that absurd though? No, because the containing is about an active engagement of subject and object, not a passive reception of the object by the subject. Hence Watsuji’s aesthetics are a re-descriptive of Japanese history not accidentally or insidiously but essentially since re-description is what we do when we do aesthetics.
@@ -298,25 +304,36 @@ One of the central considerations for any poet in that period of Japanese histor
 > <br/>
 > _Kono michi ya / yuku hito nashi ni / aki no kure_<br/>
 > <br/>
-> This path / is without a traveller / at the autumn dusk.
+> Autumn dusk / on this path /without a traveller.[^]
+
+[^]: My translation here and below.
 
 In this verse, Bashō is doing several things simultaneously. Concretely, he observes the lonesome emptiness of the path he walks. Abstractly, he complains that few follow the Way or Dao [道][zh] to which he has dedicated his life. Literally, he connects himself into a long tradition of poetry about the lonesomeness of the evening in autumn. The overall effect of the verse comes from the interpenetration of these aspects in a single moment of time. 
 
-さびしさの うれしくもあり 秋の暮れ
-sabishisa no ureshiku mo ari aki no kure
-Yosa Buson (與謝蕪村)
+Yosa Buson ([與謝 蕪村][ja], 1716--1783) continued the poetic tradition of forlorn dusks but tweaks it a bit:
 
-Kawamoto explains, 
+> [さびしさの / うれしくもあり / 秋の暮れ][ja]<br />
+> <br />
+> *sabishisa no / ureshiku mo ari / aki no kure*<br />
+> <br />
+> The loneliness of / the autumn dusk / also has its joys.
+
+Hence we see that the aesthetic community of the linked verse or haiku poets advanced into novel harmonies by proposing *hon’i* and then subjecting these aesthetic judgments to further exploration and refinement through the interpenetration of personal experience and literary allusion. Kawamoto explains, 
 
 >_Hon’i_ is usually explained as the essential qualities inherent in an object and the emotional response deemed appropriate. However, […] the actual qualities of the phenomenon itself were second to the conceptual qualities acquired through literary precedent. To give a twist to Oscar Wilde’s famous remark […], there may have been autumn dusks for centuries in Japan, but no one saw them until the age of the _Shinkokinshū_ (ca. 1210), when the theme of autumn evening began to attract markedly strong interest.[^]
 
 [^]: Kawamoto, p. 61. Oscar Wilde’s famous remark is “There may have been fogs for centuries in London. I dare say there were. But no one saw them, and so we do not know anything about them. They did not exist till Art had invented them” (Kawamoto 10).
 
-For Bashō and other Japanese poets, the aim of poetry is the kind of naturalness that arises when things are able to express themselves as they are, including emotionally. Hattori Dohō ([服部土芳][ja], 1657--1730), one of Bashō’s students, records in _Sanzōshi_ [三冊子][ja]: “ ‘Learn of the pine from the pine; learn of the bamboo from the bamboo.’ These words of our Master mean to distance oneself from private implications ([私意][ja] _shii_).”[^] In other words, when Bashō writes emotionally charged poems about the world, he takes it that these poems are not drawing from any private or subjective emotional associations with things in the world (_shii_), but from a proper understanding of the emotionality embedded in the world (_hon’i_).
+For Bashō and the other Japanese poets, the aim of poetry is the kind of naturalness that arises when things are able to express themselves as they are, including emotionally. Hattori Dohō ([服部土芳][ja], 1657--1730), one of Bashō’s students, records one of his teachings in _Sanzōshi_ [三冊子][ja]: 
 
-[^]: §§My own translation. See Nakamura (252) for the original text.
+> "Learn of the pine from the pine; learn of the bamboo from the bamboo." These words of our Master mean to distance oneself from private implications ([私意][ja] _shii_).”[^] 
 
-Another example of _hon’i_ of things comes from Bashō's _Oku no Hosomichi_ [奥の細道][ja] (_The Narrow Path to the Interior_):
+[^]: §§My own translation.
+
+In other words, when Bashō writes emotionally charged poems about the world, he takes it that these poems are not drawing from any private or subjective emotional associations with things in the world (_shii_), but from a proper understanding of the emotionality embedded in the world as a matrix of natural and social co-construction (_hon’i_).
+
+
+Another example of _hon’i_ of things comes from Bashō's _The Narrow Path to the Interior_ (_Oku no Hosomichi_ [奥の細道][ja], ):
 
 > [行春や / 鳥啼魚の / 目は泪][ja]<br/>
 > <br/>
@@ -330,14 +347,15 @@ Formally speaking, the poem consists of two parts divided by the cutting word _y
 > The nation shattered, mountains and rivers remain;<br />
 > city in spring, grass and trees burgeoning.<br />
 > Feeling the times, blossoms draw tears;<br />
-> hating separation, birds alarm the heart” (Watson 30). 
+> hating separation, birds alarm the heart.[^]
 
+[^]: Translation form Watson, p. 30. 
 
-Here we can see the core elements that Bashō’s poem has refashioned to capture his experience: spring, tears, separation, and birds. The only missing element are the fish. In general, Bashō’s writing often skillfully refashioned Chinese and Japanese sources to give them a personal twist
+Here we can see the core elements that Bashō’s poem has refashioned to capture his experience: spring, tears, separation, and birds. The only missing element are the fish. In general, Bashō’s writing often skillfully refashioned ancient Chinese and Japanese sources to give them a personal twist.
 
-In the second part of the poem, we are given a concrete image of spring’s passing that relies on this association. In Japanese, both the singing of birds and the mourning of humans are called _naki_ (crying), and Bashō has played up this ambiguity by writing _naki_ with the character 啼, which can have either meaning, rather than using 泣, which specifically means mourning, or 鳴, which specifically means birdsong. Within the narrative context of _The Narrow Road to Oku_, we form a mental picture of Bashō as he and his disciple leave to begin their long journey. Bashō explains: “I set out after composing this verse, the first of my journey, but I could barely keeping going ahead, for when I looked back I saw my friends standing in a row, no doubt to watch until we were lost to sight” (Keene 23).
+In the second part of the poem, we are given a concrete image of spring’s passing that relies on this association. In Japanese, both the singing of birds and the mourning of humans are called _naki_ (crying), and Bashō has played up this ambiguity by writing _naki_ with the character [啼][ja], which can have either meaning, rather than using 泣, which specifically means mourning, or [鳴][ja], which specifically means birdsong. Within the narrative context of _The Narrow Path to the Interior_, we form a mental picture of Bashō as he and his disciple leave to begin their long journey. Bashō explains: “I set out after composing this verse, the first of my journey, but I could barely keeping going ahead, for when I looked back I saw my friends standing in a row, no doubt to watch until we were lost to sight” (Keene 23).
 
-Reading this, some critics might suggest that the concreteness of the poem’s imagery is undercut by Bashō’s strong emotional response. As Japanese literature critic Haruo Shirane notes in _Traces of Dreams_, the birds and fish seem to “mourn the passing of the spring, and by implication the departure of the traveler” (247). Yet, a critic might claim, this is surely impossible for birds and fish. Moreover, some commentators take the poem as perhaps representing travellers by the passing spring or allegorically identifying the disciples left behind with the fish and the departing Bashō and Sora with the birds (Shirane 247). Other scholars interpret the image of the fish’s tears more literally by seeing them as beads of water on fish in a fishmonger’s shop (Kawamoto 85). 
+Reading this, some critics might suggest that the concreteness of the poem’s imagery is undercut by Bashō’s strong emotional response. As Japanese literature critic Haruo Shirane notes in _Traces of Dreams_, the birds and fish seem to “mourn the passing of the spring, and by implication the departure of the traveler” (247). Yet, a critic might claim, this is surely impossible for birds and fish. Moreover, some commentators take the poem as perhaps representing travelers by the passing spring or allegorically identifying the disciples left behind with the fish and the departing Bashō and Sora with the birds (Shirane 247). Other scholars interpret the image of the fish’s tears more literally by seeing them as beads of water on fish in a fishmonger’s shop (Kawamoto 85). In any event, for Bashō §§§
 
 Kawamoto notes that _hon’i_ are difficult to categorize using traditional Western schemes of classification since they are neither clearly subjective nor clearly objective (2--4). Kawamoto explains,
 
