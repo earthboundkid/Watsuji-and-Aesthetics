@@ -29,4 +29,9 @@ Wollheim, Richard. “On Pictorial Representation” in Aesthetics and the Philo
 G.W.F. Hegel Philosophy of Right Translated by S.W Dyde Batoche Books Kitchener 2001
 Plato's _Symposium_
 Lafluer Buddhist Emptiness in the Ethics and Aesthetics of Watsuji Tetsurō
-Burton Watson, p. 30. 
+_Sanzōshi_
+Take from Mosiac:
+	Keene, p. 23.
+	Haruo Shirane notes in _Traces of Dreams_
+	Burton Watson, p. 30. 
+	Kawamoto
