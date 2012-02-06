@@ -35,3 +35,4 @@ Take from Mosiac:
 	Haruo Shirane notes in _Traces of Dreams_
 	Burton Watson, p. 30. 
 	Kawamoto
+_Science and the Modern World_
