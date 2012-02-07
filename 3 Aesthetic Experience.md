@@ -9,10 +9,8 @@ body-class: unnumbered
 [de]: lang:de
 [fr]: lang:fr
 
-* Carl Johnson, Dec. 19, 2011
-
 ##Chapter 3. Aesthetic Experience as Distancing, Dissolution, and Disinterest
-
+####Contents:
 <toc />
 
 ###Defining aesthetics
@@ -129,12 +127,12 @@ Second, Bullough writes that the “antinomy of distance” in aesthetic experie
 
 [^fn3-16]: Emphasis is Bullough’s.
 
-###Meeting point of feeling in aesthetic judgment
+###Coming together of feeling in aesthetic judgment
 We must be clear to distinguish the unity of the subject and _object_ from the unity of the self and _other_. The first is, strictly speaking, an aesthetic movement, and the second is an ethical movement. In practice, however, these two movements cannot be cleanly separated (a point emphasized by Nishida), but we find that the ethical movement is always prior to the aesthetic movement and must exist beforehand in order to make the aesthetic movement possible. On the other hand, the aesthetic movement, while posterior to the ethical movement, creates new possibilities for future ethical moments to explore and can lead to radical shifts in how the ethical movement is actualized. As a result, we find that we have to treat the two movements as interrelated, since the one is so often the ground of the other. 
 
 If now we return to the question of subjectivity or objectivity of aesthetic judgment, we see why both answers were unsatisfying. Locating the aesthetic in either the subject or object will be unsatisfying because the aesthetic moment cannot be the product of either one singly. Whether we describe it as a neutral subject receiving the value of the object or the aesthetically-minded subject projecting value feelings onto a neutral object, we have separated the subject and object in a way that is unreflective of aesthetic experience. At the same time, we cannot completely abolish the difference between the subject and object, since to do so would preclude the possibility of the aesthetic moment. Rather, we must preserve aesthetic experience as a possibility that expresses the underlying unity of subject and object through their division and union.
 
-A full exploration of the feeling of ecstasy will have to wait for the next chapter and our exploration of the subject constructed in aesthetic experience, but there are a few initial remarks that can be made here. If an aesthetic experience is properly crafted, we find ourselves at meeting point with the feeling of the creator of the experience, with those other members of the audience with whom we share the experience, and with the object of that experience. Though my feelings and the feelings of those others can be distinguished, in the aesthetic experience, they share a common root in the ecstasy unity underlying the moment. Hence it is improper to think of aesthetic experience as a “subjective” phenomenon in a simple sense. Aesthetic experience is precisely the sort of experience in which the subjective gives itself over to the object.
+A full exploration of the feeling of ecstasy will have to wait for the next chapter and our exploration of the subject constructed in aesthetic experience, but there are a few initial remarks that can be made here. If an aesthetic experience is properly crafted, we find ourselves coming together with the feeling of the creator of the experience, with those other members of the audience with whom we share the experience, and with the object of that experience. Though my feelings and the feelings of those others can be distinguished, in the aesthetic experience, they share a common root in the ecstasy unity underlying the moment. Hence it is improper to think of aesthetic experience as a “subjective” phenomenon in a simple sense. Aesthetic experience is precisely the sort of experience in which the subjective gives itself over to the object.
 
 When we examine closely the phenomena of everyday experience we begin to find numerous examples in which the supposedly individual and atomic self seems to merge with others in aesthetic experience as a part of the aesthetic grasping of the object. These are moments in which the ego of the individual can be felt melting into the crowd as the crowd grasps the world before it. We experience such moments when we watch our home team score a crucial goal before the end of the game or when take part in any number of civic and religious functions from a Fourth of July parade to a wedding ceremony. The standpoint of traditional anthropology is to try to explain these events as deriving from individual drives and desires or the group’s need for unity and survival, but such explanations fail to connect the level of individual experience to the group imperative. But if the subject is something that is fundamentally connected to others then shared aesthetic experience is possible, and shared aesthetic judgment will be comprehensible when we examine it in the next chapter.
 
@@ -154,7 +152,7 @@ Here “effecting relief” is a translation of [κάθαρσις][el] (“clean
 
 [^fn3-19]: Aristotle. _Politics_, Book VIII, 1342a in *Aristotle in 23 Volumes*, Vol. 21, trans. W.H. Fyfe (Cambridge, MA: Harvard U. Press), 1932.
 
-In comparison to the other theories considered here, Aristotle’s is somewhat narrow since it is concerned with very specific artforms, but on the other hand, it has an admirable depth of reflection, particularly considering his disadvantage of writing first. In our language, what makes the enjoyment of catharsis possible is precisely the distancing of the ordinary self in the theater and the subsequent meeting point of feeling with the actor and one’s fellow members of the audience.
+In comparison to the other theories considered here, Aristotle’s is somewhat narrow since it is concerned with very specific artforms, but on the other hand, it has an admirable depth of reflection, particularly considering his disadvantage of writing first. In our language, what makes the enjoyment of catharsis possible is precisely the distancing of the ordinary self in the theater and the subsequent coming together of feeling with the actor and one’s fellow members of the audience.
 
 ####Nietzsche and theater
 In _A Study of Nietzsche_ (1913), Watsuji follows Nietzsche’s lead in describing the Dionysian intoxication of the audience of Greek tragedy,
@@ -213,7 +211,7 @@ In _Theater East and West_, Leonard Pronko writes that
 
 > If the actor must know himself, he must also know his public; Zeami deemed it of the utmost importance that an actor be constantly aware of the needs of his audience, and that he must answer those needs. (81--2)
 
-When the actor is aware of himself and his audience, he creates the distance which allows the union of the audience and actor in a meeting point of feeling. In that meeting point, the audience become one with each other as their attention focuses on the artistry of the actor as the object of their experience, and the actor becomes one with them as he watches himself with the seeing of distant seeing. It is a meeting point in which the psychic distance between audience, actor, and art is minimized without ever quite collapsing. 
+When the actor is aware of himself and his audience, he creates the distance which allows the union of the audience and actor. When they come together in feeling, the audience become one with each other as their attention focuses on the artistry of the actor as the object of their experience, and the actor becomes one with them as he watches himself with the seeing of distant seeing. It is a coming together in which the psychic distance between audience, actor, and art is dynamically minimized without ever quite collapsing. 
 
 The core aesthetic value of Noh for Zeami and others is _yūgen_ ([幽玄][ja]), an untranslatable term of art. _Yūgen_ suggests darkness, depth, profundity, and mystery. It can be seen in the delicate play of shadows in the emotional space between the mask and audience. It is beautiful blurring of the hazy border that separates the selves of the actor, character, and audience. 
 
@@ -221,7 +219,7 @@ Pronko attempts to explain,
 
 > The difficult term _yūgen_, suggested by the stylized beauty of the mask and the spiritual reality behind it, has been translated many different ways; indeed it is difficult to pin down, for Zeami used it with different meanings over a period of thirty-six years. The primary meaning of _yūgen_ is “the occult,” or as Waley translates it, “what lies beneath the surface.” […] _Yūgen_, no doubt attempts to describe something it can only suggest. If its essence cannot be defined, its results can least be experienced by those with sufficient sensitivity and background. (86)
 
-Pronko is an excellent student of Japanese theater, but if Sakabe is to be believed, Pronko was led astray here by his Western vocabulary. _Yūgen_ can be translated as “the occult,” but this does not mean that what is being occulted is an essence hidden below the surface. _Yūgen_ is rather the way that the depths of the character are constructed entirely on the surface as a surface. Through interaction, an aesthetic subject is constructed as the negation of absolute nothingness. In the next chapter, we must explore this subject and the aesthetic judgments it makes at the meeting point of feeling.
+Pronko is an excellent student of Japanese theater, but if Sakabe is to be believed, Pronko was led astray here by his Western vocabulary. _Yūgen_ can be translated as “the occult,” but this does not mean that what is being occulted is an essence hidden below the surface. _Yūgen_ is rather the way that the depths of the character are constructed entirely on the surface as a surface. Through interaction, an aesthetic subject is constructed as the negation of absolute nothingness. In the next chapter, we must explore the subject and object of aesthetic judgment in greater detail.
 
 <figure>
 ![Figure 2. Noh mask shown from three angles][mask]
@@ -229,3 +227,4 @@ Pronko is an excellent student of Japanese theater, but if Sakabe is to be belie
 </figure>
 
 [mask]: file:///Users/cjohnson/Dropbox/Text/Dissertation/images/noh_mask.jpg =600
+
