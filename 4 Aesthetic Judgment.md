@@ -23,7 +23,7 @@ In the last chapter, we began our hermeneutic inquiry into aesthetics with an at
 
 ###Who is the subject?
 ####Subject as agent
-As mentioned previously, Naoki Sakai is critical of what he feels is Watsuji’s project of “reducing” the subject to a twofold structure of individual and community as _ningen_. While I feel that Sakai’s criticisms are somewhat wide of the mark, he does do a service for readers who are primarily familiar with Watsuji in translation. In _Return to the West/Return to the East_, he notes that the word “subject” has many renderings in Japanese:
+As mentioned previously, Naoki Sakai is critical of what he feels is Watsuji’s project of “reducing” the subject to a twofold structure of individual and community as _ningen_. While I feel that Sakai’s criticisms are somewhat wide of the mark, he does do a service for readers who are primarily familiar with Watsuji in translation. In *Translation and Subjectivity*, he notes that the word “subject” has many renderings in Japanese:
 
 > _Shutai_ [[主体][ja]] was introduced into Japanese intellectual vocabulary as a neologism, as one of the translations for “subject,” _sujet_, or _Subjekt_, other translations being _shugo_ [[主語][ja]] (propositional subject), _shukan_ [[主観][ja]] (epistemic subject), _shudai_ [[主題][ja]] (thematic subject), _shinmin_ [[臣民][ja]] (subject of the emperor), among others. (119)
 
