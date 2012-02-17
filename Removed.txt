@@ -82,3 +82,53 @@ Kant in the third critique declares that, "_Beauty_ is an object's form of *purp
 [^]: Ak. V. 236.
 [^]: Ak. V. 219.
 K defines beauty as purposeless purposefulness
+
+- - - -
+
+- What is it for an object to have fullness?
+	- Kant on Purposiveness
+    - Ends vs. Means, Intrinsic value vs. Instrumental value, is the core of what it is to have Kantian disinterest. The disinterested view just "lets it be." Watsuji is similar, but for him being is doing. How you go about letting it be is active, not contemplative. Think about fanfic and fan-wikis and fannon. These things show that "letting it be" means "letting it do."
+
+
+
+
+
+Aesthetic judgment is an expression of aesthetic experience as a judgment, so it can only be made after the division of a subject from an object, but this division does not reflect the primordial nature of the subject and object, which are originally united. Nevertheless, we may characterize aesthetic judgment as “subjective” in the sense that the nature of the subject determines the nature of the aesthetic experience that is possible. The division and union that are constitutive of aesthetic experience are particular to a subject. However, unlike Kantian aesthetics, we need not appeal to a universal rational subject to bring communicability to our subjective aesthetic judgments, since for Watsuji, the subject is not isolated, but fundamentally relational and interconnected. As such, although aesthetic experience is the experience of particular subjects, it is not therefore a private experience. Where particular subjects “overlap,” even their otherwise personal judgments can be shared. The nature of the self as relational means that aesthetic experience can be deeply subjective but nevertheless communicable to other persons.
+
+- - - -
+
+In exploring the role of community in creating aesthetic normativity, we had to come to a greater understanding of the nature of subject as communal. However, it is not enough to see this enlarged subject as something disembodied which passively observes the world from a distance through the eyes of the individuals that make it up. We must remember that the subject through which we grasp aesthetic experience should not been seen as a Kantian _cogito_ appended to each of our internal presentation of objects. Rather, the subject is an active subject that inhabits this world physically:
+
+> The attempt to consider "consciousness" by means of epistemology or psychology originates with the modern ego-consciousness, which divides the individual into body and mind and deals with the mind separately from the body. […] But the position of the _cogito_, which takes body as mere "matter," should be submitted to severe criticism. The body is not merely the same as any other object but is basically something subjective. As an observer of phenomena, one's eye is not matter as an object but is observing as a subject. Even the hand of an acting person is not an objective matter but the hand of an acting person. Moreover, apart from the subjective physical body, no human relationships could arise at all. (152)
+
+- - - -
+
+> Exactly what he means here by ‘the moment of negation’ is the critical point. My argument will be that he does *not* simply mean that these arts have as a characteristic of them what is sometimes called ‘negative expression’---that is, the prolonged silences and empty spaces that can be found in them. That is, they do not simply provide us with some kind of aesthetic embodiment of [μὴ ὄν][el], the Nihil, or ontological negation. Watsuji, I think, has a more sophisticated view and in it the meaning of ‘negation’ is intimately linked to the notion of emptiness as co-dependent origination. (246)
+
+- - - - -
+
+
+Truth vs. normativity
+WTZ10:286–7 真理 is subjective first and only becomes the noematic contemplative truth later.
+
+> If rational truth (真理) is supposed to mean the truth of episteme, then this rational truth **born only of the union of the intellect and the will**, that is, the two sides of mere rationality. Thus, rational truth means a problem of the correspondence of the logical and the ethical. This is the basic law (根本法則) of rational truth. WTZ10:287
+
+> Here, relations between human beings decide the issue of truth or falsehood, not the relation between a fact and a word. 274
+
+274 doctors hiding diseases from patients
+
+> To deceive another person is a betrayal of trust. It cannot occur at a place where there is no trust. 274
+
+> In such cases, _makoto_ is more than the congruence of a fact with a word or of a word with a deed, even though congruence of this sort is expected as a matter of course at the place where _makoto_ occurs. 275
+
+Annette Baier in "Trust and Antitrust" explains many of the relevant properties of trust which also underlie this case. First, trust is to be distinguished from mere reliance. A prisoner may eat the food given by a torturing guard because there is no choice, but this is a situation of mere reliance, not trust. The prisoner cannot take for granted the food will not be poisoned or laced with psychoactive drugs, and prisoners who comes to trust their guards too readily are acting wrongly. A prisoner who suffers harm at the hands of a guard may be disappointed but this disappointment of desires or even expectations cannot be called a betrayal of trust. Trust goes beyond bare reliance to a "reliance on others’ competence and willingness to look after, rather than harm, things one cares about which are entrusted to their care" (Baier 1986: 259). In most cases in life, we exercise this trusting reliance unconsciously and without any specifically delimited expectations of what we trust the trusted person to do. Because of its open ended nature, trusting someone always involves an element of discretion that must be exercised by the trusted party:
+
+> Suppose I look quickly around me before proceeding into the dark street or library stacks where my business takes me, judge the few people I discern there to be nondangerous, and so go ahead. We can say that my bodily safety, and perhaps my pocketbook, are the goods I am allowing these people to be in a position to threaten. I trust them, it seems, merely to leave me alone. But this is not quite right, for should a piece of falling masonry or toppling books threaten to fall on my head, and one of these persons leap into action and shove me out of this danger, I would regard that as rather more than less than I had trusted these strangers to do---a case for gratitude, not for an assault charge, despite the sudden, unceremonious, possibly painful or even injurious nature of my close encounter with my rescuer. (Baier 1986: 237)
+
+On the other hand, consider a similar case where a stranger with perfectly good intentions suddenly prevents our smoking a cigarette by soaking us with water, eating an unhealthy food by snatching it from us, or walking obliviously down a dark alley by giving us a fright to teach us a lesson about being more aware. In these situations, the trusted party has exceeded the bounds of the trust relationship in spite of acting out of good intentions with the interests of the trusting party in mind. Thus, the reliance of the trusting party and the good will of the trusted party are not enough by themselves to constitute a properly functioning trust relationship. Trust relationships are mediated by socially acceptable roles and unspoken understandings. Indeed, under certain circumstances we might even grudgingly forgive such uncouth interventions if they came from an intimately trusted party, like a spouse or a parent. But without a deeper connection to the trusted party, such behaviors are gross violations of trust.
+
+Baier proposes a test for evaluating the moral decency of a trust relationship, "that its continuation need not rely on successful threats held over the trusted, or on her successful cover-up of breaches of trust" (Baier 1986: 255). More generally, she explains that, "A trust relationship is morally bad to the extent that either party relies on qualities in the other which would be weakened by the knowledge that the other relies on them" (Baier 1986: 255–6). In other words, a good trust relationship is one which could survive the publicizing of the mechanisms which underlie the perpetuation of the relationship. One does not feel betrayed to learn that a police officer has a cash incentive to serve the public in addition to a sense of good will, but one would be devastated to learn one’s spouse was accepting payments to remain in the marriage. Conversely, one is gratified to learn of the erotic attachment of a spouse to one’s body but revolted and frightened to learn of the same motivation driving a police officer. What sorts of motivations are acceptable or unacceptable for the maintenance of a trust relationship depends on the social construction of that relation.
+
+As Baier points out, any time trust is brought into question, it suffers even if it passes the test. In some cases,
+
+> it may well be that the attempt to apply [the test of trust] will ensure its failing the test. Trust is a fragile plant, which may not endure inspection of its roots, even when they were, before the inspection, quite healthy. […] But to trust one's trust and one's distrust enough to refrain from applying moral tests until prompted by some distrust is to take a very risky bet on the justice, if not the ‘civilization,’ of the system of trust one inhabits. We may have to trade off civilization for justice, unless we can trust not only our trust but, even more vitally, our distrust. (Baier 1986: 260)
