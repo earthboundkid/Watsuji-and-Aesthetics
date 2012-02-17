@@ -4,6 +4,8 @@
 
 * Aristotle. _Nicomachean Ethics_. Second Edition. Translated by Terence Irwin. Indianapolis: Hackett, 1999.
 
+* Bownas, Geoffrey, trans. _Climate and Culture: A Philosophical Study_. New York: Greenwood Press, 1988.
+
 * Baumgarten, Alexander Gottlieb. *Aesthetica*. `http://www.archive.org/details/aestheticascrip00baumgoog`.
 
 * Chiaro Brivio. “The Human Being: When Philosophy Meets History, Miki Kiyoshi, Watsuji Tetsurō and their Quest for a New Ningen.” Doctoral thesis, University of Leiden, 2009. `https://openaccess.leidenuniv.nl/handle/1887/13835`.
@@ -42,17 +44,18 @@
 
 * Watson, Burton. _The Selected Poems of Du Fu_. New York: Columbia University Press, 2002.
 
-* [Watsuji][sc] Tetsurō. _[Watsuji][sc] Tetsurō’s_ Rinrigaku: _Ethics in Japan_. Translated by Seisaku Yamamoto and Robert Carter. Albany: SUNY Press, 1996. 
+* Whitehead, Alfred North. _Adventures in Ideas_. New York: Free Press, 1993.
+
+* ———. _Science and the Modern World_. Paperback edition. New York: Free Press, 1967.
 
 * Wollheim, Richard. “On Pictorial Representation.” In *Aesthetics and the Philosophy of Art*, edited by Peter Lamarque and Stein Haugom Olsen, 396--405. Blackwell, 2004. 
+
+* Yamamoto, Seisaku and Robert Carter, trans. _[Watsuji][sc] Tetsurō’s_ Rinrigaku: _Ethics in Japan_. Albany: SUNY Press, 1996. 
 
 * [Yoshida][sc] Kazuhisa. “Two Faces of Postmodernism: Postmodernist Critiques of Cultural Typologies and the Future of Comparative Studies of Culture.” Saitama University Journal (Culture Division) _Saitama Daigaku Kiyō (Kyōyō Gakubu)_ 埼玉大学紀要（教養学部） 46.2 (2010), 219--241. `http://sucra.saitama-u.ac.jp/modules/xoonips/detail.php?item_id=14722`.
 
 * Zemach, Eddy. “Putnam’s Theory on the Reference of Substance Terms.” _The Journal of Philosophy_ 73.5 (Mar., 1976): 116-127. `http://www.jstor.org/stable/2025740`.
 
-* Whitehead, Alfred North. _Adventures in Ideas_. New York: Free Press, 1993.
-
-* ———. _Science and the Modern World_. Paperback edition. New York: Free Press, 1967.
 
 ##Japanese language sources
 Morohashi
@@ -66,3 +69,6 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 catb.org/jargon/html/koans.html
 
 [sc]: class:smallcaps
+
+
+
