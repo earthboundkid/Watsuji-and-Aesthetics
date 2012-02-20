@@ -74,3 +74,5 @@ catb.org/jargon/html/koans.html
 
 On Japanese Things and Words: An Answer to Heidegger's Question Author(s): Michael F. Marra Source: Philosophy East and West, Vol. 54, No. 4 (Oct., 2004), pp. 555-568
 Stable URL: http://www.jstor.org/stable/4148019
+
+Makoto Ueda comments in _Matsuo Bashō_
