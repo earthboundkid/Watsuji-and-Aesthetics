@@ -1,8 +1,21 @@
+[sc]: class:smallcaps
+
 #Bibliography
-##English language sources
+##Japanese language sources
+Morohashi
+
+Nose Asaji. *Sanzōshi hyōshaku* (Tokyo: Meicho Kankōkai, 1970)
+T
+Shogakukan’s _Ruigo Jiten_
+
+wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻哲郎全集][ja]
+
+##Other sources
 * Ames, Roger and David Hall. _Dao De Jing “Making This Life Significant”: A Philosophical Translation_. New York: Ballantine, 2003.
 
 * Aristotle. _Nicomachean Ethics_. Second Edition. Translated by Terence Irwin. Indianapolis: Hackett, 1999.
+
+* Blyth, R. H. _Haiku. Volume I: Eastern Culture_. Paperback edition. Tokyo: Hokuseido Press, 1981.
 
 * Bownas, Geoffrey, trans. _Climate and Culture: A Philosophical Study_. New York: Greenwood Press, 1988.
 
@@ -54,25 +67,15 @@
 
 * [Yoshida][sc] Kazuhisa. “Two Faces of Postmodernism: Postmodernist Critiques of Cultural Typologies and the Future of Comparative Studies of Culture.” Saitama University Journal (Culture Division) _Saitama Daigaku Kiyō (Kyōyō Gakubu)_ 埼玉大学紀要（教養学部） 46.2 (2010), 219--241. `http://sucra.saitama-u.ac.jp/modules/xoonips/detail.php?item_id=14722`.
 
-* Zemach, Eddy. “Putnam’s Theory on the Reference of Substance Terms.” _The Journal of Philosophy_ 73.5 (Mar., 1976): 116-127. `http://www.jstor.org/stable/2025740`.
+* Zemach, Eddy. “Putnam’s Theory on the Reference of Substance Terms.” _The Journal of Philosophy_ 73.5 (Mar., 1976): 116--127. `http://www.jstor.org/stable/2025740`.
 
 
-##Japanese language sources
-Morohashi
-
-_Sanzōshi_
-
-Shogakukan’s _Ruigo Jiten_
-
-wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻哲郎全集][ja]
 
 catb.org/jargon/html/koans.html
-
-[sc]: class:smallcaps
-
-
 
 On Japanese Things and Words: An Answer to Heidegger's Question Author(s): Michael F. Marra Source: Philosophy East and West, Vol. 54, No. 4 (Oct., 2004), pp. 555-568
 Stable URL: http://www.jstor.org/stable/4148019
 
 Makoto Ueda comments in _Matsuo Bashō_
+
+Graham Mayeda also criticizes Watsuji’s supposed symmetrically in _Time, Space, and Ethics in the Philosophy of Watsuji Tetsurō, Kuki Shūzō, and Martin Heidegger_
