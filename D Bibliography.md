@@ -5,7 +5,9 @@
 Morohashi
 
 Nose Asaji. *Sanzōshi hyōshaku* (Tokyo: Meicho Kankōkai, 1970)
-T
+
+Shogakukan’s Japanese dictionary
+
 Shogakukan’s _Ruigo Jiten_
 
 wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻哲郎全集][ja]
@@ -70,6 +72,10 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 * Zemach, Eddy. “Putnam’s Theory on the Reference of Substance Terms.” _The Journal of Philosophy_ 73.5 (Mar., 1976): 116--127. `http://www.jstor.org/stable/2025740`.
 
 
+
+[^fn4g]: “Aspiration” is English in the original, but Bernard Bernier speculates Watsuji uses it as “the English rendition of _[Nachhängen][de]_, a word used by Heidegger in the sense of ‘projection from inside toward’ something” (_National Communion_, 100, n. 10).
+
+Martin Heidegger, _Being and Time_.
 
 catb.org/jargon/html/koans.html
 
