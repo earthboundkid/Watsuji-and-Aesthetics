@@ -13,9 +13,17 @@ Shogakukan’s _Ruigo Jiten_
 wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻哲郎全集][ja]
 
 ##Other sources
+* Ames, Roger T. and Henry Rosemont, trans. _The Analects of Confucius: A Philosophical Translation_. New York: Ballantine, 1998.
+
 * Ames, Roger and David Hall. _Dao De Jing “Making This Life Significant”: A Philosophical Translation_. New York: Ballantine, 2003.
 
 * Aristotle. _Nicomachean Ethics_. Second Edition. Translated by Terence Irwin. Indianapolis: Hackett, 1999.
+
+* ⎯⎯⎯. _Poetics_. Translated by W. H. Fyfe. Vol. 23 of *Aristotle in 23 Volumes*. Cambridge, MA: Harvard U. Press, 1932.
+
+* ⎯⎯⎯. _Politics_. Translated by W. H. Fyfe. Vol. 21 of *Aristotle in 23 Volumes*. Cambridge, MA: Harvard U. Press, 1932.
+
+* Bernier, Bernard. “National Communion: Watsuji Tetsurō’s Conception of Ethics, Power, and the Japanese Imperial State.” _Philosophy East and West_ 56.1 (Jan., 2006),: 84--105. `http://www.jstor.org/stable/4488002`.
 
 * Blyth, R. H. _Haiku. Volume I: Eastern Culture_. Paperback edition. Tokyo: Hokuseido Press, 1981.
 
@@ -23,13 +31,20 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Baumgarten, Alexander Gottlieb. *Aesthetica*. `http://www.archive.org/details/aestheticascrip00baumgoog`.
 
+* Bullough, Edward. “ ‘Psychical Distance’ as a Factor in Art and an Æsthetic Principle.” In Edward Bullough, _Æsthetics: Lectures and Essays_. London: Bowes & Bowes, 1957.∞
+
+* Chakrabarti, Arindam. “I Touch What I Saw.” _Philosophy and Phenomenological Research_ 52:1 (Mar., 1992), 103--116.
+
 * Chiaro Brivio. “The Human Being: When Philosophy Meets History, Miki Kiyoshi, Watsuji Tetsurō and their Quest for a New Ningen.” Doctoral thesis, University of Leiden, 2009. `https://openaccess.leidenuniv.nl/handle/1887/13835`.
+
+* Heidegger, Martin. _Being and Time_. Translated by John Macquarrie and Edward Robinson. San Fransisco: Harper, 1962.
 
 * Hegel, G.W.F. *Philosophy of Right*. Translated by S.W Dyde. Kitchener, Ontario: Batoche Books, 2001.
 
 * Kant, Immanuel. _Critique of Judgment_. Translated by Werner S. Pluhar. Indianapolis: Hackett, 1987.
 
-* ———. _Logic_. Translated by Robert S. Hartman and Wolfgang Schwarz. 		Indianapolis: Bobbs-Merrill, 1974.
+* ⎯⎯⎯. _Critique of Pure Reason_. Translated by Werner S. Pluhar. Indianapolis: Hackett, 1996.
+* ⎯⎯⎯. _Logic_. Translated by Robert S. Hartman and Wolfgang Schwarz. 		Indianapolis: Bobbs-Merrill, 1974.
 
 * Kawamoto, Kōji. _The Poetics of Japanese Verse: Imagery, Structure, Meter_. Translated by Stephen Collington, Kevin Collins, and Gustav Heldt. Tokyo: University of Tokyo Press, 2000.
 
@@ -39,29 +54,51 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Lafluer, William. “Buddhist Emptiness in the Ethics and Aesthetics of Watsuji Tetsurō.” _Religious Studies_ 14.2 (Jun., 1978): 237--250. `http://www.jstor.org/stable/20005486`.
 
+* Marra, Michael F. “On Japanese Things and Words: An Answer to Heidegger's Question.” *Philosophy East and West* 54.4 (Oct., 2004): 555--568. `http://www.jstor.org/stable/4148019`.
+
+* ⎯⎯⎯, ed. _A History of Modern Japanese Aesthetics_. Honolulu: U. Hawaii Press, 2001.
+
+* Mayeda, Graham. _Time, Space, and Ethics in the Philosophy of Watsuji Tetsurō, Kuki Shūzō, and Martin Heidegger_. New York: Routledge, 2006.
+
+* Merleau-Ponty, Maurice. _Phenomenology of Perception_. Translated by Donald Landes. Routledge, 2002.
+
 * [Miki][sc] Kiyoshi. "The Study of the Human." Translated by Gereon Kopf. In _Japanese Philosophy: A Sourcebook_. Honolulu: University of Hawaii Press, 2011.
+
+* Nietzsche, Friedrich. _Birth of Tragedy and Other Writings_. Translated by Ronald Speirs. New York: Cambridge U. Press, 1999.
 
 * [Nishida][sc] Kitarō. _An Inquiry Into the Good_. Translated by Masao Abe and Christopher Ives. New Haven: Yale, 1990.
 
+* Odin, Steve. _Artistic Detachment in Japan and the West: Psychic Distance in Comparative Aesthetics_. Honolulu: U. Hawaii Press, 2001.
+
+* ⎯⎯⎯ and [Nishida][sc] Kitaro. “An Explanation of Beauty. Nishida Kitarō's Bi no Setsumei.” *Monumenta Nipponica* 42.2 (Summer, 1987), 211--217. `http://www.jstor.org/stable/2384952`.
+
 * _Oxford English Dictionary_. Oxford University Press. Accessed Spring 2012. `http://oed.com`.
 
-* Plato. _Symposium_. Translated by Alexander Nehamas and Paul Woodruff. Indianapolis: Hackett, 1989.
+* Plato. _Republic_. Translated by C.D.C. Reeve. Indianapolis: Hackett, 2004.
+
+* ⎯⎯⎯. _Symposium_. Translated by Alexander Nehamas and Paul Woodruff. Indianapolis: Hackett, 1989.
+
+* Pronko, Leonard C. _Theater East and West_. Berkeley: U. Cal. Press, 1967.
+
+* [Sakabe][sc] Megumi. “Mask and Shadow in Japanese Culture: Implicit Ontology in Japanese Thought.” In _Modern Japanese Aesthetics: A Reader_, translated by Michele Marra, 242--251. Honolulu: U. of Hawaii Press, 1999.
 
 * Sakai, Naoki. *Translation and Subjectivity: On Japan and Cultural Nationalism*. Minneapolis: University of Minnesota Press, 1997.
 
 * [Sekine][sc], Seizo. _A Comparative Study of the Origins of Ethical Thought: Hellenism and Hebraism_. Translated by Judy Wakabayashi. Lanham, Maryland: Rowman and Littlefield, 2005.
 
-* ———. _Transcendency and symbols in the Old Testament: A genealogy of the hermeneutical experiences_. Translated by Judy Wakabayashi. Berlin: Walter de Gruyter, 1999.
+* ⎯⎯⎯. _Transcendency and symbols in the Old Testament: A genealogy of the hermeneutical experiences_. Translated by Judy Wakabayashi. Berlin: Walter de Gruyter, 1999.
 
 * Shirane, Haruo. _Traces of Dreams: Landscape, Cultural Memory, and the Poetry of Bashō_. Stanford: Stanford University Press, 1998.
 
 * Shun, Kwong-Loi. _Mencius and Early Chinese Thought_. Stanford University Press, 1997.
 
+* Ueda, Makoto. _Matsuo Bashō_. New York: Twayne, 1970.
+
 * Watson, Burton. _The Selected Poems of Du Fu_. New York: Columbia University Press, 2002.
 
 * Whitehead, Alfred North. _Adventures in Ideas_. New York: Free Press, 1993.
 
-* ———. _Science and the Modern World_. Paperback edition. New York: Free Press, 1967.
+* ⎯⎯⎯. _Science and the Modern World_. Paperback edition. New York: Free Press, 1967.
 
 * Wollheim, Richard. “On Pictorial Representation.” In *Aesthetics and the Philosophy of Art*, edited by Peter Lamarque and Stein Haugom Olsen, 396--405. Blackwell, 2004. 
 
@@ -71,17 +108,5 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Zemach, Eddy. “Putnam’s Theory on the Reference of Substance Terms.” _The Journal of Philosophy_ 73.5 (Mar., 1976): 116--127. `http://www.jstor.org/stable/2025740`.
 
-
-
-[^fn4g]: “Aspiration” is English in the original, but Bernard Bernier speculates Watsuji uses it as “the English rendition of _[Nachhängen][de]_, a word used by Heidegger in the sense of ‘projection from inside toward’ something” (_National Communion_, 100, n. 10).
-
-Martin Heidegger, _Being and Time_.
-
 catb.org/jargon/html/koans.html
 
-On Japanese Things and Words: An Answer to Heidegger's Question Author(s): Michael F. Marra Source: Philosophy East and West, Vol. 54, No. 4 (Oct., 2004), pp. 555-568
-Stable URL: http://www.jstor.org/stable/4148019
-
-Makoto Ueda comments in _Matsuo Bashō_
-
-Graham Mayeda also criticizes Watsuji’s supposed symmetrically in _Time, Space, and Ethics in the Philosophy of Watsuji Tetsurō, Kuki Shūzō, and Martin Heidegger_
