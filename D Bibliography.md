@@ -31,11 +31,13 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Baumgarten, Alexander Gottlieb. *Aesthetica*. `http://www.archive.org/details/aestheticascrip00baumgoog`.
 
-* Bullough, Edward. “ ‘Psychical Distance’ as a Factor in Art and an Æsthetic Principle.” In Edward Bullough, _Æsthetics: Lectures and Essays_. London: Bowes & Bowes, 1957.∞
+* Bullough, Edward. “ ‘Psychical Distance’ as a Factor in Art and an Æsthetic Principle.” In Edward Bullough, _Æsthetics: Lectures and Essays_, 91--130. London: Bowes & Bowes, 1957.
 
 * Chakrabarti, Arindam. “I Touch What I Saw.” _Philosophy and Phenomenological Research_ 52:1 (Mar., 1992), 103--116.
 
 * Chiaro Brivio. “The Human Being: When Philosophy Meets History, Miki Kiyoshi, Watsuji Tetsurō and their Quest for a New Ningen.” Doctoral thesis, University of Leiden, 2009. `https://openaccess.leidenuniv.nl/handle/1887/13835`.
+
+* Gordon, David B. _Self-Overcoming as the Overcoming of Modernity: Watsuji Tetsurō’s “A Study of Nietzsche” (1913) and Its Place in the Development of His Thought_. Doctoral thesis, University of Hawaii, 1997.
 
 * Heidegger, Martin. _Being and Time_. Translated by John Macquarrie and Edward Robinson. San Fransisco: Harper, 1962.
 
@@ -62,7 +64,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Merleau-Ponty, Maurice. _Phenomenology of Perception_. Translated by Donald Landes. Routledge, 2002.
 
-* [Miki][sc] Kiyoshi. "The Study of the Human." Translated by Gereon Kopf. In _Japanese Philosophy: A Sourcebook_. Honolulu: University of Hawaii Press, 2011.
+* [Miki][sc] Kiyoshi. "The Study of the Human." Translated by Gereon Kopf. In _Japanese Philosophy: A Sourcebook_, 702--705. Honolulu: University of Hawaii Press, 2011.
 
 * Nietzsche, Friedrich. _Birth of Tragedy and Other Writings_. Translated by Ronald Speirs. New York: Cambridge U. Press, 1999.
 
