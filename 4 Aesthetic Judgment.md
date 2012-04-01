@@ -10,6 +10,8 @@ title: The Subject and Object of Aesthetic Judgment
 
 * Carl M. Johnson
 
+* March 6, 2012
+
 ##Chapter 4. The Subject and Object of Aesthetic Judgment
 
 ####Contents:
@@ -143,7 +145,7 @@ In “I Touch What I Saw,” Arindam Chakrabarti provides four tests for whether
 
 On the one hand, these tests can be answered in a realist fashion. (A) must be true if Watsuji’s phenomenological account of ex-sistere is correct.  An apple is distinct from the experience of an apple, because the apple is a thing outside of the mind that is intended in the experience of the apple. (B) must be true if the distinction between the predicative and existential uses of “being” is correct. For X to be an apple is not the same as saying that an apple is, so the apple is more than just a collection of predicates. \(C) follows from the _son_ aspect of _sonzai_: existence is a preservation against loss spread out over time. As for (D), it follows directly from our discussion of the subject as plural. You and I share a world, and on occasion we even share communal feelings. Of course, we may also share identical objects.
 
-On the other hand, the tests can also be answered in an idealist fashion. Is the apple of test (A) “distinct” from experience? While the apple is intentional object beyond the subject, it emerges as an object out of experience, so the distinction between the object and experience of the object is not sharp. By the same token, the distinction between the apple and its qualities of test (B) is subjectively imposed rather than inherent. A recurring tendency in Japanese thought is the finding of essences within, not beyond, the phenomenal qualities of experience. The constant flux of the world prevents the apple I touch now in test \(C)©om being the exact same apple I saw before. Finally, the apple that you and I experience in test (D) are causally linked, but to the extent that I define myself in negation from you, my apple is not yours.
+On the other hand, the tests can also be answered in an idealist fashion. Is the apple of test (A) “distinct” from experience? While the apple is intentional object beyond the subject, it emerges as an object out of experience, so the distinction between the object and experience of the object is not sharp. By the same token, the distinction between the apple and its qualities of test (B) is subjectively imposed rather than inherent. A recurring tendency in Japanese thought is the finding of essences within, not beyond, the phenomenal qualities of experience. The constant flux of the world prevents the apple I touch now in test \(C) from being the exact same apple I saw before. Finally, the apple that you and I experience in test (D) are causally linked, but to the extent that I define myself in negation from you, my apple is not yours.
 
 The solution to this impasse between realism and idealism is a Buddhist “Middle Way” that affirms the existence of objects on the conventional level while denying their substantiality on the ultimate level. On the one hand, objects are always empty because causally constructed and non-substantive. On the other hand, because objects are reducible in both top-down and bottom-up directions, neither reduction is complete, hence objects are real as a concretion of suchness in a particular place and time.  
 

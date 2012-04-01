@@ -23,7 +23,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * ⎯⎯⎯. _Politics_. Translated by W. H. Fyfe. Vol. 21 of *Aristotle in 23 Volumes*. Cambridge, MA: Harvard U. Press, 1932.
 
-* Bernier, Bernard. “National Communion: Watsuji Tetsurō’s Conception of Ethics, Power, and the Japanese Imperial State.” _Philosophy East and West_ 56.1 (Jan., 2006),: 84--105. `http://www.jstor.org/stable/4488002`.
+* Bernier, Bernard. “National Communion: Watsuji Tetsurō’s Conception of Ethics, Power, and the Japanese Imperial State.” _Philosophy East and West_ 56.1 (Jan., 2006): 84--105. `http://www.jstor.org/stable/4488002`.
 
 * Blyth, R. H. _Haiku. Volume I: Eastern Culture_. Paperback edition. Tokyo: Hokuseido Press, 1981.
 
@@ -33,7 +33,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Bullough, Edward. “ ‘Psychical Distance’ as a Factor in Art and an Æsthetic Principle.” In Edward Bullough, _Æsthetics: Lectures and Essays_, 91--130. London: Bowes & Bowes, 1957.
 
-* Chakrabarti, Arindam. “I Touch What I Saw.” _Philosophy and Phenomenological Research_ 52:1 (Mar., 1992), 103--116.
+* Chakrabarti, Arindam. “I Touch What I Saw.” _Philosophy and Phenomenological Research_ 52:1 (Mar., 1992): 103--116.
 
 * Chiaro Brivio. “The Human Being: When Philosophy Meets History, Miki Kiyoshi, Watsuji Tetsurō and their Quest for a New Ningen.” Doctoral thesis, University of Leiden, 2009. `https://openaccess.leidenuniv.nl/handle/1887/13835`.
 
@@ -72,7 +72,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Odin, Steve. _Artistic Detachment in Japan and the West: Psychic Distance in Comparative Aesthetics_. Honolulu: U. Hawaii Press, 2001.
 
-* ⎯⎯⎯ and [Nishida][sc] Kitaro. “An Explanation of Beauty. Nishida Kitarō's Bi no Setsumei.” *Monumenta Nipponica* 42.2 (Summer, 1987), 211--217. `http://www.jstor.org/stable/2384952`.
+* ⎯⎯⎯ and [Nishida][sc] Kitaro. “An Explanation of Beauty. Nishida Kitarō's Bi no Setsumei.” *Monumenta Nipponica* 42.2 (Summer, 1987): 211--217. `http://www.jstor.org/stable/2384952`.
 
 * _Oxford English Dictionary_. Oxford University Press. Accessed Spring 2012. `http://oed.com`.
 
@@ -106,7 +106,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Yamamoto, Seisaku and Robert Carter, trans. _[Watsuji][sc] Tetsurō’s_ Rinrigaku: _Ethics in Japan_. Albany: SUNY Press, 1996. 
 
-* [Yoshida][sc] Kazuhisa. “Two Faces of Postmodernism: Postmodernist Critiques of Cultural Typologies and the Future of Comparative Studies of Culture.” Saitama University Journal (Culture Division) _Saitama Daigaku Kiyō (Kyōyō Gakubu)_ 埼玉大学紀要（教養学部） 46.2 (2010), 219--241. `http://sucra.saitama-u.ac.jp/modules/xoonips/detail.php?item_id=14722`.
+* [Yoshida][sc] Kazuhisa. “Two Faces of Postmodernism: Postmodernist Critiques of Cultural Typologies and the Future of Comparative Studies of Culture.” Saitama University Journal (Culture Division) _Saitama Daigaku Kiyō (Kyōyō Gakubu)_ 埼玉大学紀要（教養学部） 46.2 (2010): 219--241. `http://sucra.saitama-u.ac.jp/modules/xoonips/detail.php?item_id=14722`.
 
 * Zemach, Eddy. “Putnam’s Theory on the Reference of Substance Terms.” _The Journal of Philosophy_ 73.5 (Mar., 1976): 116--127. `http://www.jstor.org/stable/2025740`.
 

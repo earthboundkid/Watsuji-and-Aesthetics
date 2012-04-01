@@ -9,16 +9,18 @@ body-class: unnumbered
 [de]: lang:de
 [fr]: lang:fr
 
+* Carl M. Johnson
+
+* March 6, 2012
+
 ##Chapter 3. Aesthetic Experience as Distancing, Dissolution, and Disinterest
 ####Contents:
 <toc />
 
 ###Defining aesthetics
-Before describing the nature of aesthetic experience, I wish to explore the meaning of the word “aesthetics” itself. Although ancient Greek word [αἰσθητά][el] is the source of the contemporary word “aesthetics,” the meanings of the two are quite different. [Αἰσθητά][el], the sensible, came from the root [αἰσθάνομαι][el] (“I perceive”) and was opposed to [νοητά][el], the intelligible, but not directly connected to the perception of beauty or other “aesthetic” feelings.[^fn3-1] “Aesthetics” was only given its current meaning in eighteenth century by Baumgarten in his *Aesthetica*, which attempted to create a science connecting our senses to our perception of beauty. Nevertheless, Kant attempted to restore the ancient Greek meaning in the Transcendental Aesthetic part of his _Critique of Pure Reason_ on the grounds that a science of value perception could not be made wholly *a priori*.[^fn3-2]
+Before describing the nature of aesthetic experience, I wish to explore the meaning of the word “aesthetics” itself. Although ancient Greek word [αἰσθητά][el] is the source of the contemporary word “aesthetics,” the meanings of the two are quite different. [Αἰσθητά][el], the sensible, came from the root [αἰσθάνομαι][el] (“I perceive”) and was opposed to [νοητά][el], the intelligible, but not directly connected to the perception of beauty or other “aesthetic” feelings.[^fn3-1] “Aesthetics” was only given its current meaning in eighteenth century by Baumgarten in his *Aesthetica*, in which he attempts to create a science connecting our senses to our perception of beauty. Kant, however, seeks to restore the ancient Greek meaning in the Transcendental Aesthetic part of his _Critique of Pure Reason_. He objects to Baumgarten’s use of the term “aesthetic” to refer to “the critique of taste,” since the endeavor to place “our critical judging of the beautiful under rational principles” is “futile” because “those rules or criteria are merely empirical” and not “determinate a priori laws” (A 21.n). Nevertheless, Kant appears to have somewhat revised his views by the time of the _Critique of Judgment_.
 
 [^fn3-1]: Indeed, for Plato, Beauty, which is identified as the lure of the Good, resides firmly in the camp of the intelligible and out of the camp of the sensible.
-
-[^fn3-2]: See Kant’s note at _Critique of Pure Reason_, A 21.
 
 The distinction between aesthetics as the value feeling of beauty and aesthetics as the science of perception is registered linguistically in Japanese. One translation of aesthetics, _bigaku_ [美学][ja], is a Sino-Japanese compound meaning literally “the study of the beautiful.”[^fn3-3] This translation relates exclusively to the contemporary meaning of aesthetics. Another translation of aesthetics into Japanese is as _kansei_ [感性][ja], which might also be rendered into English as “sensibility.” This second translation is closer to the usage of Kant and the ancient Greeks. Unlike the neutral “sense” or “perception,” however, the _kan_ part of _kansei_ strongly implies the feeling of emotion or value, not merely valueless sense data.[^fn3-4] For the purposes of this study, the question is how it is possible for something like _kansei_, our individual value feelings, to be the basis of _bigaku_, what is felt to be beautiful as such. If we identify _kansei_ with particular experience and _bigaku_ with shared experience, we will see that Watsuji’s anthropology of _ningen_, which connects the individual to the collective in a double negation, plays a vital role in explaining their connection.
 
