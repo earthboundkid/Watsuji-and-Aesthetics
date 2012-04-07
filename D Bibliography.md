@@ -37,9 +37,13 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Chiaro Brivio. “The Human Being: When Philosophy Meets History, Miki Kiyoshi, Watsuji Tetsurō and their Quest for a New Ningen.” Doctoral thesis, University of Leiden, 2009. `https://openaccess.leidenuniv.nl/handle/1887/13835`.
 
+* Eaton, Marcia. _Art and nonart : reflections on an orange crate and a moose call_. London: Associated University Press, 1983.
+
 * Gordon, David B. _Self-Overcoming as the Overcoming of Modernity: Watsuji Tetsurō’s “A Study of Nietzsche” (1913) and Its Place in the Development of His Thought_. Doctoral thesis, University of Hawaii, 1997.
 
 * Heidegger, Martin. _Being and Time_. Translated by John Macquarrie and Edward Robinson. San Fransisco: Harper, 1962.
+
+* ⎯⎯⎯. "The Origin of the Work of Art." Translated by Albert Hofstadter. In David Krell, ed., _Basic Writings: From_ Being and Time _(1927) to_ The Task of Thinking _(1964)_, Second edition, 143--212. San Francisco: HarperSanFrancisco, 1993.
 
 * Hegel, G.W.F. *Philosophy of Right*. Translated by S.W Dyde. Kitchener, Ontario: Batoche Books, 2001.
 
