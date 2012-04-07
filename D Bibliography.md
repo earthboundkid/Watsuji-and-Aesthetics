@@ -1,5 +1,7 @@
 [sc]: class:smallcaps
 
+catb.org/jargon/html/koans.html
+
 #Bibliography
 ##Japanese language sources
 Morohashi
@@ -27,13 +29,13 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Blyth, R. H. _Haiku. Volume I: Eastern Culture_. Paperback edition. Tokyo: Hokuseido Press, 1981.
 
-* Borges, Jorge Luis. “Pierre Menard, Author of the _Quixote_.” Translated by James E. Irby. In Donald A. Yates and James E. Irby (eds.) _Labyrinths: Selected Stories and Other Writings by Jorge Luis Borges_, 36--44. New York: New Directions, 1964.
+* Borges, Jorge Luis. “Pierre Menard, Author of the _Quixote_.” Translated by James E. Irby. In _Labyrinths: Selected Stories and Other Writings by Jorge Luis Borges_, edited by Donald A. Yates and James E. Irby, 36--44. New York: New Directions, 1964.
 
 * Bownas, Geoffrey, trans. _Climate and Culture: A Philosophical Study_. New York: Greenwood Press, 1988.
 
 * Baumgarten, Alexander Gottlieb. *Aesthetica*. `http://www.archive.org/details/aestheticascrip00baumgoog`.
 
-* Bullough, Edward. “ ‘Psychical Distance’ as a Factor in Art and an Æsthetic Principle.” In Edward Bullough, _Æsthetics: Lectures and Essays_, 91--130. London: Bowes & Bowes, 1957.
+* Bullough, Edward. “ ‘Psychical Distance’ as a Factor in Art and an Æsthetic Principle.” In _Æsthetics: Lectures and Essays_, by Edward Bullough, 91--130. London: Bowes & Bowes, 1957.
 
 * Chakrabarti, Arindam. “I Touch What I Saw.” _Philosophy and Phenomenological Research_ 52:1 (Mar., 1992): 103--116.
 
@@ -47,7 +49,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * ⎯⎯⎯. "The Origin of the Work of Art." Translated by Albert Hofstadter. In David Krell, ed., _Basic Writings: From_ Being and Time _(1927) to_ The Task of Thinking _(1964)_, Second edition, 143--212. San Francisco: HarperSanFrancisco, 1993.
 
-* Hegel, G.W.F. *Philosophy of Right*. Translated by S.W Dyde. Kitchener, Ontario: Batoche Books, 2001.
+* Hegel, G. W. F. *Philosophy of Right*. Translated by S.W Dyde. Kitchener, Ontario: Batoche Books, 2001.
 
 * Kant, Immanuel. _Critique of Judgment_. Translated by Werner S. Pluhar. Indianapolis: Hackett, 1987.
 
@@ -59,7 +61,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Keene, Donald, trans. _The Narrow Road to Oku_. New York: Kodansha, 1996.
 
-* Knuth, Donald. "Computer Programming as Art." _Communications of the ACM_ 17.12 (Dec., 1974): 667--673. Accessed Spring 2012. `http://cacm.acm.org/magazines/1974/12/11626-computer-programming-as-an-art/`.
+* Knuth, Donald. "Computer Programming as Art." _Communications of the ACM_ 17.12 (Dec., 1974): 667--673. Accessed Spring 2012. `doi:10.1145/361604.361612`.
 
 * Komar, Vitaly and Alexander Melamid. “The Most Wanted Paintings on the Web.” Original collaboration 1996–1997. Accessed Spring 2012. `http://www.diacenter.org/km/`.
 
@@ -81,7 +83,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Odin, Steve. _Artistic Detachment in Japan and the West: Psychic Distance in Comparative Aesthetics_. Honolulu: U. Hawaii Press, 2001.
 
-* ⎯⎯⎯ and [Nishida][sc] Kitaro. “An Explanation of Beauty. Nishida Kitarō's Bi no Setsumei.” *Monumenta Nipponica* 42.2 (Summer, 1987): 211--217. `http://www.jstor.org/stable/2384952`.
+* ⎯⎯⎯ and [Nishida][sc] Kitaro. “An Explanation of Beauty. Nishida Kitarō's Bi no Setsumei.” *Monumenta Nipponica* 42.2 (Summer, 1987): 211--217. `http://www.jstor.org/stable/2384952`.
 
 * _Oxford English Dictionary_. Oxford University Press. Accessed Spring 2012. `http://oed.com`.
 
@@ -103,6 +105,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Shun, Kwong-Loi. _Mencius and Early Chinese Thought_. Stanford University Press, 1997.
 
+* Tolstoy, Leo. _What is Art? And Essays on Art_. Translated by Aylmer Maude. New York: Oxford University Press, 1962.
+
 * Ueda, Makoto. _Matsuo Bashō_. New York: Twayne, 1970.
 
 * Watson, Burton. _The Selected Poems of Du Fu_. New York: Columbia University Press, 2002.
@@ -115,9 +119,6 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Yamamoto, Seisaku and Robert Carter, trans. _[Watsuji][sc] Tetsurō’s_ Rinrigaku: _Ethics in Japan_. Albany: SUNY Press, 1996. 
 
-* [Yoshida][sc] Kazuhisa. “Two Faces of Postmodernism: Postmodernist Critiques of Cultural Typologies and the Future of Comparative Studies of Culture.” Saitama University Journal (Culture Division) _Saitama Daigaku Kiyō (Kyōyō Gakubu)_ 埼玉大学紀要（教養学部） 46.2 (2010): 219--241. `http://sucra.saitama-u.ac.jp/modules/xoonips/detail.php?item_id=14722`.
+* [Yoshida][sc] Kazuhisa. “Two Faces of Postmodernism: Postmodernist Critiques of Cultural Typologies and the Future of Comparative Studies of Culture.” Saitama University Journal (College of General Education) _Saitama Daigaku Kiyō (Kyōyō Gakubu)_ 埼玉大学紀要（教養学部） 46.2 (2010): 219--241. `http://sucra.saitama-u.ac.jp/modules/xoonips/detail.php?item_id=14722`.
 
 * Zemach, Eddy. “Putnam’s Theory on the Reference of Substance Terms.” _The Journal of Philosophy_ 73.5 (Mar., 1976): 116--127. `http://www.jstor.org/stable/2025740`.
-
-catb.org/jargon/html/koans.html
-
