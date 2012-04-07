@@ -27,6 +27,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Blyth, R. H. _Haiku. Volume I: Eastern Culture_. Paperback edition. Tokyo: Hokuseido Press, 1981.
 
+* Borges, Jorge Luis. “Pierre Menard, Author of the _Quixote_.” Translated by James E. Irby. In Donald A. Yates and James E. Irby (eds.) _Labyrinths: Selected Stories and Other Writings by Jorge Luis Borges_, 36--44. New York: New Directions, 1964.
+
 * Bownas, Geoffrey, trans. _Climate and Culture: A Philosophical Study_. New York: Greenwood Press, 1988.
 
 * Baumgarten, Alexander Gottlieb. *Aesthetica*. `http://www.archive.org/details/aestheticascrip00baumgoog`.
@@ -50,11 +52,14 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 * Kant, Immanuel. _Critique of Judgment_. Translated by Werner S. Pluhar. Indianapolis: Hackett, 1987.
 
 * ⎯⎯⎯. _Critique of Pure Reason_. Translated by Werner S. Pluhar. Indianapolis: Hackett, 1996.
+
 * ⎯⎯⎯. _Logic_. Translated by Robert S. Hartman and Wolfgang Schwarz. 		Indianapolis: Bobbs-Merrill, 1974.
 
 * Kawamoto, Kōji. _The Poetics of Japanese Verse: Imagery, Structure, Meter_. Translated by Stephen Collington, Kevin Collins, and Gustav Heldt. Tokyo: University of Tokyo Press, 2000.
 
 * Keene, Donald, trans. _The Narrow Road to Oku_. New York: Kodansha, 1996.
+
+* Knuth, Donald. "Computer Programming as Art." _Communications of the ACM_ 17.12 (Dec., 1974): 667--673. Accessed Spring 2012. `http://cacm.acm.org/magazines/1974/12/11626-computer-programming-as-an-art/`.
 
 * Komar, Vitaly and Alexander Melamid. “The Most Wanted Paintings on the Web.” Original collaboration 1996–1997. Accessed Spring 2012. `http://www.diacenter.org/km/`.
 
