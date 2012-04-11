@@ -25,6 +25,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * ⎯⎯⎯. _Politics_. Translated by W. H. Fyfe. Vol. 21 of *Aristotle in 23 Volumes*. Cambridge, MA: Harvard U. Press, 1932.
 
+* Benjamin, Walter. "The Work of Art in the Age of Mechanical Reproduction." Accessed Spring 2012. `http://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm`.
+
 * Bernier, Bernard. “National Communion: Watsuji Tetsurō’s Conception of Ethics, Power, and the Japanese Imperial State.” _Philosophy East and West_ 56.1 (Jan., 2006): 84--105. `http://www.jstor.org/stable/4488002`.
 
 * Blyth, R. H. _Haiku. Volume I: Eastern Culture_. Paperback edition. Tokyo: Hokuseido Press, 1981.
@@ -49,13 +51,15 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * ⎯⎯⎯. "The Origin of the Work of Art." Translated by Albert Hofstadter. In David Krell, ed., _Basic Writings: From_ Being and Time _(1927) to_ The Task of Thinking _(1964)_, Second edition, 143--212. San Francisco: HarperSanFrancisco, 1993.
 
-* Hegel, G. W. F. *Philosophy of Right*. Translated by S.W Dyde. Kitchener, Ontario: Batoche Books, 2001.
+* Hegel, G. W. F. _Lectures on the Philosophy of World History_. Translated by H. B. Nisbet. Cambridge University Press, 1975.
+
+* ⎯⎯⎯. *Philosophy of Right*. Translated by S.W Dyde. Kitchener, Ontario: Batoche Books, 2001.
 
 * Kant, Immanuel. _Critique of Judgment_. Translated by Werner S. Pluhar. Indianapolis: Hackett, 1987.
 
 * ⎯⎯⎯. _Critique of Pure Reason_. Translated by Werner S. Pluhar. Indianapolis: Hackett, 1996.
 
-* ⎯⎯⎯. _Logic_. Translated by Robert S. Hartman and Wolfgang Schwarz. 		Indianapolis: Bobbs-Merrill, 1974.
+* ⎯⎯⎯. _Logic_. Translated by Robert S. Hartman and Wolfgang Schwarz. Indianapolis: Bobbs-Merrill, 1974.
 
 * Kawamoto, Kōji. _The Poetics of Japanese Verse: Imagery, Structure, Meter_. Translated by Stephen Collington, Kevin Collins, and Gustav Heldt. Tokyo: University of Tokyo Press, 2000.
 
@@ -97,13 +101,15 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Sakai, Naoki. *Translation and Subjectivity: On Japan and Cultural Nationalism*. Minneapolis: University of Minnesota Press, 1997.
 
-* [Sekine][sc], Seizo. _A Comparative Study of the Origins of Ethical Thought: Hellenism and Hebraism_. Translated by Judy Wakabayashi. Lanham, Maryland: Rowman and Littlefield, 2005.
+* Sekine, Seizo. _A Comparative Study of the Origins of Ethical Thought: Hellenism and Hebraism_. Translated by Judy Wakabayashi. Lanham, Maryland: Rowman and Littlefield, 2005.
 
 * ⎯⎯⎯. _Transcendency and symbols in the Old Testament: A genealogy of the hermeneutical experiences_. Translated by Judy Wakabayashi. Berlin: Walter de Gruyter, 1999.
 
 * Shirane, Haruo. _Traces of Dreams: Landscape, Cultural Memory, and the Poetry of Bashō_. Stanford: Stanford University Press, 1998.
 
 * Shun, Kwong-Loi. _Mencius and Early Chinese Thought_. Stanford University Press, 1997.
+
+* Snow, C. P. _The Two Cultures and the Scientific Revolution_. Cambridge University Press, 1961.
 
 * Tolstoy, Leo. _What is Art? And Essays on Art_. Translated by Aylmer Maude. New York: Oxford University Press, 1962.
 
