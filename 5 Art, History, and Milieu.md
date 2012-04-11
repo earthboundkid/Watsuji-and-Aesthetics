@@ -128,20 +128,57 @@ The value of having reviewed these different theories of art at some length is t
 My own greatest sympathizes are with the context-centric theories of art, but the other theories also contain much of value. Without a keen focus on the artist, object, and audience, a context theory can easily become too abstract to be put to use. Nevertheless, for the remainder of this chapter I will attempt to push our understanding of the context of art deeper by examining the temporal and spatial aspects of art before applying this to the art of tea ceremony.
 
 ###History as temporal context
-  - Time
-  - There are at least three meanings of “history”.
-    - 1. Everything that really happened.
-    - 2. The important things that happened.
-    - 3. How we recalled or are shaped by the important things that happened.
-    - 4. How our recollection of the things that happened has changed over time.
-  - Hume on taste x history
-  - Jusosei
-    - shinmin no michi
-    - Hegel (via Bellah via review): Those moments which the spirit appears to have outgrown still belong to it in the depths of its present. Just as it has passed through all its moments in history, so also must it pass through them again in the present.
-    - PoMo
-- History as double negation: 1. Establish a style 2. Break out!
+The two central aspects of the context of art are its history and its milieu, where "history" and "milieu" are understood as what becomes of time and space when value is introduced into them. I will deal first with history. Every work of art is created within history and brings its history forward with it to the present. 
 
-The two central aspects of the context of art are history and milieu, where "history" and "milieu" are understood as what becomes of time and space when value is introduced into them. 
+  - Hume on taste x history∞
+
+What do we mean by history? There are several possibilities:
+
+* (1) Everything that has really happened.
+* (2) The important things that have happened.
+* (3) How we recalled or are shaped by the important things that happened.
+* (4) How our recollection of the things that happened has changed over time.
+
+Possibility (4) is now usually referred to as "historiography" (the history of histories) rather than history itself proper. (1) is just another name for time. (2) and (3) seem distinct at first, but upon closer examination we may ask, what is it that makes an event in the past important? Surely, its importance comes from its causal efficacy in the present. Hence, the distinction between the really important things in the past and our being shaped by the past is less sharp than it may appear at first. 
+
+When speaking of the importance of history, it is impossible to avoid mentioning Hegel and his theory of dialectical evolution.
+
+    - Hegel (via Bellah via review): Those moments which the spirit appears to have outgrown still belong to it in the depths of its present. Just as it has passed through all its moments in history, so also must it pass through them again in the present.
+
+
+In “The Japanese Spirit” (1934)[^] Watsuji proposes that,
+
+[^]: Translations from Dilworth, David A. and Valdo H. Viglielmo with Agustin Jacinto Zavala (Eds.). _Sourcebook for Modern Japanese Philosophy: Selected Documents_. Greenwood Press, 1998. 231–61.
+
+> the special characteristic of Japanese culture lies in the multi-layered accumulation of its various moments. (255)∞
+
+This “multi-layered accumulation”--in Japanese _jūsōsei_ [重層性][ja]--refers to a tendency in Japanese history for various theses and antitheses not to annihilate one another through sublation into a synthesis but to layer on top of one another and persist together simultaneously. By explicating this concept, we can better understand the nature of progress in aesthetics. Watsuji gives several examples of this tendency, such as in clothing styles:
+
+> Not only do we preserve in great part the styles of clothing of three hundred years ago, we also unify within a single life the styles that have been developed along separate lines in the samurai and commoner classes, respectively. The range of Western clothing has then been added as another layer of style on top of these. (256)∞
+
+As has widely noted, even today traditional forms of Japanese dress such as the kimono have been preserved, not merely as a cultural relic, but as a living choice suitable for certain social situations. This has led to the now ubiquitous cliché of speaking of Japan as the “land where new and old co-exist” and presenting the image of a geisha in traditional attire checking her ultra-modern cellular phone or a bullet train speeding past Mt. Fuji. Although such phrases and images are at this point rather clichéd, the clichés persist because of the underlying truth that Watsuji identified: Japanese aesthetic history is marked not only by progress in creating new styles but also the retention of old styles. As he goes on to explain,
+
+> Moreover, these aesthetic forms do not merely coexist with the newer styles. While they are mutually opposed they are unified in that opposition. (259)∞
+
+That is to say, when a new style is created, it does not exist solely as a new, unconnected style. It is related to prior styles and brought into a kind of union with them, even if it is the union of opposition. For example, after the development of Noh theater, Bunraku puppet theater also developed in Japan. Where Noh is marked by the concealing of the living human face with a lifeless mask, in puppet theater a lifeless puppet is brought to life through skillful artifice. In a certain sense, puppet theater developed as a negation or inversion of Noh theater, but in spite of this both Noh and puppet theater are able to retain their individuality as styles through their mutual relatedness as negations of one another. He writes,
+
+> The present style of Noh is said to have become fossilized after the Tokugawa period, but this means that the inherent character of Noh was realized through the development of the puppet and Kabuki theaters. (259)∞
+
+In other words, the essence of the thesis can only be brought forward after it has been negated by its antithesis, without thereby demanding that they both be erased by a synthesis. This is the same pattern that we observe throughout Watsuji’s hermeneutic of cleavage. When unity is negated by division and that division is in turn negated by union, neither of these negations mean the erasure of the earlier phases. Psychic distancing is negated by the ecstatic intoxication of aesthetic experience, but the distancing itself is never eliminated by it. Rather, all aspects of this process exist together in a dynamic multi-layering that grows through historical time in response to climactic conditions.
+
+Watsuji feels that the multi-layered quality of Japanese culture is perhaps unique in the world, and we may criticize his supposition as an example of a scholar being seduced by “the myth of Japanese uniqueness.” On the other hand, it is fair to say that the tendency towards multi-layering had not been as pronounced in the West in the past, and modernist Western theorists themselves denied the ability of layering to hold out against the flow of history, which makes Watsuji’s supposition more understandable. Since Watsuji’s time, however, the post-modern movement has taken place in Western architecture and other arts, and this movement explicitly takes the reappropriation and juxtaposition of different historical styles as its core methodology. “Sampling” is a technique that is now celebrated in many new social phenomena from hip-hop to blogging. The term “post-modern” was originally coined to refer to a new style of architecture that came after the modernist International Style. Whereas the International Style was purely functional and eschewed all ornamentation, post-modern architecture is whimsically eclectic in its designs. From architecture, the post-modern movement then spread out to other areas of culture and going back in time, earlier movements like Pop Art and Dada were celebrated as forerunners of its playful pastiche-making.
+
+    - PoMo Architecture∞
+
+According to Watsuji’s theory of _jūsōsei_, however, Japan has always been post-modern in the sense that it has never been intent on creating a unified narrative of progress as was developed in the West under modernism. Even in the area of religion, Buddhism complemented and redefined Shinto, but it did not eliminate or expunge it. A Hegelian might complain that this merely shows that Japan is outside of the mainstream of the development of Absolute Spirit, since it is not unifying its oppositions in sublation under a synthesis. Watsuji counters that,
+
+> True concrete unity exists by causing each and every contradictory moment to live in its own inherent life. (260)∞
+
+In other words, unity cannot mean the elimination of the original and the snuffing out of its life, but must mean its flourishing within a new context. This interpretation gives us a way to better understand the post-modern movement, which has (at times rightly) been criticized for its obscurantism and lack of focus. The goal of multi-layering, according to Watsuji is not merely to juxtapose nor even to transgress social boundaries, but to bring into the highest development each of the theses under consideration. Historical theses only come to really live when put into dialogue with later antitheses, even if these antitheses do not result in their sublation. Post-modernism then should aim not just at eclectically collecting and transposing, but at trying to show the core significance of what it gathers through the skillful arranging of things into a meeting point of feeling. 
+
+As previously described, such a meeting point allows for both individual and communal expression. Like a linked verse, post-modern art is at its most aesthetically appealing when it is able to bring its references together with respect for their uniqueness while also bridging the space between them. If the individual is primarily a negation of the subjective field of the public out of which we emerge, then it follows in Watsuji’s thinking that the most powerful expressions of our subjectivity will not be those that aim at producing some positive content but those that aim at negatively realizing the possibilities of the personality.
+
+- History as double negation: 1. Establish a style 2. Break out!∞
 
 ###Milieu as spatial context
   - Space
@@ -158,20 +195,8 @@ The two central aspects of the context of art are history and milieu, where "his
   - For Watsuji, it’s not that the environment is a pool of resources to satisfy our own desires. Rather, the environment is a subjective space out which our desires emerge. Thus, Watsuji’s environmental ethics won’t be overly instrumental, even if he does seem to be anthropocentric.
     - We are interconnected both as agents and as observers. So, fūdo isn’t just a resource pool for us. We want fish because we have fish. We need to understand our “debts” to history and to climate.
     - It’s not that Americans loved cars and built suburbs. They built roads and then loved their cars for taking them down those roads.
-- Tea!
-- Unclassified
-  - Ancient Greeks and Easter Islanders are both dead, but it’s better to have been a Greek
-  - Fūdo vs. Oku no Hosomichi as travel literature.
-  - Takarazuka as a dialectical evolution.
-    - All women as a response to all men
-  - For Watsuji, even highly subjective phenomena like our gustatory desires arise out of a wider matrix:
-- Temp
-  - Spatial and temporal aspects of the subject
-  - Post-modern multilayering, not sublation
-  - Locating the genius in an ethos
 
-###Spatial and temporal aspects of the subject
-Although Watsuji has given use picture of the subjective origin of our ethical and aesthetic values, we nevertheless cannot neglect a consideration of the historical, cultural, and environmental forces which construct our subjectivity. In doing so, we can better understand why it is that in aesthetics we find agreement varies both historically and regionally as communities of taste arise and perish in particular parts of the world. This task Watsuji took up in his 1935 work _Climate and Culture_. _Climate and Culture_ is called _Fūdo_ 風土 in Japanese, which means roughly “climate” or “milieu” and is written with the characters wind (風) and soil (土). The title also relates to the _Fūdoki_ 風土記, an eighth century chronicle of the geography, culture, and customs of the provinces of old Japan. The Japanese dictionary _Daijisen_ 大辞泉 defines _fūdo_ as, 
+This task Watsuji took up in his 1935 work _Climate and Culture_. _Climate and Culture_ is called _Fūdo_ 風土 in Japanese, which means roughly “climate” or “milieu” and is written with the characters wind (風) and soil (土). The title also relates to the _Fūdoki_ 風土記, an eighth century chronicle of the geography, culture, and customs of the provinces of old Japan. The Japanese dictionary _Daijisen_ 大辞泉 defines _fūdo_ as, 
 
 > 1\. Regional weather, soil, topography, and so on.<br />
 > <br />
@@ -201,45 +226,27 @@ This is the basic nature of Watsuji’s hermeneutic of cleavage. The basic unity
 
 In relation to taste, Watsuji’s philosophy of climate helps us understand how the taste of groups varies not only over time (an observation made by Hume, Hegel, and many others) but also from community to community without implying a lack of refinement in other cultures. In a Hegelian paradigm, we might think of the ancestors of our community as rational individuals but limited in their tastes by what artistic media and objects had historically developed up to that point in time. For Hegelians, it is only in history that a culture develops its aesthetic refinement. However, these Hegelian accounts can only describe other cultures as more or less advanced in coming to embody Absolute Spirit in its progression through history. The path of Absolute Spirit is singular, and history has only one endpoint, though there are many different stragglers along its path. Watsuji gives us a new way of understanding the distinctiveness of other cultures without denying their rationality or dismissing their differences as the product of their “savageness.” Since taste emerges out of the perspectives of the community, it must be grounded in climate as well as history. Cultural differences cannot be deterministically reduced to climate, since climate and culture are mutually dependent, but it does allow us to understand how a different culture can differently embody in aesthetics and civilization its particular climactic niche without therefore being “backwards” in comparison to some other culture. This is also not to suggest that all cultures are equally civilized (cultural relativism), just that there are multiple possible ways in which a culture may progress in embodying the spirit of its time and place at which it may excel or lag behind (cultural pluralism).
 
-###Post-modern multilayering, not sublation
-Introducing spatiality was not the only way that Watsuji challenged the Hegelian concept of a linear march of history. In “The Japanese Spirit” (1934)[^] Watsuji proposes that,
-
-[^]: Translations from Dilworth, David A. and Valdo H. Viglielmo with Agustin Jacinto Zavala (Eds.). _Sourcebook for Modern Japanese Philosophy: Selected Documents_. Greenwood Press, 1998. 231–61.
-
-> the special characteristic of Japanese culture lies in the multi-layered accumulation of its various moments. (255)
-
-This “multi-layered accumulation”--in Japanese _jūsōsei_ 重層性--refers to a tendency in Japanese history for various theses and antitheses not to annihilate one another through sublation into a synthesis but to layer on top of one another and persist together simultaneously. By explicating this concept, we can better understand the nature of progress in aesthetics. Watsuji gives several examples of this tendency, such as in clothing styles:
-
-> Not only do we preserve in great part the styles of clothing of three hundred years ago, we also unify within a single life the styles that have been developed along separate lines in the samurai and commoner classes, respectively. The range of Western clothing has then been added as another layer of style on top of these. (256)
-
-As has widely noted, even today traditional forms of Japanese dress such as the _kimono_ have been preserved, not merely as a cultural relic, but as a living choice suitable for certain social situations. This has led to the now ubiquitous cliché of speaking of Japan as the “land where new and old co-exist” and presenting the image of a geisha in traditional attire checking her ultra-modern cellular phone or a bullet train speeding past Mt. Fuji. Although such phrases and images are at this point rather clichéd, the clichés persist because of the underlying truth that Watsuji identified: Japanese aesthetic history is marked not only by progress in creating new styles but also the retention of old styles. As he goes on to explain,
-
-> Moreover, these aesthetic forms do not merely coexist with the newer styles. While they are mutually opposed they are unified in that opposition. (259)
-
-That is to say, when a new style is created, it does not exist solely as a new, unconnected style. It is related to prior styles and brought into a kind of union with them, even if it is the union of opposition. For example, after the development of Noh theater, Bunraku puppet theater also developed in Japan. Where Noh is marked by the concealing of the living human face with a lifeless mask, in puppet theater a lifeless puppet is brought to life through skillful artifice. In a certain sense, puppet theater developed as a negation or inversion of Noh theater, but in spite of this both Noh and puppet theater are able to retain their individuality as styles through their mutual relatedness as negations of one another. He writes,
-
-> The present style of Noh is said to have become fossilized after the Tokugawa period, but this means that the inherent character of Noh was realized through the development of the puppet and Kabuki theaters. (259)
-
-In other words, the essence of the thesis can only be brought forward after it has been negated by its antithesis, without thereby demanding that they both be erased by a synthesis. This is the same pattern that we observe throughout Watsuji’s hermeneutic of cleavage. When unity is negated by division and that division is in turn negated by union, neither of these negations mean the erasure of the earlier phases. Psychic distancing is negated by the ecstatic intoxication of aesthetic experience, but the distancing itself is never eliminated by it. Rather, all aspects of this process exist together in a dynamic multi-layering that grows through historical time in response to climactic conditions.
-
-Watsuji feels that the multi-layered quality of Japanese culture is perhaps unique in the world, and we may criticize his supposition as an example of a scholar being seduced by “the myth of Japanese uniqueness.” On the other hand, it is fair to say that the tendency towards multi-layering had not been as pronounced in the West in the past, and modernist Western theorists themselves denied the ability of layering to hold out against the flow of history, which makes Watsuji’s supposition more understandable. Since Watsuji’s time, however, the post-modern movement has taken place in Western architecture and other arts, and this movement explicitly takes the reappropriation and juxtaposition of different historical styles as its core methodology. “Sampling” is a technique that is now celebrated in many new social phenomena from hip-hop to blogging. The term “post-modern” was originally coined to refer to a new style of architecture that came after the modernist International Style. Whereas the International Style was purely functional and eschewed all ornamentation, post-modern architecture is whimsically eclectic in its designs. From architecture, the post-modern movement then spread out to other areas of culture and going back in time, earlier movements like Pop Art and Dada were celebrated as forerunners of its playful pastiche-making. 
-
-According to Watsuji’s theory of _jūsōsei_, however, Japan has always been post-modern in the sense that it has never been intent on creating a unified narrative of progress as was developed in the West under modernism. Even in the area of religion, Buddhism complemented and redefined Shinto, but it did not eliminate or expunge it. A Hegelian might complain that this merely shows that Japan is outside of the mainstream of the development of Absolute Spirit, since it is not unifying its oppositions in sublation under a synthesis. Watsuji counters that,
-
-> True concrete unity exists by causing each and every contradictory moment to live in its own inherent life. (260)
-
-In other words, unity cannot mean the elimination of the original and the snuffing out of its life, but must mean its flourishing within a new context. This interpretation gives us a way to better understand the post-modern movement, which has (at times rightly) been criticized for its obscurantism and lack of focus. The goal of multi-layering, according to Watsuji is not merely to juxtapose nor even to transgress social boundaries, but to bring into the highest development each of the theses under consideration. Historical theses only come to really live when put into dialogue with later antitheses, even if these antitheses do not result in their sublation. Post-modernism then should aim not just at eclectically collecting and transposing, but at trying to show the core significance of what it gathers through the skillful arranging of things into a meeting point of feeling. 
-
-As previously described, such a meeting point allows for both individual and communal expression. Like a linked verse, post-modern art is at its most aesthetically appealing when it is able to bring its references together with respect for their uniqueness while also bridging the space between them. If the individual is primarily a negation of the subjective field of the public out of which we emerge, then it follows in Watsuji’s thinking that the most powerful expressions of our subjectivity will not be those that aim at producing some positive content but those that aim at negatively realizing the possibilities of the personality. It is for this reason then that in Japanese aesthetics, we find a special sensitivity to the importance of 間 (in this case read as _ma_) for relating elements in such a way as to bring out the interplay of their context. Just as Japan developed historically in a pattern of multi-layering of aesthetic styles, it was natural for the Japanese to become acutely sensitive to the importance of skillfully juxtaposing items within a particular context, and this is exactly the approach that is needed to make the post-modern artists of today maximally useful when crafting aesthetic experiences.
-
 ##Tea ceremony
 ####The crisis of Japanese aesthetics
 Nothing makes clearer the paradoxical volatility and stability of artistic agreement than the crisis of Japanese aesthetics following Japan’s opening to the West. The art forms valorized in pre-modern Japan only partially overlapped with those art forms valorized in the modern West. To a Japanese snob of the Edo period (1603--1868), ukiyo-e ([浮世絵][jp]) and kabuki theater ([歌舞伎][ja]) were hopelessly vulgar; landscape paintings and nature paintings were clearly superior to historical paintings; achieving linear perspective was an error, not a goal; statuary was almost exclusively religious; poetry was an invariably social pursuit; the highest forms of art were tea ceremony and flower arranging. Needless to say, these values were nearly completely overturned after Japan was reopened to engagement with the West. In France, artists under the spell of *[Japonisme][fr]* (notably, van Gogh and Toulouse-Lautrec) were strongly influenced by ukiyo-e rather than “higher” forms of visual art like *sumi-e* ([墨絵][ja]). Too much has been written about the shift to linear perspective in the Renaissance and its greater implications for a shift in patterns of thought to attempt a summary here, but suffice it to say that just as the shift from the reverse perspective of medieval Christian iconography required a shift of mindset in the West, a similar change was necessary in the East in order to move away from the traditional zig-zagging perspective of traditional Asian landscape painting. Similarly, Western statuary had been transformed from religious to secular during the Renaissance as a byproduct of the iconoclasm of earlier eras. Western romantic poetry is ideally written by brooding, lonely geniuses. Tea ceremony and flower arranging have never achieved more than fringe acceptance in the West at best. With so many reversals of value happening at once, a crisis of self-confidence in the arts in Japan was only natural. The sole exception to this pattern is the supposed superiority of landscape and nature painting. However, this is only so because Japanese art arrived in the West at a fortuitous time to accelerate the shift away from historic and occasional paintings to landscapes, still life, and eventually abstract art in part because of the embrace of ukiyo-e in *[Japonisme][fr]*.
 
-If there are any lessons to be gleaned from this cultural clash, it must be the cultural reception of art cannot be separated from the culture at large. When Japan found itself face-to-face with the West politically and technologically, an aesthetic confrontation was sure to follow. At the same time, however, the arts of Japan did not simply collapse in the face of Western pressures. Rather, they adapted to the crisis by developing various potentials that were hidden in the matrix of past artistic choices. For example, Masaoka Shiki took the longstanding trend towards a separation between *renga* [連歌][ja] and individual poems and formalized it by coining the term haiku [俳句][ja] to refer to these poems. While in retrospect the antecedents of this separation are evident in the work of his predecessors, it was pressure from the West that caused Shiki to draw out the distinction. A similar dynamic of Western pressure causing the reevaluation of past artistic values is evident in the _The Book of Tea_ by Okakura Kakuzō
+If there are any lessons to be gleaned from this cultural clash, it must be the cultural reception of art cannot be separated from the culture at large. When Japan found itself face-to-face with the West politically and technologically, an aesthetic confrontation was sure to follow. At the same time, however, the arts of Japan did not simply collapse in the face of Western pressures. Rather, they adapted to the crisis by developing various potentials that were hidden in the matrix of past artistic choices. For example, Masaoka Shiki took the longstanding trend towards a separation between *renga* [連歌][ja] and individual poems and formalized it by coining the term haiku [俳句][ja] to refer to these poems. While in retrospect the antecedents of this separation are evident in the work of his predecessors, it was pressure from the West that caused Shiki to draw out the distinction. A similar dynamic of Western pressure causing the reevaluation of past artistic values is evident in the _The Book of Tea_ by Okakura Kakuzō.
 
+####_The Book of Tea_ and "Teaism"
 ALSO THIS TEA BOOK WAS PART OF THE “BUSHIDO” TYPE OF REMYTHOLOGIZING OF JAPAN.
 
-###Tea
-
 THE HUT MAKES IT ART.
+
+It is for this reason then that in Japanese aesthetics, we find a special sensitivity to the importance of 間 (in this case read as _ma_) for relating elements in such a way as to bring out the interplay of their context. Just as Japan developed historically in a pattern of multi-layering of aesthetic styles, it was natural for the Japanese to become acutely sensitive to the importance of skillfully juxtaposing items within a particular context, and this is exactly the approach that is needed to make the post-modern artists of today maximally useful when crafting aesthetic experiences.
+
+- Tea!
+- Unclassified
+  - Ancient Greeks and Easter Islanders are both dead, but it’s better to have been a Greek
+  - Fūdo vs. Oku no Hosomichi as travel literature.
+  - Takarazuka as a dialectical evolution.
+    - All women as a response to all men
+  - For Watsuji, even highly subjective phenomena like our gustatory desires arise out of a wider matrix:
+- Temp
+  - Spatial and temporal aspects of the subject
+  - Post-modern multilayering, not sublation
+  - Locating the genius in an ethos
