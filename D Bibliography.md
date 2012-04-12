@@ -43,6 +43,10 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Chiaro Brivio. “The Human Being: When Philosophy Meets History, Miki Kiyoshi, Watsuji Tetsurō and their Quest for a New Ningen.” Doctoral thesis, University of Leiden, 2009. `https://openaccess.leidenuniv.nl/handle/1887/13835`.
 
+* Danto, Arthur. “The Appreciation and Interpretation of Works of Art.” In *The Philosophical Disenfranchisement of Art* by Arthur Danto, 23--46. Columbia University Press, 1986.
+
+* ⎯⎯⎯. “The Artworld.” In *Aesthetics and the Philosophy of Art*, edited by Peter Lamarque and Stein Haugom Olsen, 27--34. Blackwell, 2004.
+
 * Eaton, Marcia. _Art and nonart : reflections on an orange crate and a moose call_. London: Associated University Press, 1983.
 
 * Gordon, David B. _Self-Overcoming as the Overcoming of Modernity: Watsuji Tetsurō’s “A Study of Nietzsche” (1913) and Its Place in the Development of His Thought_. Doctoral thesis, University of Hawaii, 1997.
