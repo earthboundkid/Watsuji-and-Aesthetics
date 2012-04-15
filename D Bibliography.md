@@ -29,6 +29,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Bernier, Bernard. “National Communion: Watsuji Tetsurō’s Conception of Ethics, Power, and the Japanese Imperial State.” _Philosophy East and West_ 56.1 (Jan., 2006): 84--105. `http://www.jstor.org/stable/4488002`.
 
+* _The Blind Man_. Vol. 2 published New York, May 1917. Accessed Spring 2012. `http://sdrc.lib.uiowa.edu/dada/blindman/2/index.htm`
+
 * Blyth, R. H. _Haiku. Volume I: Eastern Culture_. Paperback edition. Tokyo: Hokuseido Press, 1981.
 
 * Borges, Jorge Luis. “Pierre Menard, Author of the _Quixote_.” Translated by James E. Irby. In _Labyrinths: Selected Stories and Other Writings by Jorge Luis Borges_, edited by Donald A. Yates and James E. Irby, 36--44. New York: New Directions, 1964.
@@ -94,6 +96,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 * ⎯⎯⎯ and [Nishida][sc] Kitaro. “An Explanation of Beauty. Nishida Kitarō's Bi no Setsumei.” *Monumenta Nipponica* 42.2 (Summer, 1987): 211--217. `http://www.jstor.org/stable/2384952`.
 
 * _Oxford English Dictionary_. Oxford University Press. Accessed Spring 2012. `http://oed.com`.
+
+* Pater, Walter. _The Renaissance_. Blackwell, 1973.
 
 * Plato. _Republic_. Translated by C.D.C. Reeve. Indianapolis: Hackett, 2004.
 
