@@ -45,6 +45,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Chiaro Brivio. “The Human Being: When Philosophy Meets History, Miki Kiyoshi, Watsuji Tetsurō and their Quest for a New Ningen.” Doctoral thesis, University of Leiden, 2009. `https://openaccess.leidenuniv.nl/handle/1887/13835`.
 
+* Dale, Peter. _The Myth of Japanese Uniqueness_. Oxford, 1986.
+
 * Danto, Arthur. “The Appreciation and Interpretation of Works of Art.” In *The Philosophical Disenfranchisement of Art* by Arthur Danto, 23--46. Columbia University Press, 1986.
 
 * ⎯⎯⎯. “The Artworld.” In *Aesthetics and the Philosophy of Art*, edited by Peter Lamarque and Stein Haugom Olsen, 27--34. Blackwell, 2004.
@@ -60,6 +62,11 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 * Hegel, G. W. F. _Lectures on the Philosophy of World History_. Translated by H. B. Nisbet. Cambridge University Press, 1975.
 
 * ⎯⎯⎯. *Philosophy of Right*. Translated by S.W Dyde. Kitchener, Ontario: Batoche Books, 2001.
+
+* Hume, David. "Of the Standard of Taste." Last accessed, Spring 2012. `http://en.wikisource.org/wiki/Of_the_Standard_of_Taste`.
+
+* Jencks, Charles A. _The Language of Post-Modern Architecture_. New York: Rizzoli, 1977.
+
 
 * Kant, Immanuel. _Critique of Judgment_. Translated by Werner S. Pluhar. Indianapolis: Hackett, 1987.
 
@@ -94,6 +101,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 * Odin, Steve. _Artistic Detachment in Japan and the West: Psychic Distance in Comparative Aesthetics_. Honolulu: U. Hawaii Press, 2001.
 
 * ⎯⎯⎯ and [Nishida][sc] Kitaro. “An Explanation of Beauty. Nishida Kitarō's Bi no Setsumei.” *Monumenta Nipponica* 42.2 (Summer, 1987): 211--217. `http://www.jstor.org/stable/2384952`.
+
+* _The Onion_. "Song About Heroin Used To Advertise Bank." April 18, 2001. Accessed Spring 2012. `http://www.theonion.com/articles/song-about-heroin-used-to-advertise-bank,1489/`.
 
 * _Oxford English Dictionary_. Oxford University Press. Accessed Spring 2012. `http://oed.com`.
 
