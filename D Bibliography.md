@@ -25,11 +25,11 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * ⎯⎯⎯. _Politics_. Translated by W. H. Fyfe. Vol. 21 of *Aristotle in 23 Volumes*. Cambridge, MA: Harvard U. Press, 1932.
 
-* Benjamin, Walter. "The Work of Art in the Age of Mechanical Reproduction." Accessed Spring 2012. `http://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm`.
+* Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” Accessed Spring 2012. `http://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm`.
 
 * Bernier, Bernard. “National Communion: Watsuji Tetsurō’s Conception of Ethics, Power, and the Japanese Imperial State.” _Philosophy East and West_ 56.1 (Jan., 2006): 84--105. `http://www.jstor.org/stable/4488002`.
 
-* _The Blind Man_. Vol. 2 published New York, May 1917. Accessed Spring 2012. `http://sdrc.lib.uiowa.edu/dada/blindman/2/index.htm`
+* _The Blind Man_. Vol. 2 published New York, May 1917. Accessed Spring 2012. `http://sdrc.lib.uiowa.edu/dada/blindman/2/index.htm`.
 
 * Blyth, R. H. _Haiku. Volume I: Eastern Culture_. Paperback edition. Tokyo: Hokuseido Press, 1981.
 
@@ -51,19 +51,25 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * ⎯⎯⎯. “The Artworld.” In *Aesthetics and the Philosophy of Art*, edited by Peter Lamarque and Stein Haugom Olsen, 27--34. Blackwell, 2004.
 
+* Dilworth, David A. “Guiding Principles of Interpretation in Watsuji Tetsurō’s _History of Japanese Ethical Thought_ With Particular Reference to the Tension Between the _Sonnō_ and _Bushidō_ Traditions.” In _Frontiers of Japanese Philosophy 2: Neglected Themes and Hidden Variations_, edited by Victor Sōgen Hori and Melissa Anne-Marie Curley, 101--12. Nagoya: Nanzan Institute, 2008.
+
+* ⎯⎯⎯ and Valdo H. Viglielmo with Agustin Jacinto Zavala, eds. _Sourcebook for Modern Japanese Philosophy: Selected Documents_. Greenwood Press, 1998.
+
+* ⎯⎯⎯. “Watsuji Tetsurō (1889-1960): Cultural Phenomenologist and Ethician.” *Philosophy East and West* 24.1 (Jan., 1974): 3--22. `http://www.jstor.org/stable/1397599`.
+
 * Eaton, Marcia. _Art and nonart : reflections on an orange crate and a moose call_. London: Associated University Press, 1983.
 
 * Gordon, David B. _Self-Overcoming as the Overcoming of Modernity: Watsuji Tetsurō’s “A Study of Nietzsche” (1913) and Its Place in the Development of His Thought_. Doctoral thesis, University of Hawaii, 1997.
 
 * Heidegger, Martin. _Being and Time_. Translated by John Macquarrie and Edward Robinson. San Fransisco: Harper, 1962.
 
-* ⎯⎯⎯. "The Origin of the Work of Art." Translated by Albert Hofstadter. In David Krell, ed., _Basic Writings: From_ Being and Time _(1927) to_ The Task of Thinking _(1964)_, Second edition, 143--212. San Francisco: HarperSanFrancisco, 1993.
+* ⎯⎯⎯. “The Origin of the Work of Art.” Translated by Albert Hofstadter. In David Krell, ed., _Basic Writings: From_ Being and Time _(1927) to_ The Task of Thinking _(1964)_, Second edition, 143--212. San Francisco: HarperSanFrancisco, 1993.
 
 * Hegel, G. W. F. _Lectures on the Philosophy of World History_. Translated by H. B. Nisbet. Cambridge University Press, 1975.
 
 * ⎯⎯⎯. *Philosophy of Right*. Translated by S.W Dyde. Kitchener, Ontario: Batoche Books, 2001.
 
-* Hume, David. "Of the Standard of Taste." Last accessed, Spring 2012. `http://en.wikisource.org/wiki/Of_the_Standard_of_Taste`.
+* Hume, David. “Of the Standard of Taste.” Last accessed, Spring 2012. `http://en.wikisource.org/wiki/Of_the_Standard_of_Taste`.
 
 * Jencks, Charles A. _The Language of Post-Modern Architecture_. New York: Rizzoli, 1977.
 
@@ -78,13 +84,15 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Keene, Donald, trans. _The Narrow Road to Oku_. New York: Kodansha, 1996.
 
-* Knuth, Donald. "Computer Programming as Art." _Communications of the ACM_ 17.12 (Dec., 1974): 667--673. Accessed Spring 2012. `doi:10.1145/361604.361612`.
+* Knuth, Donald. “Computer Programming as Art.” _Communications of the ACM_ 17.12 (Dec., 1974): 667--673. Accessed Spring 2012. `doi:10.1145/361604.361612`.
 
 * Komar, Vitaly and Alexander Melamid. “The Most Wanted Paintings on the Web.” Original collaboration 1996–1997. Accessed Spring 2012. `http://www.diacenter.org/km/`.
 
 * Lafluer, William. “Buddhist Emptiness in the Ethics and Aesthetics of Watsuji Tetsurō.” _Religious Studies_ 14.2 (Jun., 1978): 237--250. `http://www.jstor.org/stable/20005486`.
 
-* Marra, Michael F. “On Japanese Things and Words: An Answer to Heidegger's Question.” *Philosophy East and West* 54.4 (Oct., 2004): 555--568. `http://www.jstor.org/stable/4148019`.
+* ⎯⎯⎯. _The Karma of Words: Buddhism and the Literary Arts in Medieval Japan_. Berkeley: University of California Press, 1983.
+
+* Marra, Michael F. “On Japanese Things and Words: An Answer to Heidegger’s Question.” *Philosophy East and West* 54.4 (Oct., 2004): 555--568. `http://www.jstor.org/stable/4148019`.
 
 * ⎯⎯⎯, ed. _A History of Modern Japanese Aesthetics_. Honolulu: U. Hawaii Press, 2001.
 
@@ -92,7 +100,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Merleau-Ponty, Maurice. _Phenomenology of Perception_. Translated by Donald Landes. Routledge, 2002.
 
-* [Miki][sc] Kiyoshi. "The Study of the Human." Translated by Gereon Kopf. In _Japanese Philosophy: A Sourcebook_, 702--705. Honolulu: University of Hawaii Press, 2011.
+* [Miki][sc] Kiyoshi. “The Study of the Human.” Translated by Gereon Kopf. In _Japanese Philosophy: A Sourcebook_, 702--705. Honolulu: University of Hawaii Press, 2011.
 
 * Nietzsche, Friedrich. _Birth of Tragedy and Other Writings_. Translated by Ronald Speirs. New York: Cambridge U. Press, 1999.
 
@@ -100,9 +108,9 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Odin, Steve. _Artistic Detachment in Japan and the West: Psychic Distance in Comparative Aesthetics_. Honolulu: U. Hawaii Press, 2001.
 
-* ⎯⎯⎯ and [Nishida][sc] Kitaro. “An Explanation of Beauty. Nishida Kitarō's Bi no Setsumei.” *Monumenta Nipponica* 42.2 (Summer, 1987): 211--217. `http://www.jstor.org/stable/2384952`.
+* ⎯⎯⎯ and [Nishida][sc] Kitaro. “An Explanation of Beauty. Nishida Kitarō’s Bi no Setsumei.” *Monumenta Nipponica* 42.2 (Summer, 1987): 211--217. `http://www.jstor.org/stable/2384952`.
 
-* _The Onion_. "Song About Heroin Used To Advertise Bank." April 18, 2001. Accessed Spring 2012. `http://www.theonion.com/articles/song-about-heroin-used-to-advertise-bank,1489/`.
+* _Onion, The_. “Song About Heroin Used To Advertise Bank.” April 18, 2001. Accessed Spring 2012. `http://www.theonion.com/articles/song-about-heroin-used-to-advertise-bank,1489/`.
 
 * _Oxford English Dictionary_. Oxford University Press. Accessed Spring 2012. `http://oed.com`.
 
