@@ -10,6 +10,8 @@ Nose Asaji. *Sanzōshi hyōshaku* (Tokyo: Meicho Kankōkai, 1970)
 
 Shogakukan’s Japanese dictionary
 
+_Daijisen_ [大辞泉][ja]
+
 Shogakukan’s _Ruigo Jiten_
 
 wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻哲郎全集][ja]
@@ -91,6 +93,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 * Lafluer, William. “Buddhist Emptiness in the Ethics and Aesthetics of Watsuji Tetsurō.” _Religious Studies_ 14.2 (Jun., 1978): 237--250. `http://www.jstor.org/stable/20005486`.
 
 * ⎯⎯⎯. _The Karma of Words: Buddhism and the Literary Arts in Medieval Japan_. Berkeley: University of California Press, 1983.
+
+* Leopold, Aldo. _A Sand County Almanac, and Sketches Here and There_. Seventh printing, 1964. Oxford University Press, 1949.
 
 * Marra, Michael F. “On Japanese Things and Words: An Answer to Heidegger’s Question.” *Philosophy East and West* 54.4 (Oct., 2004): 555--568. `http://www.jstor.org/stable/4148019`.
 
