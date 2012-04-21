@@ -19,7 +19,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 ##Other sources
 * Ames, Roger T. and Henry Rosemont, trans. _The Analects of Confucius: A Philosophical Translation_. New York: Ballantine, 1998.
 
-* Ames, Roger and David Hall. _Dao De Jing “Making This Life Significant”: A Philosophical Translation_. New York: Ballantine, 2003.
+* ⎯⎯⎯ and David Hall. _Dao De Jing “Making This Life Significant”: A Philosophical Translation_. New York: Ballantine, 2003.
 
 * Aristotle. _Nicomachean Ethics_. Second Edition. Translated by Terence Irwin. Indianapolis: Hackett, 1999.
 
@@ -63,7 +63,9 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Gordon, David B. _Self-Overcoming as the Overcoming of Modernity: Watsuji Tetsurō’s “A Study of Nietzsche” (1913) and Its Place in the Development of His Thought_. Doctoral thesis, University of Hawaii, 1997.
 
-* Heidegger, Martin. _Being and Time_. Translated by John Macquarrie and Edward Robinson. San Fransisco: Harper, 1962.
+* Heidegger, Martin. "Art and Space." Translated by Charles Seibert. *Man and World* 6.1 (1973): 3--8. `doi:10.1007/BF01252779`.
+
+* ⎯⎯⎯. _Being and Time_. Translated by John Macquarrie and Edward Robinson. San Fransisco: Harper, 1962.
 
 * ⎯⎯⎯. “The Origin of the Work of Art.” Translated by Albert Hofstadter. In David Krell, ed., _Basic Writings: From_ Being and Time _(1927) to_ The Task of Thinking _(1964)_, Second edition, 143--212. San Francisco: HarperSanFrancisco, 1993.
 
@@ -74,7 +76,6 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 * Hume, David. “Of the Standard of Taste.” Last accessed, Spring 2012. `http://en.wikisource.org/wiki/Of_the_Standard_of_Taste`.
 
 * Jencks, Charles A. _The Language of Post-Modern Architecture_. New York: Rizzoli, 1977.
-
 
 * Kant, Immanuel. _Critique of Judgment_. Translated by Werner S. Pluhar. Indianapolis: Hackett, 1987.
 
@@ -154,6 +155,6 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Yamamoto, Seisaku and Robert Carter, trans. _[Watsuji][sc] Tetsurō’s_ Rinrigaku: _Ethics in Japan_. Albany: SUNY Press, 1996. 
 
-* [Yoshida][sc] Kazuhisa. “Two Faces of Postmodernism: Postmodernist Critiques of Cultural Typologies and the Future of Comparative Studies of Culture.” Saitama University Journal (College of General Education) _Saitama Daigaku Kiyō (Kyōyō Gakubu)_ 埼玉大学紀要（教養学部） 46.2 (2010): 219--241. `http://sucra.saitama-u.ac.jp/modules/xoonips/detail.php?item_id=14722`.
+* [Yoshida][sc] Kazuhisa. “Two Faces of Postmodernism: Postmodernist Critiques of Cultural Typologies and the Future of Comparative Studies of Culture.” Saitama University Journal (College of General Education) _Saitama Daigaku Kiyō (Kyōyō Gakubu)_ 埼玉大学紀要（教養学部） 46.2 (2010): 219--241. Last accessed, Spring 2012. `http://sucra.saitama-u.ac.jp/modules/xoonips/detail.php?item_id=14722`.
 
 * Zemach, Eddy. “Putnam’s Theory on the Reference of Substance Terms.” _The Journal of Philosophy_ 73.5 (Mar., 1976): 116--127. `http://www.jstor.org/stable/2025740`.
