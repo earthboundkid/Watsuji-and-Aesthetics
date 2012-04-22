@@ -267,13 +267,23 @@ In Japanese, _fūdo_ means roughly “climate” or “milieu” and is written 
 
 The title also relates to the _Fūdoki_ [風土記][ja], an eighth century chronicle of the geography, culture, and customs of the provinces of old Japan. In other words, _fūdo_ refers not only to the external conditions of the weather and so on, but also to the human cultural milieu as situated in a particular space. For our purposes, milieu is the equivalent in space of what history is in time. The significance of space for a subject is as a milieu.
 
-Watsuji wrote the initial form of this book after his 1927--28 journey to study abroad in Europe, and it contains his reflections on how the local cultures of the areas that he were shaped by and shaped their climates. By his own admission, the book is a further extension of Herder’s “Climactic Study of the Human Spirit,” although he grants that Kant was right to regard that work as “the product of the poet’s imagination” (17).∞ †
+Watsuji wrote the initial form of this book after his 1927--28 journey to study abroad in Europe, and it contains his reflections on how the local cultures of the areas that he were shaped by and shaped their climates. By his own admission, the book is a further extension of Herder’s “Climactic Study of the Human Spirit,” although he grants that Kant was right to regard that work as “the product of the poet’s imagination” (17∞),† but Watsuji aims not only to make his own account more concrete than Herder’s, but also to address what he saw as a shortcoming in then-contemporary German philosophy. Heidegger’s _Being and Time_ was published while Watsuji was in Germany, and in Watsuji’s estimation, the work was flawed. The trouble is that Heidegger consider being in relation to time but not in relation to space and, “time not linked with space is not time in the true sense”∞ . Watsuji’s focus on space was no doubt in part just a reaction to his own experiences as a stranger visiting new climates and in part a reaction to the work of his colleague [Nishida][sc] Kitarō on "place.”† Whatever the reasons for Watsuji’s addressing the issue, there can be no doubt that "being" without “space” is just as impossible as being without time.
 
 † Watsuji devotes a chapter of the book to explaining Herder’s theory of climate, which unfortunately has not been translated into English. Japanese as Greeks∞
 
-Watsuji aims not only to make his own account more concrete than Herder’s, but also to address what he saw as a shortcoming in then-contemporary German philosophy. Heidegger’s _Being and Time_ had been published while he was in Germany, but in Watsuji’s estimation, the work was flawed because, “time not linked with space is not time in the true sense”∞ . Watsuji’s focus on space was no doubt in part just a reaction to his own experiences as a stranger visiting new climates and in part a reaction to the work of his colleague [Nishida][sc] Kitarō on "place" (in Japanese, _basho_ [場所][ja], based on the Aristotle’s [τόπος][el]).† Whatever the reasons for Watsuji’s addressing the issue, there can be no doubt that "being" without “space” is just as impossible as being without time.
+† “Place” in Japanese is _basho_ [場所][ja] and corresponds to Aristotle’s [τόπος][el]. Nishida published an article under the title _Basho_ [場所][ja] in June of 1926 in _Tetsugaku Kenkyū_ [哲学研究][ja] vol. 123, crucially just before Watsuji’s journey when both were employed at Kyōto University.
 
-† Nishida published an article under the title _Basho_ [場所][ja] in June of 1926 in _Tetsugaku Kenkyū_ [哲学研究][ja] 123, crucially just before Watsuji’s journey when both were employed at Kyōto University. 
+In _Milieu_, Watsuji aims to show not just that space is as important as time, but in many ways, he wants to elevate it over time in our understanding:
+
+> When man becomes aware of the root of his being and expresses this awareness in objective fashion, he is restricted to historical and climatic methods. There has yet to be a spiritual awakening that was not thus restricted. But the climatic limitation is the superior, for by. it the more percipient self-realisation can. be achieved. (117∞)
+
+This is of a piece with the distinction between the subject as agent (_shutai_ [主体][ja]) and the subject as observer (_shukan_ [主観][ja]) that explored in the last chapter. Watsuji wants to elevate the practical self over the theoretical self, and the practical self exists out in the world with others. But to be sure, whether we agree with Watsuji’s privileging of space over time or not, Watsuji himself acknowledges that the two are intertwined in a way that makes an isolated analysis of one without the other misleading:
+
+> To interpret artistic style in relation to climate is to indicate the inseparability of climate from history. 8∞
+> 
+> History and climate act as the shield .and buckler of culture; the two are quite inseparable, for there is no historical event that does not possess its climatic character, nor is there climatic phenomenon that is without its historical component. 116
+
+&nbsp;
 
 In fact, later in his life Heidegger did attempt to redress the imbalance between considerations of time and space present in _Being and Time_. In “Art and Space” (1969), Heidegger extends his prior contextual theory of art with an examination of the question of space from the point of view of language:
 
@@ -291,72 +301,67 @@ The Japanese term for space is even more suggestive: _kūkan_ [空間][ja]. The 
 The space around us is not just space. This space creates an environment for our existence. Without it, we could not be, hence we owe to the natural world, just as to other people, an ethical debt. Watsuji launched an investigation into the impact of space on our existence as subjects under the title *Fūdo* or *Milieu*. Watsuji’s investigation was a critique of Heidegger’s one-sided focus on time in _Being and Time_, but the later Heidegger reversed this imbalance by exploring the importance of emptiness for existence, an insight that resonates with the emphasis on emptiness in Buddhist-influenced philosophy.
 
 ####Milieu and taste
-- Complaining about cold in Hawaii
-- milieu and art
+We already saw in the last chapter some of the ways in which our milieu is responsible for the creation of shared feelings and tastes. My feeling of cold and yours are subjective experiences, and yet we are able to share this experience because we occupy the same milieu. The food that I eat, I eat because it is presented to me from within the context of a particular form of cuisine.
+
 - how milieu creates desires
-- Where we’re going, we may in fact need roads.
-
-> To interpret artistic style in relation to climate is to indicate the inseparability of climate from history. 8
-
-TBS: 
-> History and climate act as the shield .and buckler of culture; the two are quite inseparable, for there is no historical event that does not possess its climatic character, nor is there climatic phenomenon that is without its historical component. 116
-
-116-7 History and climate are sword and buckler of culture
-117 climate is superior to history in realization of spirit. 
-117 we need to learn from one another (yay diversity!)
-117-8 recognition creates distinctions
-
   - For Watsuji, it’s not that the environment is a pool of resources to satisfy our own desires. Rather, the environment is a subjective space out which our desires emerge. Thus, Watsuji’s environmental ethics won’t be overly instrumental, even if he does seem to be anthropocentric.
     - We are interconnected both as agents and as observers. So, fūdo isn’t just a resource pool for us. We want fish because we have fish. We need to understand our “debts” to history and to climate.
-    - It’s not that Americans loved cars and built suburbs. They built roads and then loved their cars for taking them down those roads.
+- milieu and art
 
 In relation to taste, Watsuji’s philosophy of climate helps us understand how the taste of groups varies not only over time (an observation made by Hume, Hegel, and many others) but also from community to community without implying a lack of refinement in other cultures. In a Hegelian paradigm, we might think of the ancestors of our community as rational individuals but limited in their tastes by what artistic media and objects had historically developed up to that point in time. For Hegelians, it is only in history that a culture develops its aesthetic refinement. However, these Hegelian accounts can only describe other cultures as more or less advanced in coming to embody Absolute Spirit in its progression through history. The path of Absolute Spirit is singular, and history has only one endpoint, though there are many different stragglers along its path. Watsuji gives us a new way of understanding the distinctiveness of other cultures without denying their rationality or dismissing their differences as the product of their “savageness.” Since taste emerges out of the perspectives of the community, it must be grounded in climate as well as history. Cultural differences cannot be deterministically reduced to climate, since climate and culture are mutually dependent, but it does allow us to understand how a different culture can differently embody in aesthetics and civilization its particular climactic niche without therefore being “backwards” in comparison to some other culture. This is also not to suggest that all cultures are equally civilized (cultural relativism), just that there are multiple possible ways in which a culture may progress in embodying the spirit of its time and place at which it may excel or lag behind (cultural pluralism).
 
+
 ####Globalization and hybridity
 - regions of the world
-- globalism
-MEADOW, DESERT, ETC.
-Importance of hybridization
 
-How applicable is Watsuji’s theory of milieu today? Surely, a critic might protest, the process of globalization has resulted in the erasure of the importance of place.
-
-> But this is all of the past. Today, now that the world seems to have become one, the stimuli of differing cultures appear to be toppling the distinctivenesses of nature. Yet natural distinctiveness is not something to disappear without a trace. 207
-
-> In essence, differences in “place” contain within themselves time differences and both factors. closely interwoven, condition the distinctive character of a work of art. Again, with the world·wide cultural contacts of this modern age, the whole world seems to have coalesced into a single “place” so that only the single problem of “time” is now prominent. However, precisely because of this shrinking of the world, it has become much more easy to consider the time when it was still divided into any number of “places”, and the degree and the depth to which local differences, which were marked, affected forms of art. (172--3)
+Watsuji admits that his schema of just three distinctive global milieux is a simplification, but he feels that it is a helpful one:
 
 > Artistic creativity, as being rooted in man’s character, is no doubt not to be marked off into two or three divisions in accordance with distinctions of place, yet within the limits in which it is exemplified concretely in one place as the originality of a certain artist, it is bound to assume the distinctiveness of the place as its own character. 205
 
+But how applicable is Watsuji’s theory of milieu today? A critic might protest that the process of globalization has resulted in the erasure of the importance of place. The airplane and the internet have made it the case that distance no longer matters. Even from his vantage in the early twentieth century, Watsuji was aware of the ongoing diminishment of place. Still, he feels that even if it is diminished milieu will not disappear entirely as factor in human existence:
+
+> But this is all of the past. Today, now that the world seems to have become one, the stimuli of differing cultures appear to be toppling the distinctivenesses of nature. Yet natural distinctiveness is not something to disappear without a trace. 207
+
+Although we are tempted to look only at the world from the point of view of globalized history, the emergence of the environmental movement in the mid-to-late twentieth century happened just because people became increasingly aware of the importance of the ecosystems around them. The root of this awareness was a series of ecological crises including Rachel Carson’s _Silent Spring_, Love Canal, Chernobyl, the hole in the ozone layer, global climate change, and many others. We are able to create virtual spaces with our technology, but we ignore our milieux at our peril: 
+
+> Neglect of nature does not mean to surmount nature. This is merely lack of awareness within climatic limitation. (117)∞
+
+In any event, argues Watsuji, the increasing connection among the places of the world only shows the importance of the differences between them that remain and grow deeper over time:
+
+> In essence, differences in “place” contain within themselves time differences and both factors. closely interwoven, condition the distinctive character of a work of art. Again, with the world·wide cultural contacts of this modern age, the whole world seems to have coalesced into a single “place” so that only the single problem of “time” is now prominent. However, precisely because of this shrinking of the world, it has become much more easy to consider the time when it was still divided into any number of “places”, and the degree and the depth to which local differences, which were marked, affected forms of art. (172--3)
+
+&nbsp;
+
+The question for the future is how the various distinctive milieux of the world will be able to hybridize with one another. Throughout _Milieux_, Watsuji attempts to show that when an idea moves from one milieu to another, it carries the seed of its old milieu with it even as it is transformed by its new one:
+
 > Of course, such characteristics could be transferred through historical agencies, for place characteristics are not by any means absolute as is shown, for example, by the fact that the Old Testament, the child of desert life, has laid its spell over Europe for a thousand years, or again, that the Koran, born of the same desert, maintains strong influence in India today. 204
 
-##Tea ceremony
+Hence, if globalization is going to be an important aspect of the future of art history, then hybridization will be a necessary aspect of that history.
+
+117 we need to learn from one another (yay diversity!)
+> If climatic conditioning has affected every part of mankind and has given to each part its own peculiar merits, it is just from this that we can be made conscious of. our own weaknesses and learn from one another. This is again the means by which climatic limitation can be surmounted. (117)
+117-8 recognition creates distinctions
+
+##Okakura Kakuzō, _The Book of Tea_, and “Teaism”
 ####The crisis of Japanese aesthetics
-Nothing more clearly illustrates the interaction between history and milieu in art than the crisis of Japanese aesthetics following Japan’s opening to the West. The art forms valorized in pre-modern Japan only partially overlapped with those art forms valorized in the modern West. To a Japanese snob of the Edo period (1603--1868), Ukiyo-e ([浮世絵][jp], mass reproduced prints of “the floating world”) and Kabuki theater ([歌舞伎][ja]) were hopelessly vulgar; landscape paintings and nature paintings were clearly superior to historical paintings; achieving linear perspective was an error, not a goal; statuary was almost exclusively religious; poetry was an invariably social pursuit; the highest forms of art were flower arranging and tea ceremony. Needless to say, these values were nearly completely overturned after Japan was reopened to engagement with the West. In France, artists under the spell of *[Japonisme][fr]* (notably, van Gogh and Toulouse-Lautrec) were strongly influenced by ukiyo-e rather than “higher” forms of visual art like *sumi-e* ([墨絵][ja]). Too much has been written about the shift to linear perspective in the Renaissance and its greater implications for a shift in patterns of thought to attempt a summary here, but suffice it to say that just as the shift from the reverse perspective of medieval Christian iconography required a shift of mindset in the West, a similar change was necessary in the East in order to move away from the traditional zig-zagging perspective of traditional Asian landscape painting. Similarly, Western statuary had been transformed from religious to secular during the Renaissance as a byproduct of the iconoclasm of earlier eras. Western romantic poetry is ideally written by brooding, lonely geniuses. Tea ceremony and flower arranging have never achieved more than fringe acceptance in the West at best. With so many reversals of value happening at once, a crisis of self-confidence in the arts in Japan was only natural. The sole exception to this pattern is the supposed superiority of landscape and nature painting. However, this is only so because Japanese art arrived in the West at a fortuitous time to accelerate the shift away from historic and occasional paintings to landscapes, still life, and eventually abstract art in part because of the embrace of ukiyo-e in *[Japonisme][fr]*.
+Nothing more clearly illustrates the role of HYBRIDITY∞ in the interaction between history and milieu in art than the crisis of Japanese aesthetics following Japan’s opening to the West. The art forms valorized in pre-modern Japan only partially overlapped with those art forms valorized in the modern West. To a Japanese snob of the Edo period (1603--1868), Ukiyo-e ([浮世絵][jp], mass reproduced prints of “the floating world”) and Kabuki theater ([歌舞伎][ja]) were hopelessly vulgar; landscape paintings and nature paintings were clearly superior to historical paintings; achieving linear perspective was an error, not a goal; statuary was almost exclusively religious; poetry was an invariably social pursuit; the highest forms of art were flower arranging and tea ceremony. Needless to say, these values were nearly completely overturned after Japan was reopened to engagement with the West. In France, artists under the spell of *[Japonisme][fr]* (notably, van Gogh and Toulouse-Lautrec) were strongly influenced by ukiyo-e rather than “higher” forms of visual art like *sumi-e* ([墨絵][ja]). Too much has been written about the shift to linear perspective in the Renaissance and its greater implications for a shift in patterns of thought to attempt a summary here, but suffice it to say that just as the shift from the reverse perspective of medieval Christian iconography required a shift of mindset in the West, a similar change was necessary in the East in order to move away from the traditional zig-zagging perspective of traditional Asian landscape painting. Similarly, Western statuary had been transformed from religious to secular during the Renaissance as a byproduct of the iconoclasm of earlier eras. Western romantic poetry is ideally written by brooding, lonely geniuses. Tea ceremony and flower arranging have never achieved more than fringe acceptance in the West at best. With so many reversals of value happening at once, a crisis of self-confidence in the arts in Japan was only natural. The sole exception to this pattern is the supposed superiority of landscape and nature painting. However, this is only so because Japanese art arrived in the West at a fortuitous time to accelerate the shift away from historic and occasional paintings to landscapes, still life, and eventually abstract art in part because of the embrace of ukiyo-e in *[Japonisme][fr]*.
 
 If there are any lessons to be gleaned from this cultural clash, it must be the cultural reception of art cannot be separated from the culture at large. When Japan found itself face-to-face with the West politically and technologically, an aesthetic confrontation was sure to follow. At the same time, however, the arts of Japan did not simply collapse in the face of Western pressures. Rather, they adapted to the crisis by developing various potentials that were hidden in the matrix of past artistic choices. For example, Masaoka Shiki took the longstanding trend towards a separation between *renga* [連歌][ja] and individual poems and formalized it by coining the term haiku [俳句][ja] to refer to these poems. While in retrospect the antecedents of this separation are evident in the work of his predecessors, it was pressure from the West that caused Shiki to draw out the distinction explicitly. A similar dynamic of Western pressure causing the reevaluation of past artistic values is evident in the _The Book of Tea_ by Okakura Kakuzō.
 
-####Okakura Kakuzō, _The Book of Tea_, and “Teaism”
-ALSO THIS TEA BOOK WAS PART OF THE “BUSHIDO” TYPE OF REMYTHOLOGIZING OF JAPAN.
+####Okakura Kakuzō
+- OK, the man, the myth, etc.
+	Broseph was a perfect embodiment of his context as country and era.
+	OKAKURA WAS A BIT OF A RAKE, BUT HIS SUCCESS SHOWS THAT PLACE ISN’T REPLACEABLE (groan). As Watsuji explained in _Milieu_, culture transforms when it crosses from region to region. Just as the desert religion of Judaism was transformed by the meadow culture of the Greeks into Christianity, so too, his “Teaism” was transformed by Frank Lloyd Wright, who then made the big hotel in Tokyo. The synthesis is endless in its reverberations.
+	Teacher of Watsuji, father of Kuki, influence on Heidegger, etc.
 
-THE HUT MAKES IT ART.
+####Tea ceremony and *The Book of Tea*
+- Tea facts
+	THE HUT MAKES IT ART.
+	TRY TO BRING BACK SOME OF THE STUFF FROM EARLIER CHAPTERS
 
-DT SUZUKI AND ZEN BS
+####Teaism and globalization
+- How Teaism fit his age and milieu
+	ALSO THIS TEA BOOK WAS PART OF THE “BUSHIDO” TYPE OF REMYTHOLOGIZING OF JAPAN.
+	DT SUZUKI AND ZEN BS
 
-TRY TO BRING BACK SOME OF THE STUFF FROM EARLIER CHAPTERS
-
-OKAKURA WAS A BIT OF A RAKE, BUT HIS SUCCESS SHOWS THAT PLACE ISN’T REPLACEABLE (groan). As Watsuji explained in _Milieu_, culture transforms when it crosses from region to region. Just as the desert religion of Judaism was transformed by the meadow culture of the Greeks into Christianity, so too, his “Teaism” was transformed by Frank Lloyd Wright, who then made the big hotel in Tokyo. The synthesis is endless in its reverberations.
-
-Broseph was a perfect embodiment of his context as country and era.
-
-It is for this reason then that in Japanese aesthetics, we find a special sensitivity to the importance of 間 (in this case read as _ma_) for relating elements in such a way as to bring out the interplay of their context. Just as Japan developed historically in a pattern of multi-layering of aesthetic styles, it was natural for the Japanese to become acutely sensitive to the importance of skillfully juxtaposing items within a particular context, and this is exactly the approach that is needed to make the post-modern artists of today maximally useful when crafting aesthetic experiences.
-
-- Tea!
-- Unclassified
-  - Ancient Greeks and Easter Islanders are both dead, but it’s better to have been a Greek
-  - Fūdo vs. Oku no Hosomichi as travel literature.
-  - Takarazuka as a dialectical evolution.
-    - All women as a response to all men
-  - For Watsuji, even highly subjective phenomena like our gustatory desires arise out of a wider matrix:
-- Temp
-  - Spatial and temporal aspects of the subject
-  - Post-modern multilayering, not sublation
-  - Locating the genius in an ethos
+###Conclusion
