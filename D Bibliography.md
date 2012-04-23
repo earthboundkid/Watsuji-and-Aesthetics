@@ -1,5 +1,7 @@
 [sc]: class:smallcaps
 
+Rachel Carson’s _Silent Spring_
+
 catb.org/jargon/html/koans.html
 
 #Bibliography
@@ -31,6 +33,10 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Bernier, Bernard. “National Communion: Watsuji Tetsurō’s Conception of Ethics, Power, and the Japanese Imperial State.” _Philosophy East and West_ 56.1 (Jan., 2006): 84--105. `http://www.jstor.org/stable/4488002`.
 
+* Berque, Augustin, trans. _Fûdo: Le milieu humain_. Paris: CNRS, 2011.
+
+* ⎯⎯⎯. "The Question of Space." _Cultural Geographies_ 3.4 (Oct., 1996): 373--383. `doi:10.1177/147447409600300401`.
+
 * _The Blind Man_. Vol. 2 published New York, May 1917. Accessed Spring 2012. `http://sdrc.lib.uiowa.edu/dada/blindman/2/index.htm`.
 
 * Blyth, R. H. _Haiku. Volume I: Eastern Culture_. Paperback edition. Tokyo: Hokuseido Press, 1981.
@@ -42,6 +48,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 * Baumgarten, Alexander Gottlieb. *Aesthetica*. `http://www.archive.org/details/aestheticascrip00baumgoog`.
 
 * Bullough, Edward. “ ‘Psychical Distance’ as a Factor in Art and an Æsthetic Principle.” In _Æsthetics: Lectures and Essays_, by Edward Bullough, 91--130. London: Bowes & Bowes, 1957.
+
+* Carson, Rachel. _Silent Spring_. Boston: Houghton Mifflin, 1994.
 
 * Chakrabarti, Arindam. “I Touch What I Saw.” _Philosophy and Phenomenological Research_ 52:1 (Mar., 1992): 103--116.
 
