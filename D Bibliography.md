@@ -35,6 +35,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Berque, Augustin, trans. _Fûdo: Le milieu humain_. Paris: CNRS, 2011.
 
+* ⎯⎯⎯. "Offspring of Watsuji’s theory of milieu (Fûdo)." _GeoJournal_ 60.4 (2004): 389--396. `http://www.jstor.org/stable/41147905`.
+
 * ⎯⎯⎯. "The Question of Space." _Cultural Geographies_ 3.4 (Oct., 1996): 373--383. `doi:10.1177/147447409600300401`.
 
 * _The Blind Man_. Vol. 2 published New York, May 1917. Accessed Spring 2012. `http://sdrc.lib.uiowa.edu/dada/blindman/2/index.htm`.
@@ -134,6 +136,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 * ⎯⎯⎯. _Symposium_. Translated by Alexander Nehamas and Paul Woodruff. Indianapolis: Hackett, 1989.
 
 * Pronko, Leonard C. _Theater East and West_. Berkeley: U. Cal. Press, 1967.
+
+* Reynolds, Simon. _Rip It Up and Start Again : Postpunk 1978--1984_. New York: Penguin Books, 2006.
 
 * [Sakabe][sc] Megumi. “Mask and Shadow in Japanese Culture: Implicit Ontology in Japanese Thought.” In _Modern Japanese Aesthetics: A Reader_, translated by Michele Marra, 242--251. Honolulu: U. of Hawaii Press, 1999.
 
