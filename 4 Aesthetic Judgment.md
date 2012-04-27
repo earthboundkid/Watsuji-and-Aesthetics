@@ -1,5 +1,6 @@
 title: The Subject and Object of Aesthetic Judgment
 
+[sa]: lang:sa
 [zh]: lang:zh
 [ja]: lang:ja
 [sc]: class:smallcaps
