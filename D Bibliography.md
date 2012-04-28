@@ -59,7 +59,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Dale, Peter. _The Myth of Japanese Uniqueness_. Oxford, 1986.
 
-* Danto, Arthur. “The Appreciation and Interpretation of Works of Art.” In *The Philosophical Disenfranchisement of Art* by Arthur Danto, 23--46. Columbia University Press, 1986.
+* Danto, Arthur. “The Appreciation and Interpretation of Works of Art.” In *The Philosophical Disenfranchisement of Art*, by Arthur Danto, 23--46. Columbia University Press, 1986.
 
 * ⎯⎯⎯. “The Artworld.” In *Aesthetics and the Philosophy of Art*, edited by Peter Lamarque and Stein Haugom Olsen, 27--34. Blackwell, 2004.
 
@@ -107,13 +107,15 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Leopold, Aldo. _A Sand County Almanac, and Sketches Here and There_. Seventh printing, 1964. Oxford University Press, 1949.
 
+* Marion, Mathieu. "Wittgenstein on Heidegger and Cosmic Emotions." In _Philosophical Papers Dedicated to Kevin Mulligan_, edited by Anne Reboul. Accessed Spring 2012. `http://www.philosophie.ch/kevin/festschrift/Marion-paper.pdf`.
+
 * Marra, Michael F. “On Japanese Things and Words: An Answer to Heidegger’s Question.” *Philosophy East and West* 54.4 (Oct., 2004): 555--568. `http://www.jstor.org/stable/4148019`.
 
 * ⎯⎯⎯, ed. _A History of Modern Japanese Aesthetics_. Honolulu: U. Hawaii Press, 2001.
 
 * Mayeda, Graham. _Time, Space, and Ethics in the Philosophy of Watsuji Tetsurō, Kuki Shūzō, and Martin Heidegger_. New York: Routledge, 2006.
 
-* Merleau-Ponty, Maurice. _Phenomenology of Perception_. Translated by Donald Landes. Routledge, 2002.
+* Merleau-Ponty, Maurice. _Phenomenology of Perception_. Translated by Donald Landes. New York: Routledge, 2002.
 
 * [Miki][sc] Kiyoshi. “The Study of the Human.” Translated by Gereon Kopf. In _Japanese Philosophy: A Sourcebook_, 702--705. Honolulu: University of Hawaii Press, 2011.
 
@@ -128,6 +130,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 * _Onion, The_. “Song About Heroin Used To Advertise Bank.” April 18, 2001. Accessed Spring 2012. `http://www.theonion.com/articles/song-about-heroin-used-to-advertise-bank,1489/`.
 
 * _Oxford English Dictionary_. Oxford University Press. Accessed Spring 2012. `http://oed.com`.
+
+* Parkes, Graham. "Rising Sun over Black Forest: Heidegger's Japanese connections." In _Heidegger’s Hidden Sources: East Asian Influences on his Work_, by Reinhard May, 83--121. New York: Routledge, 1996.
 
 * Pater, Walter. _The Renaissance_. Blackwell, 1973.
 
