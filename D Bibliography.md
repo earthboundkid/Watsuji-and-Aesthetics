@@ -63,6 +63,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * ⎯⎯⎯. “The Artworld.” In *Aesthetics and the Philosophy of Art*, edited by Peter Lamarque and Stein Haugom Olsen, 27--34. Blackwell, 2004.
 
+* Diamond, Jared. _Guns, Germs, and Steel: The Fates of Human Societies_. New York: W.W. Norton, 1997.
+
 * Dilworth, David A. “Guiding Principles of Interpretation in Watsuji Tetsurō’s _History of Japanese Ethical Thought_ With Particular Reference to the Tension Between the _Sonnō_ and _Bushidō_ Traditions.” In _Frontiers of Japanese Philosophy 2: Neglected Themes and Hidden Variations_, edited by Victor Sōgen Hori and Melissa Anne-Marie Curley, 101--12. Nagoya: Nanzan Institute, 2008.
 
 * ⎯⎯⎯ and Valdo H. Viglielmo with Agustin Jacinto Zavala, eds. _Sourcebook for Modern Japanese Philosophy: Selected Documents_. Greenwood Press, 1998.
@@ -118,6 +120,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 * Merleau-Ponty, Maurice. _Phenomenology of Perception_. Translated by Donald Landes. New York: Routledge, 2002.
 
 * [Miki][sc] Kiyoshi. “The Study of the Human.” Translated by Gereon Kopf. In _Japanese Philosophy: A Sourcebook_, 702--705. Honolulu: University of Hawaii Press, 2011.
+
+* Nara, Hiroshi, trans. _Pilgrimages to the Ancient Temples in Nara_. Portland, Maine: MerwinAsia, 2012.
 
 * Nietzsche, Friedrich. _Birth of Tragedy and Other Writings_. Translated by Ronald Speirs. New York: Cambridge U. Press, 1999.
 

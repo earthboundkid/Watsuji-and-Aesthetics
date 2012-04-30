@@ -251,7 +251,7 @@ That the environment around us has a significant impact on the lives we are able
 
 > That man is, in fact, only a member of his biotic community is shown by an ecological interpretation of history. Many historical events, hitherto explained solely in terms of human enterprise, were actually biotic interactions between people and land. The characteristics of the land determined the facts quite as potently as the characteristics of the men who lived on it. (205)†
 
-† Cf. Diamond.∞
+† Cf. Jared Diamond’s _Guns, Germs, and Steel_, which attempts to trace exactly the interactions between people and land in the rise of civilization. Diamond summarizes the conclusion of his book as, “History followed different courses for different peoples because of differences among peoples’ environment, not because of biological differences among people themselves” (25).
 
 That is not to say that human agency is wholly insignificant. Human beings are unique as a species in our ability to adapt ourselves for suitability to every climate from the Sahara to the Arctic and recently even to outer space. But the range of expression open to human agency as it develops historically is nevertheless contained within parameters set for it by the natural environment with which it has co-evolved. Like Watsuji, Leopold sees ethics as a matter of finding an accommodation between the group and individual that does justice to the authentic character of each. He claims that all ethics, “rest upon a single premise: that the individual is a member of a community of interdependent parts” (203). In Watsuji’s terms we might say that because my existence as a human being requires the existence of other human beings, it is only right for me to give deference to prerogatives of the community in certain situations and vice-versa for the community to defer to the individual. Leopold takes this core insight and “simply enlarges the boundaries of the community to include soils, waters, plants, and animals, or collectively: the land” (204).
 
@@ -359,11 +359,13 @@ Nothing more clearly illustrates the role of cultural hybridity in the interacti
 If there are any lessons to be gleaned from this cultural clash, it must be the cultural reception of art cannot be separated from the culture at large. When Japan found itself face-to-face with the West politically and technologically, an aesthetic confrontation was sure to follow. At the same time, however, the arts of Japan did not simply collapse in the face of Western pressures. Rather, they adapted to the crisis by developing various potentials that were hidden in the matrix of past artistic choices. For example, Masaoka Shiki took the longstanding trend towards a separation between *renga* [連歌][ja] and individual poems and formalized it by coining the term haiku [俳句][ja] to refer to these poems. While in retrospect the antecedents of this separation are evident in the work of his predecessors, it was pressure from the West that caused Shiki to draw out the distinction explicitly. A similar dynamic of Western pressure causing the reevaluation of past artistic values is evident in the _The Book of Tea_ by [Okakura][sc] Kakuzō.
 
 ####[Okakura][sc] Kakuzō
-[Okakura][sc] Kakuzō ([岡倉覚三][ja], 1862--1913), also known as [Okakura][sc] Tenshin ([岡倉天心][ja]), was born in Yokohama, Japan. At that time, Commodore Perry had recently opened Japan to foreign trade and influence, and Yokohama was at the bustling center of the new influx of Western goods and ideas. According to Christopher Benfey, Okakura learned English in the missionary school of James Hepburn at a young age (_Great Wave_, 77), and throughout his life, Western acquaintances were struck by how fluent and elegant his English was. (He wrote three books in English which were only made available Japanese after his death.) After this initial Western education, Okakura's father was alarmed to learn his son was illiterate in Japanese and sent him to a Buddhist temple to receive traditional training in the Eastern classics (78).  As a result of this upbringing, Okakura was always a something of a hybrid: appearing Japanese but fluent in English, knowledgable about the East but initially educated by the West, wearing in a suit when in Japan but costumed in a kimono when in Boston. In that sense, Okakura lived his life as an embodiment of the overlapping values of Meiji era of Japan (1868--1912). Just as Japan was opening itself up to Western values and trying to decide how to integrate them into its culture, so too, Okakura lived a life traveling the world attempting to defend what he thought to be Japan’s artistic and cultural legacy while also looking towards its future.
+[Okakura][sc] Kakuzō ([岡倉覚三][ja], 1862--1913), also known as [Okakura][sc] Tenshin ([岡倉天心][ja]), was born in Yokohama, Japan. At that time, Commodore Perry had recently opened Japan to foreign trade and influence, and Yokohama was at the bustling center of the new influx of Western goods and ideas. According to Christopher Benfey, Okakura learned English in the missionary school of James Hepburn at a young age (_Great Wave_, 77), and throughout his life, Western acquaintances were struck by how fluent and elegant his English was. (In his life, he published three books in English which were made available in Japanese only after his death.) After this initial Western education, Okakura's father was alarmed to learn his son was illiterate in Japanese and sent him to a Buddhist temple to receive traditional training in the Eastern classics (78). Following this, he graduated from Tokyo Imperial University, an institute of Western learning. As a result of this upbringing, Okakura was always a something of a hybrid: appearing Japanese but fluent in English, knowledgable about the East but initially educated by the West, wearing in a suit when in Japan but costumed in a kimono when in Boston. In that sense, Okakura lived his life as an embodiment of the overlapping values of Meiji era of Japan (1868--1912). Just as Japan was opening itself up to Western values and trying to decide how to integrate them into its culture, so too, Okakura lived a life traveling the world attempting to defend what he thought to be Japan’s artistic and cultural legacy while also looking towards its future.
 
-Okakura had a profound, if subtle, influence on the theories of art that we have been looking at in this chapter. Watsuji was once a student of Okakura and claims that his lectures “filled us with *a love of art*” (WTZ 17:352) and “gave us a viewpoint from which to look at works of art” (WTZ 17:353).† At a young age, Okakura was the companion of Ernest Fenollosa, and when Fenollosa went to Nara to catalog the "lost" treasures of Japanese art, Okakura was by his side as they uncovered the Yumedono Guze Kannon of the Hōryūji for the first time in unknown hundreds of years (Benfey, 82--84). The tales of this journey, no doubt, influenced Watsuji when he wrote his own _Pilgrimages to the Ancient Temples in Nara_.
+Okakura had a profound, if subtle, influence on the theories of art that we have been looking at in this chapter. Watsuji was once a student of Okakura and claims that his lectures “filled us with *a love of art*” (WTZ 17:352) and “gave us a viewpoint from which to look at works of art” (WTZ 17:353).† At a young age, Okakura was a companion and translator for Ernest Fenollosa.  When Fenollosa went to Nara to catalog the "lost" treasures of Japanese art, Okakura was by his side as they uncovered the Yumedono Guze Kannon of the Hōryūji for the first time in unknown hundreds of years (Benfey, 82--84). This mission again shows the two sides of Okakura’s life. His love of Japanese art sent him out to preserve it against Western appropriation, but he went alongside a Western art collector. He respected the ancient temples as repositories of beauty, but he did not trust them to maintain their collections. The tales of this journey, no doubt, influenced Watsuji when he wrote _Pilgrimages to the Ancient Temples in Nara_ (1919)† based on his own travels to many of the same locations.
 
 † In “Memories of Professor Okakura” (_Okakura-sensei no Omoide_ [岡倉先生の思い出][ja], WTZ 17:352--4), available as part of the essay collection, _Mask and Persona_ (_Men to Perusona_ [面とペルソナ][ja]) and originally written in 1936 on the occasion of Okakura’s work being translated and published in Japanese.
+
+† _Pilgrimages to the Ancient Temples in Nara_ is _Koji Junrei_ [古寺巡礼][ja] (WTZ 2). Available in translation by Hiroshi Nara.
 
 Heidegger as well seems to have learned from Okakura. The first occurrence of the phrase *[in-der-Welt-Sein][de]* (“being-in-the-world”) appears to have been in the 1919 translation of Okakura’s _Book of Tea_ from English into German. According to Tomonobu [Imamichi][sc], his teacher Kichinosuke [Ito][sc] gave this book to Heidegger as a gift shortly after its publication, and this lead to Heidegger’s later use of the phrase in _Being and Time_.† Thus, the concept of space in Heidegger’s early work that Watsuji found to be valuable but underdeveloped actually stemmed in part from a Japanese source. Additionally, Benfey accuses Okakura of having illegitimately noted Japanese philosopher [Kuki][sc] Shūzō ([九鬼周造][sc], 1888--1941), and while others dispute the claim, in any event it is clear that Okakura was close to Kuki’s mother and played an important role in his upbringing (89, 107). Kuki, in turn, was a student of Heidegger and introducer of Sartre to Heidegger’s work, which led to its further development by the French existentialists. 
 
@@ -372,13 +374,43 @@ Heidegger as well seems to have learned from Okakura. The first occurrence of th
 Given the remarkable circumstances of his life, it is fair to say that Okakura was positioned in a very particular milieu in history that allowed him to synthesize global currents of thought in art and aesthetics while also injecting his own personality into its future development. Let us look now at his _Book of Tea_ to see what he proposed.
 
 - - - -
+I need more about how Okakura was part of the move backwards as part of the move forward.
 
-####Tea ceremony and *The Book of Tea*
+####*The Book of Tea* and tea ceremony
+First: Book of Tea facts, second tea facts.
 - Tea facts
 	THE HUT MAKES IT ART.
 	TRY TO BRING BACK SOME OF THE STUFF FROM EARLIER CHAPTERS
 
+
+_The Book of Tea_ is a unique product of its age. Soshitsu Sen XV, inheritor of the tea master Sen-no-RikyUU (XXX)'s tradition, praises Okakura's work and declares,
+
+> it is a classic in the genuine sense, being firmly rooted in its own milieu, and at the same time transcending its time and setting. (22--3)
+
+The historical milieu of _The Book of Tea_ was certainly
+
+The tea ceremony faced a serious challenge at the time of its publication because of the lack of anything like its analogue in Western aesthetics. With nothing to compare it to, how could Westerners ever understand it? And without any Western recognition of tea ceremony, could it really be preserved as a part of newly modern Japan? On the other hand, as Okakura noted, Westerners certainly appreciate tea as much as their East Asian counterparts. The British in particular gave "tea time" and "tea parties" a central role in social life. Under these circumstances, would it be so strange for the tea ceremony to make the trip West? As it happened, tea ceremony has survived in Japan up to the present, but despite the hard work of its popularizers, it has never gained a substantial following in the West. 
+ 
+_Chanoyu_ [茶湯][ja] also called _sadō_ [茶道][ja]
+
+
+> Nothing is more hallowing than the union of kindred spirits in art. At the moment of meeting, the art lover transcends himself. At once he is and is not. (100)
+
+> The sympathetic communion of minds necessary for art appreciation must be based on mutual concession. The spectator must cultivate the proper attitude for receiving the message, as the artist must know how to impart it. (97)
+
+> Our very individuality establishes in one sense a limit to our understanding; and our aesthetic personality seeks its own affinities in the creations of the past. (102)
+
+> True beauty could be discovered only by one who mentally completed the incomplete. The virility of life and art lay in its possibilities for growth. In the tea-room it is left for each guest in imagination to complete the total effect in relation to himself. (89)
+
+Okakura's description of the tea ceremony is broad and yet maddening non-specific. Instead of simply laying out the mechanical procedures for performing the ceremony, Okakura works diligently to place Chanoyu into something of its historical context for a Western audience, and along the way he explains some of the basic points of Confucianism, Daoism, and Zen.
+
+_wa_ *kei* *sei* *jaku* 
+
+150 ichigo-ichie
+
 ####Teaism and globalization
+Attack his semi-fascism.
+
 - How Teaism fit his age and milieu
 	ALSO THIS TEA BOOK WAS PART OF THE “BUSHIDO” TYPE OF REMYTHOLOGIZING OF JAPAN.
 	DT SUZUKI AND ZEN BS
@@ -386,7 +418,7 @@ OKAKURA WAS A BIT OF A RAKE, BUT HIS SUCCESS SHOWS THAT PLACE ISN’T REPLACEABL
 
 ###Conclusion
 
-> Whatever comes into our horizon, taking the unification of diversity as the fundamental principle of art is not something to be shaken. (WTZ 8:177)
+> Whatever is drawn into our horizon, taking the unification of diversity as the fundamental principle of art is not something to be shaken. (WTZ 8:177)
 
 > Whatever doubts we may or may not have are founded on nothing less than the particularity of the artworks themselves that theory only chases along after. (WTZ 8:178)
 
