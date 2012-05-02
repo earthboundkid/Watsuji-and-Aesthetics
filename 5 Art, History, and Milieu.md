@@ -373,14 +373,14 @@ Heidegger’s theories seem to have also been influenced by the work of Okakura.
 
 Given the remarkable circumstances of his life, it is fair to say that Okakura was positioned in a very particular milieu in history that allowed him to synthesize global currents of thought in art and aesthetics while also injecting his own personality into its future development. His life’s work might be cast as merely an antithetic reaction against the Japan’s rapid Westernization, but it is better understood as an effort to ensure the preservation of Japan’s multiplicity (_jūsōsei_ [重層性][ja]). Okakura worked tirelessly in his life and writing to show that modern life has much to learn from the values of the past. Let us look now at his _Book of Tea_ to see what specifically he proposed.
 
-####*The Book of Tea* and Teaism
+####*The Book of Tea*, tea ceremony, and Teaism
 _The Book of Tea_ is a unique product of its age. In an introduction to one version of the book, Soshitsu Sen XV praises Okakura’s work and declares,
 
 > it is a classic in the genuine sense, being firmly rooted in its own milieu, and at the same time transcending its time and setting. (22--3)
 
 The historical milieu of _The Book of Tea_ was a tumultuous one as we have seen. The tea ceremony faced a serious intellectual challenge at the time of its publication because of the lack of anything like its analogue in Western aesthetics. With nothing to compare it to, how could Westerners ever understand it? And without any Western recognition of tea ceremony, could it really be preserved as a part of newly modern Japan? On the other hand, as Okakura keenly noted, Westerners certainly appreciate tea as much as their Asian counterparts---“The white man has scoffed at our religion and morals, but has accepted the brown beverage without hesitation” (35). The British in particular gave “tea time” and “tea parties” a central role in social life. Under these circumstances, would it be so strange for the tea ceremony to make the trip West? As it happened, tea ceremony has survived in Japan up to the present, but despite the hard work of its popularizers, it has never gained a substantial following in the West. 
 
-Okakura’s description of the tea ceremony in _The Book of Tea_ is at once broad and yet maddening non-specific. Instead of simply laying out the mechanical procedures for performing the ceremony, Okakura works diligently to place tea ceremony into something of its historical context for a Western audience, and along the way he explains some of the basic points of Confucianism, Daoism, and Zen. Okakura’s goal clearly is not simply to write a how-to manual but to impart just some of the background his readers would need in order to understand the significance of the ritual. In Japanese, tea ceremony is _chanoyu_ [茶の湯][ja], also called _chadō_ or _sadō_ [茶道][ja] (“the way of tea”). Okakura refers to it as “a religion of aestheticism---Teaism” (29). In general terms, the aesthetic theory that underlies Okakura’s Teaism is not far removed from what has been argued for here. In the last chapter, we saw Watsuji’s emphasis on a coming together of vital energy (_ki ai_ [気合い][ja]) as the form of unity at work in Japanese aesthetic judgment. Okakura concurs:
+Okakura’s description of the tea ceremony in _The Book of Tea_ is at once broad and yet maddening non-specific. Instead of simply laying out the mechanical procedures for performing the ceremony, Okakura works diligently to place tea ceremony into something of its historical context for a Western audience, and along the way he explains what he takes to be the basic points of Confucianism, Daoism, and Zen. Okakura’s goal clearly is not simply to write a how-to manual but to impart just some of the background his readers would need in order to understand the significance of the ritual. In Japanese, tea ceremony is _chanoyu_ [茶の湯][ja], also called _chadō_ or _sadō_ [茶道][ja] (“the way of tea”). Okakura refers to it as “a religion of aestheticism---Teaism” (29). In general terms, the aesthetic theory that underlies Okakura’s Teaism is not far removed from what has been argued for here. In the last chapter, we saw Watsuji’s emphasis on a coming together of vital energy (_ki ai_ [気合い][ja]) as the form of unity at work in Japanese aesthetic judgment. Okakura concurs:
 
 > Nothing is more hallowing than the union of kindred spirits in art. At the moment of meeting, the art lover transcends himself. At once he is and is not. (100)
 
@@ -394,24 +394,37 @@ If we return to the question of theories of art, we may ask what is it that make
 
 > The simplicity of the tea-room and its freedom from vulgarity make it truly a sanctuary from the vexations of the outer world. There and there alone can one consecrate himself to undisturbed adoration of the beautiful. (91)
 
-According to Okakura, the tea hut is a kind of gallery or temple that reveals another world inside of itself. The tea hut has its own milieu which the tea master seeks to bring out for the contemplation by the participants. It is within this space that distance from the ordinary is achieved, which allows the participants to imaginatively transcend its walls:
+According to Okakura, the tea hut is a kind of gallery or temple that reveals another world inside of itself. The tea hut has its own milieu which the tea master seeks to bring out for the contemplation by the participants. As Okakura notes, the way of writing the Japanese name for the tea room (_sukiya_ [数奇屋][ja]) has changed over the years in ways that suggest different interpretations of its significance:
+
+> The original ideographs for Sukiya mean the Abode of Fancy [viz. [好き屋][ja]]. Latterly, the various tea masters substituted various Chinese characters according to their conception of the tea-room, and the term Sukiya may signify the Abode of Vacancy [[空き屋][ja], cf. emptiness, _kū_ [空][ja]] or the Abode of the Unsymmetrical [[数奇屋][ja]]. (75)
+
+Originally, the tea ceremony was an idle fancy, but in time its practitioners came to think of it as a means of emptying themselves of their ordinary lives and entering another space. Okakura's translation "Abode of the Unsymmetrical" is a pun on _kisū_ [奇数][ja] ("odd numbers"), but it gets at the importance of the asymmetrical suchness of the things placed into relation within the tea hut.  It is within this space that distance from the ordinary is achieved, which allows the participants to imaginatively transcend its walls:
 
 > True beauty could be discovered only by one who mentally completed the incomplete. The virility of life and art lay in its possibilities for growth. In the tea-room it is left for each guest in imagination to complete the total effect in relation to himself. (89)
 
-&nbsp;
+The beauty of the tea room is the result of a total synthesis of artistic experience. Within the tea room, one experiences the taste and smell of the tea and sweets (cuisine), the touch of the tea cup (pottery), the sight of the wall scroll (calligraphy) and the flower arrangement (_ikebana_ [生花][ja]), and the sounds of the tea pot, the tea master and one's fellow guests. The understanding that brings unity this experience can only come from a knowledge of history, milieu, and the personalities involved.
 
-This context-like take on Okakura is similar to the idea of 
-150 ichigo-ichie
-= suchness.
+Two of the most important figures in the establishment of modern tea ceremony are Sen no Rikyū ([千利休][ja], 1522--1591) and his teacher, Takeno Jōō ([武野紹鴎][ja], 1502--1555). Jōō coined the concept of _ichi-go ichi-e_ [一期一会][ja] (loosely, "a unique time, a unique meeting"). _Ichi-go ichi-e_ means to realize the unrepeatable significance of each moment. When we grasp the transitory and impermanent nature of existence, we realize as well that each moment has a suchness all its own that had not been before and will not be again. The job of tea master is always to bear this suchness in mind and present it to his or her guests. 
 
-_wa_ *kei* *sei* *jaku* 
+Sen no Rikyū referred to the core virtues of tea ceremony with the formula _wa kei sei jaku_ [和敬清寂][ja]: harmony, respect, purity, and tranquility. Harmony refers not only to the social accord of our persistent relationships (_aidagara_ [間柄][ja]) within the space of the tea hut (the self-other relationship) but also to the mutual accord between the objects in the space. Soshitsu Sen XV is one of the sucessors of Sen no Rikyū's tradition. In an afterward to one version of Okakura's _Book of Tea_, he writes that harmony means,
 
+> to live with a refined attention to detail---the flowers of the season, the sound of the water poured onto stone, the time at which evening turns to dusk---not because these things will enlarge the self, but because they bring our lives into harmony with that which transcends the self. (144--5)
+
+The ecstatic intoxication and advance into novelty of aesthetic experience depends on the achievement of harmony. Respect, like harmony, is directed towards others and objects. Without respect, no distancing from the ordinary self would be possible, and without distance, aesthetic experience would not arise because the object experienced ecstatically would just be an aspect of the self and nothing more, as in unreflective everyday experience. Respect elevates others. As Okakura writes mutual concession is at the heart of the tea ceremony. An ordinary or even somewhat lumpy and ugly cup has its inner beauty uncovered when approached with respect. Purity refers to the physical cleanliness of the tea hut and also to the purity from selfishness necessary to go beyond one's idiosyncratic attachments. Finally, tranquility refers to disinterested enjoyment itself. In tranquility, one does not seek to fulfill some concrete desire of the self but merely enjoys the fullness of the object from its own perspective.
+
+Bring back the virtues of earlier chapters, whatever they were. yuugen? hon'i?
+
+In spite of this, we must not make the mistake of looking only at the positive side of _The Book of Tea_ or of Okakura himself. Okakura may be forgiven for the fact that his writings were utilized by the nationalists who took control of Japan in the decades after his death. However, his negative outlook on the prospect of democratic art (103) and his desire for "some great wizard" to "from the stem of society shape a mighty harp whose strings would resound to the touch of genius" (105) can only sound proto-fascist from our perspective on the other side of Pacific War.† 
+
+† In many ways, Okakura and _The Book of Tea_ are similar to Nitobe Inazō ([新渡戸稲造][ja], 1862--1933) and _Bushidō: The Soul of Japan_ (1900). Inazō wrote his book in English and coined the word _bushidō_ [武士道][ja] to describe the moral code of the bygone samurai warriors. In doing so, Inazō perhaps inadvertently created the central ideal of Japanese nationalist propaganda.
 
 - How Teaism fit his age and milieu
 	ALSO THIS TEA BOOK WAS PART OF THE “BUSHIDO” TYPE OF REMYTHOLOGIZING OF JAPAN.
 Attack his semi-fascism.
 OKAKURA WAS A BIT OF A RAKE, BUT HIS SUCCESS SHOWS THAT PLACE ISN’T REPLACEABLE (groan). As Watsuji explained in _Milieu_, culture transforms when it crosses from region to region. Just as the desert religion of Judaism was transformed by the meadow culture of the Greeks into Christianity, so too, his “Teaism” was transformed by Frank Lloyd Wright, who then made the big hotel in Tokyo. The synthesis is endless in its reverberations.
 
+
+Add this to my bibliography
 ###Conclusion
 
 > Whatever is drawn into our horizon, taking the unification of diversity as the fundamental principle of art is not something to be shaken. (WTZ 8:177)
@@ -421,3 +434,4 @@ OKAKURA WAS A BIT OF A RAKE, BUT HIS SUCCESS SHOWS THAT PLACE ISN’T REPLACEABL
 > Whatever art form is brought under consideration, the fact that the basic principle of art is unity in variety is no doubt not to be gainsaid. However, whether such unity is obtained only by method and whether balance is only achieved by symmetry and proportion and the like are matters that should indeed be called in question. 179
 
 > theory, after all, merely tags along behind art itself. 179∞
+
