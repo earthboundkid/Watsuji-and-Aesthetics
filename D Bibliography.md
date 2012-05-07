@@ -69,7 +69,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * ⎯⎯⎯ and Valdo H. Viglielmo with Agustin Jacinto Zavala, eds. _Sourcebook for Modern Japanese Philosophy: Selected Documents_. Greenwood Press, 1998.
 
-* ⎯⎯⎯. “Watsuji Tetsurō (1889-1960): Cultural Phenomenologist and Ethician.” *Philosophy East and West* 24.1 (Jan., 1974): 3--22. `http://www.jstor.org/stable/1397599`.
+* ⎯⎯⎯. “Watsuji Tetsurō (1889-1960): Cultural Phenomenologist and Ethician.” *Philosophy East and West* 24.1 (Jan., 1974): 3--22. `http://www.jstor.org/stable/1397599`.
 
 * Eaton, Marcia. _Art and nonart : reflections on an orange crate and a moose call_. London: Associated University Press, 1983.
 
@@ -114,6 +114,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 * Marra, Michael F. “On Japanese Things and Words: An Answer to Heidegger’s Question.” *Philosophy East and West* 54.4 (Oct., 2004): 555--568. `http://www.jstor.org/stable/4148019`.
 
 * ⎯⎯⎯, ed. _A History of Modern Japanese Aesthetics_. Honolulu: U. Hawaii Press, 2001.
+
+* Masheck, Joseph. Introduction to _Composition_, by Arthur Dow, 1--61. Berkley: University of California Press, 1997.
 
 * Mayeda, Graham. _Time, Space, and Ethics in the Philosophy of Watsuji Tetsurō, Kuki Shūzō, and Martin Heidegger_. New York: Routledge, 2006.
 
