@@ -8,11 +8,9 @@ catb.org/jargon/html/koans.html
 ##Japanese language sources
 Morohashi
 
-Nose Asaji. *Sanzōshi hyōshaku* (Tokyo: Meicho Kankōkai, 1970)
+Nose Asaji. *Sanzōshi hyōshaku* (Tokyo: Meicho Kankōkai, 1970)
 
-Shogakukan’s Japanese dictionary
-
-_Daijisen_ [大辞泉][ja]
+Shogakukan’s Japanese dictionary _Daijisen_ [大辞泉][ja]
 
 Shogakukan’s _Ruigo Jiten_
 
@@ -35,9 +33,9 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Berque, Augustin, trans. _Fûdo: Le milieu humain_. Paris: CNRS, 2011.
 
-* ⎯⎯⎯. "Offspring of Watsuji’s theory of milieu (Fûdo)." _GeoJournal_ 60.4 (2004): 389--396. `http://www.jstor.org/stable/41147905`.
+* ⎯⎯⎯. “Offspring of Watsuji’s theory of milieu (Fûdo).” _GeoJournal_ 60.4 (2004): 389--396. `http://www.jstor.org/stable/41147905`.
 
-* ⎯⎯⎯. "The Question of Space." _Cultural Geographies_ 3.4 (Oct., 1996): 373--383. `doi:10.1177/147447409600300401`.
+* ⎯⎯⎯. “The Question of Space.” _Cultural Geographies_ 3.4 (Oct., 1996): 373--383. `doi:10.1177/147447409600300401`.
 
 * _The Blind Man_. Vol. 2 published New York, May 1917. Accessed Spring 2012. `http://sdrc.lib.uiowa.edu/dada/blindman/2/index.htm`.
 
@@ -75,7 +73,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Gordon, David B. _Self-Overcoming as the Overcoming of Modernity: Watsuji Tetsurō’s “A Study of Nietzsche” (1913) and Its Place in the Development of His Thought_. Doctoral thesis, University of Hawaii, 1997.
 
-* Heidegger, Martin. "Art and Space." Translated by Charles Seibert. *Man and World* 6.1 (1973): 3--8. `doi:10.1007/BF01252779`.
+* Heidegger, Martin. “Art and Space.” Translated by Charles Seibert. *Man and World* 6.1 (1973): 3--8. `doi:10.1007/BF01252779`.
 
 * ⎯⎯⎯. _Being and Time_. Translated by John Macquarrie and Edward Robinson. San Fransisco: Harper, 1962.
 
@@ -109,7 +107,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Leopold, Aldo. _A Sand County Almanac, and Sketches Here and There_. Seventh printing, 1964. Oxford University Press, 1949.
 
-* Marion, Mathieu. "Wittgenstein on Heidegger and Cosmic Emotions." In _Philosophical Papers Dedicated to Kevin Mulligan_, edited by Anne Reboul. Accessed Spring 2012. `http://www.philosophie.ch/kevin/festschrift/Marion-paper.pdf`.
+* Marion, Mathieu. “Wittgenstein on Heidegger and Cosmic Emotions.” In _Philosophical Papers Dedicated to Kevin Mulligan_, edited by Anne Reboul. Accessed Spring 2012. `http://www.philosophie.ch/kevin/festschrift/Marion-paper.pdf`.
 
 * Marra, Michael F. “On Japanese Things and Words: An Answer to Heidegger’s Question.” *Philosophy East and West* 54.4 (Oct., 2004): 555--568. `http://www.jstor.org/stable/4148019`.
 
@@ -143,13 +141,15 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * _Oxford English Dictionary_. Oxford University Press. Accessed Spring 2012. `http://oed.com`.
 
-* Parkes, Graham. "Rising Sun over Black Forest: Heidegger's Japanese connections." In _Heidegger’s Hidden Sources: East Asian Influences on his Work_, by Reinhard May, 83--121. New York: Routledge, 1996.
+* Parkes, Graham. “Rising Sun over Black Forest: Heidegger’s Japanese connections.” In _Heidegger’s Hidden Sources: East Asian Influences on his Work_, by Reinhard May, 83--121. New York: Routledge, 1996.
 
 * Pater, Walter. _The Renaissance_. Blackwell, 1973.
 
 * Plato. _Republic_. Translated by C.D.C. Reeve. Indianapolis: Hackett, 2004.
 
 * ⎯⎯⎯. _Symposium_. Translated by Alexander Nehamas and Paul Woodruff. Indianapolis: Hackett, 1989.
+
+* Pepper, Stephen C. “The Esthetic Object.” _The Journal of Philosophy_ 40.18 (Sep. 2, 1943): 477--482. `http://www.jstor.org/stable/2019261`.
 
 * Pronko, Leonard C. _Theater East and West_. Berkeley: U. Cal. Press, 1967.
 
