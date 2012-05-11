@@ -127,9 +127,9 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * [Nishida][sc] Kitarō. _An Inquiry Into the Good_. Translated by Masao Abe and Christopher Ives. New Haven: Yale, 1990.
 
-* Odin, Steve. _Artistic Detachment in Japan and the West: Psychic Distance in Comparative Aesthetics_. Honolulu: U. Hawaii Press, 2001.
+* ⎯⎯⎯. “An Explanation of Beauty. Nishida Kitarō’s Bi no Setsumei.” Translated by Steve Odin. *Monumenta Nipponica* 42.2 (Summer, 1987): 211--217. `http://www.jstor.org/stable/2384952`.
 
-* ⎯⎯⎯ and [Nishida][sc] Kitaro. “An Explanation of Beauty. Nishida Kitarō’s Bi no Setsumei.” *Monumenta Nipponica* 42.2 (Summer, 1987): 211--217. `http://www.jstor.org/stable/2384952`.
+* Odin, Steve. _Artistic Detachment in Japan and the West: Psychic Distance in Comparative Aesthetics_. Honolulu: U. Hawaii Press, 2001.
 
 * [Okakura][sc] Kakuzō. _The Awakening of Japan_. New York: Japan Society, 1921.
 
@@ -137,7 +137,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * ⎯⎯⎯. _The Ideals of the East with Special Reference to the Art of Japan_. London: John Murray, 1904.
 
-* _Onion, The_. “Song About Heroin Used To Advertise Bank.” April 18, 2001. Accessed Spring 2012. `http://www.theonion.com/articles/song-about-heroin-used-to-advertise-bank,1489/`.
+* _The Onion_. “Song About Heroin Used To Advertise Bank.” April 18, 2001. Accessed Spring 2012. `http://www.theonion.com/articles/song-about-heroin-used-to-advertise-bank,1489/`.
 
 * _Oxford English Dictionary_. Oxford University Press. Accessed Spring 2012. `http://oed.com`.
 
