@@ -11,7 +11,7 @@ title: The Subject and Object of Aesthetic Judgment
 
 * Carl M. Johnson
 
-* March 6, 2012
+* May 15, 2012
 
 ##Chapter 4. The Subject and Object of Aesthetic Judgment
 

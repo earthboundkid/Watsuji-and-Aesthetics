@@ -11,7 +11,7 @@ title: Art, History, and Milieu
 
 * Carl M. Johnson
 
-* May 7, 2012
+* May 15, 2012
 
 ##Chapter 5. Art, History, and Milieu
 

@@ -11,6 +11,8 @@ body-class: unnumbered
 
 * Carl M. Johnson
 
+* May 15, 2012
+
 ##Chapter 3. Aesthetic Experience as Distancing, Dissolution, and Disinterest
 ####Contents:
 <toc />
