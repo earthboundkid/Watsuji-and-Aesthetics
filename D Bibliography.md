@@ -59,7 +59,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Danto, Arthur. “The Appreciation and Interpretation of Works of Art.” In *The Philosophical Disenfranchisement of Art*, by Arthur Danto, 23--46. Columbia University Press, 1986.
 
-* ⎯⎯⎯. “The Artworld.” In *Aesthetics and the Philosophy of Art*, edited by Peter Lamarque and Stein Haugom Olsen, 27--34. Blackwell, 2004.
+* ⎯⎯⎯. “The Artworld.” In *Aesthetics and the Philosophy of Art*, edited by Peter Lamarque and Stein Haugom Olsen, 27--34. Oxford: Blackwell, 2004.
 
 * Diamond, Jared. _Guns, Germs, and Steel: The Fates of Human Societies_. New York: W.W. Norton, 1997.
 
@@ -141,9 +141,11 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * _Oxford English Dictionary_. Oxford University Press. Accessed Spring 2012. `http://oed.com`.
 
+* Parker, Rozika and Griselda Pollock. “Crafty Women and the Hierarchy of the Arts.” In _Aesthetics: The Big Questions_, edited by Carolyn Korsmyer, 44--55. Oxford: Blackwell, 1998.
+
 * Parkes, Graham. “Rising Sun over Black Forest: Heidegger’s Japanese connections.” In _Heidegger’s Hidden Sources: East Asian Influences on his Work_, by Reinhard May, 83--121. New York: Routledge, 1996.
 
-* Pater, Walter. _The Renaissance_. Blackwell, 1973.
+* Pater, Walter. _The Renaissance_. Oxford: Blackwell, 1973.
 
 * Plato. _Republic_. Translated by C.D.C. Reeve. Indianapolis: Hackett, 2004.
 
@@ -179,7 +181,7 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * ⎯⎯⎯. _Science and the Modern World_. Paperback edition. New York: Free Press, 1967.
 
-* Wollheim, Richard. “On Pictorial Representation.” In *Aesthetics and the Philosophy of Art*, edited by Peter Lamarque and Stein Haugom Olsen, 396--405. Blackwell, 2004. 
+* Wollheim, Richard. “On Pictorial Representation.” In *Aesthetics and the Philosophy of Art*, edited by Peter Lamarque and Stein Haugom Olsen, 396--405. Oxford: Blackwell, 2004. 
 
 * Yamamoto, Seisaku and Robert Carter, trans. _[Watsuji][sc] Tetsurō’s_ Rinrigaku: _Ethics in Japan_. Albany: SUNY Press, 1996. 
 
