@@ -36,7 +36,7 @@ As Watsuji writes in his masterwork _The Study of Ethics_ (_Rinrigaku_ 倫理学
 
 > [S]cience (_gakumon_ [学問][ja]) and inquiry (_toi_ [問い][ja]) are both the behavior of humans, not isolated observers. Science is a persistent relationship (_aidagara_ [間柄][ja]) of pursuit. The “thing” pursued subsists in common publicly within the relationships of human beings. That is, inquiry is fundamentally (_kompon-teki_ [根本的][ja]) “human inquiry.” […] A person could try to question a natural object in isolation from human connections alone in one’s study. However, should one do so, how could one escape the state of affairs that this is also in the final reckoning a human inquiry? When one discusses the question with another pursuer, one has already placed the inquiry into the human realm as a communal (_kyōdō_ [共同][ja]) inquiry. (WTZ 10:32)
 
-It should be clear to the reader how much more this applies in the case of aesthetics.
+It should be clear how much more this applies in the case of aesthetics.
 
 In spite of having made this brief argument for philosophical anthropology as first philosophy and human beings as communal, practical, and active, the reader should, I hope, retain a certain degree of skepticism about whether *any* approach to first philosophy can be ultimately satisfying. Perhaps even using the term “first philosophy” to explain the methodology in use here betrays too much of a foundationalist bias. Hence Watsuji's insistence that our method in “the study of ethics as the study of human beings” be a hermeneutic one is quite appropriate. While our investigation of aesthetics must begin by studying human beings as communal and ethical beings, it is not enough to try set forth initial “unhypothetical” first principles and proceed from there. Rather, we must continually revisit and refine our understanding as our investigation becomes deeper.
 
@@ -185,7 +185,7 @@ For Watsuji, this dynamic process of interplay between the self as individual an
 
 > an incessant movement which individuates through division from something communal and comes back to its authenticity (_honraisei_ [本来性][ja]) through realizing community as the negation of something individuated. (WTZ 10:195)[^fn2-14]
 
-[^fn2-14]: The word _honrai_ [本来][ja] is composed of characters meaning “coming from the root,” and it is also translated as “origin.” Hence _honraisei_ [本来性][ja] not only means “authenticity,” it also carries the suggestion that “authenticity” is a natural outgrowth of the root of our being. For this reason, Watsuji often refers to it as a “return.” Nevertheless, the reader should understand that this return is not a mere reversion to an original state, but a creative return with difference as that root comes to grow in new and different ways.
+[^fn2-14]: The word _honrai_ [本来][ja] is composed of characters meaning “coming from the root,” and it is also translated as “origin.” Hence _honraisei_ [本来性][ja] not only means “authenticity,” it also carries the suggestion that “authenticity” is a natural outgrowth of the root of our being. For this reason, Watsuji often refers to it as a “return.” Nevertheless, this return is not a mere reversion to an original state, but a creative return with difference as that root comes to grow in new and different ways.
 
 As a result, 
 
