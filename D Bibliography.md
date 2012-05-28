@@ -1,7 +1,5 @@
 [sc]: class:smallcaps
 
-Rachel Carson’s _Silent Spring_
-
 catb.org/jargon/html/koans.html
 
 #Bibliography
