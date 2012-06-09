@@ -226,16 +226,16 @@ Pronko attempts to explain,
 
 Pronko is an excellent student of Japanese theater, but if Sakabe is to be believed, Pronko was led astray here by his Western vocabulary. _Yūgen_ can be translated as “the occult,” but this does not mean that what is being occulted is an essence hidden below the surface. _Yūgen_ is rather the way that the depths of the character are constructed entirely on the surface as a surface. Through interaction, an aesthetic subject is constructed as the negation of absolute nothingness. 
 
-<figure>
-![Figure 2. Noh mask shown from three angles][mask]
-<figcaption>**Figure 2.** Noh mask shown from three angles, showing three different emotions. Photo credit: Wikipedia.</figcaption>
-</figure>
-
-[mask]: file:///Users/cjohnson/Dropbox/Dissertation/images/noh_mask.jpg =600
-
 ###Conclusion
 In this chapter, I followed the hermeneutic method specified in the last chapter by starting with an examination of the expressions of aesthetics in everyday experience. There are at least three different senses of the word “aesthetics,” and in this chapter, I explore aesthetics as a mode of individual perception. In particular, I began by contrasting aesthetic experience with ordinary experience. Ordinary experience is aspectival---that is, we see things _as_ and have pre-specified uses for them in our lives. Aesthetic experience, on the hand, is a kind of seeing _as-if_, in which we see the value of things from their perspective rather than through the lens of our own interests. Aesthetic experience is a kind of disinterested enjoyment. The disinterest comes from psychic distancing---a process in which the object of aesthetic experience is distanced from the imperatives of the ordinary self. The enjoyment comes from intoxicated dissolution---an ecstatic experience in which the self grows to encompass the perspective of the object without totally losing sight of its original perspective. These two movements can be thought of in terms of Watsuji’s system of “double negation.” The first negation establishes a self, and the second returns to the unity that preceded the division of the subject from the object. Because the subject-object relationship of aesthetic experience is governed by the self-other relationship of ethics, our personally felt aesthetic experience always leaves open the possibility of aesthetic judgment with others, while remaining deeply personal and immediate.
 
 To illustrate this theory of aesthetic experience, I used examples taken from the theater. Aristotle’s theory of catharsis can be understood in terms of the importance of psychic distance and the effect of intoxicated dissolution. Nietzsche’s theory of Apollonian rationality and Dionysian frenzy in Greek theater corresponds as well to the difference between psychic distancing on the one hand and intoxicated dissolution on the other. Two of the central concepts in Noh theater are _ri-ken no ken_ [離見の見][ja] (“the seeing of distant seeing”) and _yūgen_ [幽玄][ja] (“mysterious profundity”). _Ri-ken no ken_ shows the importance of perspective taking to theater---the audience takes up the perspective of the actor, the actor takes up the perspective of the character, and, at the height of many Noh plays, the character takes up the perspective of a spirit. _Yūgen_ meanwhile shows the importance of expressing a hidden depth on the surface of things. Great Noh theater comes about when the actors and chorus are able to present clearly the inner quality of the object for inhabitation by the audience.
 
 In the next chapter, I will show how it is that aesthetic judgments and tastes can be shared by exploring the nature of the subject-object division in greater detail.
+
+<figure>
+![Figure 2. Noh mask shown from three angles][mask]
+<figcaption>**Figure 2.** Noh mask shown from three angles, showing three different emotions. Photo credit: Wikipedia.</figcaption>
+</figure>
+
+[mask]: file:///Users/cjohnson/Dropbox/Dissertation/images/noh_mask.jpg =600
