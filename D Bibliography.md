@@ -69,6 +69,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Eaton, Marcia. _Art and nonart : reflections on an orange crate and a moose call_. London: Associated University Press, 1983.
 
+* Feldman, Stuart. "A Conversation with Alan Kay." *ACM Queue: Tomorrow's Computing Today* 2.9 (Dec./Jan. 2004): 20--30. `http://queue.acm.org/detail.cfm?id=1039523`.
+
 * Gordon, David B. _Self-Overcoming as the Overcoming of Modernity: Watsuji Tetsurō’s “A Study of Nietzsche” (1913) and Its Place in the Development of His Thought_. Doctoral thesis, University of Hawaii, 1997.
 
 * Heidegger, Martin. “Art and Space.” Translated by Charles Seibert. *Man and World* 6.1 (1973): 3--8. `doi:10.1007/BF01252779`.
