@@ -11,7 +11,7 @@ title: Art, History, and Milieu
 
 * Carl M. Johnson
 
-* May 15, 2012
+* June 9, 2012
 
 ##Chapter 5. Art, History, and Milieu
 
@@ -29,7 +29,7 @@ It is a philosopher’s delusion to think that hidden behind our jumbled ordinar
 
 [^fn5-1]: To be sure, there can also be situations where rejecting the title of “art” in order to pick up the title of “science” is a prestige enhancing move. For more on the debate between art and science, see C. P. Snow’s classic, _The Two Cultures and the Scientific Revolution_. For an example of positioning a discipline relative to art in order to increase its prestige see Donald Knuth’s “Computer Programming as Art.”
 
-Frequently, certain activities that might otherwise be taken to be arts (for example, quilting, weaving, glass blowing, etc.) are rejected and deemed to be merely crafts or skilled trades because of the low social status of their practioners.[^fn5-1b] Similarly, those who find modern art distasteful express their distaste not by saying that abstract painting is an inferior art but by claiming that it is not an art at all. Such debates are not dissimilar to the debate among school children about whether cheerleading counts as a “sport.” The arguments given, however worthwhile on their own, are of secondary importance to the deeper cause of the debate, which is an attempt to order the values of society in a certain way. To call cheerleading a sport is to place a stereotypically female activity on a plane with masculine activities. Partisans in the debate begin with their vision of the social order, then work backwards to their justification of placing cheerleading in a given place within that order. So too, to call Jackson Pollock an artist is to put him in a category of secular veneration alongside Michelangelo and da Vinci.
+Frequently, certain activities that might otherwise be taken to be arts (for example, quilting, weaving, glass blowing, etc.) are rejected and deemed to be merely crafts or skilled trades because of the low social status of their practitioners.[^fn5-1b] Similarly, those who find modern art distasteful express their distaste not by saying that abstract painting is an inferior art but by claiming that it is not an art at all. Such debates are not dissimilar to the debate among school children about whether cheerleading counts as a “sport.” The arguments given, however worthwhile on their own, are of secondary importance to the deeper cause of the debate, which is an attempt to order the values of society in a certain way. To call cheerleading a sport is to place a stereotypically female activity on a plane with masculine activities. Partisans in the debate begin with their vision of the social order, then work backwards to their justification of placing cheerleading in a given place within that order. So too, to call Jackson Pollock an artist is to put him in a category of secular veneration alongside Michelangelo and da Vinci.
 
 [^fn5-1b]: See Parker and Pollock, “Crafty Women and the Hierarchy of the Arts” for more on the relationship between power and the art/craft distinction.
 
