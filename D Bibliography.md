@@ -97,6 +97,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Keene, Donald, trans. _The Narrow Road to Oku_. New York: Kodansha, 1996.
 
+* Kinoshita, Nagahiro. "Okakura Kakuzo: Distance Between East and West," Lecture, Gardner Museum, Boston, MA, April 4, 2009. Accessed Summer 2012. `http://kinoshitan.com/archives/etc001.html`.
+
 * Knuth, Donald. “Computer Programming as Art.” _Communications of the ACM_ 17.12 (Dec., 1974): 667--673. Accessed Spring 2012. `doi:10.1145/361604.361612`.
 
 * Komar, Vitaly and Alexander Melamid. “The Most Wanted Paintings on the Web.” Original collaboration 1996–1997. Accessed Spring 2012. `http://www.diacenter.org/km/`.
