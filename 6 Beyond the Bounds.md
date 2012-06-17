@@ -112,123 +112,40 @@ On the other hand, the attempt to halt the flow of private values into the publi
 Of course, my purpose in this dissertation is not to debate the nature of the state but to explain the role of the subject and object in aesthetics, but I feel that this explanation would be incomplete without some reference to the dynamic interplay of public and private value feelings in double negation as well as the political implications of Watsujian thinking. Aesthetic genius depends critically on the ability of private and public values to interchange.
 
 ####Watsuji on the nature of public and private
-The first volume of Watsuji's _Study of Ethics_ approaches the public/private distinction from two directions. The first is to explain the private experience of time and space in terms of public experiences of communication, news, and so (WTZ 10:152--62). The other is to explain the public experiences of various social structures (couples, families, cultures, states, etc.) in terms of the private experience of solidarity (WTZ 10:330--36).
+The first volume of Watsuji's _Study of Ethics_ approaches the public/private distinction from two directions. The first is to explain the private experience of time and space in terms of public experiences like communication, news, and so (WTZ 10:152--62). The second is to explain the public experiences of various social structures (couples, families, cultures, states, etc.) in terms of the private experience of solidarity (WTZ 10:330--36).
+
+Important to understanding Watsuji’s anthropology is the concept of the social realm or _seken_ [世間][ja]. As in word _ningen_ ("human"), the character [間][ja] conveys a spatial or temporal interval, but what is interesting is that [世][ja] (also read _yo_ when written in isolation) is likewise both spatial and temporal. _Yo_ indicates either the world (spatial) or a generation (temporal). (A property once shared by "world" in English and *[Welt][de]* in German but lost over time.) _Seken_ plays a role in Watsuji's philosophy similar to that played by “the They” (*[das Man][de]*) in Heidegger, but unlike Heidegger’s the They, Watsuji’s social realm is not an alienating force that divorces us from our authenticity but the ground out which our authenticity emerges. Criticism can therefore be understood as the judgment of the social realm without it thereby either becoming divorced from the judgment of subjects or simply reduced to an aggregation of the private judgments of so many individuals. The social realm is made of many interlinked realms of publicity and privacy.
 
 Publicity and private existence are mutually entailing terms. Publicity is lack of privacy. It is a mode where everything is shared together. Privacy on the other hand is lack of publicity or a mode which attempts to share nothing. According to Watsuji,
 
-> publicity (_kōkyōsei_ [公共性][ja]) is something that is not hidden from the social realm (*seken* [世間][ja]). That is, it is possible for all persons to take part in it. If persons take part in an existence and are able to **divide and share it together** (*[mit-teilen][de]*), that existence is public. (WTZ 10:158)
+> publicity (_kōkyōsei_ [公共性][ja]) is something that is not hidden from the social realm (*seken* [世間][ja]). That is, it is possible for all persons to take part in it. If persons take part in an existence and are able to **divide and share it together** (*[mit-teilen][de]*), then that existence is public. (WTZ 10:158)
 
-Another way to put it is that publicity is "the character of the social realm (*seken* [世間][ja]) as this sort of 'the case of things be apparent'" (WTZ 10:153). Whereas privacy, on the other hand, is the deprivation of social existence:
+Here Watsuji explains publicity in terms of the German word *[mit-teilen][de]* or "communication." Another way to put it is that publicity is "the character of the social realm (*seken* [世間][ja]) as this sort of 'the case of things be apparent'" (WTZ 10:153). Publicity comes about as shared knowledge through our physical communication with one another and not through a kind of extra-sensory "social consciousness" that connects mind to mind (∞).
 
-> the individual moment in human existence is apparent as "private existence" (*shi-teki sonzai* [私的存在][ja]). It is an existence which is not apparent in the case of things being apparent, viz. a deprived form (_ketsujo-tai_ [欠如態][ja]) of publicity. It follows that private existence is also **something essentially public**, but this only goes so far as it possesses the mode of _privatus_. WTZ10:153
+Privacy, on the other hand, is the deprivation of social existence:
 
-The logic of Watsuji's double negation ensures that privacy always contains within itself the seeds of possible communication:
+> the individual moment in human existence is apparent as "private existence" (*shi-teki sonzai* [私的存在][ja]). It is an existence which is not apparent in the case of things being apparent; that is, it is a deprived form (_ketsujo-tai_ [欠如態][ja]) of publicity. It follows that private existence is also **something essentially public**, but this only goes so far as it possesses the mode of _privatus_. (WTZ 10:153)
+
+The logic of Watsuji's double negation ensures that privacy always contains within itself the seeds of possible communication with others:
+
+> Even things like the secrets hidden away in the depths of one's heart are private just insofar as one does not desire or allow others to take part in them, and not because it would be absolutely impossible for another to take part in them. (WTZ 10:333)†
+
+† The reader is invited to compare Wittgenstein's famous "no private languages" argument.∞
+
+Privacy comes about because we resist publicity. We hide certain truths away; we exclude others from our groups and associations; we are selective in our loves. This does not mean that privacy is an ill to be combatted as a totalitarian might claim. A family, for example, has certain people who are members of its society and others who are excluded. This gives the family a characteristic of privacy with respect to outsiders but a characteristic of publicity with respect to its members. Hence publicity and privacy are contrastive terms (like *yin* and *yang*), rather than an exclusive binary of absolutes:
 
 > as a deprived form of publicity, private existence is just **a mode of communal existence**. Communal existence realizes itself **through private existing**. (WTZ 10:334)
 
-> Even things like the secrets hidden away in the depths of one's heart are private just insofar as one does not desire or allow others to take part in them, and not because it would be absolutely impossible for another to take part in them. (WTZ 10:333)
+The communal structures of society depend crucial on the setting of boundaries and the building up of walls, but the tendency of these walls is to slowly crumble due to erosion by the waves of publicity. Hence, Watsuji concludes, "history moves forward, not by hidden true aspects (*shinsō* [真相][ja]), but by publicity" (WTZ10:159). That is, the advance into creative novelty sought in aesthetics and elsewhere depends crucially on the making public of values. Imperfect publicity may conceal the world of a genius today, but if the genius is truly efficacious, it will overcome this concealment tomorrow:
 
-> And so, history moves forward, not by hidden true aspects (真相), but by publicity. WTZ10:159
+> The publicity that hid Socrates' greatness was also that by which his greatness was disclosed. Thus, publicity covers the truth of things and, at the same time, discovers or reveals it. (∞151)
 
-Without exclusion, no families, etc.
+&nbsp;
 
-That is, the advance into creative novelty sought in aesthetics and elsewhere depends crucially on the making public of values.
-
-> The publicity that hid Socrates' greatness was also that by which his greatness was disclosed. Thus, publicity covers the truth of things and, at the same time, discovers or reveals it. (151)
-
-
-####Whitehead's Burkean Jacobinism
-∞ = Double Negation
-
-For Whitehead, religion is both "a thoroughly social phenomenon"[^] and "what 
-the individual does with his solitariness."[^] The reason for this paradox is 
-that religion is the outcome of a social process by which individuals have 
-attempt to concretize what is most abstract. It is a way for the individual to 
-grasp the general through the particularity of one's personal, individual 
-experience. This makes religion philosophically significant both as a source 
-of experiential data and as a prompt that allows the individual to grasp the 
-more abstract aspects of experience:
-
-[^]: _Religion_, p. 27.
-[^]: _Ibid_., p. 47. _Religion_, p. 16 has a similar quote but with "his *own* solitariness" (emphasis mine) substituted. 
-
-> Religion is the translation of general ideas into particular thoughts, 
-particular emotions, and particular purposes; it is directed to the end of 
-stretching individual interest beyond its self-defeating particularity. 
-Philosophy finds religion and modifies it; and conversely religion is among 
-the data of experience which philosophy must weave into its own scheme.[^]
-[^]: _Process_, 23.
-
-From this we can see that a philosophy that merely dismisses religion without 
-adequately investigating the nature of religious experiences discards an 
-important source of information about the world.
-
-The chief danger for religion is dogmatism:
-
-> A dogma--in the sense of a precise statement--can never be final; it can 
-only be adequate in its adjustment of certain abstract concepts. […]
->
-> […] A dogma may be true in the sense that it expresses such interrelations 
-of the subject matter as are expressible within the set of ideas employed. But 
-if the same dogma be used intolerantly so as to check the employment of other 
-modes of analyzing the subject matter, then, for all its truth, it will be 
-doing the work of falsehood.[^]
-[^]: _Religion_, p. 131.
-
-Unlike a dogmatic religion, a rational religion organizes its rituals and 
-beliefs into "a coherent ordering of life" that both "elucidates thought" and 
-commands "ethical approval."[^] What makes a religion rational is its ability 
-to resist the impulse to dogmatism, to continually make its truth new through 
-the reorganization of its symbolic relations. When a religion refuses to adapt 
-its symbolism to changes in the experience of life, it is liable to both 
-stifle thought and commit ethical atrocities.
-
-[^]: _Ibid_., p. 31.
-
-While religion must continually be critiqued so as to prune away its harmful 
-dogmas, this is by no means a smooth process. Changes in the symbolic order 
-always dangerous, such that
-
-> It is not therefore true that any advance in the scale of culture inevitably 
-tends to the preservation of society. On the whole, the contrary tends more 
-often to be the case, and any survey of nature confirms this conclusion.[^]
-
-[^]: _Symbolism_, p. 69.
-
-For this reason, Whitehead deliberately compares his view of social change to 
-Burke, stating that Burke "was right in his premises and wrong in his 
-conclusions."[^] Burke was right to think that social "progress," so-called, 
-often leads to the destruction of the society that embraces it, as was the 
-case in the French Revolution. Burke was wrong to think that as a result such 
-revolutions must be avoided at all costs. For Whitehead, there is something to 
-be said for both the path of the iconodule and the path of the iconoclast: 
-
-[^]: _Ibid_., p. 71.
-
-> There is a greatness in the lives of those who build up religious systems, a 
-greatness in action, in idea, and in self-subordination, embodied in instance 
-after instance through centuries of growth. There is a greatness in the rebels 
-who destroy such systems[…].[^]
-[^]: _Process_, 513.
-
-What makes both paths productive is that they both lead to the building up of 
-a more complex, responsive system able to take in new abstractions and enjoy 
-the beautiful harmony of new contrasts. Symbolism is always "dangerous," since 
-it "may involve an arbitrary imputation of unsuitable characters."[^] Still, 
-this danger is worth it, since it is the cost of higher consciousness. In the 
-end, 
-
-[^]: _Symbolism_, p. 87.
-> The art of the free society consists first in the maintenance of the 
-symbolic code; and secondly in the fearlessness of revision, to secure that 
-the code serves those purposes which satisfy an enlightened reason. Those 
-societies which cannot combine reverence to their symbols with freedom of 
-revision, must ultimately decay either from anarchy, or from the slow atrophy 
-of a life stifled by useless shadows.[^]
-[^]: _Ibid_., p. 88.
+One criticism that has been raised of Watsuji’s system is that these publics are structured in a rigid hierarchy from the couple up to the state. The downside of such a rigid hierarchy is that, especially in his war era writings, he may make it seem that the state is synonymous with the totality out of which individuals and collectives emerge, and that the individual must in all cases return to a national totality. Even from his own perspective, it must be emphasized that any concretely realized collective is as empty as the individual, hence it would be wrong for the nation to be given an absolute priority. At best, the nation is able to *symbolize* the absolute in which privacy or exclusion, but it can never itself *be* such an absolute and treating it as a such is the root of many of excesses and errors. That Watsuji himself seems to do so in some of his writings should be seen as a warning to us of the terrible importance of describing the structure of human existence correctly.
 
 ###Idols and artifacts
-Watsuji's critics often contend that his system subordinates religion in the service of the state. These criticism are not without merit but must placed within the broader context of Watsuji’s life and career. In his earliest years, he followed the English Romantics, Bernard Shaw, and even Nietzsche in rejecting religion as an outmoded influence on society, but as time went on he began to reconsider its importance. By the time of his _Revival of the Idols_∞ (1918), Watsuji had begun to understand religion as an important determinant in the evolution of culture. Where for Nietzsche “idols” represent congealments of life that ought to be destroyed, Watsuji saw also their positive role in the progression of life. “The Psychology of Idol Worship”∞ is an essay in RoI where Watsuji explores the mindset of those Japanese who first accepted the foreign importation of Buddhism to Japan. In it, Watsuji writes,
+Watsuji's critics often contend that his system subordinates religion in the service of the state as the public which symbolizes the absolute. These criticism are not without merit but must placed within the broader context of Watsuji’s life and career. In his earliest years, he followed the English Romantics, Bernard Shaw, and even Nietzsche in rejecting religion as an outmoded influence on society, but as time went on he began to reconsider its importance. By the time of his _Revival of the Idols_∞ (1918), Watsuji had begun to understand religion as an important determinant in the evolution of culture. Where for Nietzsche “idols” represent congealments of life that ought to be destroyed, Watsuji saw also their positive role in the progression of life. “The Psychology of Idol Worship”∞ is an essay in RoI where Watsuji explores the mindset of those Japanese who first accepted the foreign importation of Buddhism to Japan. In it, Watsuji writes,
 
 > What especially catches the eye is that they demanded artistic joy (*geijutsu-teki na kanki* [芸術的な歓喜][ja]) from religion. Going further than that, they tied their faith to this sensuous joy. The former is proved by the great art that was born of the Nara period. The latter is unquestionably proven by several prominent social phenomena which manifest how much power the priests of that era held over the human body. These characteristics may have varied in form to some degree but are surely apparent in every religion that has since been born in Japan. […] This close melding of art and religion is able to provide an extremely justified ground for idol worship. (∞)
 
@@ -236,17 +153,17 @@ In other words, the ancient Japanese came to accept Buddhism as a religion first
 
 > Those who were intoxicated (_tōsui_ [陶酔][ja]) on music would sometimes open their enchanted eyes and gaze on the heavenly idols. They had already lost consciousness of themselves. They had already integrated the idols into their hearts, and in an infinity of gratitude and blessings they experienced an intense shining and a nimbleness of the whole heart.---Actually, their agitated hearts were extremely sensitive toward the statues and music. The strength and chiaroscuro of that inner life was no different in its extreme intensity of feeling, though it could not be called well defined. When all of their artistic results and religious influences were concentrated on just one point, that is, the veneration of idols, especially as in the aforementioned circumstances, the depth and strength of that ecstasy (_uchōten_ [有頂天][ja]) seems to be almost beyond our imaginations. In this way, our ancestors had tasted one kind of aesthetico-religious great joy (_bi-teki shūkyō-teki na dai-kanki_ [美的宗教的な大歓喜][ja]) in idol worship. (∞)
 
-While a strong influence from Nietzsche is apparent in this passage, we also see the beginnings of unique understanding of the relationship between private religious and aesthetic sentiments and public social conditions. Watsuji shows that the rigid structure and rules of Buddhism, anathema to the Dionysian Nietzsche, have provided the space in which the Japanese devotees can experience an aesthetic rapture together. The rapture of the monks was made possible first by their commitment to detachment from the world, which was the precondition of their losing themselves to the world. Though Buddhism took root on the strength of its connection between aesthetic experience and religious experience, nevertheless, it brought a political and social meaning that was to transform Japan:
+While a strong influence from Nietzsche is apparent in this passage, we also see the beginnings of unique understanding of the relationship between private religious and aesthetic sentiments and public social conditions. Watsuji shows that the rigid structure and rules of Buddhism, anathema to the Dionysian Nietzsche, have provided the space in which the Japanese devotees can experience an aesthetic rapture together. The rapture of the monks was made possible first by their resolute detachment from the world, which became a precondition for their losing themselves to the world. Though Buddhism took root on the strength of its connection between aesthetic experience and religious experience, nevertheless, it brought a political and social meaning that was to transform Japan:
 
 > The temple of that time was a treasure hall of culture as seen from perhaps any perspective. They were not merely places for the monasticism and discipline of an ascetic lifestyle. Rather, its chief content was the whole of scholarship, artistry, self-cultivation, and so on. It was one place that contained all kinds of spiritual nourishment, as if a university, a theater, an art school, a museum, a music school, a concert hall, a library, and a monastery had all been rolled into one. There the priests heard the sutras containing the Buddha's lectures on philosophical principles as symbolical poetry. As they became familiar with those legendary, highly symbolic expressions, they connected those lectures with the statues and images of the Buddha that concretized them. (∞)
 
-Here we see that the private aesthetic and religious feelings that swept over the primitive Japanese ended up causing a wholesale reordering of the public. The Buddhist idols had a kind of genius to them that brought with them the power to restructure the world of the Japanese. 
+Here we see that the private aesthetic and religious feelings that swept over the primitive Japanese ended up causing a wholesale reordering of the public. The Buddhist idols had a kind of genius to them that brought with them the power to restructure the social realm of the primitive Japanese.
 
-Unlike Nietzsche's theory of *[ressentiment][fr]*, however, as Watsuji portrays it, this restructuring is not the cause of the loss of a more authentic nobility but a deepening of the self-understanding of the Japanese people. Watsuji finds in Buddhism an appreciation for the importance of experiencing the flow of life unimpeded by conceptual congealing similar to Nietzsche's, and this leads Watsuji to see the positive value of idols, both literal and conceptual. Where Nietzsche casually sneers at the inauthenticity of Buddhism’s life negating tendencies (it is guilty of “denying the will” and “longing for nothingness”[^]), Watsuji began to appreciate life affirming aspect of self-negation in the face of an awesome aesthetic other. Nietzsche was only aware of a caricatured portrait of South Asian non-Mahāyāna Buddhism, but Watsuji was thoroughly acquainted with both Mahāyāna and non-Mahāyāna Buddhism, which gave him a better perspective on the ways in which Buddhism could be life affirming and embrace aesthetic experience. While both Watsuji and Nietzsche emphasize the importance of intoxication to the opening of the self to the Dionysian joy of aesthetic/religious ecstasy, Watsuji also begins to sympathize with the veneration of the idols as well, which is an act that would strike Nietzsche as servile and a betrayal of the will to power. As David B. Gordon argues, however, the common thread connecting Watsuji’s work before and after _A Study of Nietzsche_ is Watsuji’s recognition of the overcoming of self as the means of expressing the authenticity of the self.∞FOOTNOTE FOR GORDON.
+Unlike Nietzsche's theory of *[ressentiment][fr]*, as Watsuji portrays it, this restructuring is not the cause of the loss of a more authentic nobility but a deepening of the self-understanding of the Japanese people. Watsuji finds in Buddhism an appreciation for the importance of experiencing the flow of life unimpeded by conceptual congealing similar to Nietzsche's, and this leads Watsuji to see the positive value of idols, both literal and conceptual. Where Nietzsche casually sneers at the inauthenticity of Buddhism’s life negating tendencies (it is guilty of “denying the will” and “longing for nothingness”[^]), Watsuji began to appreciate life affirming aspect of self-negation in the face of an awesome aesthetic other. Nietzsche was only aware of a caricatured portrait of South Asian non-Mahāyāna Buddhism, but Watsuji was thoroughly acquainted with both Mahāyāna and non-Mahāyāna Buddhism, which gave him a better perspective on the ways in which Buddhism could be life affirming and embrace aesthetic experience. While both Watsuji and Nietzsche emphasize the importance of intoxication to the opening of the self to the Dionysian joy of aesthetic/religious ecstasy, Watsuji also begins to sympathize with the veneration of the idols as well, which is an act that would strike Nietzsche as servile and a betrayal of the will to power. As David B. Gordon argues in _Self-Overcoming_, the common thread connecting Watsuji’s work before and after his _Study of Nietzsche_ is a recognition of the overcoming of self as the means of expressing the authenticity of the self.∞FOOTNOTE FOR GORDON.
 
-[^]: Nietzsche, Friedrich. _The Birth of Tragedy and Other Writings_. Tr. Ronald Spiers. Cambridge Press, 1999, §7, p. 40 and §21, p. 98.
+[^]: See Friedrich Nietzsche, _The Birth of Tragedy_, §7, p. 40 and §21, p. 98.
 
-In his preface to _Revival of the Idols_ ∞, Watsuji expands the themes of the essays in the collection by illustrating his point with the story of the Apostle Paul. According to Watsuji, Paul was disgusted by the Dionysian excesses of the ancient Athenians, and managed to so impress them with his disdain for idolatry that a period of iconoclasm followed for the better part of two millennia. Watsuji allows that this was for the best historically, and yet we cannot wholly rid ourselves of the idols:
+In his preface to _Revival of the Idols_, Watsuji expands the themes of the essays in the collection by illustrating his point with the story of the Apostle Paul. According to Watsuji, Paul was disgusted by the Dionysian excesses of the ancient Athenians, and managed to so impress them with his disdain for idolatry that a period of iconoclasm followed for the better part of two millennia. Watsuji allows that this was for the best historically, and yet we cannot wholly rid ourselves of the idols:
 
 > There is no need at this time to repeat that iconoclasm, or the destruction of idols, is indispensable as a way for life to progress. The flow of life is maintained by this path [*michi* 道] alone. Idols, which we unceasingly construct in our subconsciouses, must be destroyed by careful and unceasing effort.
 >
@@ -256,7 +173,7 @@ What finally brought an end to the era of iconoclasm in the West was a literal r
 
 > Nevertheless, idols that have been revived are no longer gods deserving of veneration. No one thought to offer before them a beast in sacrifice. No one thought to entrust his own fate into the hands of these idols. What caused the people tremble was not their being heretical gods but their beauty. Paul's expulsion of idols is something that should have been accepted as a matter of course only to the degree that the idols were taken to be gods for veneration. However, as works of art which are venerated for their beauty, the idols were offered unfair treatment by Paul. Now that unfair treatment is being recompensed, and the idols are seen by the people as possessing a dignity even as mere works of art. (∞)
 
-In other words, statues like the Venus de Milo continue to possess a kind of awe inspiring power, but we no longer feel that power to be a religious one, but primarily an artistic one. The meaning of its genius has been transmuted. It still contains a world within itself, but this world is now a secular one. This shows at the same time, the change brought about in the status of religion and the change in the status of art. New iconoclasts in the form of anti-clerical and even atheistic movements had taken root in the West, but their iconoclasm could not be total. So soon as they suppressed God, they found that they had to put “Art” on a pedestal. Watsuji writes,
+In other words, statues like the Venus de Milo continue to possess a kind of awe inspiring power, but we no longer feel that power to be a religious one, but primarily an artistic one. The meaning of its genius has been transmuted. It still contains a world within itself, but this world is now a secular one. Nevertheless, the genius of the work is so great, that even without its religious trappings, we feel compelled to supplicate before its beauty. This shows the change brought about in the status of religion and the change in the status of art. New iconoclasts in the form of anti-clerical and even atheistic movements had taken root in the West, but their iconoclasm could not be total. So soon as they suppressed God, they found that they had to put “Art” on a pedestal to replace him. Watsuji writes,
 
 > The Christian "God" is also a kind of idol. Paul expelled idols made by "the hands of men." The modern iconoclasts expelled gods made by "the heads of men." However, just as Paul could not completely purge the idols, the modern iconoclasts were also unable to completely purge God. Even after the much-discussed pronouncement that "God is dead,” a god-seeking heart stealthily takes root in the breast of the people.
 >
@@ -264,44 +181,47 @@ In other words, statues like the Venus de Milo continue to possess a kind of awe
 >
 > Though we have lost the name of God, nevertheless we cannot refrain from searching for a new name to give Him. Should we call Him "the Will”? Ought we to speak of Him as "the Absolute"? Or might we call Him "the Electron” as well? Perhaps these names ought to be cast out by a new Paul as demonic gods. We have built an altar to "the Unknown God" and await the appearance of a Paul that can clearly preach about God to us. And so we anticipate the destruction of all of the idols created by the spirit of modernity. (∞)
 
-For his part, Watsuji sees both iconoclasm and idol worship as necessary moments in a process of historical unfolding. Neither can exist without the other, because they both bring us closer to discovering the hidden depths of the ordinary. The “god” that we seek is the unknown and unknowable, hence any attempt we make to absolutize the public over the private or vice versa must fail. Our private vision of the good must spill into public life without thereby becoming 
-THE PUBLIC AND PRIVATE REALMS ARE LOCKED IN…∞
-There is a mysterious profundity in how things are on their own that is overlooked by ordinary consciousness but which we can recover when we use aesthetic awareness to alert us to the ecstatic interiority of things:
+For his part, Watsuji sees both iconoclasm and idol worship as necessary moments in a process of historical unfolding. Neither can exist without the other, because they both bring us closer to discovering the hidden depths of the ordinary. The “god” that we seek is the unknown and unknowable, hence any attempt we make to absolutize the public over the private or vice versa must fail. Our private vision of the good must spill into public life without thereby choking out the possibility of new private visions taking root. The idol worship of sclerotic public values must be smashed by a private zeal for iconoclasm, but so soon as the values of iconoclasts become sclerotic, it is time for a private worship of idols to drive out the iconoclasts who now dominate the public.
 
-> I preach the path of righteousness. I suppose some will call this banal. I, however, am talking about the joy of discovering new life in the banal. I am trying to tell you about the sweetness of the nectar secreted away inside the shell of the banal. As for the banal--fixed ideas that are taken to have no life--we needs must first shake the dulled senses out of their sleep by waking (_satoru_ [悟る][ja]) the shell itself and then wield an iron hammer to break it apart. The eyes of new senses will for the first time be awakened to the revival of the idols. 
+The central fact that drives this endless cycle of idol worship and iconoclasm is that there is a mysterious profundity behind everyday life. It is overlooked by the ordinary self, but  we can recover it when we use aesthetic awareness to alert us to the ecstatic interiority of things:
+
+> I preach the path of righteousness. I suppose some will call this banal. I, however, am talking about the joy of discovering new life in the banal. I am trying to tell you about the sweetness of the nectar secreted away inside the shell of the banal. As for the banal---fixed ideas that are taken to have no life---we needs must first shake the dulled senses out of their sleep by waking (_satoru_ [悟る][ja]) the shell itself and then wield an iron hammer to break it apart. The eyes of new senses will for the first time be awakened to the revival of the idols. 
 >
 > I do not, however, merely aim to "resurrect the old." When the old is raised up again, the old shell is cast off and a new life shines forth. The fetters of time no longer apply in this new life. It is eternally young, eternally new. My aim is in this way to extoll the eternally present life. I feel a presentiment of a great path that converges in the heart of all idols. And I feel that all human efforts, past and future, will at the last be gathered in the direction of this path. ∞
 
-Thus we see that for the early Watsuji, religion is not just a means of ethnic self-expression whereby the state comes to enlist higher ideals for its legitimation. At its best, religion is a means to aesthetic appreciation of the eternal in every moment. The difficulty is that over time religions inevitably evolve into mere “idol worship” and must be smashed by iconoclasm so that the innate impulse to religiosity can find new and better ways of expressing itself without being stifled by frozen conceptions of how things ought to be. While this understanding of religion does not make up for the shortcomings of Watsuji’s later “idolization” of the state, it helps put into perspective how such idolization came about, in that he came to identify the state with that power which drives the cycle of idolization and iconoclasm forward.
+In this passage, Watsuji waxes purple about the possibility of a more ecstatic existence. Thus we see that for the early Watsuji, religion is not just a means of ethnic self-expression whereby the state comes to enlist higher ideals for its legitimation. At its best, religion is a means to aesthetic appreciation of the eternal in every moment. The difficulty is that over time religions inevitably evolve into mere “idol worship” and must be smashed by iconoclasm so that the innate impulse to religiosity can find new and better ways of expressing itself without being stifled by frozen conceptions of how things ought to be. While this understanding of religion does not make up for the shortcomings of Watsuji’s later “idolization” of the state, it helps put into perspective how such idolization came about, in that he came to identify the state with that power which drives the cycle of idolization and iconoclasm forward. Properly understood, however, we should see 
 
-      - The unsatisfactoriness of life means we'll never get out of the idol/iconoclasm cycle
-      - The Unknown God forever beckons 
-      - The revived thing is not just the old again but a new old
-    - The Turn
-      - An Ode to Transfinite Joy?
-      - Cf. Kierkegaard's Stages on Life's Way: Aesthete → Ethical
-      - There is value to one's inner Mephisto
-- Defense from Hiroshi Nara
+THIS AS AN ABSOLUTE GENIUS THAT IS EVER REMOTE LIKE THE UNKWN GD.
 
-###真善美?
-  - Trust
-  - Purposiveness
-  - Truth
-    - Truth can be part of a Heideggerian unconcealment of the subject 
-  - Goodness
-  - Beauty
 ###The genius of Murasaki Shikibu
   - Murasaki
+	- The woman
+	- World of the shining prince
+		- More alien than science fiction, but so close as well.
     - Genji
-      - firstish novel
+      - firstish novel: a genius transformation of the genre
       - first person perspectives
       - Dude's translation speech
         - http://www.csse.monash.edu.au/~jwb/tylerlecture.html
+	- Defense of fiction: vs. her Buddhist milieu
   - Motoori
 		- Awaré
   - Watsuji on both
 Finally, I wish to conclude with a concrete discussion of Murasaki Shikibu ([紫式部][ja], c. 973--1014? 1025?), a genius of Japanese literature and author of *The Tale of Genji* (*Genji Monogatari* [源氏物語][ja]), as well as the critics who were vital to our reception of her work.
 
 ###Conclusion
-  - Museums are the one place where religion, nationalism, and aesthetics come together. Museums are substitute temples and often get filled with religious artifacts. They glorify their home nations either for plundering other people or for creating stuff itself. Cf. Heidegger’s theory of a work of art as temple based.
+####Defense of the possibility of Watsujian aesthetics
+In “Art and Ethics in Watsuji Tetsurō's Philosophy,” Hiroshi Nara objects that Watsuji's anthropology makes artistic genius impossible because
+
+> Art is not an expression of the artist as an individual but of the artist as defined in his affiliation to the larger social and political entity. There would be no art-for-art's-sake in which art functions as an instrument of personal emancipation. That is, the artist would be in service of the group and, eventually, to the state. (112)
+
+Furthermore, Watsuji’s aesthetics leaves art with
+
+> no power to give birth to a new form of art which can challenge the status quo of society, including art. This is because moral laws, which artists must abide by, come from the absolute negation of the autonomous self. And only in this way, that is, by means of emptying the self into the totality of the nation, a person can be one with the nation. For an artist, there is no art that is subversive or produced to fulfill personal emancipation in Watsuji's framework. (113)
+
+Nara is correct to claim that for Watsuji the artist emerges out of the social fabric of morality, but he is wrong to claim that employing Watsujian anthropology thereby suppresses all possibility of genius or historical change. It is precisely as a moralist that Watsuji feels qualified to speak to the ability of art and genius to subvert present art forms and advance history. For Watsuji, local ethics follow the local ethos---the local way of life---according to the patterns described by universal ethics. As the local ethos changes, so too will local ethics. The artist who attempts to fashion an aesthetic experience is naturally limited by the contours of society as it presently exists, since it will be impossible for the artist to facilitate distance and ecstasy in relation to an object if the structure of society does not allow for such the reception of such objects. The paintings of Pollock could never have gained an audience in the salons of the 1850’s, for example, which means they would not have provoked an aesthetic experience for anyone at that time. When society has changed or is changing, however, a great artist is to become aware of the possibilities this creates and express those possibilities in art in such a way that a new category of aesthetic experience opens up. Genius gives the rule to art, but only in those historical and climatic milieux in which the rule can be successfully taken up. The genius of Japanese tea ceremony or flower arranging, for example, were never taken up in the West, but Japanese _ukiyo-e_ woodblock prints directly inspired van Gogh, and through him influenced all Western painting following the post-Impressionist period.
+
+This last example allows us to better understand the phenomenon of persistent aesthetic disagreement. It should be readily apparent from what has already been said that differences of history and milieu between different communities may inhibit the emergence of shared canons of taste for the different groups. It is not a coincidence, for example, that we often observe opposition to the way of life presupposed by hip-hop music as coinciding with opposition to the music itself. The music is an expression of a form of living and to oppose the one is naturally entangled with opposition of the other. On the other hand, we must also consider more closely the issue of aesthetic disagreements within a community. It may be the case that one individual with an otherwise ordinary background opposes some well regarded figure in the canon of an aesthetic community. This too we can account for on Watsuji’s theory as a natural expression of the fundamental law of humanity. The individual defines herself as an individual by negation of her society. Without some form of opposition to the view of the public, there could be no defined individuals to speak of. What is more, we find that as an isolated opinion such a view will not rise to the level of a sustained disagreement within the aesthetic community; however, should such a view gain wider prevalence it will do so either by splitting the community into two opposed factions with different canons of taste or by causing the evolution of the community’s tastes to better reflect its current forms of life.
+
+    - Museums are the one place where religion, nationalism, and aesthetics come together. Museums are substitute temples and often get filled with religious artifacts. They glorify their home nations either for plundering other people or for creating stuff itself. Cf. Heidegger’s theory of a work of art as temple based.
 
