@@ -181,6 +181,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Wilde, Oscar. “The Decay of Lying.” In *Intentions*, 1--56. New York: Brentano, 1905. `http://archive.org/details/intentionsdecayo00wild`.
 
+* Wittgenstein, Ludwig. *Philosophical Investigations*. Translated by G. E. M. Anscombe. Third edition. Oxford: Blackwell, 2001.
+
 * Whitehead, Alfred North. _Adventures in Ideas_. New York: Free Press, 1993.
 
 * ⎯⎯⎯. _Science and the Modern World_. Paperback edition. New York: Free Press, 1967.
