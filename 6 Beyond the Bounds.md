@@ -198,26 +198,95 @@ In this passage, Watsuji waxes purple about the possibility of a more ecstatic e
 - - - -
 
 ###The genius of Murasaki Shikibu
-####Murasaki Shikibu
-####The world of *Genji*
-####Critics and interpretation
-  - Murasaki
-	- The woman
-	- World of the shining prince
-		- More alien than science fiction, but so close as well.
-		- Geniuses tend to cluster together
-	- Genji
-      - firstish novel: a genius transformation of the genre
-      - first person perspectives
-      - Dude’s translation speech
-        - http://www.csse.monash.edu.au/~jwb/tylerlecture.html
-	- Defense of fiction: vs. her Buddhist milieu
-	- set in the past
-  - Motoori
-		- Awaré
-  - Watsuji on both
-  - translators
-Finally, I wish to conclude with a concrete discussion of Murasaki Shikibu ([紫式部][ja], c. 973--1014? 1025?), a genius of Japanese literature and author of *The Tale of Genji* (*Genji Monogatari* [源氏物語][ja]), as well as the critics who were vital to our reception of her work.
+- Genji
+
+According to Royall Tyler, one of the many translators of *The Tale of Genji* (*Genji Monogatari* [源氏物語][ja], c. 1010), the following praise by Montaigne of Homer applies almost perfectly to Murasaki Shikibu ([紫式部][ja], 973?--1014? or 1025?):
+
+> It is against nature that he made the most excellent creation that could ever be; for things are normally born imperfect; they then grow and gather strength as they do so. He took poetry and several other sciences in their infancy and brought them to perfect, accomplished maturity. Because of this one may call him the first and last of poets, in accordance with that fine tribute left to us by antiquity: that, having had no predecessor to imitate, he had no successor capable of imitating him. ("Translating The Tale of Genji")
+
+As Tyler puts it,
+
+> *The Tale of Genji* is not the first extended work of prose fiction in Japanese, to say nothing of Latin or Greek, but is surely the earliest such work from anywhere in the world that lives on even today as a widely revered masterpiece. No predecessor in Japanese literature foreshadows its greatness, and nor did any successor equal it thereafter. Since the roughly the first decade of the eleventh century, when the lady Murasaki Shikibu wrote it, it has been the foremost classic of Japan. ("Translating The Tale of Genji")
+
+
+- firstish novel: a genius transformation of the genre
+- first person perspectives
+- set in the past
+IM265 There are over 430 characters in the Tale
+IM266 Chronology is unusually clear
+IM256 Murasaki, "tried to enter into their feelings". 
+
+> Good manners required every member of the nobility to compose such poems at suitable junctures, and every young lord or lady was brought up so as to be able to do so, although naturally not every effort was a great success. There are 795 poems in *The Tale of Genji*. It is difficult to overstate their importance, readers over the centuries having often valued them above the prose. In fact, for hundreds of years the tale was seen by many as above all a manual of poetic composition. Readers like that are rare today, in Japan or elsewhere, if indeed they exist at all, but the poems certainly command the translator's care and respect. ("Translating The Tale of Genji")
+
+> Murasaki Shikibu seems to have been the first Japanese writer to exploit interior monologue fully as a narrative technique. When it appears, one suddenly finds oneself listening directly to a character's thoughts, as in the following example from chapter 49. A young man whose great love has died nurses his sorrow, even as his politically advantageous but otherwise unwelcome marriage approaches. The text shifts from third-person narration to first person interior monologue and back again. ("Translating The Tale of Genji")
+
+IM271 Central theme: life as bridge of dreams
+IM267 Genji has the unity of a novel; it's not just stories
+IM268 Genji repeats patterns of action
+WT141 Changing perspectives keeps the story from unifying.
+
+
+- Murasaki
+- The woman
+
+IM252 Multiple possible meanings of the name Murasaki
+IM254 Nerds don't get boyfriends. Her 無常感 probably didn't stem from husband's death
+IM257 Disliked nickname "Lady of the Chronicles"
+IM256 Not a comeback queen like Sei Shonagon
+- Geniuses tend to cluster together
+
+
+- World of the shining prince
+
+> The other kind of discretion I meant has to do with preferring indirection to bluntness. The characters seldom call a spade a spade, and moreover their notion of "spade'' is very broad. Although the issue of marriage is prominent in the tale, the narrative has no stable word or locution for "marriage'' or even for "husband.'' Another recurring preoccupation for some of the characters is the wish to leave the world and become a monk or a nun. Nonetheless, the narrator avoids words like "monk'' and "nun,'' or even expressions such as "leave the world'' or "take holy orders.'' The reader soon comes to know that Genji himself has such thoughts, but all he ever mentions is a wish to act on his "long-standing desire'' (hoi). Previous translators into various languages, including modern Japanese, have not hesitated to identify this "spade'' unequivocally - Yosano Akiko even had one of the main characters wish to "enter upon a life of faith'' - but it seemed to me that I might strike a false note by doing so. ("Translating The Tale of Genji")
+
+- More alien than science fiction, but so close as well.
+IMxii: "which in customs, beliefs, and social organization was more alien than anything that Gulliver discovered on his travels."
+IM278 It's too much to say that Murasaki was from "a different planet" than us because we can "readily" enter her world.
+IM289 "a beautiful and most intriguing world"
+
+> The original readers of Genji were in no hurry, and they appreciated a rich, copious work that required them to come forward, as it were, to meet it halfway, in a process of fully engaged listening or reading. ("Translating The Tale of Genji")
+
+
+Interpreters
+- translators
+IM279 People dig Tanizaki's translation.
+
+> The first more or less complete translation of the tale into any foreign language was made by - you are probably expecting me to say Arthur Waley, into English, between 1925 and 1933. Actually, though, I mean Yosano Akiko, the great woman of letters who in 1913 published the first translation into modern Japanese. In the case of Genji, modern Japanese, too, is a foreign language, and Yosano Akiko's translation is in its way as free, and as not-quite-complete, as Waley's. Later modern Japanese translations, of which there are many, vary just as much in character as translations into English or other languages.
+
+
+> Complete translations made directly from the original exist in German, French, Russian, Korean, and Chinese (one each for Taiwan and the People's Republic), while others are currently under way into Italian, Czech, and Finnish. English is the only European language that used to boast two, and that now boasts three.
+
+> In the present, The Tale of Genji supports the same sort of academic industry that Shakespeare and so on do elsewhere, as well as an abundance of popular writing, film, manga comics, musical theater, opera, dance, kabuki, and other arts of all kinds.
+
+
+
+Critics
+IM262--3 Sarashina Diary author dug the Genji
+
+- Motoori
+
+IM259 Motoori Norinaga down plays her religiousness.
+IM260 Motoori: Genji is all about cultivating a sense of mono-no-awaré
+IM258 Amida devotee
+- Defense of fiction: vs. her Buddhist milieu
+IM261 Defense of fiction as fever to tell
+MN507 Sharing our awaré comforts us. FEVER TO TELL!
+MN505 Is poetry meant to better people? Nope.
+
+- Awaré
+MN508 Good and bad in Genji are all Mono-no-Awaré relative.
+MN506 Awaré is a spontaneous expression of feeling Ah + Hare. You can't help but feel it.
+
+- Watsuji on both
+
+WT145 Motoori was right that mono-no-awaré is basically what we would call emotion. He put it in a separate "world" from morals and philosophy. But he left us without a foundation for why we should feel the pathos of things.
+WT146 Motoori tried to provide a ground by going back to the heart of purity or inmost heart. For him, emotion is the foundation of human life. Mono-no-awaré takes off the mask and reveals the heart behind human action. But if so, this means mono-no-awaré isn't the same as vulgar feelings. 
+WT148 Mono-no-awaré ends up being a humane fellow feeling for Motoori, but it's also our inmost heart, so that makes him an Idealist. The inner depths are for him an Is and Ought. He bases this on Murasaki, but she ends up being his final authority on the subject. "In other words, in the depth of what he calls humanity, is the real truth of the _Sein_ also a _Sollen_? He does not answer this question." Motoori is basing this on Murasaki Shikibu's worldview, but he doesn't poke at that view. "Thus, while he himself does not explain this, we may interpret his words in the following way. What he calls 'magokoro' is what **is** and not what **was**, though it totally **does not appear** before the eye.
+WT149 The pure heart is something that Is or Was but something that Appears. Hence it contains a kind of request for the Ought. Various eras of Japanese aesthetics all have their own sorts of ideals that express mono-no-awaré in a different light. 
+WT150 Motoori didn't pay enough attention to the *mono* side of mono-no-awaré. It must draw on an Eternal source. Love is inevitably sorrowful because it must aim at eternity and the ideal, but it's a vale of tears down here.
+WT151 Mono-no-awaré ends up being the in-gathering of all human emotion. It is an infinite emotion: a return to the source of being. The light of eternal *mono*. Mono-no-awaré is a love. An eternal yearning given a particular form by Heian lit. Since Mono-no-aware catches this sorrow, it's always appropriate and can indicate anything and everything
+
 
 ###Conclusion
 ####Defense of the possibility of Watsujian aesthetics
