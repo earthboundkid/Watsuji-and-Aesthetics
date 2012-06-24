@@ -198,43 +198,65 @@ In this passage, Watsuji waxes purple about the possibility of a more ecstatic e
 - - - -
 
 ###The genius of Murasaki Shikibu
-- Genji
-
-According to Royall Tyler, one of the many translators of *The Tale of Genji* (*Genji Monogatari* [源氏物語][ja], c. 1010), the following praise by Montaigne of Homer applies almost perfectly to Murasaki Shikibu ([紫式部][ja], 973?--1014? or 1025?):
+####*The Tale of Genji*
+According to Royall Tyler, one of the many translators of *The Tale of Genji* (*Genji Monogatari* [源氏物語][ja], c. 1010), the following praise by Montaigne of Homer applies to Murasaki Shikibu ([紫式部][ja], 973?--1014? or 1025?), authoress of the *Genji*, with almost perfect precision:
 
 > It is against nature that he made the most excellent creation that could ever be; for things are normally born imperfect; they then grow and gather strength as they do so. He took poetry and several other sciences in their infancy and brought them to perfect, accomplished maturity. Because of this one may call him the first and last of poets, in accordance with that fine tribute left to us by antiquity: that, having had no predecessor to imitate, he had no successor capable of imitating him. ("Translating The Tale of Genji")
 
-As Tyler puts it,
+As Tyler puts it in a lecture about his experiences as a translator,
 
-> *The Tale of Genji* is not the first extended work of prose fiction in Japanese, to say nothing of Latin or Greek, but is surely the earliest such work from anywhere in the world that lives on even today as a widely revered masterpiece. No predecessor in Japanese literature foreshadows its greatness, and nor did any successor equal it thereafter. Since the roughly the first decade of the eleventh century, when the lady Murasaki Shikibu wrote it, it has been the foremost classic of Japan. ("Translating The Tale of Genji")
+> *The Tale of Genji* is not the first extended work of prose fiction in Japanese, to say nothing of Latin or Greek, but is surely the earliest such work from anywhere in the world that lives on even today as a widely revered masterpiece. No predecessor in Japanese literature foreshadows its greatness, and nor did any successor equal it thereafter. Since the roughly the first decade of the eleventh century, when the lady Murasaki Shikibu wrote it, it has been the foremost classic of Japan. ("Translating")
 
+If the phrase "work of genius" applies to anything, it certainly applies to *The Tale of Genji*. It achieved a scope and scale unprecedented in Japanese literature and transformed the context of its creation. Before *Genji* the genre of *monogatari* ([物語][ja], "tales") was proliferating but not treated with seriousness. *Monogatari* were written in the classical Japanese vernacular, but literary Chinese was considered much more prestigious. Because only men were encouraged to learn Chinese, many of the best works of classical Japanese were written by and for women. *Genji* showed that it was possible to write a work in Japanese that could rival the best works of Chinese in its ambitions.
 
-- firstish novel: a genius transformation of the genre
-- first person perspectives
-- set in the past
-IM265 There are over 430 characters in the Tale
-IM266 Chronology is unusually clear
-IM256 Murasaki, "tried to enter into their feelings". 
+*The Tale of Genji* is a work of enormous scope. A full translation into English can take over one thousand pages. It contains over 430 characters (Morris, 265), but focuses primarily on the life of its eponymous hero, Hikaru Genji [光源氏][ja], and his wives and children. Genji is the son of the Emperor, but because his mother is a low ranking concubines and Genji has no influential male relatives to support him in court, the Emperor believes Genji's life will go more smoothly if he is made a commoner. Genji is stripped of his imperial rank and given the surname Minamoto 源 ("Genji" 源氏 means "one named Minamoto"). From this inauspicious beginning, Genji embarks on a series of love affairs and other adventures of slowly accumulating success, until his charm and good looks eventually cause him to be raised to the rank of honorary retired emperor. The final twelve chapters of the work follow the career of Kaoru, who is falsely believed to be Genji's son, and Niou, Genji's grandson, as they reenact some of Genji's earlier adventures with less success. The work is set about one hundred years before its time of composition, and despite the enormity of its cast of characters, the author is unerringly consistent in her portray of their age, rank, and relationships (Morris, 266).
 
-> Good manners required every member of the nobility to compose such poems at suitable junctures, and every young lord or lady was brought up so as to be able to do so, although naturally not every effort was a great success. There are 795 poems in *The Tale of Genji*. It is difficult to overstate their importance, readers over the centuries having often valued them above the prose. In fact, for hundreds of years the tale was seen by many as above all a manual of poetic composition. Readers like that are rare today, in Japan or elsewhere, if indeed they exist at all, but the poems certainly command the translator's care and respect. ("Translating The Tale of Genji")
+In spite of this vast scope, *Genji* manages through its repetition of themes and structures to provide a unity to the work without having to follow the format of conflict, climax, and resolution common in Western novels. According to Ivan Morris in _The World of the Shining Prince_, a central theme of the *Genji* is
 
-> Murasaki Shikibu seems to have been the first Japanese writer to exploit interior monologue fully as a narrative technique. When it appears, one suddenly finds oneself listening directly to a character's thoughts, as in the following example from chapter 49. A young man whose great love has died nurses his sorrow, even as his politically advantageous but otherwise unwelcome marriage approaches. The text shifts from third-person narration to first person interior monologue and back again. ("Translating The Tale of Genji")
+> the nebulous, unreal quality of the world about us, and the idea that our life is here is a mere "bridge of dreams" (the title of her final book), over which we cross from one state of existence to another. (271)
 
-IM271 Central theme: life as bridge of dreams
-IM267 Genji has the unity of a novel; it's not just stories
-IM268 Genji repeats patterns of action
-WT141 Changing perspectives keeps the story from unifying.
+While it is true that "the books tend to be more independent than the chapter of most modern novels" (266), the themes of the whole "combine to give it an artistic unity" (267), which makes the work a true "novel" and not just "a haphazardly sequence of loosely connected episodes" (266) as previous works in the genre *monogatari* tended to be.† The work makes careful use of foreshadowing and repetition in order to produce a psychological depth few works can rival. Morris writes that Murasaki
 
+† Note, however, that opinions differ. Watsuji felt that the unity of *Genji* was not as great as it might be and found the work somewhat disjointed (WTZ 4:141--3).
 
-- Murasaki
-- The woman
+> had keenly observed how different kinds of men and women spoke and behaved, and she tried to enter into their feelings and to know why they acted as they did. She was sensitive to the natural surroundings in which these people lived and to the subtle effects these surroundings had on them. (256)
+
+The genius of the author shows itself in her ability to synthesize these private observations into a new world for public consumption. A work of genius is one that creates a world that brings privately felt values out for public examination, and *Genji* masterfully allows us to enter into the internal lives of its characters by making unprecedented use of the Japanese language as a tool for penetrating into the perspective of others. As Morris notes, 
+
+> Like many languages in an early stage of development, tenth-century Japanese was endowed with an extremely rich grammatical apparatus but a relatively limited choice of words. (281)
+
+Earlier writers had been restricted by these limitations of the language, but Tyler gives one example of how Murasaki employs the unique grammatical features of classical Japanese to her advantage:
+
+> A feature of Japanese grammar, especially in this earlier period of the language, is that it offers only direct, not indirect speech. It is not possible to say, "He said he would go." One can only say, "He said, 'I will go'." A passage reporting the gist of what someone said therefore looks as though it is repeating the speaker's precise words. A reader familiar with indirect speech, as the tale's original audience was not, easily gathers most of the time that the words reported are unlikely to be those originally spoken, or certainly not all of them; but the exclusive use of direct speech certainly gives the narrative freshness and immediacy. Imagine, then, the effect of reporting a character's silent thoughts in exactly the same way, as unvoiced speech.
+>
+> Murasaki Shikibu seems to have been the first Japanese writer to exploit interior monologue fully as a narrative technique. When it appears, one suddenly finds oneself listening directly to a character's thoughts […]. The text shifts from third-person narration to first person interior monologue and back again. ("Translating")
+
+The overall impression of the text a kind of cloudy feeling that is impossible to convey in translation. One pivots from perspective to perspective inhabiting first this and then that character's point of view. Names and titles are used only sparingly if at all, and typically it is only the level of politeness of the speech employed that allows one to know who is speaking to whom. Unlike literary Chinese, in which words are strictly regimented into characters that take on life in relation to one another, in classical Japanese, one word blends into the next such that it is difficult to say where one ends and the next begins. Each part is interpenetrated by the whole, just as each perspective yields to the next.
+
+Where Murasaki's facility with language particularly shows itself is in the many poems included in the work. Tyler explains that,
+
+> Good manners required every member of the nobility to compose such poems at suitable junctures, and every young lord or lady was brought up so as to be able to do so, although naturally not every effort was a great success. There are 795 poems in *The Tale of Genji*. It is difficult to overstate their importance, readers over the centuries having often valued them above the prose. In fact, for hundreds of years the tale was seen by many as above all a manual of poetic composition. ("Translating")
+
+Murasaki shows her genius in her ability to match the quality of the poems to their fictional authors. It is impossible for an author to write convincingly about a poet better than himself or herself, but Murasaki is able to match noble poems to the noble characters and coarse poems to the coarse characters with perfect ease. In doing so, she shed light not only on the fictional world of her creation but also takes a world that existed in Japanese history a thousand years ago and is utter distant from our modern lives and makes it seem to unfold before our eyes as something living and breathing even now.
+
+####The world of Murasaki Shikibu
+We do not know what name the woman now known to history as "Murasaki Shikibu" ([紫式部][ja]) used to refer to herself. We
 
 IM252 Multiple possible meanings of the name Murasaki
+
+RTxvii Tyler agrees that Genji was edited out of order
+RTxviii Manuscript traditions
+FN Watsuji on Genji composition.
+
 IM254 Nerds don't get boyfriends. Her 無常感 probably didn't stem from husband's death
 IM257 Disliked nickname "Lady of the Chronicles"
+better at Chinese
+
 IM256 Not a comeback queen like Sei Shonagon
 - Geniuses tend to cluster together
 
+RTxix No one is alone
+RTxx yo no naka
 
 - World of the shining prince
 
@@ -247,6 +269,8 @@ IM289 "a beautiful and most intriguing world"
 
 > The original readers of Genji were in no hurry, and they appreciated a rich, copious work that required them to come forward, as it were, to meet it halfway, in a process of fully engaged listening or reading. ("Translating The Tale of Genji")
 
+####*Genji* and the critical tradition
+The continued vitality of *Genji* is shown in part by the number of adaptations that continue to be made of the work. Chief among these adaptations are translations, including translations into modern Japanese. As Royall Tyler notes, the first complete translation of *Genji* was [Yosano][sc] Akiko's 1913 translation of the work into contemporary Japanese ("Translating").
 
 Interpreters
 - translators
@@ -259,8 +283,6 @@ IM279 People dig Tanizaki's translation.
 
 > In the present, The Tale of Genji supports the same sort of academic industry that Shakespeare and so on do elsewhere, as well as an abundance of popular writing, film, manga comics, musical theater, opera, dance, kabuki, and other arts of all kinds.
 
-
-
 Critics
 IM262--3 Sarashina Diary author dug the Genji
 
@@ -269,7 +291,7 @@ IM262--3 Sarashina Diary author dug the Genji
 IM259 Motoori Norinaga down plays her religiousness.
 IM260 Motoori: Genji is all about cultivating a sense of mono-no-awaré
 IM258 Amida devotee
-- Defense of fiction: vs. her Buddhist milieu
+- Her own defense of fiction as fever to tell
 IM261 Defense of fiction as fever to tell
 MN507 Sharing our awaré comforts us. FEVER TO TELL!
 MN505 Is poetry meant to better people? Nope.
