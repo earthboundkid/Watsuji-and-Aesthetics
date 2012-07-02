@@ -1,9 +1,6 @@
 [sc]: class:smallcaps
 
 catb.org/jargon/html/koans.html
-
-#Bibliography
-##Japanese language sources
 Morohashi
 
 Nose Asaji. *Sanzōshi hyōshaku* (Tokyo: Meicho Kankōkai, 1970)
@@ -12,9 +9,7 @@ Shogakukan’s Japanese dictionary _Daijisen_ [大辞泉][ja]
 
 Shogakukan’s _Ruigo Jiten_
 
-wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻哲郎全集][ja]
-
-##Other sources
+#Bibliography
 * Ames, Roger T. and Henry Rosemont, trans. _The Analects of Confucius: A Philosophical Translation_. New York: Ballantine, 1998.
 
 * ⎯⎯⎯ and David Hall. _Dao De Jing “Making This Life Significant”: A Philosophical Translation_. New York: Ballantine, 2003.
@@ -43,7 +38,9 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Bownas, Geoffrey, trans. _Climate and Culture: A Philosophical Study_. New York: Greenwood Press, 1988.
 
-* Baumgarten, Alexander Gottlieb. *Aesthetica*. `http://www.archive.org/details/aestheticascrip00baumgoog`.
+* Bowring, Richard. *Murasaki Shikibu: Her Diary and Poetic Memoirs, A Translation and Study*. Princeton U. Press: 1982.
+
+* Baumgarten, Alexander Gottlieb. *Aesthetica*. Ioannis Christiani Kleyb, 1750. `http://www.archive.org/details/aestheticascrip00baumgoog`.
 
 * Bullough, Edward. “ ‘Psychical Distance’ as a Factor in Art and an Æsthetic Principle.” In _Æsthetics: Lectures and Essays_, by Edward Bullough, 91--130. London: Bowes & Bowes, 1957.
 
@@ -115,6 +112,8 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * ⎯⎯⎯, ed. _A History of Modern Japanese Aesthetics_. Honolulu: U. Hawaii Press, 2001.
 
+* ⎯⎯⎯, trans. and ed. *The Poetics of Motoori Norinaga: A Hermeneutical Journey*. Honolulu: U. Hawaii Press, 2007.
+
 * Masheck, Joseph. Introduction to _Composition_, by Arthur Dow, 1--61. Berkley: University of California Press, 1997.
 
 * Mayeda, Graham. _Time, Space, and Ethics in the Philosophy of Watsuji Tetsurō, Kuki Shūzō, and Martin Heidegger_. New York: Routledge, 2006.
@@ -122,6 +121,14 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 * Merleau-Ponty, Maurice. _Phenomenology of Perception_. Translated by Donald Landes. New York: Routledge, 2002.
 
 * [Miki][sc] Kiyoshi. “The Study of the Human.” Translated by Gereon Kopf. In _Japanese Philosophy: A Sourcebook_, 702--705. Honolulu: University of Hawaii Press, 2011.
+
+* Morris, Ivan. *The World of the Shining Prince: Court Life in Ancient Japan*. New York: Knopf, 1964.
+
+* Motoori Norinaga. "The Exquisite Comb (Tama no Ogushi)." Translated by Ryusaku Tsunoda. In *Source of the Japanese Tradition: Second Edition*, compiled by Wm. Theodore de Bary, Carol Gluck, and Arthur Tiedemann, vol. 2, 507--509. New York: Columbia U. Press, 2005.
+
+* ⎯⎯⎯. "A Little Boat Breaking a Path Through the Reeds (Ashiwake Obune)." Translated by Donald Keene. In *Source of the Japanese Tradition: Second Edition*, compiled by Wm. Theodore de Bary, Carol Gluck, and Arthur Tiedemann, vol. 2, 505--507. New York: Columbia U. Press, 2005.
+
+* Murasaki Shikibu. *The Tale of Genji*. Translated by Royall Tyler. New York: Viking, 2001.
 
 * Nara, Hiroshi, trans. _Pilgrimages to the Ancient Temples in Nara_. Portland, Maine: MerwinAsia, 2012.
 
@@ -175,9 +182,15 @@ wtz _The Collected Works of Watsuji Tetsurō_ (_Watsuji Tetsurō Zenshu_ [和辻
 
 * Tolstoy, Leo. _What is Art? And Essays on Art_. Translated by Aylmer Maude. New York: Oxford University Press, 1962.
 
+* Tyler, Royall. Introduction to *The Tale of Genji* by Murasaki Shikibu, xi--xxix. New York: Viking, 2001.
+
+* ⎯⎯⎯. "Translating The Tale of Genji," Lecture, Japanese Studies Centre, Monash University, October 10, 2003. Accessed Summer 2012. `http://www.csse.monash.edu.au/~jwb/tylerlecture.html`.
+
 * Ueda, Makoto. _Matsuo Bashō_. New York: Twayne, 1970.
 
 * Watson, Burton. _The Selected Poems of Du Fu_. New York: Columbia University Press, 2002.
+
+* [Watsuji][sc] Tetsurō. _The Collected Works of Watsuji Tetsurō_ (*Watsuji Tetsurō Zenshū*). Tokyo: Iwanami Shoten, 1961--1963, 1976--1978, 1989--1992. [和辻哲郎. 和辻哲郎全集. 東京: 岩波書店, 1961--1963, 1976--1978, 1989--1992.][ja]
 
 * Wilde, Oscar. “The Decay of Lying.” In *Intentions*, 1--56. New York: Brentano, 1905. `http://archive.org/details/intentionsdecayo00wild`.
 
