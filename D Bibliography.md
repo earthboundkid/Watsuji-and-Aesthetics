@@ -64,9 +64,11 @@ Shogakukan’s _Ruigo Jiten_
 
 * ⎯⎯⎯. “Watsuji Tetsurō (1889-1960): Cultural Phenomenologist and Ethician.” *Philosophy East and West* 24.1 (Jan., 1974): 3--22. `http://www.jstor.org/stable/1397599`.
 
+* Duchamp, Marcel. “The Creative Act.” In *Marcel Duchamp*, by Robert Lebel, 77--78. New York: Grove Press, 1959. `http://www.iaaa.nl/cursusAA&AI/duchamp.html`.
+
 * Eaton, Marcia. _Art and nonart : reflections on an orange crate and a moose call_. London: Associated University Press, 1983.
 
-* Feldman, Stuart. "A Conversation with Alan Kay." *ACM Queue: Tomorrow's Computing Today* 2.9 (Dec./Jan. 2004): 20--30. `http://queue.acm.org/detail.cfm?id=1039523`.
+* Feldman, Stuart. “A Conversation with Alan Kay.” *ACM Queue: Tomorrow’s Computing Today* 2.9 (Dec./Jan. 2004): 20--30. `http://queue.acm.org/detail.cfm?id=1039523`.
 
 * Gordon, David B. _Self-Overcoming as the Overcoming of Modernity: Watsuji Tetsurō’s “A Study of Nietzsche” (1913) and Its Place in the Development of His Thought_. Doctoral thesis, University of Hawaii, 1997.
 
@@ -74,7 +76,7 @@ Shogakukan’s _Ruigo Jiten_
 
 * ⎯⎯⎯. _Being and Time_. Translated by John Macquarrie and Edward Robinson. San Fransisco: Harper, 1962.
 
-* ⎯⎯⎯. “The Origin of the Work of Art.” Translated by Albert Hofstadter. In David Krell, ed., _Basic Writings: From_ Being and Time _(1927) to_ The Task of Thinking _(1964)_, Second edition, 143--212. San Francisco: HarperSanFrancisco, 1993.
+* ⎯⎯⎯. “The Origin of the Work of Art.” Translated by Albert Hofstadter. In _Basic Writings: From_ Being and Time _(1927) to_ The Task of Thinking _(1964)_, Second edition, edited by David Krell, 143--212. San Francisco: HarperSanFrancisco, 1993.
 
 * Hegel, G. W. F. _Lectures on the Philosophy of World History_. Translated by H. B. Nisbet. Cambridge University Press, 1975.
 
