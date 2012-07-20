@@ -16,9 +16,9 @@ Shogakukan’s _Ruigo Jiten_
 
 * Aristotle. _Nicomachean Ethics_. Second Edition. Translated by Terence Irwin. Indianapolis: Hackett, 1999.
 
-* ⎯⎯⎯. _Poetics_. Translated by W. H. Fyfe. Vol. 23 of *Aristotle in 23 Volumes*. Cambridge, MA: Harvard U. Press, 1932.
+* ⎯⎯⎯. _Poetics_. Translated by W. H. Fyfe. Vol. 23 of *Aristotle in 23 Volumes*. Cambridge, MA: Harvard University Press, 1932.
 
-* ⎯⎯⎯. _Politics_. Translated by W. H. Fyfe. Vol. 21 of *Aristotle in 23 Volumes*. Cambridge, MA: Harvard U. Press, 1932.
+* ⎯⎯⎯. _Politics_. Translated by W. H. Fyfe. Vol. 21 of *Aristotle in 23 Volumes*. Cambridge, MA: Harvard University Press, 1932.
 
 * Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” Accessed Spring 2012. `http://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm`.
 
@@ -38,7 +38,7 @@ Shogakukan’s _Ruigo Jiten_
 
 * Bownas, Geoffrey, trans. _Climate and Culture: A Philosophical Study_. New York: Greenwood Press, 1988.
 
-* Bowring, Richard. *Murasaki Shikibu: Her Diary and Poetic Memoirs, A Translation and Study*. Princeton U. Press: 1982.
+* Bowring, Richard. *Murasaki Shikibu: Her Diary and Poetic Memoirs, A Translation and Study*. Princeton University Press: 1982.
 
 * Baumgarten, Alexander Gottlieb. *Aesthetica*. Ioannis Christiani Kleyb, 1750. `http://www.archive.org/details/aestheticascrip00baumgoog`.
 
@@ -108,13 +108,15 @@ Shogakukan’s _Ruigo Jiten_
 
 * Leopold, Aldo. _A Sand County Almanac, and Sketches Here and There_. Seventh printing, 1964. Oxford University Press, 1949.
 
+* Lewis, Martin and Kären Wigen. *The Myth of Continents: A Critique of Metageography*. Berkeley: University of California Press, 1997.
+
 * Marion, Mathieu. “Wittgenstein on Heidegger and Cosmic Emotions.” In _Philosophical Papers Dedicated to Kevin Mulligan_, edited by Anne Reboul. Accessed Spring 2012. `http://www.philosophie.ch/kevin/festschrift/Marion-paper.pdf`.
 
 * Marra, Michael F. “On Japanese Things and Words: An Answer to Heidegger’s Question.” *Philosophy East and West* 54.4 (Oct., 2004): 555--568. `http://www.jstor.org/stable/4148019`.
 
-* ⎯⎯⎯, ed. _A History of Modern Japanese Aesthetics_. Honolulu: U. Hawaii Press, 2001.
+* ⎯⎯⎯, ed. _A History of Modern Japanese Aesthetics_. Honolulu: University of Hawaii Press, 2001.
 
-* ⎯⎯⎯, trans. and ed. *The Poetics of Motoori Norinaga: A Hermeneutical Journey*. Honolulu: U. Hawaii Press, 2007.
+* ⎯⎯⎯, trans. and ed. *The Poetics of Motoori Norinaga: A Hermeneutical Journey*. Honolulu: University of Hawaii Press, 2007.
 
 * Masheck, Joseph. Introduction to _Composition_, by Arthur Dow, 1--61. Berkley: University of California Press, 1997.
 
@@ -126,21 +128,21 @@ Shogakukan’s _Ruigo Jiten_
 
 * Morris, Ivan. *The World of the Shining Prince: Court Life in Ancient Japan*. New York: Knopf, 1964.
 
-* Motoori Norinaga. "The Exquisite Comb (Tama no Ogushi)." Translated by Ryusaku Tsunoda. In *Source of the Japanese Tradition: Second Edition*, compiled by Wm. Theodore de Bary, Carol Gluck, and Arthur Tiedemann, vol. 2, 507--509. New York: Columbia U. Press, 2005.
+* Motoori Norinaga. "The Exquisite Comb (Tama no Ogushi)." Translated by Ryusaku Tsunoda. In *Source of the Japanese Tradition: Second Edition*, compiled by Wm. Theodore de Bary, Carol Gluck, and Arthur Tiedemann, vol. 2, 507--509. New York: Columbia University Press, 2005.
 
-* ⎯⎯⎯. "A Little Boat Breaking a Path Through the Reeds (Ashiwake Obune)." Translated by Donald Keene. In *Source of the Japanese Tradition: Second Edition*, compiled by Wm. Theodore de Bary, Carol Gluck, and Arthur Tiedemann, vol. 2, 505--507. New York: Columbia U. Press, 2005.
+* ⎯⎯⎯. "A Little Boat Breaking a Path Through the Reeds (Ashiwake Obune)." Translated by Donald Keene. In *Source of the Japanese Tradition: Second Edition*, compiled by Wm. Theodore de Bary, Carol Gluck, and Arthur Tiedemann, vol. 2, 505--507. New York: Columbia University Press, 2005.
 
 * Murasaki Shikibu. *The Tale of Genji*. Translated by Royall Tyler. New York: Viking, 2001.
 
 * Nara, Hiroshi, trans. _Pilgrimages to the Ancient Temples in Nara_. Portland, Maine: MerwinAsia, 2012.
 
-* Nietzsche, Friedrich. _Birth of Tragedy and Other Writings_. Translated by Ronald Speirs. New York: Cambridge U. Press, 1999.
+* Nietzsche, Friedrich. _Birth of Tragedy and Other Writings_. Translated by Ronald Speirs. New York: Cambridge University Press, 1999.
 
 * [Nishida][sc] Kitarō. _An Inquiry Into the Good_. Translated by Masao Abe and Christopher Ives. New Haven: Yale, 1990.
 
 * ⎯⎯⎯. “An Explanation of Beauty. Nishida Kitarō’s Bi no Setsumei.” Translated by Steve Odin. *Monumenta Nipponica* 42.2 (Summer, 1987): 211--217. `http://www.jstor.org/stable/2384952`.
 
-* Odin, Steve. _Artistic Detachment in Japan and the West: Psychic Distance in Comparative Aesthetics_. Honolulu: U. Hawaii Press, 2001.
+* Odin, Steve. _Artistic Detachment in Japan and the West: Psychic Distance in Comparative Aesthetics_. Honolulu: University of Hawaii Press, 2001.
 
 * [Okakura][sc] Kakuzō. _The Awakening of Japan_. New York: Japan Society, 1921.
 
@@ -164,11 +166,11 @@ Shogakukan’s _Ruigo Jiten_
 
 * Pepper, Stephen C. “The Esthetic Object.” _The Journal of Philosophy_ 40.18 (Sep. 2, 1943): 477--482. `http://www.jstor.org/stable/2019261`.
 
-* Pronko, Leonard C. _Theater East and West_. Berkeley: U. Cal. Press, 1967.
+* Pronko, Leonard C. _Theater East and West_. Berkeley: University of California Press, 1967.
 
 * Reynolds, Simon. _Rip It Up and Start Again : Postpunk 1978--1984_. New York: Penguin Books, 2006.
 
-* [Sakabe][sc] Megumi. “Mask and Shadow in Japanese Culture: Implicit Ontology in Japanese Thought.” In _Modern Japanese Aesthetics: A Reader_, translated by Michele Marra, 242--251. Honolulu: U. of Hawaii Press, 1999.
+* [Sakabe][sc] Megumi. “Mask and Shadow in Japanese Culture: Implicit Ontology in Japanese Thought.” In _Modern Japanese Aesthetics: A Reader_, translated by Michele Marra, 242--251. Honolulu: University of Hawaii Press, 1999.
 
 * Sakai, Naoki. *Translation and Subjectivity: On Japan and Cultural Nationalism*. Minneapolis: University of Minnesota Press, 1997.
 
