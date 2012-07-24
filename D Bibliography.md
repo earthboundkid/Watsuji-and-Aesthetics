@@ -5,6 +5,8 @@ Morohashi
 
 Nose Asaji. *Sanzōshi hyōshaku* (Tokyo: Meicho Kankōkai, 1970)
 
+_Nishida Kitarō Zenshū_ 6:341--427.
+
 Shogakukan’s Japanese dictionary _Daijisen_ [大辞泉][ja]
 
 Shogakukan’s _Ruigo Jiten_
