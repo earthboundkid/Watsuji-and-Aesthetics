@@ -168,6 +168,8 @@ Shogakukan’s _Ruigo Jiten_
 
 * Pepper, Stephen C. “The Esthetic Object.” _The Journal of Philosophy_ 40.18 (Sep. 2, 1943): 477--482. `http://www.jstor.org/stable/2019261`.
 
+* Pollan, Michael. _The Botany of Desire: A Plant’s-Eye View of the World_. New York: Random House, 2001.
+
 * Pronko, Leonard C. _Theater East and West_. Berkeley: University of California Press, 1967.
 
 * Reynolds, Simon. _Rip It Up and Start Again : Postpunk 1978--1984_. New York: Penguin Books, 2006.
