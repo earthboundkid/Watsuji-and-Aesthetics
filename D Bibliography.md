@@ -46,6 +46,8 @@ Shogakukan’s _Ruigo Jiten_
 
 * Bullough, Edward. “ ‘Psychical Distance’ as a Factor in Art and an Æsthetic Principle.” In _Æsthetics: Lectures and Essays_, by Edward Bullough, 91--130. London: Bowes & Bowes, 1957.
 
+* Caddeau, Patrick W. *Appraising* Genji: *Literary Criticism and the Cultural Anxiety in the Age of the Last Samurai*. Albany: SUNY Press, 2006.
+
 * Carson, Rachel. _Silent Spring_. Boston: Houghton Mifflin, 1994.
 
 * Chakrabarti, Arindam. “I Touch What I Saw.” _Philosophy and Phenomenological Research_ 52:1 (Mar., 1992): 103--116.
@@ -57,6 +59,8 @@ Shogakukan’s _Ruigo Jiten_
 * Danto, Arthur. “The Appreciation and Interpretation of Works of Art.” In *The Philosophical Disenfranchisement of Art*, by Arthur Danto, 23--46. Columbia University Press, 1986.
 
 * ⎯⎯⎯. “The Artworld.” In *Aesthetics and the Philosophy of Art*, edited by Peter Lamarque and Stein Haugom Olsen, 27--34. Oxford: Blackwell, 2004.
+
+* De Gruchy, John Walter. *Orienting Arthur Waley: Japonism, Orientalism, and the Creation of Japanese Literature in English*. Honolulu: University of Hawaii Press, 2003.
 
 * Diamond, Jared. _Guns, Germs, and Steel: The Fates of Human Societies_. New York: W.W. Norton, 1997.
 
@@ -71,6 +75,8 @@ Shogakukan’s _Ruigo Jiten_
 * Eaton, Marcia. _Art and nonart : reflections on an orange crate and a moose call_. London: Associated University Press, 1983.
 
 * Feldman, Stuart. “A Conversation with Alan Kay.” *ACM Queue: Tomorrow’s Computing Today* 2.9 (Dec./Jan. 2004): 20--30. `http://queue.acm.org/detail.cfm?id=1039523`.
+
+* Frascina, Francis, ed. *Pollock and After: The Critical Debate, Second Edition*. London: Routledge, 2000.
 
 * Gordon, David B. _Self-Overcoming as the Overcoming of Modernity: Watsuji Tetsurō’s “A Study of Nietzsche” (1913) and Its Place in the Development of His Thought_. Doctoral thesis, University of Hawaii, 1997.
 
