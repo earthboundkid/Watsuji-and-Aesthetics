@@ -1,6 +1,8 @@
 Union	Achievement of contact.
 Unity	Primordial state of non-duality.
 
+##Glossary
+###Japanese
 おもて
 がある
 である
@@ -112,3 +114,10 @@ Unity	Primordial state of non-duality.
 風土性
 風土的
 風土的に
+
+###Chinese
+###French
+###German
+###Greek
+###Latin
+###Sanskrit
