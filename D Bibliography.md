@@ -110,9 +110,11 @@ Shogakukan’s _Ruigo Jiten_
 
 * Komar, Vitaly and Alexander Melamid. “The Most Wanted Paintings on the Web.” Original collaboration 1996–1997. Accessed Spring 2012. `http://www.diacenter.org/km/`.
 
-* Lafluer, William. “Buddhist Emptiness in the Ethics and Aesthetics of Watsuji Tetsurō.” _Religious Studies_ 14.2 (Jun., 1978): 237--250. `http://www.jstor.org/stable/20005486`.
+* Lafleur, William. “Buddhist Emptiness in the Ethics and Aesthetics of Watsuji Tetsurō.” _Religious Studies_ 14.2 (Jun., 1978): 237--250. `http://www.jstor.org/stable/20005486`.
 
 * ⎯⎯⎯. _The Karma of Words: Buddhism and the Literary Arts in Medieval Japan_. Berkeley: University of California Press, 1983.
+
+* ⎯⎯⎯. “A Turning in Taishō: Asia and Europe in the Early Writings of Watsuji Tetsurō.” In *Culture and Identity: Japanese Intellectuals During the Interwar Years*, edited by J. Thomas Rimer, 234--256. Princeton: Princeton University Press, 1990.
 
 * Leopold, Aldo. _A Sand County Almanac, and Sketches Here and There_. Seventh printing, 1964. Oxford University Press, 1949.
 
