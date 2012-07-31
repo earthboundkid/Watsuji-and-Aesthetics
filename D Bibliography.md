@@ -11,7 +11,7 @@ Shogakukan’s Japanese dictionary _Daijisen_ [大辞泉][ja]
 
 Shogakukan’s _Ruigo Jiten_
 
-#Bibliography
+##Works Cited
 * Ames, Roger T. and Henry Rosemont, trans. _The Analects of Confucius: A Philosophical Translation_. New York: Ballantine, 1998.
 
 * ⎯⎯⎯ and David Hall. _Dao De Jing “Making This Life Significant”: A Philosophical Translation_. New York: Ballantine, 2003.
