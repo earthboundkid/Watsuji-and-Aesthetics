@@ -1,0 +1,655 @@
+@charset "utf-8";
+
+/*Font family and size*/
+    body {
+        page: letter;
+        font-size: 12pt;
+        font-family: Palatino, "Book Antiqua", "MS Mincho", "Apple Symbols", 
+            "Arial Unicode MS", Georgia, serif;
+        prince-text-replace: "?" "\202f?";
+        font-variant: prince-opentype(clig, onum);
+    }
+    h1, h2, h3, h4, th {
+        font-family: Helvetica, "Meiryo", "Apple Symbols", "Arial Unicode MS", sans-serif;
+        font-weight: bold;
+        page-break-after: avoid;
+    }
+    code {
+        font-family: Courier, "Courier New", monospace;
+        font-size: .8em;
+    }
+    h1 {
+        /*font-variant: small-caps;*/
+        font-size: 1.2em;
+    }
+    h2 {
+        font-size: 1.1em;
+    }
+    h3 {
+        font-size: 1em;
+    }
+    h4 {
+        font-size: .9em;
+    }
+    p {
+        font-size: 12pt; 
+        line-height: $lineheight;
+        hyphens: auto;
+/*        prince-hyphenate-patterns: url('hyp_tex_en_us.dic');*/
+        prince-hyphenate-after: 4;
+        prince-hyphenate-before: 4;
+        prince-hyphenate-lines: 1;
+    }
+    a[href] {
+        text-decoration: none;
+        color: black;
+    }
+    li {
+        font-size: 1em; 
+        line-height: 1.25;
+    }
+    blockquote p {
+        font-size: 10pt; 
+        line-height: 1.25;
+    }
+    var {
+        font: 1em "Apple Symbols", Symbol, Osaka;
+        font-style: normal;
+        line-height: none;
+    }
+    sup {
+        line-height: none;
+    }
+    table {
+        width: 100%;
+    }
+    td, th {
+        vertical-align: top;
+    }
+    th {
+        font-weight: bold;
+        text-align: center;
+    }
+    td + td, th + th {
+        padding-left: 1em;
+    }
+
+/*Margins*/
+    h1, h2, h3, h4 {
+        margin-top: 1em;
+        margin-bottom: 0;
+    }
+    h1 + h2, h2 + h3, h3 + h4, hr + * {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    h1 em, h2 em, h3 em, h4 em {
+        line-height: none;
+        font-style: oblique;
+    }
+    p {
+        text-align: justify;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    p + p {
+        text-indent: .25in;
+    }
+    blockquote {
+        margin: 1em .25in;
+    }
+    hr {
+        border: none 0;
+        width: 50%;
+        height: 1px;
+        margin: 2em; 
+        text-align: center;
+    }
+    em em { /*If you have italics in italics, unitalicize */
+        font-style: normal;
+    }
+/*Footnotes and citations*/
+    cite {
+        font-style: normal;
+    }
+    cite, aside, .fn {
+        float: footnote;
+        counter-increment: footnote;
+        footnote-style-position: inside;
+        text-indent: .125in;
+        margin: 0;
+        font-size: 10pt;
+        line-height: 12pt;
+    }
+    cite::footnote-call, aside::footnote-call, .fn::footnote-call {
+        content: counter(footnote);
+        font-size: 75%;
+        vertical-align: super;
+        line-height: none;
+    }
+    cite::footnote-marker, aside::footnote-marker, .fn::footnote-marker {
+        content: counter(footnote) ".\0000a0 ";
+        vertical-align: super;
+        line-height: none;
+        font-size: .75em;
+    }
+    @page {
+        @footnotes {
+        border-top: solid black thin;
+        padding-top: .5em;
+        padding-bottom: .5em;
+        margin: 0;
+        }
+    }
+/* Counters */
+    h1 {
+        counter-reset: division section subsection;
+    }
+    h2 {
+        counter-increment: division;
+        counter-reset: section subsection;
+        display: block;
+    }
+    h3 {
+        counter-increment: section;
+        counter-reset: subsection;
+        display: block;
+    }
+    .numbered h2 {
+        display: list-item;
+        list-style-type: upper-roman;
+        list-style-position: outside;
+    }
+    .numbered h2::marker {
+        text-align: right;
+        padding: 0;
+        padding-right: .0625;
+        margin: 0;
+        content: counter(division, upper-roman) ".\0000a0 ";
+    }
+    .numbered h3 {
+        display: list-item;
+        list-style-type: upper-alpha;
+        list-style-position: outside;
+    }
+    .numbered h3::marker {
+        text-align: right;
+        padding: 0;
+        padding-right: .0625;
+        margin: 0;
+        content: counter(section, upper-alpha) ".\0000a0 ";
+    }
+    #disqus_thread h3::marker {
+        width: 0;
+        content: normal;
+        content: ""; /* Safari has a weird bug. */
+    }
+    h4 {
+        counter-increment: subsection;
+    }
+    .numbered h4::marker {
+        /* I don't want a subsection marker, I think*/
+        /*        
+        content: counter(subsection, lower-roman) ".\0000a0 ";
+        */
+    }
+/* Lists */
+    /*TOC*/
+    a{
+        text-decoration: none;
+        color: black;
+    }
+    li a[href^="#"]::after {
+      content: leader('\B7 ') " " target-counter(attr(href), page);
+      font-style: normal;
+    }
+    /* Normal stuff */
+    li {
+        list-style-position: outside;
+    }
+    ul, ol {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+    ul > li > p {
+        /*Decided that hanging indent looks bad with hanging numerals but needed for unordered lists.*/
+        text-indent: .25in hanging;
+        /*padding-left: .25in; */
+    }
+    li p + p {
+      text-indent: 0;
+      padding-left: .25in;
+    }
+    li ol, li ul { /*Scoot over as you nest lists */
+        margin-left: .25in;
+    }
+    ol li {
+        list-style-type: upper-roman;
+    }
+    li::marker {
+        text-align: right;
+        padding: 0;
+        padding-right: .0625in;
+        margin: 0;
+    }
+    /* There used to be code here to make the 
+    I. 
+      A. 
+      B.
+    As and Bs line up on the front instead of at the dot, 
+    since it does look a little weird, but I decide to cut it.
+    li ol li::marker {
+        width: .25in;
+        text-align: left;
+        padding-right: 0;
+    }
+    */
+    li ol li {
+        list-style-type: upper-alpha;
+    }
+    
+    li li ol li {
+        list-style-type: decimal;
+    }
+    /* Bibliography*/
+
+    ul p:not(:first-child) {
+        text-indent: 0;
+        padding-left: .25in;
+    }
+    /* If it's a sub-list, it probably needs a marker */
+    li ul li {
+        list-style-type: circle;
+    }
+
+    li li ul li {
+        list-style-type: square;
+    }
+
+    ol li li li ol li {
+        list-style-type: decimal;
+    }
+    
+    .decimal ol li, .arabic ol li {
+        list-style-type: decimal;
+    }
+    body.inside ol li {
+        list-style-position: inside;
+        margin-left: 0;
+        text-indent: 2.5em;
+    }
+
+/*Custom classes*/
+
+    .book h1 {
+        page-break-before: right;
+    }
+    .betitled h2 {
+      string-set: doctitle content()
+    }
+    .smallcaps { 
+        font-variant: small-caps; 
+    }
+    .tenpoint, .tenpoint p {
+        font-size: 10pt;
+    }
+    .tenpoint cite, .tenpoint aside, .tenpoint .fn {
+        font-size: 8pt;
+        line-height: 10pt;
+    }
+    .left {
+        text-align: left;
+    }
+    body.left p {
+        text-align: left;
+    }
+    .right {
+        text-align: right;
+    }
+    .floatright {
+        float: right;
+    }
+    .center, .centernext + * {
+        display: block; 
+        margin: auto;
+        text-align: center;
+    }
+    .red {
+        color: red;
+        font-weight: bold;
+    }
+    .nohyphens, code {
+        hyphens: manual;
+    }
+    .noindent {
+        text-indent: 0;
+    }
+    .twocols cite, .threecols cite, .twocols aside, .threecols aside { 
+        /* There are a lot more combinations here, 
+        but I don't want to deal with it now. */
+        float: prince-column-footnote;
+    }
+    .twocols {
+        column-count: 2;
+    }
+    .threecols {
+        column-count: 3;
+    }
+    .fourcols {
+        column-count: 4;
+    }
+    .fivecols {
+        column-count: 5;
+    }
+    .sixcols {
+        column-count: 6;
+    }
+    .twocols, .threecols, .fourcols, .fivecols, .sixcols {
+        column-rule-width : 0;
+        column-rule-style : solid;
+        column-rule-color : black;
+        column-gap: 1in;
+    }
+    h2::marker,
+    h3::marker, 
+    #disqus_thread h2::marker,
+    #disqus_thread h3::marker {
+        content: normal;
+        content: " "; /* Safari has a weird bug. */
+    }
+    h2, h3 {
+        display: block;
+    }
+    .screen {
+        display: none;
+    }
+    @media screen {
+        .screen {
+            display: inline;
+        }
+    }
+    .outline ul li, .outline + ul li {
+        list-style-type: circle;
+    }
+    .outline li ul li {
+        list-style-type: square;
+    }
+    .outline li li ul li {
+        list-style-type: disc;
+    }
+
+    :lang(el) {
+        /* Greek */
+        font-family: Gentium, serif;
+    }
+    :lang(zh), .asian-trad {
+        /* Chinese */
+        font-family: Palatino, "BiauKai", "Book Antiqua", "Apple Symbols", 
+            "Arial Unicode MS", serif;
+    }
+    :lang(ja) {
+        /* Japanese */
+        font-family: "MS Mincho", "Hiragino Kaku Gothic Pro W3", 
+            "\30d2\30e9\30ae\30ce\89d2\30b4 Pro W3", Palatino, "Book Antiqua", 
+            "Apple Symbols", "Arial Unicode MS", Georgia, serif;
+        font-size: .85em;
+    }
+    .asian-sans {
+        font-family: Palatino, "Book Antiqua", "Meiryo", "Apple Symbols", "Arial Unicode MS", 
+            serif;
+    }
+    .tightlandscape {
+        page: tightlands;
+    }
+    .landscape {
+        page: lands;
+    }
+    .eastwest, .eastwest h1, .eastwest h2, .eastwest h3, .eastwest h4, .eastwest th {
+        font-family: Optima, "Meiryo", "Apple Symbols", "Arial Unicode MS", Helvetica, Arial, sans-serif;
+        prince-text-replace: "fi" "\fb01" "fl" "\fb02" "?" "\202f?"; 
+        /* No IJ ligature */
+    }
+    .times, .times h1, .times h2, .times h3, .times h4, .times th {
+        font-family: "Times New Roman", "MS Mincho", "Apple Symbols", "Arial Unicode MS", serif;
+    }
+
+/* Ruby text*/
+   ruby {
+      text-indent: 0;
+      display:inline-table;
+      text-align:center;
+      border-collapse:collapse;
+      /* border collapse mechanism
+      will be used to adjust vertical alignment */
+      vertical-align:middle;
+      /* if ruby text contains text only
+      and there are two ruby annotations
+      (one placed above the base and one below)
+      then vertical centering roughly aligns baseline of
+      base    with baseline of parent */
+      border-bottom:solid 0.75em transparent;
+      /* o.75em is height of ruby text (0.5\0000d7 1.2em = 0.6em)
+      plus space between baseline and text-bottom (about 0.15em)
+      this extra border is counter-weight used
+      to restore vertical centering broken
+      by presence of ruby text
+      (in case if there is only one ruby annotation,
+      if there are two annotations
+      then counter-weight is no longer
+      necessary and can be annihilated
+      using border collapse mechanism) */}
+   ruby > rt, rtc
+      {display:table-header-group;}
+      /* used to move first ruby
+      container above the base */
+   ruby > rb, rbc, ruby > rt + rt, rtc + rtc
+      {display:table-row;}
+      /* base and second ruby
+      are formatted as table-rows */
+   ruby > rt + rt, rtc + rtc
+      {border-bottom:hidden;}
+      /* if there are two annotations then extra
+      border is no longer    necessary
+      and can be annihilated
+      using border collapse mechanism  */
+   rb, rbc, rt, rtc
+      {white-space:nowrap;}
+      /* prohibits line breaks inside ruby text  */
+   rtc > rt, rbc > rb
+      {display:table-cell; }
+      /* used to distribute annotations
+      in table like manner */
+   rtc > rt[rbspan]
+      {column-span:attr(rbspan);}
+      /* ruby text may span several cells */
+   ruby > rt, rtc
+      {font-size:0.5em;
+      line-height:1.2em;}
+      /* font-size of ruby text is reduced */
+   rp
+      {display:none;}
+      /* fallback markup is no longer necessary */ 
+
+/*Page shape stuff*/
+@page letter {
+  size: letter;
+  margin:     1in;
+  padding:    0;
+  @bottom-center {
+    margin:         0;
+    font:           1em Palatino, "Book Antiqua", serif;
+    content:        counter(page);
+    vertical-align: top;
+  }
+  @top-center {
+    font:       1em Palatino, "Book Antiqua", serif;
+    text-align: center;
+  	content:    string(doctitle);
+  	text-transform: uppercase;
+  }
+}
+
+@page letter:right {
+}
+@page letter:left {
+}
+@page:first {
+  @top-right { 
+    content: "" !important; /* Safari bug. */
+    content: normal !important;
+  }
+  @bottom-right { 
+    content: "" !important; /* Safari bug. */
+    content: normal !important;
+  }
+}
+
+@page lands { 
+  size: letter landscape;
+  margin:     .5in;
+  margin-top: .5in;
+  padding:    0;
+  @top-right {
+    margin:         0;
+    font:           10pt Palatino, "Book Antiqua", serif;
+    content:        counter(page);
+    vertical-align: bottom;
+  }
+}
+
+@page lands:first {
+  @top-right { 
+    content: ""; /* Safari bug. */
+    content: normal;
+  }
+}
+
+@page tightlands { 
+  size: letter landscape;
+  margin:     .25in;
+  margin-top: .25in;
+  padding:    0;
+  @bottom-right {
+    content:  ""; /* Safari bug. */
+    content: normal;
+  }
+}
+
+/*@page :left {
+  @top-left {
+    margin:         0;
+    font:           .75em "Palatino", serif;
+    content:        counter(page);
+    vertical-align: center;
+  }
+}
+@page :right {
+  @top-right {
+    margin:         0;
+    font:           .75em "Palatino", serif;
+    content:        counter(page);
+    vertical-align: center;
+  }
+}*/
+
+hr {
+    page-break-after: always;
+    visibility: hidden;
+    height: 0; 
+    width: 0;
+    margin: 0;
+}
+
+hr + h1 {
+    margin-top: 0 !important;
+}
+
+/* For web browsers */
+@media screen {
+    body {
+        padding: 3em;
+        padding-right: 2in;
+    }
+    cite {
+        font-size: 8pt;
+/*        position: absolute;*/
+        margin-top: 0;
+        margin-right: -2in;
+        margin-bottom: 4em;
+        display: block;
+        float: right;
+        clear: right;
+        width: 1.75in;
+        text-align: left;
+        text-indent: 0;
+        overflow: auto;
+    }
+    blockquote cite {
+        margin-right: -2.25in;
+    }
+    cite::before {
+        content: "\2020  ";
+    }
+/*    a[href] {
+        text-decoration: underline;
+        color: blue;
+    }*/
+}
+
+/* For iPhone */
+@media only screen and (max-device-width: 480px) { 
+    body {
+        font-size: 16pt;
+        width: 320px;
+        padding: 0;
+        text-overflow: clip;
+    }
+    p {
+        font-size: 18pt;
+        line-height: 1.25;
+    }
+    cite {
+        font-size: 14pt;
+        margin: 0;
+        padding: 10pt;
+    }
+    blockquote cite {
+        margin: 0;
+        padding: 10pt;
+    }
+
+}
+
+/* For iPad */
+@media only screen and (max-device-width: 1024px) { 
+    html {
+        width: 768px;
+    }
+    body {
+        font-size: 16px;
+        width: auto;
+        margin: 0;
+        padding: 50px;
+        padding-right: 0;
+        text-overflow: clip;
+    }
+    p {
+        font-size: 16pt;
+        line-height: 1.25;
+    }
+    cite {
+        font-size: 10pt;
+        line-height: 12pt;
+        margin-top: 0;
+        margin-right: -1.25in;
+        margin-bottom: 10pt;
+        width: 1in;
+    }
+}
+
+/*Dissertation junk*/
+
+div {
+    page-break-before: always;
+}
