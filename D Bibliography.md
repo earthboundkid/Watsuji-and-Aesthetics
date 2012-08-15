@@ -11,6 +11,9 @@ Shogakukan’s Japanese dictionary _Daijisen_ [大辞泉][ja]
 
 Shogakukan’s _Ruigo Jiten_
 
+和辻哲郎 人格から間柄へ (再発見 日本の哲学) 宮川 敬之
+
+
 ##Works Cited
 * Ames, Roger T. and Henry Rosemont, trans. _The Analects of Confucius: A Philosophical Translation_. New York: Ballantine, 1998.
 
