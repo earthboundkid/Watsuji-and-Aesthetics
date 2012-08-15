@@ -480,7 +480,7 @@
     margin:         0;
     font:           1em Palatino, "Book Antiqua", serif;
     content:        counter(page);
-    vertical-align: top;
+    vertical-align: center;
   }
   @top-center {
     font:       1em Palatino, "Book Antiqua", serif;
