@@ -26,19 +26,23 @@ METADATA =  {
 HTML_FILENAME = "output/dissertation.html"
 PDF_FILENAME = "output/dissertation.pdf"
 
+#Make a translation dictionary to kill puncts and convert spaces
+#For use in make_identifier
+_TRANS = {ord(char): None for char in string.punctuation}
+_TRANS[ord(" ")] = "_"
+
+
 def make_identifier(filename):
     "string.Template won't accept $values with spaces and whatnot."
     
-    #Chop off extension
-    name = filename[:-3] #Chop off .md
+    #Chop off .md extension
+    name = filename[:-3]
     
-    #Make and use translation dictionary to kill puncts and convert spaces
-    transdict = {ord(char): None for char in string.punctuation}
-    transdict[ord(" ")] = "_"
+    #Get rid of punctuation and spaces
+    name = name.translate(_TRANS)
     
-    name = name.translate(transdict)
-
-    return "_" + name #Prepend an underbar.
+    #Prepend an underbar
+    return "_" + name 
 
 def prepare_template_dict(filenames):
     for filename in filenames:
