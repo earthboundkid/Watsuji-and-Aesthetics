@@ -3,6 +3,7 @@
 import os
 import pubtools.txt2web as t2w
 from pubtools.prince import pdf_from_file as prince
+from pubtools.toc_hard import add_toc
 import string
 
 DEFAULT_PATH = os.path.dirname(os.path.abspath(__file__))
@@ -71,6 +72,9 @@ def prep_webpage(template_dict):
     
     t = string.Template(template_text)
     html = t.substitute(template_dict)
+    
+    #Add table of contents
+    html = add_toc(html)
     
     return html
 
