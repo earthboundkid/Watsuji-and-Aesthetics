@@ -9,15 +9,7 @@ title: Beyond the Bounds of Aesthetics
 [fr]: lang:fr
 [la]: lang:la
 
-* Carl M. Johnson
-
-* July 30, 2012
-
-
 ##Chapter 6. Beyond the Bounds of Aesthetics: Criticism, Genius, and Culture
-
-<toc />
-
 ###Deconstructing aesthetics
 In this dissertation, I have attempted to apply the anthropology and methodology of [Watsuji][sc] Tetsurō to aesthetics. Accordingly, I have restored awareness of the unity underlying aesthetic experience (chapter three) and reconstructed the subject of aesthetic judgment and taste (chapter four) and objects of art theory (chapter five). The final step in the hermeneutic method outlined in chapter two is to deconstruct aesthetics into its most general components. How could such hermeneutic destruction be possible? As Watsuji writes in _Study of Ethics_, “self-awareness (_jikaku_ [自覚][ja]) of particularity is the only path (*michi* [道][ja]) by which to go beyond particularities” (WTZ 10:49). Abstract theory must be grounded on the basis of concrete experience. A total deconstruction of aesthetics is beyond the scope of this work, but I do wish to end with an examination of one phenomenon in aesthetics that cuts through the range of aesthetic experience, aesthetic judgment, and theories of art; namely, the phenomenon of genius. Genius is something that goes beyond the boundaries of its context of creation and manifests itself throughout space and time, hence it is a fitting emblem of the kind of deconstruction of aesthetics at which I wish to aim.
 
@@ -151,7 +143,7 @@ The logic of Watsuji’s double negation ensures that privacy always contains wi
 
 [^fn6-6]: The reader is invited to compare Wittgenstein’s famous “no private languages” argument (*Philosophical Investigations* I §256 and onwards, pp. 78ff).
 
-Privacy comes about because we resist publicity. We hide certain truths away; we exclude others from our groups and associations; we are selective in our loves. This does not mean that privacy is an ill to be combatted as a totalitarian might claim. A family, for example, has certain people who are members of its society and others who are excluded. This gives the family a characteristic of privacy with respect to outsiders but a characteristic of publicity with respect to its members. Hence publicity and privacy are contrastive terms (like *yin*　[陰][zh] and *yang* [陽][zh]), rather than an exclusive binary of absolutes:
+Privacy comes about because we resist publicity. We hide certain truths away; we exclude others from our groups and associations; we are selective in our loves. This does not mean that privacy is an ill to be combatted as a totalitarian might claim. A family, for example, has certain people who are members of its society and others who are excluded. This gives the family a characteristic of privacy with respect to outsiders but a characteristic of publicity with respect to its members. Hence publicity and privacy are contrastive terms (like *yin* [陰][zh] and *yang* [陽][zh]), rather than an exclusive binary of absolutes:
 
 > as a deprived form of publicity, private existence is just *a mode of communal existence*. Communal existence realizes itself *through private existing*. (WTZ 10:334)
 
