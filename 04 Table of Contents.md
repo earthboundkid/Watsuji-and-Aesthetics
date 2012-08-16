@@ -1,4 +1,4 @@
-##Table of Contents
+<h2 class="notoc">Table of Contents</h2>
 <toc />
 
 - - - - -

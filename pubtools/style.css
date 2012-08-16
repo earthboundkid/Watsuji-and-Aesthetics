@@ -224,8 +224,12 @@
     li ol, li ul { /*Scoot over as you nest lists */
         margin-left: .25in;
     }
+    /* Scoot down a bit after a top level list item*/
+    ol > li {
+        margin-bottom: 1em;
+    }
     ol li {
-        list-style-type: upper-roman;
+        list-style-type: none;
     }
     li::marker {
         text-align: right;
@@ -246,10 +250,13 @@
     }
     */
     li ol li {
-        list-style-type: upper-alpha;
+        list-style-type: upper-roman;
     }
     
     li li ol li {
+        list-style-type: upper-alpha;
+    }
+    li li li ol li {
         list-style-type: decimal;
     }
     /* Bibliography*/

@@ -236,8 +236,12 @@
     li ol, li ul { /*Scoot over as you nest lists */
         margin-left: .25in;
     }
+    /* Scoot down a bit after a top level list item*/
+    ol > li {
+        margin-bottom: 1em;
+    }
     ol li {
-        list-style-type: upper-roman;
+        list-style-type: none;
     }
     li::marker {
         text-align: right;
@@ -258,10 +262,13 @@
     }
     */
     li ol li {
-        list-style-type: upper-alpha;
+        list-style-type: upper-roman;
     }
     
     li li ol li {
+        list-style-type: upper-alpha;
+    }
+    li li li ol li {
         list-style-type: decimal;
     }
     /* Bibliography*/
@@ -492,7 +499,7 @@
     margin:         0;
     font:           1em Palatino, "Book Antiqua", serif;
     content:        counter(page);
-    vertical-align: top;
+    vertical-align: center;
   }
   @top-center {
     font:       1em Palatino, "Book Antiqua", serif;
@@ -503,10 +510,8 @@
 }
 
 @page letter:right {
-    margin-left: 1.5in;
 }
 @page letter:left {
-    margin-right: 1.5in;
 }
 @page:first {
   @top-right { 
@@ -718,11 +723,333 @@ David Ashworth</p>
 		</div>
 
 		<div class="toc">
-<h2>Table of Contents</h2>
+<h2 class="notoc">Table of Contents</h2>
+
+
+<p><ol>
+	<li>
+	<a href='#header1'>List of Figures</a>
+	</li>
+	<li>
+	<a href='#header2'>Chapter 1. The Problem of Aesthetic Subjectivity</a>
+	<ol>
+		<li>
+		<a href='#header3'>Problem of subjectivity and objectivity in aesthetic judgment</a>
+		</li>
+		<li>
+		<a href='#header4'>Historical approaches to explaining the role of the subject and object in aesthetics</a>
+		<ol>
+			<li>
+			<a href='#header5'>Plato, beauty, and the form of the good</a>
+			</li>
+			<li>
+			<a href='#header6'>Exposition and critique of Kant’s universal subjective</a>
+			</li>
+		</ol>
+		</li>
+		<li>
+		<a href='#header7'>Aesthetics beyond the atomic subject</a>
+		</li>
+		<li>
+		<a href='#header8'>Watsuji Tetsurō and the subject of aesthetics</a>
+		</li>
+	</ol>
+	</li>
+	<li>
+	<a href='#header9'>Chapter 2. Anthropology and Methodology</a>
+	<ol>
+		<li>
+		<a href='#header10'>Ethics as first philosophy</a>
+		</li>
+		<li>
+		<a href='#header11'><em>Rinrigaku</em> and “ethics”</a>
+		</li>
+		<li>
+		<a href='#header12'>Twofold character of human existence</a>
+		</li>
+		<li>
+		<a href='#header13'>Etymology as a tool of philosophical analysis</a>
+		</li>
+		<li>
+		<a href='#header14'>Negating individuality and totality</a>
+		</li>
+		<li>
+		<a href='#header15'>Persistent relationships of betweenness</a>
+		</li>
+		<li>
+		<a href='#header16'>Negation as emptiness</a>
+		</li>
+		<li>
+		<a href='#header17'>Emptiness vs. reductionism</a>
+		</li>
+		<li>
+		<a href='#header18'>Methodology of cleavage in everyday existence</a>
+		</li>
+	</ol>
+	</li>
+	<li>
+	<a href='#header19'>Chapter 3. Aesthetic Experience as Distancing, Dissolution, and Disinterest</a>
+	<ol>
+		<li>
+		<a href='#header20'>Defining aesthetics</a>
+		</li>
+		<li>
+		<a href='#header21'>Perception in everyday experience</a>
+		</li>
+		<li>
+		<a href='#header22'>Disinterested enjoyment and the aesthetic attitude</a>
+		</li>
+		<li>
+		<a href='#header23'>Aesthetic experience as double negation</a>
+		</li>
+		<li>
+		<a href='#header24'>Self-other unity and subject-object unity</a>
+		</li>
+		<li>
+		<a href='#header25'>Bringing forth the between in theater</a>
+		<ol>
+			<li>
+			<a href='#header26'>Aristotle on the role of catharsis</a>
+			</li>
+			<li>
+			<a href='#header27'>Nietzsche and theater</a>
+			</li>
+			<li>
+			<a href='#header28'>Watsuji’s “Mask and Persona”</a>
+			</li>
+			<li>
+			<a href='#header29'><span class="smallcaps">Sakabe</span> Megumi and Zeami</a>
+			</li>
+		</ol>
+		</li>
+		<li>
+		<a href='#header30'>Conclusion</a>
+		</li>
+	</ol>
+	</li>
+	<li>
+	<a href='#header31'>Chapter 4. The Subject and Object of Aesthetic Judgment and Taste</a>
+	<ol>
+		<li>
+		<a href='#header32'>From my feelings to our judgments</a>
+		</li>
+		<li>
+		<a href='#header33'>Who is the subject?</a>
+		<ol>
+			<li>
+			<a href='#header34'>Subject as agent</a>
+			</li>
+			<li>
+			<a href='#header35'>Subject as plural</a>
+			</li>
+		</ol>
+		</li>
+		<li>
+		<a href='#header36'>What is an object?</a>
+		</li>
+		<li>
+		<a href='#header37'>Normativity in aesthetic judgment and taste</a>
+		<ol>
+			<li>
+			<a href='#header38'>Conscience and the internality of normativity</a>
+			</li>
+			<li>
+			<a href='#header39'>Fashion and the cultural construction of aesthetic normativity</a>
+			</li>
+			<li>
+			<a href='#header40'>Forming aesthetic judgments</a>
+			</li>
+		</ol>
+		</li>
+		<li>
+		<a href='#header41'>Taste and judgment in Japanese art and literature</a>
+		<ol>
+			<li>
+			<a href='#header42'>Traditional Japanese art forms</a>
+			</li>
+			<li>
+			<a href='#header43'>Asymmetry and emptiness</a>
+			</li>
+			<li>
+			<a href='#header44'>Interconnection of subjects in linked verse</a>
+			</li>
+			<li>
+			<a href='#header45'>Linked verse and aesthetic authority</a>
+			</li>
+			<li>
+			<a href='#header46'>Normativity in linked verse</a>
+			</li>
+		</ol>
+		</li>
+		<li>
+		<a href='#header47'>Conclusion</a>
+		</li>
+	</ol>
+	</li>
+	<li>
+	<a href='#header48'>Chapter 5. Art, History, and Milieu</a>
+	<ol>
+		<li>
+		<a href='#header49'>Aesthetics in context</a>
+		</li>
+		<li>
+		<a href='#header50'>Understandings of art</a>
+		<ol>
+			<li>
+			<a href='#header51'>The many theories of art</a>
+			</li>
+			<li>
+			<a href='#header52'>Artist-centric theories</a>
+			</li>
+			<li>
+			<a href='#header53'>Work-centric theories</a>
+			</li>
+			<li>
+			<a href='#header54'>Audience-centric theories</a>
+			</li>
+			<li>
+			<a href='#header55'>Context-centric theories</a>
+			</li>
+			<li>
+			<a href='#header56'>Implicit values in theories of art</a>
+			</li>
+		</ol>
+		</li>
+		<li>
+		<a href='#header57'>History as temporal context</a>
+		<ol>
+			<li>
+			<a href='#header58'>History as an aid and hindrance to aesthetic experience of art</a>
+			</li>
+			<li>
+			<a href='#header59'>Art history and the dialectic</a>
+			</li>
+			<li>
+			<a href='#header60'>Art history as double negation</a>
+			</li>
+			<li>
+			<a href='#header61'>Cultural stratification as an alternative to dialectical development</a>
+			</li>
+			<li>
+			<a href='#header62'>Post-modernism and multi-stratification</a>
+			</li>
+		</ol>
+		</li>
+		<li>
+		<a href='#header63'>Milieu as spatial context</a>
+		<ol>
+			<li>
+			<a href='#header64'>Space, environment, milieu, and emptiness</a>
+			</li>
+			<li>
+			<a href='#header65'>The milieux of desire</a>
+			</li>
+			<li>
+			<a href='#header66'>Climates of the world</a>
+			</li>
+			<li>
+			<a href='#header67'>Globalization and hybridity</a>
+			</li>
+		</ol>
+		</li>
+		<li>
+		<a href='#header68'>Okakura, <em>The Book of Tea</em>, and “Teaism”</a>
+		<ol>
+			<li>
+			<a href='#header69'>The crisis of Japanese aesthetics</a>
+			</li>
+			<li>
+			<a href='#header70'><span class="smallcaps">Okakura</span> Kakuzō</a>
+			</li>
+			<li>
+			<a href='#header71'><em>The Book of Tea</em> and tea ceremony</a>
+			</li>
+		</ol>
+		</li>
+		<li>
+		<a href='#header72'>Conclusion</a>
+		</li>
+	</ol>
+	</li>
+	<li>
+	<a href='#header73'>Chapter 6. Beyond the Bounds of Aesthetics: Criticism, Genius, and Culture</a>
+	<ol>
+		<li>
+		<a href='#header74'>Deconstructing aesthetics</a>
+		</li>
+		<li>
+		<a href='#header75'>Criticism and empathy</a>
+		</li>
+		<li>
+		<a href='#header76'>Individuality and sociality in genius</a>
+		</li>
+		<li>
+		<a href='#header77'>The public/private distinction</a>
+		<ol>
+			<li>
+			<a href='#header78'>Totalitarian and liberal extremes</a>
+			</li>
+			<li>
+			<a href='#header79'>Watsuji on the nature of public and private</a>
+			</li>
+		</ol>
+		</li>
+		<li>
+		<a href='#header80'>The necessity of both idols and iconoclasm</a>
+		</li>
+		<li>
+		<a href='#header81'>The genius of Murasaki Shikibu</a>
+		<ol>
+			<li>
+			<a href='#header82'><em>The Tale of Genji</em></a>
+			</li>
+			<li>
+			<a href='#header83'>The world of Murasaki Shikibu</a>
+			</li>
+			<li>
+			<a href='#header84'><em>Genji</em> and the critical tradition</a>
+			</li>
+		</ol>
+		</li>
+		<li>
+		<a href='#header85'>Conclusion</a>
+		</li>
+	</ol>
+	</li>
+	<li>
+	<a href='#header86'>Glossary</a>
+	<ol>
+		<li>
+		<a href='#header87'>Japanese</a>
+		</li>
+		<li>
+		<a href='#header88'>Chinese</a>
+		</li>
+		<li>
+		<a href='#header89'>French</a>
+		</li>
+		<li>
+		<a href='#header90'>German</a>
+		</li>
+		<li>
+		<a href='#header91'>Greek</a>
+		</li>
+		<li>
+		<a href='#header92'>Latin</a>
+		</li>
+		<li>
+		<a href='#header93'>Sanskrit</a>
+		</li>
+	</ol>
+	</li>
+	<li>
+	<a href='#header94'>Works Cited</a>
+	</li>
+</ol></p>
 
 <hr />
 
-<h2>List of Figures</h2>
+<h2 id='header1'>List of Figures</h2>
 
 <ul>
 <li><p>Figure 1.</p></li>
@@ -740,13 +1067,9 @@ David Ashworth</p>
 
 	<div class="bodytext">
 		<div class="chapter1">
-<h2>Chapter 1. The Problem of Aesthetic Subjectivity</h2>
+<h2 id='header2'>Chapter 1. The Problem of Aesthetic Subjectivity</h2>
 
-<h4>Contents:</h4>
-
-<p><toc /></p>
-
-<h3>Problem of subjectivity and objectivity in aesthetic judgment</h3>
+<h3 id='header3'>Problem of subjectivity and objectivity in aesthetic judgment</h3>
 
 <p>The central question in the study of aesthetics is the question of subjectivity. To put the question in its popular form, we wish to know whether “beauty is in the eye of the beholder” before we answer all of the other questions that arise about art, meaning, representation, form, and so on. This question is central because it is the axis around which turns our practical engagement with aesthetics: we experience beauty personally, we share our experience of beauty with others, and we create new beautiful things. In doing so, we wonder whether this beauty is really something separate from ourselves or just a golden mirror of our own pleasant dispositions. Without knowing this, all of our other aesthetic questions will have at their basis something unsure. But evocative though it may be, the meaning of this question as phrased is yet unclear (what could it mean to be in the eye of a beholder?), hence we must make some attempt at clarifying it before an initial answer can be suggested and the topic directly pursued.</p>
 
@@ -809,11 +1132,11 @@ David Ashworth</p>
 
 <p>Whether a judgment interpreted in the manner of (4) or (5) should be classified as a &ldquo;subjective&rdquo; or &ldquo;objective&rdquo; judgment will turn on what we take to be its most relevant feature. Clearly, (4) is the more subjective of the pair and (5) is the more objective, but both are only relatively subjective or objective. If we say that what makes the suitable spectator suitable is her conformity to some sort of universal standard, then we will accept interpretation (5) and classify aesthetic judgment as objective, since the object’s ability to be seen as having the relevant aspect is logically prior to the suitability of the subject. On the other hand, if we emphasize that the suitability of the spectator is cultivated for a particular situation, then we will accept interpretation (4) and classify the judgment as subjective, since it is the structure of the subject which allowed the object to be seen in a particular way. In either case, our choice of nomenclature will be heavily dependent on our view of the nature of the human subject and the world around. As such, no firm answer to the question of whether aesthetic judgment is subjective or objective can be given until we have better described the subject, the object, and the division between them (if there is any).</p>
 
-<h3>Historical approaches to explaining the role of the subject and object in aesthetics</h3>
+<h3 id='header4'>Historical approaches to explaining the role of the subject and object in aesthetics</h3>
 
 <p>If we take our starting point in aesthetics to be either the experience of a suitable spectator or the capacity of an object to induce such an experience, then questions about what makes a spectator suitable and how the spectator relates to the object of experience naturally follow. To begin our investigation, I wish to briefly examine how Plato and Kant would have resolved these questions in order to show that existing approaches to aesthetics have been hampered by an unnecessarily dualism of subject and object at the surface level, which must then be punctured at a transcendental level in order accommodate our intuitive beliefs about aesthetics.</p>
 
-<h4>Plato, beauty, and the form of the good</h4>
+<h4 id='header5'>Plato, beauty, and the form of the good</h4>
 
 <p>To speak of Plato&rsquo;s approach to aesthetics is peculiar in the sense that he rejects <em>aisthesis</em> <!-- [αἴσθησις][el]--> (value neutral perception) as a means of grasping the form of beauty itself (<em>kalon</em><!-- [καλόν][el]-->, a word that means both &ldquo;beautiful&rdquo; and &ldquo;good&rdquo;). Plato’s aesthetics are large topic and my criticisms are somewhat tangential to the discussion that follows, so here I will restrict myself to a relatively brief description of his explanation of beauty in <em>The Republic</em>.</p>
 
@@ -853,7 +1176,7 @@ David Ashworth</p>
 
 <p>One final remark to be made about the aesthetics of <em>The Republic</em> is that because beauty can only be understood in terms of its source&#8202;&mdash;&#8202;the form of the good&#8202;&mdash;&#8202;there can ultimately be no separation between public political unity and private aesthetic bliss. Throughout <em>The Republic</em> Socrates and his interlocutors condemn any cultural artifact that they believe undermines the unity of the city. The philosopher who has a private experience of leaving the cave and seeing the sun is required to return to the cave and instruct his fellow prisoners about what it is like and change their artistic practices to match the pre-existing divine pattern. In that sense, the private aesthetic feelings of the individual have no real meaning apart from their proper positioning within the public totality, and the public totality can do little more than mirror its eternal counterpart in the realm of the forms.</p>
 
-<h4>Exposition and critique of Kant’s universal subjective</h4>
+<h4 id='header6'>Exposition and critique of Kant’s universal subjective</h4>
 
 <p>Having coined our modern usage of the terms “objective” and “subjective,” Kant was well aware of the difficulties of classifying aesthetic judgments, and he grapples with them at length in his <em>Critique of Judgment</em>. The conclusion he reaches is that judgments of the beautiful and sublime (what he calls &ldquo;judgments of taste,&rdquo; note that my usage of &ldquo;taste&rdquo; in chapter four is significantly different from Kant&rsquo;s) &ldquo;must involve a claim to subjective universality&rdquo; (Ak. 212).</p>
 
@@ -911,7 +1234,7 @@ David Ashworth</p>
 
 <p>The key insight of Kant’s “Copernican Revolution” in thinking about the relationship between our experiences and the world is that he creates a three tired system with subjective, objective, and noumenal levels. On the subjective level are those judgments which are particular to the individual and incommunicable. On the noumenal level are the things in themselves as they are apart from all possible experience of them. What allows for communication is the objective level at which individual reasoners apply Universal Reason in order to grasp the ideal construction of the object. For example, suppose I see a chair. My subjective experience of the chair is private, and the thing in itself that has caused me to have that experience is unknowable, but I am able to communicate to you about the chair because I know that since we are both rational beings, we share the same universal Reason, which will construct the same objects of possible experience for either of us. The better I can describe the possible experiences that any rational being could have with the chair, the better I have described it as an object. In other words, conformity to pure reason is what defines the suitability of a subject to make a particular judgment.</p>
 
-<h3>Aesthetics beyond the atomic subject</h3>
+<h3 id='header7'>Aesthetics beyond the atomic subject</h3>
 
 <p>Existing approaches to aesthetics are unsatisfying because they start with an atomic self and then go on to replace that with an idealized communal self (the suitable spectator).</p>
 
@@ -921,7 +1244,7 @@ David Ashworth</p>
 
 <p>In both cases, the picture of aesthetic judgment as subjective or objective is intimately tied to an overall view of the subject and object as dichotomously separated. However, if we overturn the assumption of the inviolate atomicity of the human being then we will be presented with a radically new way to understand the nature of aesthetic experience, which in turn will better clarify the position of aesthetic judgment.</p>
 
-<h3>Watsuji Tetsurō and the subject of aesthetics</h3>
+<h3 id='header8'>Watsuji Tetsurō and the subject of aesthetics</h3>
 
 <p>We find one such anthropology of the human being as fundamentally relational in the work of <span class="smallcaps">Watsuji</span> Tetsurō, and through it I will answer the following questions in aesthetics:</p>
 
@@ -940,19 +1263,9 @@ David Ashworth</p>
 
 		</div>
 		<div class="chapter2">
-<ul>
-<li><p>Carl M. Johnson</p></li>
-<li><p>May 15, 2012</p></li>
-</ul>
+<h2 id='header9'>Chapter 2. Anthropology and Methodology</h2>
 
-
-<h2>Chapter 2. Anthropology and Methodology</h2>
-
-<h4>Contents:</h4>
-
-<p><toc /></p>
-
-<h3>Ethics as first philosophy</h3>
+<h3 id='header10'>Ethics as first philosophy</h3>
 
 <p>Having raised the question of subjectivity and objectivity in aesthetics, where should we begin our investigation? I will argue that <span class="smallcaps">Watsuji</span> Tetsurō was right to suggest that our first philosophy must be <em>ningen no gaku to shite no rinrigaku</em> <span lang="ja">人間の学としての倫理学</span>&#8202;&mdash;&#8202;“the study of ethics as the study of human beings”&#8202;&mdash;&#8202;and that this must be the basis of our theory of aesthetics. To understand the relationship between the subject and object of aesthetics, we must first understand who is having an aesthetic experience and why. Immanuel Kant famously concludes the <em>Critique of Pure Reason</em> with three questions&#8202;&mdash;&#8202;“What can I know? What ought I to do? What may I hope?”&#8202;&mdash;&#8202;to which he later adds a fourth&#8202;&mdash;&#8202;“What is a human being?”<aside id='footnote-fn2-1'>The three questions first appear in the <em>Critique of Pure Reason</em> on B 832&ndash;3. The fourth question is added in the <em>Logic</em> (Ak. IX, 25).</aside> Though the questions are hopelessly intertwined the fourth may be said to contain the other three. Through a philosophical anthropology, we learn what we as human beings may know, what we ought to do as the sort of beings which we are, and what aspirations are rational for us to have. Similarly, our understanding of how aesthetics is possible will be critically shaped by our philosophical anthropology.</p>
 
@@ -968,7 +1281,7 @@ David Ashworth</p>
 
 <p>In spite of having made this brief argument for philosophical anthropology as first philosophy and human beings as communal, practical, and active, the reader should, I hope, retain a certain degree of skepticism about whether <em>any</em> approach to first philosophy can be ultimately satisfying. Perhaps even using the term “first philosophy” to explain the methodology in use here betrays too much of a foundationalist bias. Hence Watsuji&rsquo;s insistence that our method in “the study of ethics as the study of human beings” be a hermeneutic one is quite appropriate. While our investigation of aesthetics must begin by studying human beings as communal and ethical beings, it is not enough to try set forth initial “unhypothetical” first principles and proceed from there. Rather, we must continually revisit and refine our understanding as our investigation becomes deeper.</p>
 
-<h3><em>Rinrigaku</em> and “ethics”</h3>
+<h3 id='header11'><em>Rinrigaku</em> and “ethics”</h3>
 
 <p>In order to posit “the study of ethics as the study of human beings” (<em>ningen no gaku to shite no rinrigaku</em> <span lang="ja">人間の学としての倫理学</span>) as first philosophy necessary for the study of aesthetics, we must first clarify what this means somewhat, although a full clarification may not be possible without a complete account. For Watsuji, the study of ethics is, as its name in Japanese (<em>rinrigaku</em> <span lang="ja">倫理学</span>) suggests, the study (<em>gaku</em> <span lang="ja">学</span>) of the patterns (<em>ri</em> <span lang="ja">理</span>) of human relations (<em>rin</em> <span lang="ja">倫</span>).</p>
 
@@ -1010,7 +1323,7 @@ David Ashworth</p>
 
 <p>As we shall see, this aptly describes the sort of modification that Watsuji has made to existentialism. He skillfully combines Confucian and Buddhist insights with existential thought in a way that will pave the way for a more productive understanding of aesthetics.</p>
 
-<h3>Twofold character of human existence</h3>
+<h3 id='header12'>Twofold character of human existence</h3>
 
 <p>The starting point of Watsuji’s anthropology is the recognition of the codetermination of the individual and society. Too often philosophers have taken society as no more than the aggregation of individuals, and so attempted to treat it as subordinate to our nature as individuals. As he begins his <em>Study of Ethics</em>:</p>
 
@@ -1026,7 +1339,7 @@ David Ashworth</p>
 
 <p>In Japanese, the English word “human being” is translated as <em>ningen</em> <span lang="ja">人間</span>. It is written with two characters. The first, <em>nin</em> <span lang="ja">人</span>, can also be read as <em>hito</em> and means “person” or “someone.” The second, <em>gen</em> <span lang="ja">間</span>, can also be read as <em>aida</em>, <em>ma</em>, or <em>ken</em> and means a spatial or temporal interval. The term <em>ningen</em> gained currency in the Japanese language as a Buddhist term meaning the “human realm” as distinct from the other realms of rebirth, such as the animal world or the various hells and heavens.<aside id='footnote-fn2-9'>The characters <span lang="zh">人</span> and <span lang="zh">間</span> (respectively <em>ren</em> and <em>jian</em> in modern standard Mandarin) are first attested as a compound during the Warring States or Han Dynasty period of Chinese history, where they meant something like “being among others in society.” Dating texts from that period can be fraught with controversy, so it is difficult to assign priority of usage, but the compound can be found in <em>Zhuangzi</em>, <em>Leizi</em>, <em>Shuo Yuan</em>, <em>Guanzi</em>, etc.</aside> Watsuji finds it telling that over time this term could change in its meaning from a realm to humans collectively to humans individually. One might think that this is merely an artifact of the fact that neither Japanese nor Chinese grammatically require a sharp distinction between singular and plural, but according to Watsuji, its significance is much greater. For him, the multiple usages of <em>ningen</em> are a linguistic expression of an underlying truth about humankind as both particular (<span lang="ja">人</span>) and relational (<span lang="ja">間</span>). We are both discrete (<span lang="ja">人</span>) and continuous (<span lang="ja">間</span>). A thread of thinking which argues that the particular and the universal are inseparably linked runs throughout East Asian thought. Such a usage could not have gained currency in the Japanese language if it did not reflect something of the truth about the human condition.</p>
 
-<h3>Etymology as a tool of philosophical analysis</h3>
+<h3 id='header13'>Etymology as a tool of philosophical analysis</h3>
 
 <p>One might object (and this objection applies as well to our earlier examination of the origins of the words “ethics” and “morals”) that these sort of Heideggerian etymological investigations, however interesting, are ultimately a matter of merely historical curiosity, and no philosophical consequences can be drawn from them. Furthermore, Watsuji seems to invest in Japanese etymology a particular importance over and above that of other languages, claiming for instance that:</p>
 
@@ -1046,7 +1359,7 @@ David Ashworth</p>
 
 <p>On the one hand, words are a mechanism by which the “blooming buzzing confusion” of pre-conscious pure experience is converted into reflective consciousness. This is surely a paradigmatically individual moment in the process of experience. Yet at the same time what mediates this moment of individual experience are words which have come to the individual through the community. Words are for each of us our own words, yet our words are always the words of the others who gave them their beginnings of meaning in the distant etymological past.</p>
 
-<h3>Negating individuality and totality</h3>
+<h3 id='header14'>Negating individuality and totality</h3>
 
 <p>The double nature of words as individually and collectively possessed vividly illustrates Watsuji’s contention that,</p>
 
@@ -1080,7 +1393,7 @@ David Ashworth</p>
 
 <p>As the result of his investigation of the various attempts to understand the totality of which the individual is supposedly just a part, Watsuji concludes that, “The real truth is that something like a total being which precedes the individual and prescribes it as an individual&#8202;&mdash;&#8202;‘a great totality’&#8202;&mdash;&#8202;does not subsist” (WTZ 10:106).</p>
 
-<h3>Persistent relationships of betweenness</h3>
+<h3 id='header15'>Persistent relationships of betweenness</h3>
 
 <p>Since neither individuals nor “society” as a totality have truly independent existence, this means that they are both “empty” in the sense of lacking an independent substantiality not derived from a more fundamental relationality. In other words,</p>
 
@@ -1106,7 +1419,7 @@ David Ashworth</p>
 
 <p>Goodness, according to Watsuji, is the circumstance in which our authentic aspect can reveal itself through the continuation of this process. Badness comes from a premature halting of the process of double negation. Either placing the individual over society or placing society over the individual is wrong insofar as it attempts to freeze a dynamic process in place and betrays its authentic nature as evolving. Ethical goodness is an efficacy or virtuosity of performance rather than a rigid conformance to a fixed disposition. In the coming chapters, we will see that aesthetic goodness has a similarly dynamic meaning.</p>
 
-<h3>Negation as emptiness</h3>
+<h3 id='header16'>Negation as emptiness</h3>
 
 <p>Clearly, negation is the centerpiece of Watsuji’s philosophical anthropology, but what exactly is negation? As an ordinary example, one might think of the process by which one defines one’s identity by rebelling against external constraints. Think for instance of a toddler in the “Terrible Twos” or a teenage rebel. These are ordinary phases of personal development, and in a well-integrated personality, they eventually come to an end as one makes peace with one’s surroundings. We might say that one negates the other in rebellion to establish the self, but then eventually surrenders the self to the community as one makes peace with society. On the other hand, at a more metaphysical extreme, one might think of negation as a Hegelian process of dialectic. The individual self is first created as a thesis but eventually sublated with its communal antithesis into a novel synthesis as the dialectic moves forward historically.</p>
 
@@ -1118,7 +1431,7 @@ David Ashworth</p>
 
 <p>We may say then that both human beings and the communities to which they belong are “empty” of inherent existence. Emptiness, or in Japanese <em>kū</em> <span lang="ja">空</span>, means in Buddhism that things lack the substantiality that we seek in them, and as a result, life is unsatisfactory. Negation in its ultimate meaning cannot be just negation of individual or negation of the community, because for either sort of negation to be final, the thing negated would have to have its own ontological priority. Watsuji writes, “the individual is one who becomes an individual as the negation of <em>emptiness from which the self originates</em> (that is, authentic emptiness)” (WTZ 10:124). That is, the fundamental law of human beings is ultimately the negation of emptiness itself. In the process of double negation, emptiness is our source and our destination.</p>
 
-<h3>Emptiness vs. reductionism</h3>
+<h3 id='header17'>Emptiness vs. reductionism</h3>
 
 <p>In <em>Translation and Subjectivity</em>, Naoki Sakai criticizes Watsuji’s invocation of emptiness, on the grounds that it makes him “reductionist” about persons. On Sakai’s reading, Watsuji’s person is no more than the social construction that makes him or her up. However, he writes, this will not do because,</p>
 
@@ -1136,7 +1449,7 @@ David Ashworth</p>
 
 <p>It is true that we are molded by larger social structures. It is from the top down perspective that we can talk about the subject as having a “mind” which is studied by psychology. From this perspective, society is an observable outer reality, and mind is a hidden inner reality. It is also true that we are constituted by smaller physical entities. It is from the bottom up perspective that we can talk about the subject as having a “body” which is studied by the natural sciences. From this perspective, the body is an observable outer reality, and sub-atomic particles are a hidden inner reality. The tension between these two perspectives is not unilaterally resolvable. Both are ultimately lacking in substance when explored in sufficient depth, and this non-dual emptiness leads to the overflow of value that is celebrated by Miki and Sakai and is the focal point of aesthetics. Emptiness itself is irreducibly reducible without thereby being univocally and statically determined. Rather, it expresses itself as the novel dynamism of the interplay of the two directions of possible reduction. The importance of this for aesthetics is that it means our experiences will not merely be a collection of decomposable parts nor unitary, given wholes. Experience can exhibit creativity through its lack of substance. Hence the outcome of Watsuji’s emptying of the subject is not to reduce the self to society, but to allow it to fill itself out as relations are fleshed out existentially.</p>
 
-<h3>Methodology of cleavage in everyday existence</h3>
+<h3 id='header18'>Methodology of cleavage in everyday existence</h3>
 
 <p>The pattern of double negation in human existence can be subsumed under a more general pattern of hermeneutic “cleavage”: first there is an undifferentiated whole, then its division, and finally the reunion of the parts without a reversion to the origin. Watsuji states that “human existence itself is a movement that realizes its authentic unity in the linkage of unity-division-union (<em>tōitsu/bunri/ketsugō</em> <span lang="ja">統一・分離・結合</span>)” (WTZ 10:40).  Because this pattern underlies human existence, the only way to come to understand the structure of the human being&#8202;&mdash;&#8202;and hence the grounds for aesthetics as a discipline&#8202;&mdash;&#8202;is through “the hermeneutic method of restoration/construction/destruction (<em>kangen/kōsei/hakai</em> <span lang="ja">還元・構成・破壊</span>)” (WTZ 10:49)<aside id='footnote-fn2-17'><em>Kangen</em> is also translated as “reduction.” For example, see Carter and Yamamoto, 45. However, as explained in the last section, this translation creates a misleading understanding of Watsuji’s project. Taken literally, the characters <span lang="ja">還元</span> mean a “return to the origin,” or as Watsuji writes about <em>kangen</em>, “from expressions, it goes back to what was expressed, that is, back to human existence” (WTZ 10:48). The point is not to “reduce” human existence to expressions or vice-versa but to restore by means of expressions our ability to focus attention on lived human existence.</aside> which reverses this process. We restore when we return to the moment of non-conscious union of self and other as we feel it in everyday experience. We construct a subject by isolating a focus from the field which surrounds it and calling that abstracted focus the self. Finally, we destroy or deconstruct when we reintegrate the focus into the field and recognize their primordial unity.</p>
 
@@ -1166,19 +1479,9 @@ David Ashworth</p>
 		</div>
 
 		<div class="chapter3">
-<ul>
-<li><p>Carl M. Johnson</p></li>
-<li><p>May 15, 2012</p></li>
-</ul>
+<h2 id='header19'>Chapter 3. Aesthetic Experience as Distancing, Dissolution, and Disinterest</h2>
 
-
-<h2>Chapter 3. Aesthetic Experience as Distancing, Dissolution, and Disinterest</h2>
-
-<h4>Contents:</h4>
-
-<p><toc /></p>
-
-<h3>Defining aesthetics</h3>
+<h3 id='header20'>Defining aesthetics</h3>
 
 <p>Before describing the nature of aesthetic experience, I wish to explore the meaning of the word “aesthetics” itself. Although ancient Greek word <span lang="el">αἰσθητά</span> is the source of the contemporary word “aesthetics,” the meanings of the two are quite different. <span lang="el">Αἰσθητά</span>, the sensible, came from the root <span lang="el">αἰσθάνομαι</span> (“I perceive”) and was opposed to <span lang="el">νοητά</span>, the intelligible, and not directly connected to the perception of beauty or other “aesthetic” feelings.<aside id='footnote-fn3-1'>For Plato, Beauty is the lure of the Good and resides in the realm of the intelligible and outside the realm of the sensible.</aside> “Aesthetics” was only given its current meaning in eighteenth century by Baumgarten in his <em>Aesthetica</em> (1750), which attempts to create a science of beauty by connecting it to our perception. Kant, however, sought to restore the ancient Greek meaning to the word. In the <em>Critique of Pure Reason</em>, he objects that Baumgarten’s use of the term “aesthetic” to refer to “the critique of taste” is misguided, since the endeavor to place “our critical judging of the beautiful under rational principles” is “futile” because “those rules or criteria are merely empirical” and not “determinate a priori laws” (A 21.n). Nevertheless, Kant appears to have somewhat revised his views by the time of the <em>Critique of Judgment</em>.</p>
 
@@ -1188,7 +1491,7 @@ David Ashworth</p>
 
 <p>Traditional definitions are given by a genus and a specific difference. Clearly, the genus for aesthetic experience is experience. But what is the specific difference between aesthetic experience and other experiences? What are the conditions for having an aesthetic experience and what is the outcome of aesthetic experience? In what follows, I will first attempt a basic description of the nature of ordinary experience. Then I will show that a pre-condition of aesthetic experience is a sense of <em>psychic distance</em> between the ordinary self and the aesthetic object. The outcome of aesthetic experience is feeling of <em>intoxicated dissolution</em> or ecstatic unity with the object of experience. Aesthetic experience as a whole may be characterized as a process of <em>disinterested enjoyment</em> of the object’s existence. In making this argument, I will take some basic elements from Watsuji’s thought but use these elements to construct a framework for understanding aesthetic experience that goes beyond any of the particular accounts of aesthetics he gave.</p>
 
-<h3>Perception in everyday experience</h3>
+<h3 id='header21'>Perception in everyday experience</h3>
 
 <p>To understand aesthetic experience, we must first have a basic grasp of ordinary experience, in order to form a contrast between the two. For the most part, in ordinary experience we do not distinctly perceive the objects around us, but we unselfconsciously treat them as tools for manipulating our environment. As Heidegger explains in his famous example of the hammer from <em>Being and Time</em>, we treat objects that are ready-to-hand around us as having an in-order-to structure, and it is only when something occurs to make them unusable that they become conspicuous and obtrusive as present-at-hand.<aside id='footnote-fn3-5'>See Martin Heidegger, <em>Being and Time</em>, Division One, Part III, A.</aside> When one hammers at a nail expertly, one does not think of the hammer or the nail. Rather, they melt into the background of experience. But when something happens to break the union of self and tool, say the head of the hammer becomes lose or the hammer is not there when one reaches for it, suddenly these background elements in experience are sharply foregrounded because they have frustrated one’s desires.</p>
 
@@ -1217,7 +1520,7 @@ David Ashworth</p>
 
 <p>To conclude, in ordinary perception, our interest in things around us that we cannot control plucks them out of the background of subject-object unity and renders them as objects outside of us. We perceive them <em>as</em>, according to some concept or another, and we identify them across time and sense modalities. In doing so, we must also construct a sense of ourselves as opposed to these objects.  As Fichte claimed, an object (<span lang="de"><em>Gegenstand</em></span>) is a form of opposition (<span lang="de"><em>Widerstand</em></span>) to the subject. In English, we might say an object is that which objects. Things we can control, however, are incorporated into the self and felt as a part of the self until they disappear into the background of perception. This is a union of subject and object, which is unlike the initial subject-object unity because it is moulded exclusively by aspects and interests brought to bear by the ordinary self.</p>
 
-<h3>Disinterested enjoyment and the aesthetic attitude</h3>
+<h3 id='header22'>Disinterested enjoyment and the aesthetic attitude</h3>
 
 <p>In his <em>Study of Ethics</em>, Watsuji claims, “when a flower is said to be beautiful, the flower’s ‘being beautiful’ is based on a specific way of existing for the human beings who found the flower” (WTZ 10:141). What is this way of existing? To perceive something as beautiful, it is necessary that we first take a certain stance or attitude towards that object. It is this attitude that marks aesthetic experience apart from the ordinary experience just described. In this section, I will advance a theory of aesthetic experience as disinterested enjoyment. Disinterested enjoyment has two parts, disinterest and enjoyment, which appear at first to be in tension with one another. As explained in chapter one, the concept of “disinterest” can be traced back at least as far as Kant, who writes in the <em>Critique of Judgment</em> that the beautiful is the “object of a liking devoid of all interest” (Ak. 211). “Disinterested” must not be confused with “uninterested.” As I use the term, disinterested enjoyment is not form of boredom, but a separation from the world of practical concern where the subject and object become entangled in the environment around them, as described in the last section. Insofar as we are having an aesthetic experience of some object, we are without any practical concern for the object. The object is not a tool by which we can resolve some other desire.<!--Do we desire the object?∞--> On the other hand, disinterested enjoyment is not a mere aloofness from objects of experience. The object of an aesthetic experience does produce a kind of enjoyment. We take what may be called a sort of pleasure in its existence as we experience it.<!--Heidegger vs. Nietzsche would go here∞--> (Note that I distinguish myself here from Kant, who implausibly suggests that disinterest means having no concern for the existence of the object. I propose instead that while we have a deep and abiding concern for the object of aesthetic experience, this interest is not a practical interest of the ordinary self.) If disinterested enjoyment is to be differentiated from ordinary pleasure, then the pleasure we get from the existence object must be apart from the concerns of the practical self. Hence it must stem from a return to a prior subject-object unity, not a new combination<!--∞--> of subject and object as happens in ordinary experience.</p>
 
@@ -1264,7 +1567,7 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 
 <p><em>Muga</em> is a state in which we divest ourselves of our ordinary self and its interest in the object. We ecstatically take up the interests of the objects around us and even what is counter to our ordinary interest can now be the cause of disinterested enjoyment.</p>
 
-<h3>Aesthetic experience as double negation</h3>
+<h3 id='header23'>Aesthetic experience as double negation</h3>
 
 <p>Using the language of the last chapter, we may take the “double negation” that Watsuji used to describe the ethical realm and extend that description beyond ethics to the preceding description of aesthetic experience. Ethical double negation moves between individual and communal poles of self-other experience. Aesthetic double negation moves between isolated and integrated poles of subject-object experience. In the first negation, we create a psychic distance between the subject and object. This negation establishes the independence of subject and object, hence it is necessary for the achievement of disinterest. However, if the process stopped there, it would leave us cold and aloof and would not constitute an aesthetic experience. This individuating negation is a precondition for the second negation in which we negate this initial negation and begin to “dissolve” the distance between the self and object in ecstatic intoxication. We expand the self to encompass both the ordinary self and the object from a next perspective. In a moment of epiphany, we “lose ourselves” in the beauty of the object&#8202;&mdash;&#8202;that is, the ordinary self created by the first negation has been negated. It is not that in this moment we truly cease to exist, but we do through aesthetic experience go beyond the union with the object felt in everyday experience to grasp the prior unity that made the union possible&#8202;&mdash;&#8202;the unity of possibility in absolute emptiness that the first negation had taken away. In doing so, we do not experience the object as a part of our lived world of practical concerns, but, just the reverse, we experience ourselves as part of the world of the object. This is what allows aesthetic perception to have an “as-if” structure rather the “as” structure of ordinary experience. We have a value feeling as if the object were of interest to the self although it is in fact seen as valueless for the ordinary self.</p>
 
@@ -1278,7 +1581,7 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 
 <p>Third, Bullough focuses on the psychological pre-conditions for aesthetic experience rather than any particular qualities in the object that are able to appreciated. This gives his theory a slight overemphasis on the “subjective” side of the experience at the cost of the “objective” side of the experience. It matters not only how the sailor relates to the fog, but also that it is fog to which the sailor is relating. Because aesthetic experience is a movement of the self away from itself, it matters what it is the self is moving into. A different object of experience will not only require different psychological preparations in order to be felt, but it will also produce a different sort of experience as its outcome according to the harmony or fullness in the object.</p>
 
-<h3>Self-other unity and subject-object unity</h3>
+<h3 id='header24'>Self-other unity and subject-object unity</h3>
 
 <p>In thinking about aesthetic experience, the unity of the subject and <em>object</em> must be clearly distinguished from the unity of the self and <em>other</em>. Terminologically, we may call the first an aesthetic movement and the second an ethical movement. In practice, however, these two movements cannot be cleanly separated (a point emphasized by Nishida). The ethical movement is philosophically prior to the aesthetic movement and must exist beforehand in order to make the aesthetic movement possible. In the last chapter, we saw that the aspectival nature of consciousness is always given to us in our persistent relationships with others. As Watsuji writes in <em>Study of Ethics</em>, whenever one is “conscious of <em>the wall as a wall</em>, social consciousness has already infiltrated into it” (WTZ 10:77). Language is a central feature of human consciousness, and language is always transpersonal. Psychic distancing depends on others to give us the categories into which to place the aesthetic object such that we can see it <em>as</em> valueless, and intoxicated dissolution depends on to others to allow us to see the aesthetic object <em>as if</em> valuable. Still, the aesthetic movement, while philosophically posterior to the ethical movement, creates new possibilities for future ethical moments to explore and can lead to radical shifts in how the ethical movement is actualized. As a result, the two movements must be treated as interrelated, since the one so often becomes a starting point for the other.</p>
 
@@ -1290,11 +1593,11 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 
 <p>When we examine closely the phenomena of everyday experience, we begin to find numerous examples in which the supposedly individual and atomic self seems to merge with others in aesthetic experience as a part of the aesthetic grasping of the object. Even beyond the world of aesthetics, there are many moments in which the ego of the individual can be felt melting into the crowd as the crowd grasps the world before it. We experience such moments when we watch our home team score a crucial goal before the end of the game or when take part in any number of civic and religious functions from a Fourth of July parade to a wedding ceremony. The standpoint of traditional anthropology is to try to explain these events as deriving from individual drives and desires or the group’s need for unity and survival, but such explanations fail to connect the level of individual experience to the group imperative: they fail to explain how these drives can be expressions of authenticity for both the group and the self. But if the subject is something that is fundamentally connected to others then shared aesthetic experience is possible, and we will be able to bridge the gap between <em>kansei</em> <span lang="ja">感性</span> (a particular sensibility) and <em>bigaku</em> <span lang="ja">美学</span> (a shared feeling of value). My <em>kansei</em> is possible because as individual I set myself apart from others, hence our <em>bigaku</em> will be possible when I return to the group.</p>
 
-<h3>Bringing forth the between in theater</h3>
+<h3 id='header25'>Bringing forth the between in theater</h3>
 
 <p>To bring concrete focus to this discussion, I will next examine the theater, which is an art Watsuji analyzed several times throughout his career. Greek tragedy and Japanese Noh are closely related aesthetic forms that exhibit very clearly the pattern of psychic distancing and reintegration I described. Both are masked dramas that illustrate “the poetic crystallization of a privileged moment in the life of a hero, detached from its spatiotemporal context and projected into a dream universe.”<aside id='footnote-fn3-17'>Said of Noh by René Sieffert as quoted in Leonard Pronko, <em>Theater East and West</em>, 75. I believe this applies equally to Greek tragedy.</aside> Both invite the audience to put themselves in the shoes of that hero while also observing at a distance the logical and aesthetic unity of the drama as a whole. They allow audiences to feel into the characters of the drama without entirely forgetting their ordinary identities and the as-if structure of the performance.</p>
 
-<h4>Aristotle on the role of catharsis</h4>
+<h4 id='header26'>Aristotle on the role of catharsis</h4>
 
 <p>No discussion of the aesthetic experience of the theater is complete without at least a mention of Aristotle’s theory of catharsis. For Aristotle, achieving catharsis is the goal or <span lang="el">τέλοϛ</span> of tragedy. In his <em>Poetics</em>, he defines tragedy as,</p>
 
@@ -1307,7 +1610,7 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 
 <p>The phenomenon of catharsis can be explained within my theory as the result of distancing from the ordinary self and subsequently dissolving into the tragic character with the actor and one’s fellow members of the audience. The enjoyment of catharsis is a kind of disinterested enjoyment in which ordinary life is left behind and we enter the perspective of the protagonist through the lead actor and the perspective of the community through the chorus. The interplay of the actors and the chorus allows us to exercise both aspects of our twofold character as human beings. As social beings, we identify with the chorus and as individuals, we identify with the particular actors. The interworking of the chorus and the actors provides us a means to identify fully with the play and so experience a total catharsis as we feel with them the sentiments of the play.</p>
 
-<h4>Nietzsche and theater</h4>
+<h4 id='header27'>Nietzsche and theater</h4>
 
 <p>In <em>A Study of Nietzsche</em>,<aside id='footnote-fn3-20'><em>A Study of Nietzsche</em> is <em>Niiche Kenkyū</em> <span lang="ja">ニイチェ研究</span> (1913) in WTZ Vol. 1. Translations of <em>A Study of Nietzsche</em> are from David Gordon’s <em>Self-Overcoming as the Overcoming of Modernity</em>.</aside> Watsuji follows Nietzsche’s lead in describing the Dionysian intoxication of the audience of Greek tragedy,</p>
 
@@ -1318,7 +1621,7 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 <!-- Opera? Aïda? ∞-->
 
 
-<h4>Watsuji’s “Mask and Persona”</h4>
+<h4 id='header28'>Watsuji’s “Mask and Persona”</h4>
 
 <p>In the essay “Mask and Persona,”<aside id='footnote-fn3-21'>“Mask and Persona” is <em>Men to Perusona</em> <span lang="ja">面とペルソナ</span>, included in WTZ 17:289&ndash;95. The essay was first published in 1935, and then used as the title essay for a collection of essays published by Watsuji in 1937.</aside> Watsuji further explores the relation of Japanese aesthetics to philosophical anthropology by studying the paradoxical nature of the Noh mask. Noh is an indigenous Japanese theater form that is performed by a masked actor with a chorus, which makes it quite similar to ancient Greek theater. Noh emerged in the fourteenth century, and typical plots concern the intersection of the otherworldly with ordinary or historical personages. A skilled actor is able to cause his (traditionally, all Noh actors are male) mask to take on a variety of expressions by changing its angle and thus the shadows on its otherwise emotionally blank face. (See figure two below.) The five major categories of Noh masks are men, women, the elderly, spirits, and gods/demons, but there are many other subdivisions. The more overtly emotional the mask, the more difficult it is to show a variety of emotions. Thus, often a demon mask may only be employed at the climactic end of a play, whereas the mask of a ordinary woman might be employed throughout. The masks of Noh derive from Gigaku <span lang="ja">伎楽</span>, an ancient form of masked dance that is now largely extinct. Both were preceded by Kagura <span lang="ja">神楽</span>, the divine dances of the Shinto religion, the roots of which are recorded in the <em>Kojiki</em> (<span lang="ja">古事記</span>, 712) and <em>Nihonshoki</em> (<span lang="ja">日本書紀</span>, 720) as the mythological dances performed to lure the Sun Goddess Amaterasu out of her cave and restore light to the world.</p>
 
@@ -1344,7 +1647,7 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 
 <p>As for Noh, it clearly reveals the structure of the aesthetic moment as the overcoming of union and division to reach back to the prior unity of subject-object. The motions of the actor are all tightly regulated and carefully prescribed, which creates a separation between the role and the actor who attempts to embody that role. The actor must detach himself from his ordinary concerns, as must the audience members who watch him. Having thus detached themselves, the Noh actor finds that he has taken on the self of the mask&#8202;&mdash;&#8202;not because of a Dionysian frenzy as in Greek drama but because of a more subtle form of intoxication. The ecstasy of Noh is the result of studied selflessness (<em>muga</em>, <span lang="ja">無我</span>), in which the character is possessed by a spirit even as the actor completely embodies his role by dissolving beneath the surface of the mask and the audience completely identifies with the pathos of the actor because of the dynamic negativity of the mask that he wears.</p>
 
-<h4><span class="smallcaps">Sakabe</span> Megumi and Zeami</h4>
+<h4 id='header29'><span class="smallcaps">Sakabe</span> Megumi and Zeami</h4>
 
 <p>The Japanese philosopher <span class="smallcaps">Sakabe</span> Megumi (<span lang="ja">坂部恵</span>, 1936&ndash;2009) was inspired by Watsuji’s “Mask and Persona” and expanded on its themes in his own writing. In his essay “Mask and Shadow in Japanese Culture: Implicit Ontology in Japanese Thought,” he attempts to explain that the boundary between self and other is especially ambiguous in Japanese culture. He notes that the word <em>omote</em> (which can variously be written as <span lang="ja">面</span>, <span lang="ja">おもて</span>, or <span lang="ja">表</span>) “means the mask, the face, but at the same time it also means the surface” (245). He goes on to write,</p>
 
@@ -1374,7 +1677,7 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 
 <p>Pronko is an excellent student of Japanese theater, but if Sakabe is to be believed, Pronko was led astray here by his Western vocabulary. <em>Yūgen</em> can be translated as “the occult,” but this does not mean that what is being occulted is an essence hidden below the surface. <em>Yūgen</em> is rather the way that the depths of the character are constructed entirely on the surface as a surface. Through interaction, an aesthetic subject is constructed as the negation of absolute nothingness.</p>
 
-<h3>Conclusion</h3>
+<h3 id='header30'>Conclusion</h3>
 
 <p>In this chapter, I followed the hermeneutic method specified in the last chapter by starting with an examination of the expressions of aesthetics in everyday experience. There are at least three different senses of the word “aesthetics,” and in this chapter, I explore aesthetics as a mode of individual perception. In particular, I began by contrasting aesthetic experience with ordinary experience. Ordinary experience is aspectival&#8202;&mdash;&#8202;that is, we see things <em>as</em> and have pre-specified uses for them in our lives. Aesthetic experience, on the hand, is a kind of seeing <em>as-if</em>, in which we see the value of things from their perspective rather than through the lens of our own interests. Aesthetic experience is a kind of disinterested enjoyment. The disinterest comes from psychic distancing&#8202;&mdash;&#8202;a process in which the object of aesthetic experience is distanced from the imperatives of the ordinary self. The enjoyment comes from intoxicated dissolution&#8202;&mdash;&#8202;an ecstatic experience in which the self grows to encompass the perspective of the object without totally losing sight of its original perspective. These two movements can be thought of in terms of Watsuji’s system of “double negation.” The first negation establishes a self, and the second returns to the unity that preceded the division of the subject from the object. Because the subject-object relationship of aesthetic experience is governed by the self-other relationship of ethics, our personally felt aesthetic experience always leaves open the possibility of aesthetic judgment with others, while remaining deeply personal and immediate.</p>
 
@@ -1395,9 +1698,9 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 </ul>
 
 
-<h2>Chapter 4. The Subject and Object of Aesthetic Judgment and Taste</h2>
+<h2 id='header31'>Chapter 4. The Subject and Object of Aesthetic Judgment and Taste</h2>
 
-<h3>From my feelings to our judgments</h3>
+<h3 id='header32'>From my feelings to our judgments</h3>
 
 <p>In the last chapter, our hermeneutic inquiry into aesthetics began with an attempt to “restore” our understanding of aesthetic experience against the backdrop of everyday experience. An aesthetic experience is an experience of disinterested enjoyment through the dynamic interplay of distancing and dissolution. This experience goes beyond the ordinary self to the unity of no-self before the creation of subject-object duality.</p>
 
@@ -1409,9 +1712,9 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 
 <p>In this chapter I will first examine more closely at the nature of subject and the nature of the object as they co-construct one another as experience. Then I will show how these natures allow for the creation of normativity in aesthetic judgment without requiring us to posit a universal, rational taste. Finally, I will present examples from traditional Japanese arts, particularly linked verse, that illustrate my contentions about the nature of the self, judgments, and taste. What we will find is that subjects are active and plural, objects are impermanent and insistent, judgments must be subjective yet normative, and tastes can be authentic though communal.</p>
 
-<h3>Who is the subject?</h3>
+<h3 id='header33'>Who is the subject?</h3>
 
-<h4>Subject as agent</h4>
+<h4 id='header34'>Subject as agent</h4>
 
 <p>As mentioned in chapter two, Naoki Sakai is critical of what he feels is Watsuji’s project of “reducing” the subject to a twofold structure of individual and community as <em>ningen</em> <span lang="ja">人間</span> (“human beings”). While I feel that Sakai’s criticisms are somewhat wide of the mark, he does do a service for readers who are primarily familiar with Watsuji in translation by drawing attention to aspects of Watsuji’s philosophy that might otherwise be lost in translation. In <em>Translation and Subjectivity</em>, Sakai notes that the word “subject” has many renderings in Japanese:</p>
 
@@ -1435,7 +1738,7 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 
 <p>Because our ordinary experience is aspectival, the practical judgments we make about the world around us are already built it. We judge that the chair is for sitting and the body we see in the distance is a friend with whom we share a relationship. We see these things “as” having a certain in-order-to structure for us. Aesthetic experience, however, goes beyond the aspects given to us by the ordinary self to give new aspects to be seen “as if” from the perspective of the object. To be a “suitable spectator” for forming an aesthetic judgment therefore requires not only that we take up a certain cognitive stance, but that also that we engage in certain behaviors and activities that will both cultivate and demonstrate our suitability for going beyond the ordinary and practical.<aside id='footnote-fn4-5'>Space restrictions do not permit the elaboration of the parallel here, but attentive readers will note the similarity between this and Wittgenstein’s remarks concerning the importance of our “forms of life” to understanding one another. “If a lion could talk, we could not understand him” (<em>Philosophical Investigations</em>, 190). “What has to be accepted, the given, is&#8202;&mdash;&#8202;so one could say&#8202;&mdash;&#8202;<em>forms of life</em>” (192).</aside> <!--Merleau-Ponty’s Cezanne’s doubt is interesting here, but maybe not germane enough∞ --></p>
 
-<h4>Subject as plural</h4>
+<h4 id='header35'>Subject as plural</h4>
 
 <p>Thinking of the subject of aesthetic as <em>shutai</em>&#8202;&mdash;&#8202;actively embodied&#8202;&mdash;&#8202;rather than <em>shukan</em>&#8202;&mdash;&#8202;passively contemplating&#8202;&mdash;&#8202;leads us to another aspect of the subject. Human existence is a constant dialectical movement of double negation between the individual and social moments in our persistent relationships. Accordingly, it is misleading to think of the subject of aesthetic judgment as a purely individual. In the book <em>Milieu</em>,<aside id='footnote-fn4-6'><em>Milieu</em> is <em>Fūdo</em> <span lang="ja">風土</span>, 1935, WTZ 8:1&ndash;256. Geoffrey Bownas translated it into English under the title <em>Climate and Culture</em>. The position of this book within Watsuji’s career will be discussed at greater length in chapter five.</aside> Watsuji explains that treating the mind and body non-dualistically as an embodied subject requires us to go beyond the study of individual persons to look at how persons come together to form communities. This is because,</p>
 
@@ -1471,7 +1774,7 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 
 <p>Hence when thinking of aesthetic judgment, the important contrast is not that between “objective” and “subjective” forms of judgment and taste but that between the judgments arising from the subject as individual and tastes arising from the subject as communal, both of which must exist in on-going double negation.</p>
 
-<h3>What is an object?</h3>
+<h3 id='header36'>What is an object?</h3>
 
 <p>Next, I will look more closely at the object of aesthetic judgment. In the last chapter, I suggested that an object is that which objects. Another way to look at the question of an object’s being is suggested by the grammar of Japanese. Watsuji notes that Japanese distinguishes sharply between the existential verb (subject <em>ga aru</em> <span lang="ja">がある</span>) and the predicative copula (subject predicate <em>dearu</em> <span lang="ja">である</span>).<aside id='footnote-fn4-8'>Watsuji explains this in both <em>Study of Ethics</em>, WTZ 10:23f and “The Question of the Japanese Language and Philosophy,” WTZ 4:547ff.</aside> A. C. Graham explains in “ ‘Being’ in Western Philosophy Compared With <em>Shih/Fei</em> and <em>Yu/Wu</em> in Chinese Philosophy” that there has been a persistent tendency in Western philosophy to conflate the existential and predicative senses of “to be.” This tendency is not seen in Chinese or Japanese thought, and fallacies that rest on this equivocation are difficult to translate convincingly.</p>
 
@@ -1532,13 +1835,13 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 
 <p>Returning then to the question of aesthetics, what is the object of aesthetic judgment? The object emerges from the active, plural subject understood as the space of persistent relationships, but it also stands outside of the subject drawing the subject away from itself. It is a particularity beyond the self that allows the self to find itself in new environs. There is a delicate interplay at work. Should the subject stay where it is and refuse ex-sistere, there can be no object, but on the other hand, should the subject expand too far, it will swallow the object up and there will be no ex-sistere because the self has merely come into itself. Accordingly, I wish to emphasize the dynamic, dialectical nature of the movement of double negation. As the term <em>sonzai</em> implies, the subject-object complex has its existence as a temporary swelling in an ocean of impermanence. For a moment these waves roil through a field of relations, but always with the danger that a wave that grows too large becomes nothing more than the surface of the sea. What connects subjects and objects is that both spring from and return to emptiness itself.</p>
 
-<h3>Normativity in aesthetic judgment and taste</h3>
+<h3 id='header37'>Normativity in aesthetic judgment and taste</h3>
 
 <p>Having reconsidered the nature of the subject and object of aesthetics, it is time to dig into the roots of the very possibility of aesthetic normativity. What makes aesthetic judgment possible? Why should the taste of the collective be binding for the individual? Why do individuals feel an urge to share their judgments with others?</p>
 
 <p>Watsuji argues in <em>Study of Ethics</em> that although there is regional variation in morality&#8202;&mdash;&#8202;for example, one society may approve of human sacrifice while another condemns it&#8202;&mdash;&#8202;this does not undermine the universality of the basis of ethics. In all societies what is condemned are actions that undermine the trust basis of that society and what is praised are actions that reinforce the trust basis of that society. In this section I will make a parallel argument, namely that aesthetic normativity has similar relative and universal aspects. Aesthetic taste varies markedly from culture to culture, yet in all cultures what it valorizes are those relationships between subject and objects in which the harmonization of elements allows for the growth of a new and greater fullness.</p>
 
-<h4>Conscience and the internality of normativity</h4>
+<h4 id='header38'>Conscience and the internality of normativity</h4>
 
 <p>I will begin by looking at a parallel phenomenon of felt normativity: the feeling of ethical conscience. Just as in an aesthetic judgment we may feel that an object is “just right” or “all wrong,” in ethical conscience we may reflect on our own actions and instinctively feel them to be right or wrong. Of course, just as our conscience is not always correct in its assessment of the morality of an act, our aesthetic sensibilities do not always render correct aesthetic judgments. (Hence we must work diligently to cultivate our moral character in order to be ethical exemplars and cultivate our taste to be true connoisseurs. Interestingly, in the case of both conscience and aesthetic experience, it seems that insensitivity rather than hypersensitivity is the more common pitfall.) Yet in spite of its fallibility in particular cases, conscience and our moral intuitions are still the touchstone of any ethical investigation. All ethical theories must begin with certain fixed judgments of conscience, yet hope to rationalize and extend those judgments to new and less clear areas. In the same way, aesthetic experience must be the touchstone of any theory of aesthetic normativity.</p>
 
@@ -1556,7 +1859,7 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 
 <p>If it is not as human ethical totalities that these institutions speak authoritatively, on whose behalf are they speaking? A human-ethical totality has the authority to compel an individual just to the degree that it authentically speaks for the betweenness out of which both it and the individual arise. That is, the individual and the totality must be woven together in a fabric of trust. Because the source of the individual and the social whole is the same, the one is on occasion able to speak for the other as the voice of its autonomous subject. This means both that the state is able to compel the citizen to follow its just laws and that the citizen is able compel the state to reform its unjust laws. The basis for both forms of compulsion is the mutual dependence of the two: the individual could not be who she is without her state, and the state could not exist without its individuals. At its best, the relationship of the citizen and the state is one of virtuosic mutual contribution and constitution.</p>
 
-<h4>Fashion and the cultural construction of aesthetic normativity</h4>
+<h4 id='header39'>Fashion and the cultural construction of aesthetic normativity</h4>
 
 <p>Next, I wish to apply this understanding of the subjectivity of conscience to an example of a subjective aesthetic sensibility that nevertheless responds to external conditions: our fashion sense. In all known human societies there have been some modes of body adornment considered appropriate and some considered inappropriate. One may choose to wear a uniform or not, but no one living in a society can drop out of the fashion race (though many have tried). Whether one chooses to wear what is considered socially appropriate, chooses to rebel against it, or even chooses not to reflect much on fashion at all; in any event one is intimately wrapped up in fashion. Fashion is closely tied to our self-identities, and in particular it is closely tied to the cultural construction of gender and class differences. Written and especially <em>unwritten</em> sumptuary laws dictate the fashion choices and the internal fashion sensibilities of individuals. Fashion is, therefore, a prototypical illustration of what Watsuji calls “the linkages of conduct” (<em>kōi-teki renkan</em> <span lang="ja">行為的連関</span>). Through particular acts of fashion judgment by individuals, a culture-wide norm of fashion taste is created.</p>
 
@@ -1570,7 +1873,7 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 
 <p>Hence there is a voice able to speak with authority about the kinds of taste experiences we “should” be having when we enter into an aesthetic experience. It is the voice of the society as it expresses itself as the source of the individual. Because this voice is trans-personal, it is possible for us as members of a community to discuss our tastes productively. It is not entirely “subjective” in the sense of being entirely individual-relative. On the other hand, since the voice is also the voice of the inmost source of the individual, this voice is “subjective” in the sense of being a part of the subject and able to, at times, command the assent of the subject. These properties of the voice of aesthetic experience help explain why Kant felt that aesthetic judgment is universal but subjective&#8202;&mdash;&#8202;aesthetic judgment has a normativity that originates within the individual but extends beyond it&#8202;&mdash;&#8202;without thereby committing us to an implausibly universal coherence of tastes. The scope of normativity for an aesthetic judgment or taste is only as wide as the subject itself. It extends toward anyone with whom I can have an interactive dialogue but it is not yet already extended towards “any rational being” in the absence of prior lived engagement with such beings. I share my tastes with those around me in society because those who are around me in society are a part of my subject, and I am a part of theirs. Together we render sentiments of taste normative as an expression of our interactions. I owe deference to the tastes of my culture, because without my culture I would not have been able to develop the tastes I have. My culture owes deference to my tastes, because I make up a part of my culture. These two obligations work in double negation to evolve new norms of judgment dialectically.</p>
 
-<h4>Forming aesthetic judgments</h4>
+<h4 id='header40'>Forming aesthetic judgments</h4>
 
 <p>We have seen that the mutual emergence of the subject and object of judgment from emptiness is the basis of normativity in aesthetics, but the actual process of concretely rendering a judgment remains to be brought into sharper focus. Aesthetic experience is direct and immediate, but aesthetic judgment is reflective and shared. Instead of simply letting the experience stand on its own, we attempt to reduce it into a form that is communicable to others. As a result, aesthetic judgment can never fully capture the richness of experience. Furthermore, because it is communicated, aesthetic judgment requires the backdrop of an established aesthetic taste against which to make its distinctions. At the same time, however, taste is something that emerges out of the consensus of previous aesthetic judgments. Aesthetic judgment and taste are mutually dependent and must co-arise within the interactions of an agentive, plural subject. Only by understanding human existence as the movement in which the individual and communal moments are double negated can we explain this co-arising. Aesthetic judgment is a form of individual limitation that shapes and is shaped by the aesthetic community in which it is given.</p>
 
@@ -1594,9 +1897,9 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 
 <p>That having been said, this discussion of the mechanics of aesthetic judgment is still somewhat more abstract than one might like. However, more concrete specification of aesthetic judgment cannot be made in the absence of consideration of the context of the subject who will be making the judgment. In the language of Arthur Danto, we need to specify the “art world” that will be judging the object and the “aesthetic predicates” that are significant within that art world. A more detailed account of this process will be made in the next chapter; however, the importance of context to aesthetic judgment does not render it completely relative. Aesthetic judgment, whatever environmentally and historically specified form it takes, always involves an ecstatic assessment of the fullness of things through the structure of human existence.</p>
 
-<h3>Taste and judgment in Japanese art and literature</h3>
+<h3 id='header41'>Taste and judgment in Japanese art and literature</h3>
 
-<h4>Traditional Japanese art forms</h4>
+<h4 id='header42'>Traditional Japanese art forms</h4>
 
 <p>Next, let us examine some specific examples against a specific cultural background in order to illustrate some of claims made in the preceding discussion of aesthetic judgment. In <em>Milieu</em>, Watsuji observes that the coming together of “vital energy” (Jp. <em>ki</em> <span lang="ja">気</span>, Ch. <em>chi</em> <span lang="zh">氣</span>, the hylozoistic, processual “stuff” making up the world in Chinese cosmology) is central to many of the traditional Japanese arts. In other words, aesthetic excellence requires a dynamic process in which the double negation that usually makes up the self takes a different, more ecstatic form. While I wish to contend that the coming together of vital energy is central to all forms of aesthetic judgment, not just those in the traditional arts of Japan, nevertheless, these arts provide a particularly vivid demonstration of the dynamic structure I have been arguing for.</p>
 
@@ -1616,7 +1919,7 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 
 <p>Examples of the coming together of vital energy in traditional Japanese arts may be further multiplied since as Watsuji writes, “this kind of characteristic can be found variously in Noh, tea ceremony, and Kabuki as arts in which the vital energy comes together” (WTZ 8:195). This is to be expected if, as I have argued in this chapter, aesthetic judgment requires the coming together of collective and individual subjects in order to assess the fullness of the object as they all emerge together out of emptiness.</p>
 
-<h4>Asymmetry and emptiness</h4>
+<h4 id='header43'>Asymmetry and emptiness</h4>
 
 <p>One feature that connects the Japanese arts just mentioned is asymmetry. Unlike many Western forms of art, which tend to find their source of unity in a simple rule that connects the elements and gives them a place within the whole, Watsuji finds it noteworthy that these Japanese forms of art just mentioned are unified only by the sense of vital energy running through them. But how does asymmetry show the need for a coming together of vital energy in aesthetics? A naïve reading is that the blank spaces in one’s garden, painting, and so forth straightforwardly present us with “emptiness.” William Lafleur considers this interpretation in “Buddhist Emptiness in the Ethics and Aesthetics of Watsuji Tetsurō” and rejects it:</p>
 
@@ -1636,7 +1939,7 @@ Delight us with their splendor.<aside id='footnote-fn3-13'>In German, the poem i
 
 <p>This interpretation of Watsuji is not wholly without grounding. Watsuji does suggest the possibility of reciprocity, sympathy, and even national totality; however, it is a mistake to refer to this as a “predetermined harmony” rather than a dynamic and evolving harmony, and Watsuji’s notion of relationality is, we have seen, anything but symmetrical.<aside id='footnote-fn4-18'>Graham Mayeda also criticizes Watsuji’s supposed symmetrically in <em>Time, Space, and Ethics</em>, 93&ndash;7. Frankly, I am unsure why Mayeda takes Watsuji’s concept of relationality to be symmetric, and I believe he crucially misreads Watsuji’s example of the relation between a writer and reader (WTZ 10:53&ndash;5). Watsuji’s emphasis is on co-arising out of an asymmetric relationship. A writer is not a reader, but a writer would not write without the potential for a reader (in the limiting case, his or her future self). A reader is not a writer, but a reader could not exist without a writer. Neither readers nor writers could exist without the institution of literacy, but the collective institution of literacy is composed of individually literate persons. Hence the relationship between writers, readers, and literacy is throughly asymmetric but mutually entailing. Reading this relationship as intended to be not just mutually limiting but <em>symmetrical</em> requires us to attribute an uncharitably gross error to Watsuji while ignoring his valorization of asymmetry elsewhere in his writings. Watsuji’s emphasis on the importance of temporal development, for example, cannot be understood unless we see time as asymmetrical with goodness located in the aspiration for futurity.</aside> Rather, he emphasized the ability of non-symmetrical relationships to nevertheless find a common ground in the coming together of vital energy. The movement of double negation in human existence is cyclic, but it is not a simple circle; it repeats the pattern of individuation and communal integration, but it does not merely return to the place where it began.</p>
 
-<h4>Interconnection of subjects in linked verse</h4>
+<h4 id='header44'>Interconnection of subjects in linked verse</h4>
 
 <p>Japanese linked verse, called <em>renga</em> <span lang="ja">連歌</span> or <em>renku</em> <span lang="ja">連句</span>, is another excellent example of the role of the coming together of vital energy in forming aesthetic judgments and taste, one worthy of an extended examination. Linked verse is by its nature a collaborative process governed by the chances product of many imaginations rather than the singular vision of a lead poet. In it, each poet contributes a verse that connects to the verse immediately before it, but not necessarily in continuity with the poem before that. In this way, a group of poets would spend the evening creating an aesthetic performance in which the perspective of each poem shifts radically when read in juxtaposition with the poem after it rather than before it.</p>
 
@@ -1676,7 +1979,7 @@ Bonchō: The breeches wet / From morning, / Crossing the river.<aside id='footno
 
 <p>When the participants achieve the coming together of vital energy, a greater whole is created out of which aesthetic judgment comes to have a normative force. Because the human being is both individual and collective, a linked verse is able to show both the individual and collective aspects of the personality of its collaborators without having to eliminate one for the sake of the other. The structure of a linked verse meeting provides the authors with detachment from their ordinary concerns but their appreciation for their mutually crafted verses allows them to express their hearts openly in an “echoing reverberation” of merging perspectives.</p>
 
-<h4>Linked verse and aesthetic authority</h4>
+<h4 id='header45'>Linked verse and aesthetic authority</h4>
 
 <p>One incident in the life of Bashō illustrates the nature of authority in aesthetic judgment. Blyth relates a dispute that arose about the proper interpretation of a poem by Bashō’s disciple Kyorai. The poem is:</p>
 
@@ -1694,7 +1997,7 @@ On the edge of this rock, / Here is one more / Moon-viewer. (343)</p></blockquot
 
 <p>Notice also Bashō’s interpretation of the poem: “In the phrase, ‘There is one more person,’ you announce yourself” (343). This poem has a crucial ambiguity. It could mean that here is <em>one more</em> moon viewer, making two moon-viewers in total, counting the poet. Or it could mean <em>here is</em> one more moon viewer, the poet himself being the one and only moon-viewer in evidence. Bashō suggests that the latter interpretation is preferable because it puts the poet into the work yet also creates a distance between the poet and the poem. The experience of this verse also fits within the structure of <em>ri-ken no ken</em> <span lang="ja">離見の見</span> or “the seeing of distant seeing.” “On the edge of this rock” introduces the scene with detachment or psychic distance. From a distance, the poet is observing a far off mountain peak. Then the poet writes, “There is one more.” If we remained in a detached perspective, this would merely introduce another object of contemplation. But as Bashō recognizes, the detached perspective must now gain greater depth through its reflexivity. If there is one more on the mountain, then I am on the mountain, too. This leads inexorably to the moment of aesthetic experience in which the difference between the poet’s self and the other on the peak are felt in a broader context through intoxicated dissolution. They are all moon-viewers: the poet, the listener, even the edge of the rock and the moon. In the moment of the aesthetic judgment, the subject moves ecstatically to see the ordinary self from outside as just another moon-viewer. The normative authority to speak for that subject is invested by the aesthetic community of taste in one who has cultivated the ability actively crystalize such moments.</p>
 
-<h4>Normativity in linked verse</h4>
+<h4 id='header46'>Normativity in linked verse</h4>
 
 <p>A central axis around which the preceding debate turned was the question of <em>hon’i</em> <span lang="ja">本意</span> or “root implications” of the situation. Poets in that period of Japanese history placed a great emphasis on creating verses that convey the root implications of a situation instead of merely private implications (<em>shii</em> <span lang="ja">私意</span>). In other words, these poets took it that there was a certain quality inherent in certain situations and poets have a normative duty to capture this in their work. On the other hand, what these poets took to be the root implications of a situation was not something we today would identify as a scientific or “objective” description. Rather, they began to associate certain natural conditions with certain human emotions. For example, the autumn dusk was commonly depicted as forlorn.</p>
 
@@ -1766,7 +2069,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>At the same time, however, it should be clear that these associations are culturally constructed, and they acquire their normativity only insofar as we are willing to enter into membership of the aesthetic community by which they were created. There is no need to posit a universal normativity to these associations that extends to all rational beings. Rather, this normativity extends only to those who are willing and able to join in the aesthetic community as it increases its span in time and space.</p>
 
-<h3>Conclusion</h3>
+<h3 id='header47'>Conclusion</h3>
 
 <p>In this chapter, I have attempted a hermeneutic reconstruction of aesthetic judgment. The subject of aesthetics, we have seen, is not a passive observer of objects, but active and embodied. We live our aesthetics out among others. Moreover, the subject is not only individual but also collective. The commonality of aesthetic judgment rests on our ability to share our feelings with those to whom we are closest. The aesthetic object is neither the independent and aloof object of realist ontology nor the imaginary figment of idealist ontology. The object emerges from the same experiential flux of the subject, but it is placed outside of the subject and draws the subject away from itself.</p>
 
@@ -1779,9 +2082,9 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 		</div>
 
 		<div class="chapter5">
-<h2>Chapter 5. Art, History, and Milieu</h2>
+<h2 id='header48'>Chapter 5. Art, History, and Milieu</h2>
 
-<h3>Aesthetics in context</h3>
+<h3 id='header49'>Aesthetics in context</h3>
 
 <p>In the last chapter, we looked at <em>bigaku</em> <span lang="ja">美学</span>, the study of beautiful things, from two directions: from individual judgments to collective tastes and, vice versa, from tastes to judgments. Doing so was part of an attempt to reconstruct the aesthetic subject and object, but both directions of the examination began from the subjective pole of aesthetics. Therefore, to deepen our reconstruction, I next wish to pursue the topic in a direction beginning from the objects that concretely manifestation aesthetic agreement. In other words, I wish to reconstruct our understanding of the subject and object of aesthetics through the topic of theories of art (<em>geijutsuron</em> <span lang="ja">芸術論</span>).</p>
 
@@ -1789,9 +2092,9 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>A complete definition of art is out of the scope of this work, but I will attempt to address some major frameworks for thinking about art. A comparison of the strengths and weakness of these frameworks will help show the centrality of <em>context</em> to art. The context of art has two aspects, temporal and spatial, which I will explain with reference to the philosophy of <span class="smallcaps">Watsuji</span> Tetsurō. First I will explore the temporal context of art: How does art develop over time? Is there such a thing as progress in art history? Then I will explore its spatial context: What role does milieu play in our aesthetic self-understanding? Why does art vary from place to place? And doesn’t globalization mean these differences are destined to fade away? Finally, I will conclude the chapter with illustrations of the importance of historical milieu taken from the life and work of <span class="smallcaps">Okakura</span> Kakuzō, author of <em>The Book of Tea</em>.</p>
 
-<h3>Understandings of art</h3>
+<h3 id='header50'>Understandings of art</h3>
 
-<h4>The many theories of art</h4>
+<h4 id='header51'>The many theories of art</h4>
 
 <p>It is a philosopher’s delusion to think that hidden behind our jumbled ordinary intuitions there must stand a single unified and determinative definition for whatever we put into question. Surely, “art” is among those terms for which a singular definition is particularly ill-met. Still, looking at how various theories of art are used, it is clear that the definition of art is at its most contested when the matter of prestige is on the line. The public fascination surrounding the question of “what is art?” turns on precisely this issue. Besides a conflation of “art” and “good art,” the debate reflects the fact that there is a public norm that holds art to be an unconditioned good. As such, for a project to claim the title of art is to demand a certain level of public approbation.<aside id='footnote-fn5-1'>To be sure, there can also be situations where rejecting the title of “art” in order to pick up the title of “science” is a prestige enhancing move. For an example of positioning a discipline relative to art in order to increase its prestige see Donald Knuth’s “Computer Programming as Art.” For more on the debate between art and science, see C. P. Snow’s classic, <em>The Two Cultures and the Scientific Revolution</em>.</aside></p>
 
@@ -1801,7 +2104,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>To bring order to what might be a nearly endless task, I will begin by lumping theories of art into four very broad categories. An <em>artist</em> or artists creates a <em>work</em> which is experienced by an <em>audience</em>. Looking at each of these elements in isolation suggests three approaches to art&#8202;&mdash;&#8202;artist-centric theories, work-centric theories, and audience-centric theories&#8202;&mdash;&#8202;and looking at the time and place in which they come into conjunction suggests a fourth&#8202;&mdash;&#8202;context-centric theories. As the suffix -centric suggests, my own position is that a truly robust theory of art ought to combine the strengths of each category. Nevertheless, there is also something useful about looking at art from a one-sided perspective if only as a clarifying exercise, since it allows one to focus on what it is that each perspective adds to our overall understanding. For that reason, for the most part I will present these theories myself rather than presenting a detailed picture of the particular systems of past theorists. For obvious reasons, nearly all theories that have been seriously proposed in the past contain elements of each of the four approaches, which tends to muddle the issue with questions of emphasis and interpretation.</p>
 
-<h4>Artist-centric theories</h4>
+<h4 id='header52'>Artist-centric theories</h4>
 
 <p>One seemingly tautologous way of speaking about art is to say that “Art is what artists make.” From that logical starting point, one might propose that the presence or absence of certain qualities in the would-be artist is what make some things works of art and others not. Although logically speaking one might just as easily suppose the reverse&#8202;&mdash;&#8202;that it is the properties of the art that makes the artist&#8202;&mdash;&#8202;nevertheless, this is a way of thinking about art with broad popular reception, and it is reinforced through stereotypes like the starving artist and the tortured genius. Hence many theories of art focus on the artist as the determinative factor.</p>
 
@@ -1817,7 +2120,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>The clearest shortcoming of such a theory of art is that it utterly neglects the artwork itself, and yet there must be something about the artwork that makes it a topic of concern for parties besides the artist. (Bear in mind that Duchamp and the other Dada artists also meant to satirize the self-importance of art with their readymades.) To remedy this oversight, next let’s look at the work-centric theories.</p>
 
-<h4>Work-centric theories</h4>
+<h4 id='header53'>Work-centric theories</h4>
 
 <p>A conceptually simple way of looking at art is to say that what makes a work<aside id='footnote-fn5-4'>For terminological purposes, the term “work” should be read broadly enough to encompass both objects and events. The performance of a play is an art “event,” hence also a “work” of art.</aside> art or non-art is its form. Paint on canvas is a painting, and therefore art. Marble when hewn makes a sculpture, which is art. Rhythmic strumming on a guitar makes a song, and so is art. Paper when marked becomes a drawing, hence art. Of course, this view is too simplistic to stand up to much scrutiny, so further restrictions might be added. Perhaps it is not enough for a drawing to be a collection of lines on paper. Perhaps the drawing must also be representational. Adding restrictions of this sort may be conceptually useful within a given medium, but there are difficulties in applying them across media. For example, if representationality makes a drawing art, what makes a musical performance art? Is there a hidden sense in which a symphony is representational? Some might wish to make the argument that it is, but in doing so, they lose the simplicity that gave this approach to art its initial appeal.</p>
 
@@ -1831,7 +2134,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>But who are the audience and what sort of response ought they to have to the artwork? How can we tell when the artist has successfully brought the value of the work to their attention?</p>
 
-<h4>Audience-centric theories</h4>
+<h4 id='header54'>Audience-centric theories</h4>
 
 <p>How should art affect its audience? The purpose of art is a topic that has been debated just as extensively as the topic of what art is. Indeed, there is widespread disagreement about whether art can or should have a purpose or not. If art does have a purpose, is it to affect the audience or to relieve the artist of some inner pressure? Here I will consider a few theories of audience response to art.</p>
 
@@ -1847,7 +2150,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>To talk about “ideal” observers necessarily draws us away from a discussion of the audience themselves and into a discussion of what makes an audience ideal. That is, the discussion becomes ethical/political in its contemplation of the broader social sphere in which the audience is situated.</p>
 
-<h4>Context-centric theories</h4>
+<h4 id='header55'>Context-centric theories</h4>
 
 <p>Theories of art that focus on the artist, the work, or the audience seem to exhaust the possibilities for how to think about art, but in the twentieth-century a new approach to art theory emerged that looked not at any one corner of this triangle in isolation, but drew back to look at the conditions out of which the three emerge. These are the context-centric theories of art.</p>
 
@@ -1887,7 +2190,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>Like Heidegger, Eaton explains art in terms of the effect of the context on the interaction between artist, work, and audience. For her, an artwork is an artifact (that is, made by an artist) and is received by an audience that ideally ought to attend to certain properties in the work, but what directs the creative process of the artist and the attention of the audience is not so much a global theory of what makes for a superior or inferior work but the local theories that have emerged in the course of aesthetic history. An artwork brings with it a theory of an ideal observer that it has inherited from history, but at the same time, new artworks create new ideals for future observers.</p>
 
-<h4>Implicit values in theories of art</h4>
+<h4 id='header56'>Implicit values in theories of art</h4>
 
 <p>The value of having reviewed these different theories of art at some length is that we are now in a position to see the different areas implicitly valorized by the different theories of art. Artist-centric theories valorize the act of creation. Work-centric theories valorize the being of the work. Audience-centric theories valorize the experience of the audience. Context-centric theories valorize the development of the conjunction of artist, work, and audience.</p>
 
@@ -1895,9 +2198,9 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>My own greatest sympathies are with the context-centric theories of art, but even this perspective can become too narrow if we cling to it too tightly. The other theories also contain much of value. A context theory that fails to pay proper attention to the roles of the artist, work, and audience in art can easily become too abstract to be put to use. Only when a context theory is combined with past artist, work, and audience theories can it become as truly robust as it ought to be.</p>
 
-<h3>History as temporal context</h3>
+<h3 id='header57'>History as temporal context</h3>
 
-<h4>History as an aid and hindrance to aesthetic experience of art</h4>
+<h4 id='header58'>History as an aid and hindrance to aesthetic experience of art</h4>
 
 <p>The two central aspects of the context of art are its time and place. Let us look first at time. Every work of art is created within history and brings its history forward with it to the present. The history of art is a history of aesthetic agreements made and broken by communities and individuals. Artistic scenes exist because groups of people make similar aesthetic judgments as part of a community of taste. Nevertheless, no artistic scene has been able to establish more than a temporary and local hegemony. Even seemingly timeless works of art vary in their reception from age to age and place to place. The now world famous <em>Mona Lisa</em> was largely ignored between the time of its creation and the advent of mass reproduction in the nineteenth century.<aside id='footnote-fn5-9'>Some significant historical contributions to the <em>Mona Lisa</em>’s fame include its praise in 1874 by Walter Pater (“Leonardo’s masterpiece,” <em>The Renaissance</em>, 123), its theft and return in 1911, and its parodying by Duchamp’s <em>L.H.O.O.Q.</em> in 1919.</aside> Its fame is just as rooted in contingent historical conditions as any other artwork.</p>
 
@@ -1915,7 +2218,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>In particular, works that offend our sense of morality are difficult to enjoy aesthetically, since “I cannot, nor is it proper I should, enter into such sentiments; and however I may excuse the poet, on account of the manners of his age, I never can relish the composition.” The history that a work of art brings with itself is both an aid and a hindrance to aesthetic experience, since it transports us out of our usual self and allows us to ecstatically experience another self without losing that original self altogether, but in doing so, it may require a mode of thinking so foreign or repugnant to our own context that identification with it is impossible.</p>
 
-<h4>Art history and the dialectic</h4>
+<h4 id='header59'>Art history and the dialectic</h4>
 
 <p>When we say that a work of art brings its history with it, what do we mean by history? There are several possible meanings:</p>
 
@@ -1940,7 +2243,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>On the other hand, while we do observe communities of aesthetic agreement form within particular cultures around the world, agreement in aesthetics appears to have limitations not possessed by other disciplines or at least not to the same degree. In science, for example, (ideally) cultures around the world and across time converge in agreement about certain facts and theories.<aside id='footnote-fn5-10'>The picture of science presented here is of course a simplification, but the point stands that aesthetics differs quite significantly from the ideal of scientific progress. If one subscribes to a non-dialectic theory of scientific advance, say Kuhnian paradigm shifts, all the more, one would be surprised to discover that aesthetic history is dialectically progressive.</aside> The heliocentric model is now a globally entrenched fact, although our contemporary understanding of the solar system goes beyond either Copernicus or Kepler. The same can be said of Newton’s gravity, in spite of its being superseded in certain respects by the Einsteinian model. In Hegelian and pragmatic theories of science, scientific truth <em>just is</em> this tendency of agreement to become deeper and wider as the historical dialectic advances. In aesthetics, however, we see nothing quite so linear as scientific progress. Although one-point perspective was an innovation historically, the charcoal sketches in the caves of Lascaux show that human beings have been competent to execute basically “realistic” drawings for tens of thousands of years. Innovation in artistic technique has played only a minor role in art history as compared to change in artistic style. While clearly later artists in a tradition pick up certain themes in earlier works and attempt to develop them in their own works, at the same time, later artists are not so much agreeing with earlier aesthetic judgments as exploring new aesthetic spaces opened up by their forebears. Particular works may survive from era to era, but the styles that gave rise to those works eventually either evolve or are supplanted. (About these works of genius that survive from era to era and place to place, see the next chapter.)</p>
 
-<h4>Art history as double negation</h4>
+<h4 id='header60'>Art history as double negation</h4>
 
 <p>To explain the lack of clear progress in aesthetics, I propose that art history is not a true Hegelian dialectic but a Watsujian double negation. New styles emerge when individuals assert their identities over and against the group (the first negation); this newly asserted identity is then either embraced or rejected by the group. If it is embraced, the double negation is made complete (the individual has “returned” to the group by the group’s own movement). If it is rejected then the artist must either return to the group by abandoning his or her self-assertion, or remain aloof in aesthetic rebellion (aesthetic badness as the stoppage of further cycles of double negation). Art history is created through this ongoing movement through which human beings constitute themselves as aesthetic subjects.</p>
 
@@ -1954,7 +2257,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>The theory of double negation further reveals the meaning of all of those different theories of art just reviewed. A close emphasis on the first negation produces artist-centric theories of art, as one attempts to explain how it was that the artist was able to break away from prior social conventions. On the other hand, as part of the second negation, we turn our eye away from the rebellion of the individual and attempt to comprehend the artwork under a work-centric theory that minimizes the individuality of artist in favor of an appreciation of the work itself and a return to the pre-cleavage suchness of the situation. This allows an answer to the question of “What are we for?” to take hold, if only temporarily. The audience-centric theories fall out of the tendency of this ongoing double negation to create new aesthetic subjects. Because aesthetic experience is an experience that contains within it a potential of being shared with others, it is natural that disinterested enjoyment will be employed by particular interests as a means of creating particular subjects. This occurs not only through the gross method of didacticism, but also through the more subtle identification with others that accompanies our feeling of intoxication with the aesthetic object. (Think, for example, of the community building role played by the Dionysian frenzy of ancient Greek theater.) As for context-centric theories, they succeed to the degree that they uncover the mechanisms of human existence at play in art as it moves from context to individual and back to the collective as the embodiment of context. Watsuji’s theory of double negation gives us a lens through which can see more clearly the advantages of these various approaches to art.</p>
 
-<h4>Cultural stratification as an alternative to dialectical development</h4>
+<h4 id='header61'>Cultural stratification as an alternative to dialectical development</h4>
 
 <p>The concept of history contained in Watsuji’s work has a strong influence from Hegel (and Marx), but at the same time, Hegel’s theory of world history also presents a serious challenge to Watsuji because of its Eurocentrism. For Hegel, Asia was where civilization first developed, but since then the continent has stagnated because while “Asia is the continent of sunrise and of origins in general” (<em>World History</em>, 190), nevertheless “World history travels from east to west; for Europe is the absolute end of history, just as Asia is its beginning” (197). The national spirit of an Asian nation is condemned to ever be mired at the dawn of civilization and to recapitulate its past, whereas the future of the dialectic belongs to Europe. Though, as we saw, Hegel acknowledged that true history requires the past to live on in the present, he nevertheless discounted its meaning. The ontogenesis of individuals recapitulates the past, but the individual must overcome the past as part of his or her development. In Hegel’s view, Asia is no longer the center stage for human history because it is too tied down by the weight of the past.</p>
 
@@ -1974,7 +2277,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>In other words, the essence of the thesis can only be brought forward after it has been negated by its antithesis, without thereby demanding that they both be erased by a synthesis. Noh was overcome by later artistic styles, but these later styles allow us to better understand retroactively what was distinctive about Noh in the first place. This is the same pattern that we observe throughout Watsuji’s hermeneutic of double negation as cleavage. When unity is negated by division and that division is in turn negated by union, neither of these negations mean the erasure of the earlier phases. The ordinary self is negated by the intoxication of aesthetic experience, but time does not thereby eliminate the ordinary self and its distance from the aesthetic object. Rather, all aspects of this process exist together in a dynamic multiplicity of strata that grows through historical time in response to context.</p>
 
-<h4>Post-modernism and multi-stratification</h4>
+<h4 id='header62'>Post-modernism and multi-stratification</h4>
 
 <p>Watsuji feels that the multilayered nature of Japanese culture is perhaps unique in the world, and it is fair to criticize this supposition as an example of what Peter Dale has called “the myth of Japanese uniqueness.” On the other hand, it is also fair to say that the tendency towards multi-stratification had not been as pronounced in the modern West, and modernist Western theorists themselves tended to deny the ability of layering to hold out against the flow of history, which makes Watsuji’s faulty supposition of Japanese uniqueness more understandable in this regard. Since Watsuji’s time, however, Western architecture and other arts have been swept over by the post-modern movement, which explicitly takes the reappropriation and juxtaposition of different historical styles as its core methodology. In other words, Watsuji’s multi-stratification is now acknowledged as a global phenomenon.<aside id='footnote-5-15'>Note that not everyone finds this global phenomenon agreeable. In “Guiding Principles of Interpretation,” Dilworth complains that Watsuji’s writing is a vanguard of the contemporary multiculturalism and post-modernism, which he feels is overly ethnocentric (111).</aside></p>
 
@@ -1998,9 +2301,9 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>In other words, unity cannot mean the elimination of the original context and the snuffing out of its life, but must mean its flourishing within a new context. The suchness of each past moment must be preserved and brought back to life in the present moment if a true historical unity is to be created. Hegelianism temporarily obscured this truth in the West, but eventually it re-emerged. This interpretation gives us a way to better understand the post-modern movement, which has been criticized (often rightly) for its obscurantism and lack of focus. The goal of multi-stratification, according to Watsuji is not merely to juxtapose nor even to transgress social boundaries, but to bring into the highest development each of the theses under consideration. Historical theses only come to really live when put into dialogue with later antitheses. Post-modernism should aim not just at eclectically collecting and transposing but at trying to show the core significance of what it gathers through the skillful arranging of things into a meeting of vital energy. Post-modern art is at its most aesthetically appealing when it is able to bring its references together with respect for their uniqueness.</p>
 
-<h3>Milieu as spatial context</h3>
+<h3 id='header63'>Milieu as spatial context</h3>
 
-<h4>Space, environment, milieu, and emptiness</h4>
+<h4 id='header64'>Space, environment, milieu, and emptiness</h4>
 
 <p>Having looked at the role played by time in the context of art, I wish next to look at the role played by space. As regards time, “history” refers to the way that past moments bear significance even in the present. Regarding space, I want to make a similar distinction between space as the object of scientific inquiry and space as a lived aspect of our experience.</p>
 
@@ -2052,7 +2355,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>The Japanese term for space is even more suggestive: <em>kūkan</em> <span lang="ja">空間</span>. The <em>kū</em> of <em>kūkan</em> is the “emptiness” or “openness” of chapter two, corresponding to the Sanskrit <em><span lang="sa">śūnyatā</span></em>. Written as <em>suku</em> <span lang="ja">空く</span>, it becomes a verb meaning “to empty.” In isolation, the <em>kan</em> of <em>kūkan</em> is read as <em>aida</em>&#8202;&mdash;&#8202;the spatiotemporal interval also explained in chapter two and the basis of <em>aidagara</em> <span lang="ja">間柄</span>, our persistent relationships. Watsuji’s emphasis on space in <em>Milieu</em> no doubt emerged from a desire to show the “emptiness” or “openness” of things and the importance of relationality to existence. In that sense, <em>Milieu</em> is a response to the early Heidegger that anticipated some of later Heidegger’s insights.</p>
 
-<h4>The milieux of desire</h4>
+<h4 id='header65'>The milieux of desire</h4>
 
 <p>In the last chapter, I shared some of Watsuji’s examples of the ways in which our milieu is responsible for the creation of shared feelings and tastes. My feeling of cold and yours are “subjective” experiences, and yet we are able to share this experience because we occupy the same milieu&#8202;&mdash;&#8202;the same subjective space. The food that I eat, I eat because it is presented to me from within the context of a particular form of cuisine. The context of my culture gives rise to particular desires for particular foods&#8202;&mdash;&#8202;a sense of taste.</p>
 
@@ -2074,7 +2377,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>Japan has a long literary tradition relating places and seasons to the human world of culture and arts. The clarity of the autumn moon, for example, was not just an external condition of the world, but a <em>hon’i</em> <span lang="ja">本意</span> (“root implication”) that was culturally achieved. Similarly, particular places in Japan became famous for particular associations with the site and the products of the region (<em>uta-makura</em> <span lang="ja">歌枕</span> and <em>meibutsu</em> <span lang="ja">名物</span>). This being so, we ought not conceive of milieu as something outside of us. This aspect of human existence was particularly pronounced in Japan, but once we know to look for it, we see that it is universal. The milieu is where you and I find ourselves as individuals. It is a part of us that is extended as “ex-sistere.” Because this milieu is a part of us, we should not conceive of it entirely negatively, as something imposed upon us against our will. Milieu is the ground of our will. Moreover, Watsuji denies simple climactic determinism: “From the first, our existence has not only this burdened character but also a character of freedom as well” (WTZ 8:21). There would be no point in escaping the historical determinism of Hegelianism by substituting instead a simple climactic form of determinism. Through our actions together as human beings in the world, we create milieux for ourselves while they in turn create us.</p>
 
-<h4>Climates of the world</h4>
+<h4 id='header66'>Climates of the world</h4>
 
 <p>Based on his travels from Japan to Europe, Watsuji divides the world into three basic climatological milieux: monsoon, desert, and meadow. Monsoon climate prevails from India to Japan. In these areas, the weather is so wet and warm that plant life is able to flourish in abundance. The bulk of human interaction with nature takes the form of trying to control its wild fecundity. Arabia and the Middle East, on the other hand, are a desert climate. In these areas, the absence of water and the stifling heat sets human beings and nature into a confrontational opposition. The desert must be forced to live through human control. The meadows of Europe are somewhat in between these two extremes. According to Watsuji, nature there is docile enough to be understood rationally. He provides a striking anecdote that shows the effects of these different milieux on their inhabitants. While touring Italy, he found himself struck by the unusual regularity of the trees:</p>
 
@@ -2088,7 +2391,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>The important aspect of his theory for our study is less the specifics of the descriptions of milieux that he proposes than his central insight, which is the irrepressible if subtle influence of place over our feelings, perception, and creativity.</p>
 
-<h4>Globalization and hybridity</h4>
+<h4 id='header67'>Globalization and hybridity</h4>
 
 <p>But how applicable is Watsuji’s theory of milieu today? A critic might protest that the process of globalization has resulted in an erasure of the importance of place. The airplane and the internet have made it the case that distance no longer matters. Even from his vantage in the early twentieth century, Watsuji was aware of the ongoing diminishment of place. Still, he feels that even if it is diminished milieu cannot disappear entirely as a factor in human existence:</p>
 
@@ -2116,15 +2419,15 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>Watsuji lends us a new way of understanding the distinctiveness of other cultures without denying their rationality or dismissing their differences as the product of their “savageness.” Since tastes emerge out of the perspectives of the community, they must be grounded in milieu. Cultural difference cannot be deterministically reduced to climate, but a theory of milieu does allow us to understand how a different culture can produce different art without therefore being “backwards” in comparison to some other culture with a different art history. This is not to suggest that all cultures are equally well developed or civilized (cultural relativism), just that there are multiple possible ways in which a culture may progress in embodying the spirit of its time and place at which it may excel or lag behind (cultural pluralism). The goal of art, if we must speak of one, is to promote excellence through the unification of such diverse experiences.</p>
 
-<h3>Okakura, <em>The Book of Tea</em>, and “Teaism”</h3>
+<h3 id='header68'>Okakura, <em>The Book of Tea</em>, and “Teaism”</h3>
 
-<h4>The crisis of Japanese aesthetics</h4>
+<h4 id='header69'>The crisis of Japanese aesthetics</h4>
 
 <p>Nothing more clearly illustrates the role of hybridity in the history and milieu of art than the crisis of Japanese aesthetics following Japan’s opening to the West and the embodiment of that crisis in the life of <span class="smallcaps">Okakura</span> Kakuzō. The art forms valorized in pre-modern Japan only partially overlapped with those art forms valorized in the modern West. To a Japanese snob of the Edo period (1603&ndash;1868), <em>ukiyo-e</em> <span lang="ja">浮世絵</span> (mass reproduced prints of “the floating world”) and Kabuki theater (<span lang="ja">歌舞伎</span>) were hopelessly vulgar; landscape paintings and nature paintings were clearly superior to historical paintings; achieving linear perspective was an error, not a goal; statuary was almost exclusively religious; poetry was an invariably social pursuit; and the highest forms of art were flower arranging and tea ceremony. Needless to say, these values were nearly completely overturned after Japan was reopened to engagement with the West. In France, artists under the spell of <em><span lang="fr">Japonisme</span></em> (notably, van Gogh and Toulouse-Lautrec) were strongly influenced by <em>ukiyo-e</em> rather than “higher” forms of visual art like <em>sumi-e</em> <span lang="ja">墨絵</span>.<aside id='footnote-fn5-24'>See Joseph Masheck’s introduction to <em>Composition</em> (especially 25&ndash;30) for an account of the roles of <span class="smallcaps">Okakura</span> Kakuzō and Ernest Fenollosa in bringing Japanese compositional techniques to American art.</aside> Too much has been written about the shift to linear perspective in the Renaissance and its greater implications for a shift in patterns of thought to attempt a summary here, but suffice it to say that just as the shift from the reverse perspective of medieval Christian iconography required a shift of mindset in the West, a similar change was necessary in the East in order to move away from the traditional zig-zagging perspective of traditional Asian landscape painting. Similarly, Western statuary had been transformed from religious to secular during the Renaissance as a byproduct of the iconoclasm of earlier eras. Western romantic poetry is ideally written by brooding, lonely geniuses. Tea ceremony and flower arranging have never achieved more than fringe acceptance in the West at best. With so many reversals of value happening at once, a crisis of self-confidence in the arts in Japan was only natural. The sole exception to this pattern is the supposed superiority of landscape and nature painting. However, this is only so because Japanese art arrived in the West at a fortuitous time to accelerate the shift away from historic and occasional paintings to landscapes, still life, and eventually abstract art in part because of the embrace of <em>ukiyo-e</em> by <em><span lang="fr">Japonisme</span></em>.</p>
 
 <p>If there is any lesson to be gleaned from this cultural clash, it must be our reception to art cannot be separated from the culture at large. When Japan found itself face-to-face with the West politically and technologically, an aesthetic confrontation was sure to follow. At the same time, however, the arts of Japan did not simply collapse in the face of Western pressures. Rather, they adapted to the crisis by developing various potentials that were hidden in the matrix of past artistic choices. For example, Masaoka Shiki took the longstanding trend towards a separation between <em>renga</em> <span lang="ja">連歌</span> and individual poems and formalized it by coining the term haiku <span lang="ja">俳句</span> to refer to these poems. While in retrospect the antecedents of this separation are evident in the work of his predecessors, it was pressure from the West that caused Shiki to draw out the distinction explicitly. A similar dynamic of Western pressure causing the reevaluation of past artistic values is evident in <em>The Book of Tea</em> by <span class="smallcaps">Okakura</span> Kakuzō.</p>
 
-<h4><span class="smallcaps">Okakura</span> Kakuzō</h4>
+<h4 id='header70'><span class="smallcaps">Okakura</span> Kakuzō</h4>
 
 <p><span class="smallcaps">Okakura</span> Kakuzō (<span lang="ja">岡倉覚三</span>, 1862&ndash;1913), also known as <span class="smallcaps">Okakura</span> Tenshin (<span lang="ja">岡倉天心</span>), was born in Yokohama, Japan. Commodore Perry had recently opened Japan to foreign trade and influence, and by the time of Okakura’s childhood, Yokohama had become a bustling center for the influx of Western goods and ideas. According to Christopher Benfey, Okakura learned English in the missionary school of James Hepburn at a young age (<em>Great Wave</em>, 77), and throughout his life, Western acquaintances were struck by how fluent and elegant his English was. (Okakura published three books in English during his lifetime that were made available in Japanese only after his death.<aside id='footnote-fn5-25'>A supposed fourth book entitled <em>Awakening of the East</em> was published after Okakura’s death based on his notes. See Kinoshita, “Distance Between East and West” for an extensive criticism of the use made of this fourth book by Japanese nationalists.</aside>) After Okakura’s initial Western education, his father was alarmed to realize his son was illiterate in Japanese and sent him to a Buddhist temple to receive traditional training in the Eastern classics (78). Following this, Okakura graduated from Tokyo Imperial University, an institute then dedicated to bringing Western learning to Japan. As a result of his upbringing, Okakura was always something of a hybrid: appearing Japanese but fluent in English, knowledgeable about the East but initially educated by the West, wearing in a suit when in Japan but costumed in a kimono when in Boston. In that sense, Okakura lived his life as an embodiment of the conflicting values of Meiji era of Japan (1868&ndash;1912). Just as Japan was opening itself up to Western values and trying to decide how to integrate them into its culture, so too, Okakura lived his life traveling the world attempting to defend what he thought to be Japan’s artistic and cultural legacy while also looking towards its future. He simultaneously sought to reverse the radical Westernization of Japan and to advance Japan’s development as a civilization and a world power.</p>
 
@@ -2138,7 +2441,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>In spite of these shortcomings of its author, <em>Book of Tea</em> itself is a remarkable work, and it must be examined on its own terms.</p>
 
-<h4><em>The Book of Tea</em> and tea ceremony</h4>
+<h4 id='header71'><em>The Book of Tea</em> and tea ceremony</h4>
 
 <p>In an introduction to one version of <em>The Book of Tea</em>, Soshitsu Sen XV praises it and declares,</p>
 
@@ -2180,7 +2483,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>Okakura’s attempt to bring the values of tea ceremony to the West is inspiring in many ways. He is to be applauded for his role in ensuring that the exchange of cultures in the age of globalization has not been an entirely one-sided affair. Though “Teaism” never spread beyond the borders of Japan, Okakura nevertheless successfully aided the positive hybridization of global culture through his promotion of the ideal of tea, and the positive reverberations of his work can be seen throughout the world.</p>
 
-<h3>Conclusion</h3>
+<h3 id='header72'>Conclusion</h3>
 
 <p>In this chapter, I have attempted to complete our reconstruction of aesthetics by looking at theories of art as a further systemization of aesthetic experience and judgment. In <em>Milieu</em>, Watsuji claims that,</p>
 
@@ -2201,9 +2504,9 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 		</div>
 
 		<div class="chapter6">
-<h2>Chapter 6. Beyond the Bounds of Aesthetics: Criticism, Genius, and Culture</h2>
+<h2 id='header73'>Chapter 6. Beyond the Bounds of Aesthetics: Criticism, Genius, and Culture</h2>
 
-<h3>Deconstructing aesthetics</h3>
+<h3 id='header74'>Deconstructing aesthetics</h3>
 
 <p>In this dissertation, I have attempted to apply the anthropology and methodology of <span class="smallcaps">Watsuji</span> Tetsurō to aesthetics. Accordingly, I have restored awareness of the unity underlying aesthetic experience (chapter three) and reconstructed the subject of aesthetic judgment and taste (chapter four) and objects of art theory (chapter five). The final step in the hermeneutic method outlined in chapter two is to deconstruct aesthetics into its most general components. How could such hermeneutic destruction be possible? As Watsuji writes in <em>Study of Ethics</em>, “self-awareness (<em>jikaku</em> <span lang="ja">自覚</span>) of particularity is the only path (<em>michi</em> <span lang="ja">道</span>) by which to go beyond particularities” (WTZ 10:49). Abstract theory must be grounded on the basis of concrete experience. A total deconstruction of aesthetics is beyond the scope of this work, but I do wish to end with an examination of one phenomenon in aesthetics that cuts through the range of aesthetic experience, aesthetic judgment, and theories of art; namely, the phenomenon of genius. Genius is something that goes beyond the boundaries of its context of creation and manifests itself throughout space and time, hence it is a fitting emblem of the kind of deconstruction of aesthetics at which I wish to aim.</p>
 
@@ -2215,7 +2518,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>Finally, I wish to conclude with a concrete discussion of Murasaki Shikibu <span lang="ja">紫式部</span>, a genius of Japanese literature and author of <em>The Tale of Genji</em> (<em>Genji Monogatari</em> <span lang="ja">源氏物語</span>), as well as the critics who were vital to our reception of her work.</p>
 
-<h3>Criticism and empathy</h3>
+<h3 id='header75'>Criticism and empathy</h3>
 
 <p>Both individuality and sociality are necessary for artistic creation. In the past it may have been that these two aspects of artistic creation were not well distinguished,<aside id='footnote-fn6-1'>For example, as discussed in chapter four, in a linked verse meeting, the line between critic and creator is only temporary. Each participant at the meeting will take turns playing each role as the night goes on. Nevertheless, conceptually speaking, it is clarifying to consider these roles as distinct aspects of a greater phenomenon.</aside> but in our contemporary culture at least, the social pole of this process has been institutionalized as “criticism.” Let us refer to the individual pole of the process as “genius.” Artistic creativity comes from the intersection of genius and criticism as a double negation. The artist may retreat to the studio alone to create a work, but when the work is done it must be presented to the public for appreciation. Without some individuality, there would be no novelty to the work. It would only present the preexistent ideas of the group. On the other hand, without sociality there could be no individuality. The ideas that the individual creatively enhances come from the history and milieu of the group and must return to the group if they are to have any future efficacy. The works of the individual require the group for its evaluation. Genius, however radical and new it may be, is always an extension of existing art history, and purported genius that does not affect the future growth of art history is not true genius.</p>
 
@@ -2247,7 +2550,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>If we reexamine aesthetic experience in light of the importance of empathy to criticism, we find that the “disinterest” of “disinterested enjoyment” refers not to any lack of interest for the object, but a disinterest in the prerogatives of the ordinary self. By looking on an object with empathy, we are able to appreciate what is good for the object apart from how the object could be instrumentally good for us. In the moment of ecstatic unity with the object, we do not seek to annihilate it or change it, but delight in its being what it is. It is for this reason that Buddhists and other religious practitioners claim that taking up the perspective of the non-dual no self (<em>muga</em> <span lang="ja">無我</span>) leads us to look with a gaze of compassion. In the feeling of beauty we get the sense that everything is in its right place and take joy from the dynamic goodness of the object as a whole. The role of the critic is to form a space in which the ordinary self can be set aside and the perspective of non-duality underlying ordinary experience can be uncovered.</p>
 
-<h3>Individuality and sociality in genius</h3>
+<h3 id='header76'>Individuality and sociality in genius</h3>
 
 <p>If criticism is the name we apply to the social pole of creative evolution as double negation, genius is the name of the individual pole of that relationship. However, can we consider genius as a purely individual phenomenon or must we also consider its relationship to a critical milieu?</p>
 
@@ -2283,9 +2586,9 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>The activity of crossing from one world into another is valuable because it is this process that uncovers the seams of cleavage in ordinary experience. We feel differences by contrasting them, so movement from one world to another is the only way to uncover the structures that give a world its shape. This is why theory and understanding are so often retroactive rather than prospective. Only once the contrast has been experienced is its meaning clear. Because of this, our search for the most general form of aesthetics must be conducted in and through particulars. Genius creates something particular and great in private, then this private greatness reconfigures the values of the public by communicating this private feeling to each individually as well as to all collectively. Hence a truly thorough deconstruction of aesthetics cannot overlook the importance of the nation as the broadest context in which a unified culture is disseminated. To understand this process in greater depth I must next make a slight detour into the nature of private and public values in the realm of national politics.</p>
 
-<h3>The public/private distinction</h3>
+<h3 id='header77'>The public/private distinction</h3>
 
-<h4>Totalitarian and liberal extremes</h4>
+<h4 id='header78'>Totalitarian and liberal extremes</h4>
 
 <p>Conceptually, we can distinguish two extreme methods for determining the degree of separation between public and private values. The first extreme is a form of totalitarianism in which public and private values are one. No individual person may possess a value without authorization by the state, and vice versa, the values endorsed by society as a whole must also be upheld by each person individually. The opposite extreme is a form of liberalism in which private and public values have no intersection. Each individual may possess whatever private values he or she likes, but that individual is forbidden from imposing these private values onto the public as a whole, and, vice versa, the public is forbidden from altering the private values of any of its members. What is shared by these caricatures of totalitarian and liberal positions is a lack of dynamism. The line between the personal and the political is fixed where it is fixed, and there can be no alteration of the line, whether to allow more personal latitude in the case of a totalitarian state or to allow public recognition of private feeling in the case of liberalism.</p>
 
@@ -2305,7 +2608,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>Of course, my purpose in this dissertation is not to debate the nature of the state but to explain the role of the subject and object in aesthetics, but I feel that this explanation would be incomplete without some reference to the dynamic interplay of public and private value feelings in double negation as well as the political implications of Watsujian thinking. Aesthetic genius depends critically on the ability of private and public values to interchange.</p>
 
-<h4>Watsuji on the nature of public and private</h4>
+<h4 id='header79'>Watsuji on the nature of public and private</h4>
 
 <p>The first volume of Watsuji’s <em>Study of Ethics</em> approaches the public/private distinction from two directions. The first is to explain the private experience of time and space in terms of public experiences like communication, news, and so (WTZ 10:152&ndash;62). The second is to explain the public experiences of various social structures (couples, families, cultures, states, etc.) in terms of the private experience of solidarity (WTZ 10:330&ndash;36).</p>
 
@@ -2337,7 +2640,7 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>One criticism that has been raised of Watsuji’s system is that these publics are structured in a rigid hierarchy from the couple up to the state. The downside of such a rigid hierarchy is that, especially in his war era writings, he may make it seem that the state is synonymous with the absolute totality out of which individuals and collectives emerge (that is, emptiness), and that the individual must in all cases return to a national totality. Even from his own perspective, it must be emphasized that any concretely realized collective is as empty as the individual, hence it would be wrong for the nation to be conflated with absolute emptiness. At best, the nation is able to <em>symbolize</em> the absolute in which there is no privacy or exclusion, but it can never itself <em>be</em> such an absolute. Treating it as a such is the root of many excesses and errors. That Watsuji himself seems to do so in some of his writings should be seen as a warning to us of the terrible importance of describing the structure of human existence correctly.</p>
 
-<h3>The necessity of both idols and iconoclasm</h3>
+<h3 id='header80'>The necessity of both idols and iconoclasm</h3>
 
 <p>Watsuji’s critics often contend that his system subordinates religion in the service of the state, because he takes the state to be the public that symbolizes the absolute. These criticisms are not without merit but must placed within the broader context of Watsuji’s life and career. In his very earliest years, he followed the English Romantics, Bernard Shaw, and even Nietzsche in rejecting religion as an outmoded influence on society, but as time went on he began to reconsider its importance. By the time of his <em>Revival of the Idols</em> (1918), Watsuji had begun to understand religion as an important determinant in the evolution of culture. Where for Nietzsche “idols” represent congealments of life that ought to be destroyed, Watsuji saw also their positive role in the progression of life. In “The Psychology of Idol Worship,”<aside id='footnote-fn6-7'>“The Psychology of Idol Worship” is <em>Gūzō Sūhai no Shinri</em> <span lang="ja">偶像崇拝の心理</span> (WTZ 17:276&ndash;84).</aside> Watsuji explores the mindset of those Japanese who first accepted the foreign importation of Buddhism to Japan. In it, Watsuji writes,</p>
 
@@ -2387,9 +2690,9 @@ hating separation, birds alarm the heart.<aside id='footnote-fn4-25'>Translation
 
 <p>In this passage, Watsuji waxes purple about the possibility of a more ecstatic existence. Thus we see that for the early Watsuji, religion is not just a means of ethnic self-expression whereby the state comes to enlist higher ideals for its legitimation. At its best, religion is a means to aesthetic appreciation of the eternal in every moment. The difficulty is that over time religions inevitably evolve into mere “idol worship” and must be smashed by iconoclasm so that the innate impulse to religiosity can find new and better ways of expressing itself without being stifled by frozen conceptions of how things ought to be. While this understanding of religion does not make up for the shortcomings of Watsuji’s later “idolization” of the state, it helps put into perspective how such idolization came about, in that he came to identify the state with that power driving the cycle of idolization and iconoclasm forward. Properly understood, however, we should see the power of genius that deepens the development of creative novelty in history like a pedestal to the unknown God&#8202;&mdash;&#8202;the anticipation of a presence ever deferred.</p>
 
-<h3>The genius of Murasaki Shikibu</h3>
+<h3 id='header81'>The genius of Murasaki Shikibu</h3>
 
-<h4><em>The Tale of Genji</em></h4>
+<h4 id='header82'><em>The Tale of Genji</em></h4>
 
 <p>To illustrate my arguments about the interplay of criticism and genius, I will now examine the work, world, an critical reception of Murasaki Shikibu (<span lang="ja">紫式部</span>, 973?&ndash;1014? or 1025?), the author of <em>The Tale of Genji</em> (<em>Genji Monogatari</em> <span lang="ja">源氏物語</span>, c. 1010).  <em>The Tale of Genji</em> is a vast literary work (sometimes called “the first novel”) suffuse with a particular expression of empathy that Watsuji an “infinite emotion” (WTZ 4:151). According to Royall Tyler, one of the many translators of <em>Genji</em>, the following praise by Montaigne of Homer applies to Murasaki in a near perfect parallel:</p>
 
@@ -2449,7 +2752,7 @@ ever let himself be drawn to abandon the sweet flag? (1:460)</p></blockquote>
 
 <p>Only by giving up the perspectives of our ordinary selves can we fully enter into the world of the text and its seemingly strange customs and culture.</p>
 
-<h4>The world of Murasaki Shikibu</h4>
+<h4 id='header83'>The world of Murasaki Shikibu</h4>
 
 <p>We do not know what name the woman now known to history as “Murasaki Shikibu” <span lang="ja">紫式部</span> used in life, nor can we be sure of her year of birth, her year of death, or indeed even if she was the sole author of <em>The Tale of Genji</em> as we have it today. We do know that her father, Fujiwara no Tametoki <span lang="ja">藤原為時</span>, served for a time in the Ministry of Ceremony (<em>Shikibu-shō</em> <span lang="ja">式部省</span>), hence the use of “Shikibu” today. “Murasaki,” which means violet, is commonly thought to refer to the heroine of <em>The Tale of Genji</em>, one of Genji’s primary wives, but it could perhaps also refer to the color of her family flower, the wisteria (<em>fuji</em> <span lang="ja">藤</span>), or to a poem in the <em>Kokinshū</em> <span lang="ja">古今集</span>, an imperial poetry anthology (Morris, 252, n. 2). Murasaki was probably born between 973 and 977 (Bowring, 9 and Morris, 254) and may have died as early as 1014 or as late as 1031 (Bowring, 15, Morris, 255 and Tyler, Introduction, xvii).</p>
 
@@ -2471,7 +2774,7 @@ ever let himself be drawn to abandon the sweet flag? (1:460)</p></blockquote>
 
 <p>This surely is the greatest testament to the genius of <em>The Tale of Genji</em> and its author: that it draws us into its world not by minimizing the differences between its world and our own but by inviting us to give up our attachment to our ordinary self and to look deeply into what Morris calls “an authentic picture of a beautiful and most intriguing world” (289).</p>
 
-<h4><em>Genji</em> and the critical tradition</h4>
+<h4 id='header84'><em>Genji</em> and the critical tradition</h4>
 
 <p>The earliest bit of “critical reception” to <em>The Tale of Genji</em> that we have outside of Murasaki’s own diary is by the thirteen year old author of the Sarashina Diary (<em>Sarashina nikki</em> <span lang="ja">更級日記</span>, c. 1022):</p>
 
@@ -2539,7 +2842,7 @@ ever let himself be drawn to abandon the sweet flag? (1:460)</p></blockquote>
 
 <p>Transcending the bounds of the ordinary and creating a new world full of new possibilities as genius does is possible only in and through a thorough attentiveness to the world there is. Thereby we open up the interiority of that world and expose it as an embodiment of those values that go beyond what can be said. <em>The Tale of Genji</em> is such a work of genius and its author is to be remembered for the way she crystallized the world around her as an expression of her own personality. As Watsuji puts it, “<em>Mono no aware</em> is a flower that bloomed in a woman’s heart” (WTZ 4:154).</p>
 
-<h3>Conclusion</h3>
+<h3 id='header85'>Conclusion</h3>
 
 <p>In this chapter, I have attempted to perform a hermeneutic deconstruction of the aesthetics of genius. We have seen that the genius and the critic are not antagonists, but two sides of a single process. Private values are nurtured by the genius and spread through out the public by the critic. Over time, these values become hardened, and it becomes the task of a new genius to smash them open in search of a more beautiful expression of the absolute. <em>The Tale of Genji</em> is one such work of genius, notable in particular for the pervading sense of <em>mono no aware</em> or “the pathos of things” present in it. Its author, Murasaki Shikibu, captured in a highly culturally particular form a feeling that is shared throughout the human condition in general.</p>
 
@@ -2609,9 +2912,9 @@ ever let himself be drawn to abandon the sweet flag? (1:460)</p></blockquote>
 <p>Union   Achievement of contact.
 Unity   Primordial state of non-duality.</p>
 
-<h2>Glossary</h2>
+<h2 id='header86'>Glossary</h2>
 
-<h3>Japanese</h3>
+<h3 id='header87'>Japanese</h3>
 
 <p>おもて
 がある
@@ -2725,17 +3028,17 @@ Unity   Primordial state of non-duality.</p>
 風土的
 風土的に</p>
 
-<h3>Chinese</h3>
+<h3 id='header88'>Chinese</h3>
 
-<h3>French</h3>
+<h3 id='header89'>French</h3>
 
-<h3>German</h3>
+<h3 id='header90'>German</h3>
 
-<h3>Greek</h3>
+<h3 id='header91'>Greek</h3>
 
-<h3>Latin</h3>
+<h3 id='header92'>Latin</h3>
 
-<h3>Sanskrit</h3>
+<h3 id='header93'>Sanskrit</h3>
 
 		</div>
 
@@ -2753,7 +3056,7 @@ Morohashi</p>
 
 <p>和辻哲郎 人格から間柄へ (再発見 日本の哲学) 宮川 敬之</p>
 
-<h2>Works Cited</h2>
+<h2 id='header94'>Works Cited</h2>
 
 <ul>
 <li><p>Ames, Roger T. and Henry Rosemont, trans. <em>The Analects of Confucius: A Philosophical Translation</em>. New York: Ballantine, 1998.</p></li>
