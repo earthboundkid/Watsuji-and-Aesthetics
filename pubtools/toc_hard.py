@@ -2,13 +2,11 @@ import re
 
 #Finds all headings.
 _RE_HEADINGS = re.compile(r'<h(\d)>(.*?)</h(\d)>')
-_HEADER_T    = "{} id='header{}'{}"
-_OL_START    = "<ol>\n"
-_OL_STOP     = "</ol>\n"
-_OLI_START   = "<li><ol>\n"
-_OLI_STOP    = "</ol></li>\n"
-_LINK_T      = "<a href='#header{}'>{}</a>\n"
-_LI_T        = "<li><a href='#header{}'>{}</a></li>\n"
+
+#Templating strings.
+_make_header    = "{} id='header{}'{}".format
+_tab = "\t{}".format
+_link = "\t<a href='#header{}'>{}</a>".format
 
 class Matchhandler:
     def __init__(self):
@@ -31,31 +29,47 @@ class Matchhandler:
         self.matches.append( (heading_depth, heading_text, self.count) )
         
         #Shove an ID into the header.
-        return _HEADER_T.format(heading_full[:3], self.count, heading_full[3:])
+        return _make_header(heading_full[:3], self.count, heading_full[3:])
     
     def create_toc(self):
-        return '\n'.join(_toc_helper(self.matches))
+        matches = self.matches[::-1]
+        return '\n'.join(_node(matches, 2))
+        assert False
 
 
-
-def _toc_helper(matches):
-    yield _OL_START
-    old_depth = min_depth = 2
-    
-    for depth, text, id in matches:
-        if depth > old_depth and depth > min_depth:
-            yield _OLI_START * (depth - max(old_depth, min_depth) )
-            old_depth = depth
-        elif depth < old_depth:
-            yield _OLI_STOP * (old_depth - max(depth, min_depth))
-            old_depth = depth
+def _node(matches, node_depth):
+    yield "<ol>"
+    while True:
+        if not matches: break
+        depth, text, id = matches.pop()
         
-        yield _LI_T.format(id, text)
+        if depth < node_depth:
+            matches.append( (depth, text, id) )
+            break
+        
+        elif depth > node_depth:
+            yield "\t<li>"
+            matches.append( (depth, text, id) )
+            for output in _node(matches, depth):
+                yield _tab(output)
+            yield "\t</li>"
+        
+        else: #equal depth
+            yield "\t<li>"
+            yield _link(id, text)
+            
+            #We need to look ahead before closing the list item
+            
+            if matches:
+                depth, text, id = matches.pop()
+                matches.append( (depth, text, id) )
+                if depth > node_depth:
+                    for output in _node(matches, depth):
+                        yield _tab(output)
+            
+            yield "\t</li>"
     
-    #Clean up remaining OLs
-    yield _OL_STOP * max(old_depth - min_depth, 0)
-    
-    yield _OL_STOP
+    yield "</ol>"
 
 def add_toc(text, replacestring="<toc />"):
     m = Matchhandler()
