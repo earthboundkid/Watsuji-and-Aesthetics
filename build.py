@@ -13,7 +13,7 @@ def make_filepath(filename, path=DEFAULT_PATH):
 
 
 METADATA =  {
-    "lineheight": "2",
+    "lineheight": "1.5",
     "title": "Dissertation: Watsuji Tetsurō and the Subject of Aesthetics",
     "subject": "",
     "keywords": "",

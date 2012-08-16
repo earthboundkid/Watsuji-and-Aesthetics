@@ -4,7 +4,7 @@
 - - - - -
 
 
-##List of Figures
+##List of Figures
 
 * Figure 1.
 

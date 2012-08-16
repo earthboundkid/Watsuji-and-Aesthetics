@@ -203,6 +203,12 @@
       content: leader('\B7 ') " " target-counter(attr(href), page);
       font-style: normal;
     }
+    /*HACK, HACK, HACK*/
+    li:contains(" ") a[href^="#"]::after {
+      content: leader('\B7 ') " " target-counter(attr(href), page, lower-roman);
+      font-style: normal;
+    }
+    
     /* Normal stuff */
     li {
         list-style-position: outside;
@@ -221,12 +227,8 @@
       text-indent: 0;
       padding-left: .25in;
     }
-    li ol, li ul { /*Scoot over as you nest lists */
-        margin-left: .25in;
-    }
-    /* Scoot down a bit after a top level list item*/
-    ol > li {
-        margin-bottom: 1em;
+    li li ol, li li ul { /*Scoot over as you nest lists*/
+        margin-left: .3625in;
     }
     ol li {
         list-style-type: none;
@@ -237,6 +239,22 @@
         padding-right: .0625in;
         margin: 0;
     }
+    /* TOC specific */
+    .toc li {
+        line-height: 2;
+        list-style-position: inside;
+    }
+    .toc li::marker {
+        padding: 0;
+    }
+    .toc li li::marker {
+        display: inline-block;
+        padding: 0;
+        width: .30in;
+        text-align: left;
+        /*background-color: blue;*/
+    }
+
     /* There used to be code here to make the 
     I. 
       A. 
@@ -501,7 +519,26 @@
 }
 @page letter:left {
 }
-@page:first {
+
+@page frontmatter {
+  size: letter;
+  margin:     1in;
+  padding:    0;
+  @bottom-center {
+    margin:         0;
+    font:           1em Palatino, "Book Antiqua", serif;
+    content:        counter(page, lower-roman);
+    vertical-align: center;
+  }
+  @top-center {
+    font:       1em Palatino, "Book Antiqua", serif;
+    text-align: center;
+    content:    string(doctitle);
+    text-transform: uppercase;
+  }
+}
+
+@page:frontmatter {
   @top-right { 
     content: "" !important; /* Safari bug. */
     content: normal !important;
@@ -511,54 +548,6 @@
     content: normal !important;
   }
 }
-
-@page lands { 
-  size: letter landscape;
-  margin:     .5in;
-  margin-top: .5in;
-  padding:    0;
-  @top-right {
-    margin:         0;
-    font:           10pt Palatino, "Book Antiqua", serif;
-    content:        counter(page);
-    vertical-align: bottom;
-  }
-}
-
-@page lands:first {
-  @top-right { 
-    content: ""; /* Safari bug. */
-    content: normal;
-  }
-}
-
-@page tightlands { 
-  size: letter landscape;
-  margin:     .25in;
-  margin-top: .25in;
-  padding:    0;
-  @bottom-right {
-    content:  ""; /* Safari bug. */
-    content: normal;
-  }
-}
-
-/*@page :left {
-  @top-left {
-    margin:         0;
-    font:           .75em "Palatino", serif;
-    content:        counter(page);
-    vertical-align: center;
-  }
-}
-@page :right {
-  @top-right {
-    margin:         0;
-    font:           .75em "Palatino", serif;
-    content:        counter(page);
-    vertical-align: center;
-  }
-}*/
 
 hr {
     page-break-after: always;
@@ -660,3 +649,12 @@ hr + h1 {
 div {
     page-break-before: always;
 }
+
+.frontmatter {
+    page: frontmatter;
+}
+
+.bodytext {
+    counter-reset: page 1
+}
+
