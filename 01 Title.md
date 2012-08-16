@@ -1,8 +1,12 @@
 title: Dissertation
 
-#Watsuji Tetsurō and Subject of Aesthetics
+#Watsuji Tetsurō *and*<br /> The Subject of Aesthetics
 
 A Dissertation submitted to the graduate division of the University of Hawaiʻi at Mānoa in partial fulfillment of the requirements for the degree of 
+
+&nbsp;
+
+&nbsp;
 
 Doctor of Philosophy
 
@@ -30,4 +34,8 @@ Arindam Chakrabarti <br />
 Masato Ishida <br />
 David Ashworth
 
-Keywords: Watsuji Tetsurō, Japanese philosophy, aesthetics, subjectivity, objectivity, beauty
+&nbsp;
+
+&nbsp;
+
+Keywords: Watsuji Tetsurō, Japanese philosophy, aesthetics,<br/>subjectivity, objectivity, beauty

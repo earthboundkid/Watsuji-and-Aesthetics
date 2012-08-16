@@ -20,7 +20,10 @@
     }
     h1 {
         /*font-variant: small-caps;*/
-        font-size: 1.2em;
+        font-size: 28pt;
+        text-align: center;
+        margin-top: 1.5in;
+        margin-bottom: 1in;
     }
     h2 {
         font-size: 1.1em;
@@ -75,7 +78,7 @@
     }
 
 /*Margins*/
-    h1, h2, h3, h4 {
+    h2, h3, h4 {
         margin-top: 1em;
         margin-bottom: 0;
     }
@@ -502,10 +505,10 @@
   margin:     1in;
   padding:    0;
   @bottom-center {
-    margin:         0;
+    margin-bottom:  .75in;
     font:           1em Palatino, "Book Antiqua", serif;
     content:        counter(page);
-    vertical-align: center;
+    vertical-align: bottom;
   }
   @top-center {
     font:       1em Palatino, "Book Antiqua", serif;
@@ -525,10 +528,10 @@
   margin:     1in;
   padding:    0;
   @bottom-center {
-    margin:         0;
+    margin-bottom:  .75in;
     font:           1em Palatino, "Book Antiqua", serif;
     content:        counter(page, lower-roman);
-    vertical-align: center;
+    vertical-align: bottom;
   }
   @top-center {
     font:       1em Palatino, "Book Antiqua", serif;
@@ -538,12 +541,8 @@
   }
 }
 
-@page:frontmatter {
-  @top-right { 
-    content: "" !important; /* Safari bug. */
-    content: normal !important;
-  }
-  @bottom-right { 
+@page frontmatter:first {
+  @bottom-center { 
     content: "" !important; /* Safari bug. */
     content: normal !important;
   }
@@ -658,3 +657,12 @@ div {
     counter-reset: page 1
 }
 
+.titlepage {
+    font-variant: small-caps;
+    text-align: center;
+}
+.titlepage p {
+    text-indent: 0;
+    width: 100%;
+    text-align: center;
+}
