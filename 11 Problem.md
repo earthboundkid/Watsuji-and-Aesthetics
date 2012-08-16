@@ -10,9 +10,6 @@ title: The Problem of Aesthetic Subjectivity
 [la]: lang:la
 
 ##Chapter 1. The Problem of Aesthetic Subjectivity
-####Contents:
-<toc />
-
 ###Problem of subjectivity and objectivity in aesthetic judgment
 The central question in the study of aesthetics is the question of subjectivity. To put the question in its popular form, we wish to know whether “beauty is in the eye of the beholder” before we answer all of the other questions that arise about art, meaning, representation, form, and so on. This question is central because it is the axis around which turns our practical engagement with aesthetics: we experience beauty personally, we share our experience of beauty with others, and we create new beautiful things. In doing so, we wonder whether this beauty is really something separate from ourselves or just a golden mirror of our own pleasant dispositions. Without knowing this, all of our other aesthetic questions will have at their basis something unsure. But evocative though it may be, the meaning of this question as phrased is yet unclear (what could it mean to be in the eye of a beholder?), hence we must make some attempt at clarifying it before an initial answer can be suggested and the topic directly pursued.
 

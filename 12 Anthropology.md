@@ -9,14 +9,7 @@ body-class: unnumbered
 [de]: lang:de
 [fr]: lang:fr
 
-* Carl M. Johnson
-
-* May 15, 2012
-
 ##Chapter 2. Anthropology and Methodology
-####Contents:
-<toc />
-
 ###Ethics as first philosophy
 Having raised the question of subjectivity and objectivity in aesthetics, where should we begin our investigation? I will argue that [Watsuji][sc] Tetsurō was right to suggest that our first philosophy must be _ningen no gaku to shite no rinrigaku_ [人間の学としての倫理学][ja]---“the study of ethics as the study of human beings”---and that this must be the basis of our theory of aesthetics. To understand the relationship between the subject and object of aesthetics, we must first understand who is having an aesthetic experience and why. Immanuel Kant famously concludes the _Critique of Pure Reason_ with three questions---“What can I know? What ought I to do? What may I hope?”---to which he later adds a fourth---“What is a human being?”[^fn2-1] Though the questions are hopelessly intertwined the fourth may be said to contain the other three. Through a philosophical anthropology, we learn what we as human beings may know, what we ought to do as the sort of beings which we are, and what aspirations are rational for us to have. Similarly, our understanding of how aesthetics is possible will be critically shaped by our philosophical anthropology.
 

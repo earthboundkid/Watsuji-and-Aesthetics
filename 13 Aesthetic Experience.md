@@ -9,14 +9,7 @@ body-class: unnumbered
 [de]: lang:de
 [fr]: lang:fr
 
-* Carl M. Johnson
-
-* May 15, 2012
-
 ##Chapter 3. Aesthetic Experience as Distancing, Dissolution, and Disinterest
-####Contents:
-<toc />
-
 ###Defining aesthetics
 Before describing the nature of aesthetic experience, I wish to explore the meaning of the word “aesthetics” itself. Although ancient Greek word [αἰσθητά][el] is the source of the contemporary word “aesthetics,” the meanings of the two are quite different. [Αἰσθητά][el], the sensible, came from the root [αἰσθάνομαι][el] (“I perceive”) and was opposed to [νοητά][el], the intelligible, and not directly connected to the perception of beauty or other “aesthetic” feelings.[^fn3-1] “Aesthetics” was only given its current meaning in eighteenth century by Baumgarten in his *Aesthetica* (1750), which attempts to create a science of beauty by connecting it to our perception. Kant, however, sought to restore the ancient Greek meaning to the word. In the _Critique of Pure Reason_, he objects that Baumgarten’s use of the term “aesthetic” to refer to “the critique of taste” is misguided, since the endeavor to place “our critical judging of the beautiful under rational principles” is “futile” because “those rules or criteria are merely empirical” and not “determinate a priori laws” (A 21.n). Nevertheless, Kant appears to have somewhat revised his views by the time of the _Critique of Judgment_.
 
