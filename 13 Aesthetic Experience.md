@@ -142,7 +142,7 @@ To bring concrete focus to this discussion, I will next examine the theater, whi
 [^fn3-17]: Said of Noh by René Sieffert as quoted in Leonard Pronko, _Theater East and West_, 75. I believe this applies equally to Greek tragedy.
 
 ####Aristotle on the role of catharsis
-No discussion of the aesthetic experience of the theater is complete without at least a mention of Aristotle’s theory of catharsis. For Aristotle, achieving catharsis is the goal or [τέλοϛ][el] of tragedy. In his _Poetics_, he defines tragedy as,
+No discussion of the aesthetic experience of the theater is complete without at least a mention of Aristotle’s theory of catharsis. For Aristotle, achieving catharsis is the goal or [τέλος][el] of tragedy. In his _Poetics_, he defines tragedy as,
 
 > a representation of an action that is heroic and complete and of a certain magnitude […] through pity and fear it effects relief to these and similar emotions. (§6.II, 1449b)
 
