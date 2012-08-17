@@ -1,17 +1,19 @@
+
+[sa]: lang:sa
+[zh]: lang:zh
+[ja]: lang:ja
+[sc]: class:smallcaps
+[el]: lang:el
+[de]: lang:de
+[fr]: lang:fr
+[la]: lang:la
+
+##Glossary
 Union	Achievement of contact.
 Unity	Primordial state of non-duality.
 
-##Glossary
-###Japanese
 
 ###Chinese
-###French
-###German
-###Greek
-###Latin
-###Sanskrit
-
-###Chinese terms
 * _Li_ 禮 — Ritual propriety, rites, ritual action. A central virtue in Confucianism, _li_ is at once the attitude one is supposed to take during ritual action and the ritual action itself.
 
 * _Liangxin_ 良心 — Conscience. Literally, good functioning of heart-mind. In _Mencius_, Mencius explains that we are all born with a good heart that will allow us to distinguish right from wrong, but only some of us preserve and grow the seeds of this ability. 
@@ -20,14 +22,96 @@ Unity	Primordial state of non-duality.
 
 * _Wai_ 外 — External. Cf. _Nei_ 内.
 
-###German terms
-*  _In-der-Welt-sein_ — Heidegger’s Being-in-the-world. Cf. _yo no naka_ 世の中 in Japanese.
+
+###French
+
+###Greek
+- *Agápi̱* [ἀγάπη][el] ---
+
+- *Aisthi̱tá* [αἰσθητά][el] ---
+
+- *Aisthánomai* [αἰσθάνομαι][el] ---
+
+- *Aretí̱* [ἀρετή][el] ---
+
+- *Aísthi̱sis* [αἴσθησις][el] ---
+
+- *Chó̱ra* [χώρα][el] ---
+
+- *Éro̱s* [ἔρως][el] ---
+
+- *Filía* [φιλία][el] ---
+
+- *Í̱thi̱* [ἤθη][el] ---
+
+- *I̱thikós* [ἠθικός][el] ---
+
+- *Kalón* [καλόν][el] ---
+
+- *Kátharsis* [κάθαρσις][el] ---
+
+- *Lógos* [λόγος][el] ---
+
+- *Noi̱tá* [νοητά][el] ---
+
+- *Poiéo̱* [ποιέω][el] ---
+
+- *Storgí̱* [στοργή][el] ---
+
+- *Télos* [τέλος][el] ---
+
+- *Tópos* [τόπος][el] ---
+
+###German
+- *[Darstellung][de]* --- 
+
+- *[Das Man][de]* --- 
+
+- *[Einfühlung][de]* --- 
+
+- *[Einstellung][de]* --- 
+
+- *[Fülle][de]* --- 
+
+- *[Gegenstand][de]* --- 
+
+- *[Geist][de]* --- 
+
+- *[Genießen][de]* --- 
+
+- *[In-der-Welt-Sein][de]* --- Heidegger’s Being-in-the-world. Cf. _yo no naka_ 世の中 in Japanese.
+
+- *[Interesse][de]* --- 
+
+- *[Können][de]* --- 
+
+- *[Mit-teilen][de]* --- 
+
+- *[Nachhängen][de]* --- 
+
+- *[Persönlichkeit][de]*, --- 
+
+- *[Räumen][de]* --- 
 
 * _Rausch_ — Intoxication.
+
+- *[Roden][de]* --- 
 
 * _Schein_ — Semblance.
 
 * _Schönheit_ — Beauty. Notice its connection to _Schein_.
+
+- *[Sein][de]* --- 
+
+- *[Sollen][de]* --- 
+
+- *[uninteressiert][de]* --- 
+
+- *[Welt][de]* --- 
+
+- *[Widerstand][de]* --- 
+
+- *[Wollen][de]* --- 
 
 ###Japanese terms
 * _Aida_ [間][ja] — Also read _ma_, _kan_, _ken_, or _gen_. Betweenness, mediance. As _ma_, a room in a house or the spatial relationship of parts in an aesthetic object or experience. Literally, an interval of space or time. 
@@ -247,3 +331,5 @@ Unity	Primordial state of non-duality.
 [道][ja]
 [道徳][ja]
 [還元・構成・破壊][ja]
+###Latin
+###Sanskrit
