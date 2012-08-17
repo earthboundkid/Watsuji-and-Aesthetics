@@ -5,7 +5,7 @@ INNER = r'\[\^(.*?)\]'
 
 FOOTNOTE_OVERWRITE_WARNING = "{WARNING FOOTNOTE OVERWRITING!}"
 UNKNOWN_FOOTNOTE_WARNING = "{WARNING FOOTNOTE UNKNOWN!}"
-CITATION_TEXT = "<aside id='footnote-%(id)s'>%(note)s</aside>"
+CITATION_TEXT = "<span class='fn' id='footnote-%(id)s'>%(note)s</span>"
 
 
 class Footnote(object):
