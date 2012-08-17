@@ -29,7 +29,7 @@ To shed light on this discussion of aesthetic judgment, let us take simple factu
 
 * (3) Suppose that one is looking a quadrangular table from such an angle that it _appears_ as a square to one’s vision center. Under ordinary conditions, one would nevertheless perceive it aspectivally as quadrangular, since the human vision process naturally corrects for angles of perspective and causes us to experience a square table _as_ square even if it is seen from an angle that makes it seem non-square, and vice versa to see a non-square table as non-square even if it happens to form a square shape from one’s perspective. Similarly, a green apple might appear as reddish under a reddish light, but one’s vision will naturally correct for the apparent color of the apple so that it continues to be seen as green while appearing red.[^] (Normally, only artists are trained to notice the difference between how things seem aspectivally and how they appear non-aspectivally, but it can be noticed without any particular training.)
 
-[^]: See, for example, Adelson’s checkerboard illusion in which two squares of the checker look like different colors though they are actually the same shade of gray: <`http://web.mit.edu/persci/people/adelson/checkershadow_illusion.html`>.∞
+[^]: See, for example, Adelson, “Checkershadow Illusion”: a checkerboard optical illusion in which two squares of the checker look like different colors though they are actually the same shade of gray.
 
 * (4) We might mean that the apple or table will seem red or square to any _suitable spectator_--that is, any time a “normal” human being with ordinary vision, stands a normal distance away under normal lighting conditions, etc., etc. that person will see these things as seeming red or square.
 

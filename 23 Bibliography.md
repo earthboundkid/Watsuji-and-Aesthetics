@@ -15,15 +15,17 @@ Shogakukan’s _Ruigo Jiten_
 
 
 ##Works Cited
+* Adelson, Edward H. “Checkershadow Illusion.” Accessed Summer 2012. `http://web.mit.edu/persci/people/adelson/checkershadow_illusion.html`.
+
 * Ames, Roger T. and Henry Rosemont, trans. _The Analects of Confucius: A Philosophical Translation_. New York: Ballantine, 1998.
 
-* ⎯⎯⎯ and David Hall. _Dao De Jing “Making This Life Significant”: A Philosophical Translation_. New York: Ballantine, 2003.
+* ⎯⎯⎯ and David Hall, trans. _Dao De Jing “Making This Life Significant”: A Philosophical Translation_. New York: Ballantine, 2003.
 
 * Aristotle. _Nicomachean Ethics_. Second Edition. Translated by Terence Irwin. Indianapolis: Hackett, 1999.
 
-* ⎯⎯⎯. _Poetics_. Translated by W. H. Fyfe. Vol. 23 of *Aristotle in 23 Volumes*. Cambridge, MA: Harvard University Press, 1932.
+* ⎯⎯⎯. _Poetics_. In *Aristotle in 23 Volumes*, translated by W. H. Fyfe, vol. 23. Cambridge, MA: Harvard University Press, 1932.
 
-* ⎯⎯⎯. _Politics_. Translated by W. H. Fyfe. Vol. 21 of *Aristotle in 23 Volumes*. Cambridge, MA: Harvard University Press, 1932.
+* ⎯⎯⎯. _Politics_. In *Aristotle in 23 Volumes*, translated by W. H. Fyfe, vol. 21. Cambridge, MA: Harvard University Press, 1932.
 
 * Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” Accessed Spring 2012. `http://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm`.
 
