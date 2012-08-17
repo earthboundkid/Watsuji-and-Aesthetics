@@ -221,9 +221,9 @@ The pattern of double negation in human existence can be subsumed under a more g
 
 [^fn2-17]: _Kangen_ is also translated as “reduction.” For example, see Carter and Yamamoto, 45. However, as explained in the last section, this translation creates a misleading understanding of Watsuji’s project. Taken literally, the characters [還元][ja] mean a “return to the origin,” or as Watsuji writes about _kangen_, “from expressions, it goes back to what was expressed, that is, back to human existence” (WTZ 10:48). The point is not to “reduce” human existence to expressions or vice-versa but to restore by means of expressions our ability to focus attention on lived human existence.
 
-<figure>
+<figure id="fig1">
 ![Figure 1.][f1]
-<figcaption>**Figure 1.**</figcaption>
+<figcaption>**Figure 1.** The structure of unity/division/combination and destruction/construction/restoration.</figcaption>
 </figure>
 
 [f1]: file:///Users/cjohnson/Dropbox/Dissertation/images/udu.png =600

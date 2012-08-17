@@ -226,7 +226,7 @@ To illustrate this theory of aesthetic experience, I used examples taken from th
 
 In the next chapter, I will show how it is that aesthetic judgments and tastes can be shared by exploring the nature of the subject-object division in greater detail.
 
-<figure>
+<figure id="fig2">
 ![Figure 2. Noh mask shown from three angles][mask]
 <figcaption>**Figure 2.** Noh mask shown from three angles, showing three different emotions. Photo credit: Wikipedia.</figcaption>
 </figure>
