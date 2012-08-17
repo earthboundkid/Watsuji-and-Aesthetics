@@ -1,12 +1,14 @@
 import re
 
 #Finds all headings.
-_RE_HEADINGS = re.compile(r'<h(\d)>(.*?)</h(\d)>')
+_RE_HEADINGS = re.compile(r'<h(\d)( class=(.*?))*?>(.*?)</h(\d)>')
+#(r'<h(\d)>(.*?)</h(\d)>')
 
 #Templating strings.
 _make_header    = "{} id='header{}'{}".format
 _tab = "\t{}".format
-_link = "\t<a href='#header{}'>{}</a>".format
+_link_no_class = "\t<a href='#header{}'>{}</a>".format
+_link_w_class = "\t<a href='#header{}' class={}>{}</a>".format
 
 class Matchhandler:
     def __init__(self):
@@ -15,18 +17,20 @@ class Matchhandler:
     
     def __call__(self, matchobj):
         
+        self.count += 1
         
         heading_full  = matchobj.group(0)
         heading_depth = int(matchobj.group(1))
-        heading_text  = matchobj.group(2)
+        heading_class = matchobj.group(3)
+        heading_text  = matchobj.group(4)
         
-        #Special case the title page.
-        if heading_depth == 1:
-            return heading_full
+        if heading_class is None:
+            link_text = _link_no_class(self.count, heading_text)
+        else:
+            link_text = _link_w_class(self.count, heading_class, heading_text)
         
-        self.count += 1
         
-        self.matches.append( (heading_depth, heading_text, self.count) )
+        self.matches.append( (heading_depth, link_text) )
         
         #Shove an ID into the header.
         return _make_header(heading_full[:3], self.count, heading_full[3:])
@@ -34,35 +38,34 @@ class Matchhandler:
     def create_toc(self):
         matches = self.matches[::-1]
         return '\n'.join(_node(matches, 2))
-        assert False
 
 
 def _node(matches, node_depth):
     yield "<ol>"
     while True:
         if not matches: break
-        depth, text, id = matches.pop()
+        depth, text = matches.pop()
         
         if depth < node_depth:
-            matches.append( (depth, text, id) )
+            matches.append( (depth, text) )
             break
         
         elif depth > node_depth:
             yield "\t<li>"
-            matches.append( (depth, text, id) )
+            matches.append( (depth, text) )
             for output in _node(matches, depth):
                 yield _tab(output)
             yield "\t</li>"
         
         else: #equal depth
             yield "\t<li>"
-            yield _link(id, text)
+            yield text
             
             #We need to look ahead before closing the list item
             
             if matches:
-                depth, text, id = matches.pop()
-                matches.append( (depth, text, id) )
+                depth, text = matches.pop()
+                matches.append( (depth, text) )
                 if depth > node_depth:
                     for output in _node(matches, depth):
                         yield _tab(output)

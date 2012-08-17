@@ -206,8 +206,8 @@
       content: leader('\B7 ') " " target-counter(attr(href), page);
       font-style: normal;
     }
-    /*HACK, HACK, HACK*/
-    li:contains(" ") a[href^="#"]::after {
+    
+    li a[href^="#"].roman::after {
       content: leader('\B7 ') " " target-counter(attr(href), page, lower-roman);
       font-style: normal;
     }
@@ -230,8 +230,8 @@
       text-indent: 0;
       padding-left: .25in;
     }
-    li li ol, li li ul { /*Scoot over as you nest lists*/
-        margin-left: .3625in;
+    li ol, li ul { /*Scoot over as you nest lists*/
+        margin-left: .35in;
     }
     ol li {
         list-style-type: none;
@@ -245,7 +245,7 @@
     /* TOC specific */
     .toc li {
         line-height: 2;
-        list-style-position: inside;
+        list-style-position: outside;
     }
     .toc li::marker {
         padding: 0;
@@ -253,7 +253,7 @@
     .toc li li::marker {
         display: inline-block;
         padding: 0;
-        width: .30in;
+        width: .35in;
         text-align: left;
         /*background-color: blue;*/
     }

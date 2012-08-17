@@ -1,7 +1,9 @@
-##Dedication 
+<h2 class="roman">Dedication</h2>
+
 To my wife.
 
 - - - -
 
-##Acknowledgements 
+<h2 class="roman">Acknowledgements</h2>
+
 To come.
