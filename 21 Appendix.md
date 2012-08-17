@@ -1,3 +1,6 @@
+##Appendix
+<!--
+
 Watsuji's no fascist:
 
 Before explaining this distinction in detail, I wish to remark on Sakai's criticism of Watsuji concerning his writings about subjectivity:
@@ -30,6 +33,10 @@ In other words, Sakai is critical of Watsuji's attempt to describe the nature of
 
 [^]: http://catb.org/jargon/html/koans.html
 
-The space in which Watsuji was constructing his Japanese subject was not an empty space. Whatever the faults of how Watsuji constructed it, the alternative was not a social space without preconceptions. The alternative was a space in which the preconceptions were there but random---or worse, there as designated by colonizers or ultra-nationalists. Watsuji attempted to describe the subject as it seemed to him in his experience as Japanese and in contrast to experience of other cultures in both literature and lived experience. As a result, he should hardly be faulted for the attempt, only for his shortfalls. As Yoshida concludes in relation to Sakai's critique:
+The space in which Watsuji was constructing his Japanese subject was not an empty space. Whatever the faults of how Watsuji constructed it, the alternative was not a social space without preconceptions. The alternative was a space in which the preconceptions were there but random
+
+or worse, there as designated by colonizers or ultra-nationalists. Watsuji attempted to describe the subject as it seemed to him in his experience as Japanese and in contrast to experience of other cultures in both literature and lived experience. As a result, he should hardly be faulted for the attempt, only for his shortfalls. As Yoshida concludes in relation to Sakai's critique:
 
 > just as human nature is *essentially* ubiquitous, so is the diversity of cultural differences that exist in the world. It follows necessarily then that the typological analysis of cultural differences is responsible not so much for exacerbating the existing malaise of nationalism and racism, but, rather, for promoting a better understanding of our common humanity through the comparison of diverse aspects of people’s real cultural praxes. (229)
+
+-->
