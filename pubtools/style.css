@@ -8,12 +8,6 @@
             "Arial Unicode MS", Georgia, serif;
         prince-text-replace: "?" "\202f?";
         font-variant: prince-opentype(clig, onum);
-                hyphens: auto;
-/*      prince-hyphenate-patterns: url('hyp_tex_en_us.dic');*/
-        prince-hyphenate-after: 4;
-        prince-hyphenate-before: 4;
-        prince-hyphenate-lines: 1;
-
     }
     h1, h2, h3, h4, th {
         font-family: Helvetica, "Meiryo", "Apple Symbols", "Arial Unicode MS", sans-serif;
@@ -32,10 +26,10 @@
         margin-bottom: 1in;
     }
     h2 {
-        font-size: 19pt;
+        font-size: 18pt;
     }
     h3 {
-        font-size: 16pt;
+        font-size: 14pt;
     }
     h4 {
         font-size: 12pt;
@@ -54,6 +48,11 @@
         margin-bottom: 0;
         font-size: 12pt; 
         line-height: 19pt;
+        hyphens: auto;
+        prince-hyphenate-after: 4;
+        prince-hyphenate-before: 4;
+        prince-hyphenate-lines: 1;
+
     }
     p + p {
         text-indent: .25in;
@@ -64,6 +63,9 @@
     blockquote p {
         font-size: 10pt; 
         line-height: 16pt;
+    }
+    figure {
+        margin: .25in 0;
     }
 
 /* Inline tags */
@@ -125,7 +127,7 @@
         text-indent: .125in;
         margin: 0;
         font-size: 10pt;
-        line-height: 16pt;
+        line-height: 14pt;
     }
     .fn::footnote-call {
         content: counter(footnote);
@@ -135,9 +137,9 @@
     }
     .fn::footnote-marker {
         content: counter(footnote) ".\0000a0 ";
-        vertical-align: super;
+        /*vertical-align: super;*/
         line-height: none;
-        font-size: .75em;
+        font-size: 10pt;
     }
     .chapter {
         /* New chapter, new footnote numbering. */
@@ -368,15 +370,9 @@
   padding:    0;
   @bottom-center {
     margin-bottom:  .75in;
-    font:           1em Palatino, "Book Antiqua", serif;
+    font:           12pt Palatino, "Book Antiqua", serif;
     content:        counter(page);
     vertical-align: bottom;
-  }
-  @top-center {
-    font:       1em Palatino, "Book Antiqua", serif;
-    text-align: center;
-  	content:    string(doctitle);
-  	text-transform: uppercase;
   }
 }
 
@@ -391,15 +387,9 @@
   padding:    0;
   @bottom-center {
     margin-bottom:  .75in;
-    font:           1em Palatino, "Book Antiqua", serif;
+    font:           12pt Palatino, "Book Antiqua", serif;
     content:        counter(page, lower-roman);
     vertical-align: bottom;
-  }
-  @top-center {
-    font:       1em Palatino, "Book Antiqua", serif;
-    text-align: center;
-    content:    string(doctitle);
-    text-transform: uppercase;
   }
 }
 
@@ -423,7 +413,7 @@
         margin-top: 0;
         margin-right: -2in;
         margin-bottom: 4em;
-        display: inline-block;
+        display: block;
         float: right;
         clear: right;
         width: 1.75in;
@@ -442,7 +432,8 @@
 /* For iPhone */
 @media only screen and (max-device-width: 480px) { 
     html {
-        max-width: 320px;
+        min-width: 320px;
+        max-width: 480px;
         margin-right: 160px;
     }
 }
@@ -450,7 +441,7 @@
 /* For iPad */
 @media only screen and (max-device-width: 1024px) { 
     html {
-        max-width: 768px;
+        min-width: 760px;
     }
 }
 
@@ -476,4 +467,8 @@ div {
     text-indent: 0;
     width: 100%;
     text-align: center;
+}
+
+.chapter > h2 {
+    margin-top: 4in;
 }
