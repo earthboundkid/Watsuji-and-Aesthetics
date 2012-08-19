@@ -8,6 +8,7 @@ title: The Problem of Aesthetic Subjectivity
 [de]: lang:de
 [fr]: lang:fr
 [la]: lang:la
+[it]: lang:it
 
 ##Chapter 1. The Problem of Aesthetic Subjectivity
 ###Problem of subjectivity and objectivity in aesthetic judgment
@@ -194,15 +195,38 @@ About the political implications of Kant's thinking about aesthetics much can be
 I wish to argue that historical approaches to aesthetics---both the Platonic and Kantian approaches just explicated and many others not discussed here---are unsatisfying because they start with the assumption of an atomic self and then go on to replace that atomic subject with an idealized communal self (the suitable spectator) in order to account for the shared feeling of aesthetic value that we experience in everyday life.
 
 ####Plato and the recollection of a more suitable self
-IT"S EASY ENOUGH TO criticize Plato on the Kantian grounds just listed. Dude is way too objectivist, yeah? But even that aside, he's also got problems with the nature of the self. The idea, heh, is that a lone philosopher hikes out of the cave to see the sun. But when he see it, he calls it by a name based on what the cave dwellers used for talking about shadows. That is, he cannot escape the influence of their language on his rationality. That's not a minor issue either, because it is the harmony of the rationality of the philosopher king and the rays of truth emanating from the form of the good that is supposed to account for the beauty of the forms. In the end, Plato has to get around this with the Myth of Er and anemnesis but geez, that's a stretch and a half, real talk. ∞
+Unlike Kant, who strongly affirmed the importance of the subject in aesthetics, Plato's description of the nature of beauty seems to be so objective that the role of the subject is reduced to merely cultivating suitability as a spectator to apprehend the glory of what is of itself. This can be criticized as a kind of abdication of the problem of aesthetics. Even if we accept this abdication as the price of the unity and coherence of Plato's overall vision, this unity also has the effect of creating a strong undercurrent of totalitarianism: the justice of the city consists of each member performing the task appropriate to their natures, but the task that Socrates takes as the overarching goal of the city is to reproduce itself by nurturing future philosopher-kings who will ensure that the city maintains its ideal constitution. No possibility is allowed for exploration, growth, or the discovery of new and higher ideals once the city has properly embodied the eternal form as it ought.
 
-Plato’s theory works backwards from universal forms to the isolated souls that recollect them. 
+There are a number of difficulties with this project---some intended by Plato to be found by us and some unintended.† I wish to suggest that one important problem is the separation of the citizens and their world into separate selves that he must then contrive to bring together into a new unity. Take for instance, the problem of language. When the philosopher-king goes to the surface world to see the forms, he or she will give them names based on their resemblance to the shadows seen on the wall of the cave. Upon returning to the cave, the shadows will be adjusted to better mirror what it is like on the surface. But so long as the initial language understood by the philosopher-king is one spoken by the cave dwellers, the accounts ([λόγος][el]) given to convince them to reform the city will be compromised by initial unsuitability of the language. This puts the rationality ([λόγος][el]) of the philosopher-king in jeopardy. It will not be enough for just the philosopher-king to ascend to the surface alone. The entire city must see the forms if their speech is to be corrected. 
+
+However, once the language of the city has been corrected, it will difficult for the city to communicate with other towns in order to form alliances and so forth. Translators will be needed, and according to the principle of one person-one job at the heart of *The Republic*, these translators will exist solely to facilitate exchange with other cities. It will be necessary to send the young translators abroad to master foreign tongues and then have them return to speak for the city, but this fatally compromises the unity of the city. Having absorbed the values of other cities, these translators will be a danger to their home should they speak of it. The Italian saying "*[traduttore, traditore][it]*" ("the translator is a traitor") will become literally true. At this point, the rationality of the city's language can only be preserved at the cost of embarking on a project to make the world rational as well. This is a recipe for unending war.
+
+† Karl Popper's complaints were mostly intended to be found.∞
+
+Although Plato does not deal with the issue directly, I believe he would point to the Myth of Er at the end of *The Republic* (614b--621b) and the doctrine of recollection contained in other works as a possible solution. It is not, Plato might say, that the philosopher-king must correlate names of the forms with the names of the shadows in the cave. The names of the shadows in the cave are already distorted names we dimly recollect from a time when we were in the realm of the forms and apprehended them directly. Likewise, our agreements and disagreements about aesthetic matters are just a function of our varying levels of recall for the world of the forms. In both cases, the solution to the problem of disagreement is the creation of more suitable subjects. We must relinquish our identity and conform more closely to the ideal if we are to see correctly. This is a major blow to the dignity of the individual, but there is also a deeper problem. Excepting some chance happening through which the city comes into being, philosopher-kings are the product of the city. For Plato, the city is an organism with the philosopher-king playing in it the role that reason plays in the individual soul. The seeming individuality of the members of the city is, therefore, just an illusion. In reality, these citizens are parts whose reality is determined by the whole, and the whole is a near perfect copy of the form. 
+
+In summary, we can say that Plato's understanding of the city leaves no role for individual judgment or sensibility. The seemingly unique point of view that the individual brings to aesthetic judgment must be submerged within the larger whole of the city, and the city must conquer the world in order to prevent its being undermined by the false ideals of others. Thus, the division between self and other and between subject and object, which seems on the surface to be an absolute, is actually broken down by Plato at the limit. The difference between members of the city must be broken down to create a united whole, and even the difference between the seer and the seen is swallowed up in the realm of the forms, which we now only recollect. This tendency was exaggerated by the Neo-Platonists, who attributed everything in our world to the ineffable One, but even in *The Republic*, we can see clearly presentiments of their thinking, and the implications of their thought for politics and the possibility of aesthetics.
 
 ####Kant and our shared rationality
+<!--
+- Kant
+  - Get's the problem (yay)
+  - But assumes s/o division
+  - beauty as free play is a bit improbable
+  - disinterest is improbable
+  - universal is implausible
+  - undermines the subjectivity aspect with common sense
+    - This undermines the indeterminacy of concepts.
+    - Objective just means relative to an object of reason
+  - mention the political implications
+
+
 The difficulty with Kant’s approach is that it begins with the assumption of a basic separation of persons into atomic individuals and only then tries to find a way to unite the disparate experience of those different individuals into the experience of a single, unified world. For Kant, the key force that unifies the experience of disparate individuals is Reason in its theoretical, practical, and aesthetic forms. 
 
 
 Kant himself acknowledges that "we regard this feeling as common rather than as a private feeling" (Ak. 239), but he feels that this is merely a common error and not an experience of fact.
+
+-->
 
 The key insight of Kant’s “Copernican Revolution” in thinking about the relationship between our experiences and the world is that he creates a three tired system with subjective, objective, and noumenal levels. On the subjective level are those judgments which are particular to the individual and incommunicable. On the noumenal level are the things in themselves as they are apart from all possible experience of them. What allows for communication is the objective level at which individual reasoners apply Universal Reason in order to grasp the ideal construction of the object. For example, suppose I see a chair. My subjective experience of the chair is private, and the thing in itself that has caused me to have that experience is unknowable, but I am able to communicate to you about the chair because I know that since we are both rational beings, we share the same universal Reason, which will construct the same objects of possible experience for either of us. The better I can describe the possible experiences that any rational being could have with the chair, the better I have described it as an object. In other words, conformity to pure reason is what defines the suitability of a subject to make a particular judgment.
 
