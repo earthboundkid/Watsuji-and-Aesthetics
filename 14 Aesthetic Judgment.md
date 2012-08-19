@@ -9,10 +9,8 @@ title: The Subject and Object of Aesthetic Judgment and Taste
 [fr]: lang:fr
 [la]: lang:la
 
-* Carl M. Johnson
-
-##Chapter 4. The Subject and Object of Aesthetic Judgment and Taste
-###From my feelings to our judgments
+##Chapter 4. The Subject and Object in Aesthetic Normativity
+###From my judgments to our taste
 In the last chapter, our hermeneutic inquiry into aesthetics began with an attempt to “restore” our understanding of aesthetic experience against the backdrop of everyday experience. An aesthetic experience is an experience of disinterested enjoyment through the dynamic interplay of distancing and dissolution. This experience goes beyond the ordinary self to the unity of no-self before the creation of subject-object duality.
 
 Aesthetics, however, does not end with this experience. When an experience is through, we feel an urgent need to communicate the content of this experience to others and share the experience with them. This reintroduces the subject and object to aesthetics. On the basis of my aesthetic experience, I, the subject, judge the object to be beautiful or ugly, lovely or disgusting, sublime or mundane, and I hope to persuade you to judge likewise. 
