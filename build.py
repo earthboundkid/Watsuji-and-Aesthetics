@@ -61,17 +61,14 @@ def create_template_dict(filenames):
 def prep_webpage(template_dict):
     print("Reading in CSS file.")
     with open(template_dict["cssfile"], encoding="UTF-8") as f:
-        css = f.read()
+        template_dict["css"] = f.read()
     
     print("Reading in template file.")
     with open(template_dict["templatefile"], encoding="UTF-8") as f:
         template_text = f.read()
     
-    #Inlining CSS
-    template_dict["css"] = string.Template(css).substitute(template_dict)
-    
-    t = string.Template(template_text)
-    html = t.substitute(template_dict)
+    template = string.Template(template_text)
+    html = template.substitute(template_dict)
     
     #Add table of contents
     html = add_toc(html)
