@@ -1,19 +1,5 @@
 [sc]: class:smallcaps
 
-catb.org/jargon/html/koans.html
-Morohashi
-
-Nose Asaji. *Sanzōshi hyōshaku* (Tokyo: Meicho Kankōkai, 1970)
-
-_Nishida Kitarō Zenshū_ 6:341--427.
-
-Shogakukan’s Japanese dictionary _Daijisen_ [大辞泉][ja]
-
-Shogakukan’s _Ruigo Jiten_
-
-和辻哲郎 人格から間柄へ (再発見 日本の哲学) 宮川 敬之
-
-
 ##Works Cited
 * Adelson, Edward H. “Checkershadow Illusion.” Accessed Summer 2012. `http://web.mit.edu/persci/people/adelson/checkershadow_illusion.html`.
 
@@ -58,6 +44,10 @@ Shogakukan’s _Ruigo Jiten_
 * Chakrabarti, Arindam. “I Touch What I Saw.” _Philosophy and Phenomenological Research_ 52:1 (Mar., 1992): 103--116.
 
 * Chiaro Brivio. “The Human Being: When Philosophy Meets History, Miki Kiyoshi, Watsuji Tetsurō and their Quest for a New Ningen.” Doctoral thesis, University of Leiden, 2009. `https://openaccess.leidenuniv.nl/handle/1887/13835`.
+
+* _Daijisen_ [大辞泉][ja]. Tokyo: Shogakukan [小学館][ja], 2006.
+
+* *Dai Kan-Wa Jiten* [大漢和辭典][ja] (*Great Chinese-Japanese Dictionary*). Compiled by [Morohashi][sc] Tetsuji [諸橋轍次][ja]. Tokyo: Taishūkan shoten [大修館書店][ja], 1955--1960.
 
 * Dale, Peter. _The Myth of Japanese Uniqueness_. Oxford, 1986.
 
@@ -141,6 +131,8 @@ Shogakukan’s _Ruigo Jiten_
 
 * [Miki][sc] Kiyoshi. “The Study of the Human.” Translated by Gereon Kopf. In _Japanese Philosophy: A Sourcebook_, 702--705. Honolulu: University of Hawaii Press, 2011.
 
+* [Miyagawa][sc] Keiji [宮川敬之][ja]. _Watsuji Tetsurō Jinkaku kara Aidagara e (Saihakken Nihon no Tetsugaku)_ [和辻哲郎 人格から間柄へ (再発見 日本の哲学)][ja] (_Watsuji Tetsurō: From Personhood to Persistent Relationality [Rediscovering Japanese Philosophy]_). Tokyo: Kodansha [講談社][ja], 2008.
+
 * Morris, Ivan. *The World of the Shining Prince: Court Life in Ancient Japan*. New York: Knopf, 1964.
 
 * Motoori Norinaga. "The Exquisite Comb (Tama no Ogushi)." Translated by Ryusaku Tsunoda. In *Source of the Japanese Tradition: Second Edition*, compiled by Wm. Theodore de Bary, Carol Gluck, and Arthur Tiedemann, vol. 2, 507--509. New York: Columbia University Press, 2005.
@@ -156,6 +148,10 @@ Shogakukan’s _Ruigo Jiten_
 * [Nishida][sc] Kitarō. _An Inquiry Into the Good_. Translated by Masao Abe and Christopher Ives. New Haven: Yale, 1990.
 
 * ⎯⎯⎯. “An Explanation of Beauty. Nishida Kitarō’s Bi no Setsumei.” Translated by Steve Odin. *Monumenta Nipponica* 42.2 (Summer, 1987): 211--217. `http://www.jstor.org/stable/2384952`.
+
+* ⎯⎯⎯. _Nishida Kitarō Zenshū_ [西田幾多郎全集][ja] (*Collected Works of Nishida Kitarō*). Tokyo: Iwanami Shoten  [岩波書店][ja], 1947--1966.
+
+* [Nose][ja] Asaji [能勢朝次][ja]. *Sanzōshi hyōshaku* [三冊子評釈][ja]. Tokyo: Meicho Kankōkai [名著刊行会][ja], 1970.
 
 * Odin, Steve. _Artistic Detachment in Japan and the West: Psychic Distance in Comparative Aesthetics_. Honolulu: University of Hawaii Press, 2001.
 
@@ -189,6 +185,8 @@ Shogakukan’s _Ruigo Jiten_
 
 * Reynolds, Simon. _Rip It Up and Start Again : Postpunk 1978--1984_. New York: Penguin Books, 2006.
 
+* _Ruigo Reikai Jiten_ [類語例解辞典][ja]. Tokyo: Shogakukan [小学館][ja], 2006.
+
 * [Sakabe][sc] Megumi. “Mask and Shadow in Japanese Culture: Implicit Ontology in Japanese Thought.” In _Modern Japanese Aesthetics: A Reader_, translated by Michele Marra, 242--251. Honolulu: University of Hawaii Press, 1999.
 
 * Sakai, Naoki. *Translation and Subjectivity: On Japan and Cultural Nationalism*. Minneapolis: University of Minnesota Press, 1997.
@@ -213,7 +211,7 @@ Shogakukan’s _Ruigo Jiten_
 
 * Watson, Burton. _The Selected Poems of Du Fu_. New York: Columbia University Press, 2002.
 
-* [Watsuji][sc] Tetsurō. _The Collected Works of Watsuji Tetsurō_ (*Watsuji Tetsurō Zenshū*). Tokyo: Iwanami Shoten, 1961--1963, 1976--1978, 1989--1992. [和辻哲郎. 和辻哲郎全集. 東京: 岩波書店, 1961--1963, 1976--1978, 1989--1992.][ja]
+* [Watsuji][sc] Tetsurō [和辻哲郎][ja]. *Watsuji Tetsurō Zenshū* [和辻哲郎全集][ja] (_The Collected Works of Watsuji Tetsurō_). Tokyo: Iwanami Shoten [岩波書店][ja]; 1961--1963, 1976--1978, 1989--1992.
 
 * Wilde, Oscar. “The Decay of Lying.” In *Intentions*, 1--56. New York: Brentano, 1905. `http://archive.org/details/intentionsdecayo00wild`.
 
