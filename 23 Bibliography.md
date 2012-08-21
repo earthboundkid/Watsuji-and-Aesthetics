@@ -183,6 +183,8 @@ Shogakukan’s _Ruigo Jiten_
 
 * Pollan, Michael. _The Botany of Desire: A Plant’s-Eye View of the World_. New York: Random House, 2001.
 
+* Popper, Karl. _The Open Society and Its Enemies_. Fourth edition. Princeton: Princeton University Press, 1963.
+
 * Pronko, Leonard C. _Theater East and West_. Berkeley: University of California Press, 1967.
 
 * Reynolds, Simon. _Rip It Up and Start Again : Postpunk 1978--1984_. New York: Penguin Books, 2006.
