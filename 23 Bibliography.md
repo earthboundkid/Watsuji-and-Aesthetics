@@ -151,7 +151,7 @@
 
 * ⎯⎯⎯. _Nishida Kitarō Zenshū_ [西田幾多郎全集][ja] (*Collected Works of Nishida Kitarō*). Tokyo: Iwanami Shoten  [岩波書店][ja], 1947--1966.
 
-* [Nose][ja] Asaji [能勢朝次][ja]. *Sanzōshi hyōshaku* [三冊子評釈][ja]. Tokyo: Meicho Kankōkai [名著刊行会][ja], 1970.
+* [Nose][sc] Asaji [能勢朝次][ja]. *Sanzōshi hyōshaku* [三冊子評釈][ja]. Tokyo: Meicho Kankōkai [名著刊行会][ja], 1970.
 
 * Odin, Steve. _Artistic Detachment in Japan and the West: Psychic Distance in Comparative Aesthetics_. Honolulu: University of Hawaii Press, 2001.
 
