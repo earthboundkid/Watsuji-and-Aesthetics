@@ -13,7 +13,7 @@ Union	Achievement of contact.
 Unity	Primordial state of non-duality.
 
 
-###Chinese
+###Chinese (Pinyin romanization)
 * _Li_ 禮 — Ritual propriety, rites, ritual action. A central virtue in Confucianism, _li_ is at once the attitude one is supposed to take during ritual action and the ritual action itself.
 
 * _Liangxin_ 良心 — Conscience. Literally, good functioning of heart-mind. In _Mencius_, Mencius explains that we are all born with a good heart that will allow us to distinguish right from wrong, but only some of us preserve and grow the seeds of this ability. 
@@ -22,8 +22,7 @@ Unity	Primordial state of non-duality.
 
 * _Wai_ 外 — External. Cf. _Nei_ 内.
 
-
-###French
+戀, 有, 同, 美, 間, 外, 愛, 氣, 義, 在, 倫, 本, 禮, 人, 仁, 心, 德, 良心, 和, 道, 體, 存, 內, 慈悲, 体, 良, 陰, 陽
 
 ###Greek
 - *Agápi̱* [ἀγάπη][el] ---
@@ -331,5 +330,18 @@ Unity	Primordial state of non-duality.
 [道][ja]
 [道徳][ja]
 [還元・構成・破壊][ja]
+
 ###Latin
+De gustibus non disputandum est
+Essentia
+Ex-sistere
+Existentia
+Ingenium
+Privatus
+Sensus communis
+Terminus ante quem
+
 ###Sanskrit
+* Anātman
+
+* Śūnyatā
