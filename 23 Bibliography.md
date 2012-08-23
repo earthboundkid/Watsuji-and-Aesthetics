@@ -1,4 +1,5 @@
 [sc]: class:smallcaps
+[ja]: lang:ja
 
 ##Works Cited
 * Adelson, Edward H. “Checkershadow Illusion.” Accessed Summer 2012. `http://web.mit.edu/persci/people/adelson/checkershadow_illusion.html`.
