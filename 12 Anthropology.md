@@ -52,9 +52,7 @@ In the West, depending on the author, “ethics” and “morals” are sometime
 
 Though Watsuji grounds his explanation of “ethics” in the Japanese language, an etymologically analogous understanding can also be found in the West. Aristotle writes in the _Nicomachean Ethics_,
 
-> Virtue of character [i.e., of _ēthos_] results from habit [_ethos_]; hence its name 'ethical,' slightly varied from 'ethos.'[^fn2-6]
-
-[^fn2-6]: Aristotle, _Nicomachean Ethics_, tr. Terrence Irwin. Book II.1, 1103a15. 
+> Virtue of character [i.e., of _ēthos_] results from habit [_ethos_]; hence its name 'ethical,' slightly varied from 'ethos.' (Book II.1, 1103a15)
 
 In other words, ethics is ultimately founded on the giving an account ([λόγος][el]) of the way of life (ethos) of the community. A similar story can be told about “morals” and their relationship to social “mores.”[^fn2-7] 
 
