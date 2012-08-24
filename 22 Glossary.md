@@ -67,43 +67,6 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 - _Zai_ [在][zh] --- Being located at or within a particular place in space.
 
-###Greek terms
-- *Agápi̱* [ἀγάπη][el] --- Christian love or charity.
-
-- *Aisthánomai* [αἰσθάνομαι][el] --- “I perceive.”
-
-- *Aísthi̱sis* [αἴσθησις][el] --- Sensation or perception.
-
-- *Aisthi̱tá* [αἰσθητά][el] --- Sensible things.
-
-- *Aretí̱* [ἀρετή][el] --- The excellence or virtue of a thing that allows it to fulfill its function. E.g. The sharpness of a knife or vision in the eyes.
-
-- *Chó̱ra* [χώρα][el] --- Land, space, or receptacle. 
-
-- *Éro̱s* [ἔρως][el] --- Erotic love.
-
-- *Filía* [φιλία][el] --- Brotherly love.
-
-- *Í̱thi̱* [ἤθη][el] --- Ethos or the habitual patterns of a person or society.
-
-- *I̱thikós* [ἠθικός][el] --- Ethics.
-
-- *Kalón* [καλόν][el] --- Beauty.
-
-- *Kátharsis* [κάθαρσις][el] --- Purgation or purification. Hence Aristotle's theory of emotional catharsis from drama.
-
-- *Lógos* [λόγος][el] --- Speech, account, ratio, rationality, or reason. In speech, we give each other accounts and in so doing show our ability to think proportionately.
-
-- *Noi̱tá* [νοητά][el] --- Intelligible things.
-
-- *Poiéo̱* [ποιέω][el] --- Making. Root of the English word "poetry."
-
-- *Storgí̱* [στοργή][el] --- Familial love.
-
-- *Télos* [τέλος][el] --- The end or goal of a thing.
-
-- *Tópos* [τόπος][el] --- Place or location.
-
 ###German terms
 - *[Darstellung][de]* --- Expression.
 
@@ -151,244 +114,277 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 - *[Wollen][de]* --- Volition.
 
+###Greek terms
+- *Agápi̱* [ἀγάπη][el] --- Christian love or charity.
+
+- *Aisthánomai* [αἰσθάνομαι][el] --- “I perceive.”
+
+- *Aísthi̱sis* [αἴσθησις][el] --- Sensation or perception.
+
+- *Aisthi̱tá* [αἰσθητά][el] --- Sensible things.
+
+- *Aretí̱* [ἀρετή][el] --- The excellence or virtue of a thing that allows it to fulfill its function. E.g. The sharpness of a knife or vision in the eyes.
+
+- *Chó̱ra* [χώρα][el] --- Land, space, or receptacle. 
+
+- *Éro̱s* [ἔρως][el] --- Erotic love.
+
+- *Filía* [φιλία][el] --- Brotherly love.
+
+- *Í̱thi̱* [ἤθη][el] --- Ethos or the habitual patterns of a person or society.
+
+- *I̱thikós* [ἠθικός][el] --- Ethics.
+
+- *Kalón* [καλόν][el] --- Beauty or goodness. The attractive quality that makes something excellent or noble.
+
+- *Kátharsis* [κάθαρσις][el] --- Purgation or purification. Hence Aristotle's theory of emotional catharsis from drama.
+
+- *Lógos* [λόγος][el] --- Speech, account, ratio, rationality, or reason. In speech, we give each other accounts and in so doing show our ability to think proportionately.
+
+- *Noi̱tá* [νοητά][el] --- Intelligible things.
+
+- *Poiéo̱* [ποιέω][el] --- Making. Root of the English word "poetry."
+
+- *Storgí̱* [στοργή][el] --- Familial love.
+
+- *Télos* [τέλος][el] --- The end or goal of a thing.
+
+- *Tópos* [τόπος][el] --- Place or location.
+
 ###Japanese terms
-* _Aida_, _ma_, _kan_, _ken_, or _gen_ [間][ja] --- An interval of time or space. As _ma_, a room in a house or the spatial relationship of parts in an aesthetic object or experience.
+* _Aida_, _ma_, _kan_, _ken_, or _gen_ [間][ja] --- An interval or expanse of time or space. In the construction A _to_ B _to no aida ni_, "between" A and B. When read as _ma_, a room in a house or the spatial relationship of parts in an aesthetic object or experience.
 
-* _Aidagara_ [間柄][ja] --- Persistent relationship. Sometimes mistranslated as "betweenness."
+* _Aidagara_ [間柄][ja] --- Persistent relationship. Frequently mistranslated as "betweenness" on analogy to _aida_, but a better overly literal rendering is "pattern of betweenness." _Aidagara_ are the relationships that make up a life.
 
-- *Basho* [場所][ja] --- 
+- *Basho* [場所][ja] --- Place. Used in Nishida on analogy to Plato's [χώρα][el] or Aristotle’s [τόπος][el].
 
-* _Bi_ [美][ja] --- Beautiful. Notice that, unlike the Greek ∞, _bi_ is adjectival, not an abstract noun.
+* _Bi_ [美][ja] --- Beautiful. Notice that, like the Chinese _mei_ and unlike the Greek [καλόν][el], _bi_ is adjectival, not an abstract noun.
 
-* _Bigaku_ [美学][ja] --- Literally, the study of the beautiful. Used to translate “aesthetics.” Cf. _Kansei_ 感性.
+* _Bigaku_ [美学][ja] --- Literally, the study of the beautiful. Often used to translate “aesthetics.” Cf. _Kansei_ 感性.
 
-- *Bushidō* [武士道][ja] ---
+- *Bushidō* [武士道][ja] --- The way of the warrior. The Confucian and Buddhist influenced ethical code of the samurai.
 
-* _Dearu_ [である][ja] ---
+* _Dearu_ [である][ja] --- Japanese copula. Unlike the English *is*, it cannot be used existentially, only for predication. 
 
-- *Dōtoku* [道徳][ja] --- 
+- *Dōtoku* [道徳][ja] --- Morality. Some thinker contrast this to *rinri* [倫理][ja] "ethical." Derives from the title of the *Daodejing* [道德經][zh].
 
-* _Fūdo_ [風土][ja] --- Climate, milieu. Literally, wind and soil. The title of Watsuji’s book on his trip to Europe, translated as _Climate and Culture_. Relates to _Fūdoki_ 風土記, an eighth century chronicle of the geography and culture of Japan.
+* _Fūdo_ [風土][ja] --- Milieu or climate. Literally, wind and soil. The title of Watsuji’s book on his trip to Europe, referred to here as *Milieu* and translated by Bownas as _Climate and Culture_. Related to _Fūdoki_ [風土記][ja], an eighth century chronicle of the geography and culture of Japan and a general name for the genre of such works chronicling the particularities of regions. 
 
-* _Fūdosei_ [風土性][ja] --- 
+* _Fūdosei_ [風土性][ja] --- Climaticity. Berque proposes the translation “mediance.”
 
-* _Fūdo-teki_ [風土的][ja] --- 
+* _Fūdo-teki_ [風土的][ja] --- Climactical or climactically. The suffix *-teki* forms an adjective or adverb out of base nouns.
 
-* _Ga aru_ [がある][ja] ---
+* _Ga aru_ [がある][ja] --- Japanese existential verb. Unlike the English *is*, it cannot be used for predication.
 
-- *Gaku* [学][ja] --- 
+- *Gaku* [学][ja] --- Study. As a suffix, "the study of" X, similar to -ology in English.
 
-- *Gakumon* [学問][ja] ---
+- *Gakumon* [学問][ja] --- Scholarship, science, inquiry.
 
-* *Geijutsuron* [芸術論][ja] ---
+* *Geijutsuron* [芸術論][ja] --- Theories of art.
 
-* _Gorin_ [五倫][ja] ---
+* _Gorin_ [五倫][ja] --- The five vital relationships in Confucianism. _Mencius_ 3A.4 lists them as parent to child, ruler to vassal, husband to wife, elder to younger, and friend to friend.
 
 * _Hito_ [人][ja] --- A person or human. Typically refers to another, not oneself. 
 
-* _Hito no aida_ [人の間][ja] --- 
+* _Hito no aida_ [人の間][ja] --- The time and/or space of persons. An expansion of *ningen* [人間][ja] that emphases the meanings of the characters in the compound.
 
-* _Hito no sonzai_ [人の存在][ja] --- 
+* _Hito no sonzai_ [人の存在][ja] --- The existence of (particular) persons.
 
-* _Hito to hito to no aidagara ni_ [人と人との間柄][ja] ---
+* _Hito to hito to no aidagara ni_ [人と人との間柄][ja] --- The persistent relationships between (particular) person and (particular) person.
 
-* _Hito to hito to no aida ni_ [人と人との間に][ja]
+* _Hito to hito to no aida ni_ [人と人との間に][ja] --- Between person and person.
 
-* *Hon’i* [本意][ja] ---
+* *Hon’i* [本意][ja] --- Root implication. In poetic theory, the historically accumulated emotional resonances that suit a particular situation.
 
-* *Honrai* [本来][ja] ---
+* *Honrai* [本来][ja] --- Original. Literally, coming from the root.
 
-* *Honraisei* [本来性][ja] ---
+* *Honraisei* [本来性][ja] --- Authenticity.
 
-* *Honraisei soku miraisei* [本来性即未来性][ja] ---
+* *Honraisei soku miraisei* [本来性即未来性][ja] --- Authenticity as futurity. Literally, that which comes from the root as that which has yet to come.
 
-- *Hyōgen* [表現][ja]
+- *Hyōgen* [表現][ja] --- Expression. Frequently used to translate the German *[Darstellung][de]* in Japanese hermeneutics.
 
-* _Ichigo ichie_ [一期一会][ja] --- 
+* _Ichigo ichie_ [一期一会][ja] --- One time, one meeting. Used in tea ceremony and Noh theater to emphasize the unrepeatability of a particular situation.
 
-* _Ishiki_ [意識][ja] --- Consciousness. Notice the dissimilarity to _ryōshin_ [良心][ja], conscience, unlike their similarity in many European languages.
+* _Ishiki_ [意識][ja] --- Consciousness. Notice the dissimilarity to _ryōshin_ [良心][ja] ("conscience"), unlike their similarity in many European languages.
 
-- *Jihi* [慈悲][ja] --- 
+- *Jihi* [慈悲][ja] --- Buddhist compassion. Used to translate Sanskrit *[karuṇā][sa]* and Pāli *[metti][pi]*.
 
-* _Jikaku_ [自覚][ja] --- Self-awareness, self-consciousness, transcendent unity of apperception, the noumenal aspect of the self.
+* _Jikaku_ [自覚][ja] --- Self-awareness, self-consciousness, transcendent unity of apperception, or the noumenal aspect of the self.
 
 * _Jinkaku_ [人格][ja] --- Personality or personhood. What makes a person a person. Used to translate Kant’s _[Persönlichkeit][de]_.
 
-* _Jinruigaku_ [人類学][ja] --- Physical anthropology. Literally, the study of humankind. Cf. _ningengaku_ [人間学][ja].
+* _Jinruigaku_ [人類学][ja] --- Physical anthropology. Literally, the study of humankind. Cf. _ningengaku_ [人間学][ja] ("philosophical anthropology").
 
-* _Jinsei_ [人性][ja] --- 
+* _Jinsei_ [人性][ja] --- Humanity or human nature. Used to translate Kant’s *[Menschlichkeit][de]*.
 
-* _Jūsōsei_ [重層性][ja] --- Multi-layeredness. Watsuji considered this a special characteristic of Japanese culture, in that previous civilizational achievements in Japan were preserved rather than eliminated by their synthesis with an antithesis.
+* _Jūsōsei_ [重層性][ja] --- Multi-stratification, multi-layeredness, multi-leveledness, multiplicity, or stadiality. Watsuji considered this a special characteristic of Japanese culture, in that previous civilizational achievements in Japan were preserved rather than eliminated by their synthesis with an antithesis.
 
 * _Kagami no ma_ [鏡の間][ja] --- Mirror Hall. Room in a Noh theater where an actor prepares to play a role.
 
-- *Kan* [感][ja] ---
+- *Kan* [感][ja] --- Feeling. The moving of the heart-mind in response to some stimulus.
 
-- *Kangen/Kōsei/hakai* [還元・構成・破壊][ja] --- 
+- *Kangen/Kōsei/hakai* [還元・構成・破壊][ja] --- ∞
 
-* *Kankei* [関係][ja] ---
+* *Kankei* [関係][ja] --- Relationship. Cf. *aidagara*.
 
 * _Kansei_ [感性][ja] --- Literally, sensibility. Used to translate “aesthetic,” eg. in Kant’s Transcendental Aesthetic. Cf. _bigaku_ [美学][ja].
 
-* *Kaze* [風][ja]
+* *Kaze* [風][ja] --- Wind.
 
-- *Ketsujōtai* [欠如態][ja]
+- *Ketsujōtai* [欠如態][ja] --- Privative or lacking state. 
 
-- *Ki ai* [気合い][ja]
+- *Ki ai* [気合い][ja] --- Meeting of vital energy. Also used as a focusing cry in martial arts.
 
-- *Ki ga au* [気が合う][ja]
+- *Ki ga au* [気が合う][ja] --- The coming together of the particular vital energy that makes each thing up. 
 
-- *Ki* [気][ja]
+- *Ki* [気][ja] --- See Chinese *qi* [氣][zh].
 
-* *Kōi* [行為][ja]
+* *Kōi* [行為][ja] --- Conduct or behavior. Actions that have moral valence.
 
-* *Kōi-teki chokkan* [行為的直観][ja]
+* *Kōi-teki chokkan* [行為的直観][ja] --- Acting intuition. Concept in Nishida's philosophy that we know through acting.
 
-* *Kōi-teki renkan* [行為的連関][ja]
+* *Kōi-teki renkan* [行為的連関][ja] --- The linkage of conduct. The way that the acts that we do as human beings come together to form relationships and identities.
 
-* _Kojin_ [個人][ja] --- Individual.
+* _Kojin_ [個人][ja] --- Individual person.
 
-- *Kokugaku* [国学][ja]
+- *Kokugaku* [国学][ja] --- National studies. In particular, the study of Japan by Japanese scholars in the Edo period.
 
-- *Kokumin* [国民][ja]
+- *Kokumin* [国民][ja] --- National folk.
 
-* *Kōkyōsei* [公共性][ja] ---
+* *Kōkyōsei* [公共性][ja] --- Publicity. Literally, the state of being shared by the public.
 
-- *Kompon-teki* [根本的][ja]
+- *Kompon-teki* [根本的][ja] --- Fundamentally. Literally, at root.
 
 * _Kyakkan_ [客観][ja] --- Objective view. Literally, the guest’s perspective.
 
-- *Kyakkansei* [客観性][ja]
+- *Kyakkansei* [客観性][ja] --- Objectivity.
 
-- *Kyaku* [客][ja]
+- *Kyaku* [客][ja] --- A guest. Dyadic pair with _shu_ ("host").
 
-* *Kyōdō* [共同][ja] ---
+* *Kyōdō* [共同][ja] --- Communal. Literally, shared sameness.
 
 * _Kyōdōtai_ [共同体][ja] --- Community.
 
-- *Kyomu* [虚無][ja]
+- *Kyomu* [虚無][ja] --- Nihility.
 
-- *Kū* [空][ja]
+- *Kū* [空][ja] --- Emptiness. Openness. The field of possibilities that exist before limitations and determinations are applied. When [空][ja] is read as *sora*, the sky. Cf. Sanskrit *[śūnyatā][sa]*.
 
-- *Kūkan* [空間][ja]
+- *Kūkan* [空間][ja] --- Space. Literally, an interval of emptiness.
 
-* _Magokoro_ [まごころ][ja] ---
+* _Magokoro_ [まごころ][ja] or [真心][ja] --- A pure heart, sincerity, or truthfulness.
 
-* *Meibutsu* [名物][ja] ---
+* *Meibutsu* [名物][ja] --- Goods for which a particular region is famous. In contemporary Japanese culture, the gifting of *meibutsu* to one's hometown acquaintances after a trip is considered good etiquette.
 
 * *Men* [面][ja] --- See *omote*.
 
-- *Michi* [道][ja] --- 
+- *Michi* [道][ja] --- Path or way. Cf. Chinese *dao* [道][zh].
 
-* _Mono no aware_ [もののあはれ][ja] or [もののあわれ][ja] or [物の哀れ][ja] ---
+* _Mono no aware_ [もののあはれ][ja] or [もののあわれ][ja] or [物の哀れ][ja] --- The pathos of things. Empathy or loving compassion for the world. The feeling of infinite depth that wells up in things one when is keenly attuned to their transience.
 
-* *Mono no yū* [物の有][ja] --- 
+* *Mono no yū* [物の有][ja] --- The being of a thing.
 
-* *Motsu* [有つ][ja] --- 
+* *Motsu* [有つ][ja] --- *Motsu* is usually written [持つ][ja] and means to have or hold. Watsuji writes it as [有つ][ja] to show the connection between "being" (Chinese *you* [有][zh]) and human possession.
 
-- *Muga* [無我][ja]
+- *Muga* [無我][ja] --- Selflessness. Ecstasy. Cf. Sanskrit *[anātman][sa]*.
 
-- *Mujōkan* [無常感][ja]
+- *Mujōkan* [無常感][ja] --- Feeling of impermanence or transience.
 
-* *Naka* [仲][ja] or [中][ja] ---
+* *Naka* [仲][ja] or [中][ja] --- Close relationships or being inside a relationship. 
 
-* _Nakama_ [なかま][ja] or [仲間][ja] ---
+* _Nakama_ [なかま][ja] or [仲間][ja] --- One's close companions or fellows. Literally, one's inner *aida* or the space in which good relationships are kept up.
 
-* *Nihonjinron* [日本人論][ja] ---
+* *Nihonjinron* [日本人論][ja] --- Theories of Japanese uniqueness. 
 
-* _Ningen_ [人間][ja] --- Human beings, collectively or individually. Literally, person (_hito_) plus betweenness (_aida_). In Buddhism, it refers to the realm of humans as contrasted with the realm of gods, animals, spirits, etc.
+* _Ningen_ [人間][ja] --- Human beings, collectively or individually. Literally, person (_hito_) plus interval (_aida_). In Buddhism, it refers to the realm of humans as contrasted with the realm of gods, animals, spirits, etc. In Japanese, it came to take on individual and collective meanings.
 
-* _Ningengaku_ [人間学][ja] --- Philosophical anthropology. Literally, the study of human beings. Watsuji’s method in ethics. He considers this distinct from sociology (_shakaigaku_ 社会学) or physical anthropology (_jinruigaku_ 人類学), since _ningen_ is inherently both collective and individual.
+* _Ningengaku_ [人間学][ja] --- Philosophical anthropology. Literally, the study of human beings. Watsuji’s method in ethics. He considers this distinct from sociology (_shakaigaku_ [社会学][ja]) or physical anthropology (_jinruigaku_ [人類学][ja]), since _ningen_ is inherently both collective and individual.
 
-* *Ningen no gaku toshite no rinrigaku* [人間の学としての倫理学][ja] ---
+* *Ningen no gaku toshite no rinrigaku* [人間の学としての倫理学][ja] --- The study of ethics as the study of human beings.
 
-* *Ningen no kōi-teki renkan* [人間の行為的連関][ja] ---
-
-* *Ningen sonzai no kompon rihō* [人間存在の根本理法][ja] --- 
+* *Ningen sonzai no kompon rihō* [人間存在の根本理法][ja] --- The fundamental law of human existence. For Watsuji, this is the law of unceasing double negation.
 
 * _Omote_ [面][ja], [おもて][ja], or [表][ja] --- Mask, face, or surface. The outer appearance. Opposite of _urate_ [裏手][ja].
 
-* *Ri* [理][ja] --
+* *Ri* [理][ja] --- The pattern or logic enacted by the motion of things.
 
 * _Ri-ken no ken_ [離見の見][ja] --- Seeing of distant seeing. Zeami’s aim for Noh actors.
 
-* *Rin* [倫][ja] ---
+* *Rin* [倫][ja] --- Human relationships.
 
-* *Rinri* [倫理][ja] --- 
+* *Rinri* [倫理][ja] --- Ethics. Sometimes contrasted with *dôtoku*, morals.
 
-* _Rinrigaku_ 倫理学 --- The study of ethics. Literally, the study of the pattern of human relations.
+* _Rinrigaku_ [倫理学][ja] --- The study of ethics. Literally, the study of the pattern of human relations.
 
 * _Ryōshin_ [良心][ja] --- Conscience. Literally, good functioning of heart-mind. From the Chinese, _liangxing_, see above. Watsuji notes that unlike the English “conscience,” it is not directly connected to “consciousness” (_ishiki_), although there is an indirect connection.
 
-* *Satoru* [悟る][ja] --- 
+* *Satoru* [悟る][ja] --- Enlightenment or awakening.
 
-* *Seishin* [精神][ja] --- 
+* *Seishin* [精神][ja] --- Spirit. Primarily used as a translation of the German *[Geist][de]*.
 
-* _Seken_ [世間][ja] --- The public. Cf. _yo no naka_ and _ningen_.
+* _Seken_ [世間][ja] --- The social realm. Cf. _yo no naka_, _ningen_, and _kyôdôtai_.
 
 * _Shakai_ [社会][ja] --- Society. Literally, a meeting around the sacred communal pole.
 
 * _Shakaigaku_ [社会学][ja] --- Sociology. Literally, the study of society.
 
-* *Shii* [私意][ja] ---
+* *Shii* [私意][ja] --- Private implications. In Japanese poetics, this means focusing on one's idiosyncratic reaction to a situation rather than its deeper emotional meaning, the *hon'i*.
 
-* *Shinmin* [臣民][ja]
+* *Shinmin* [臣民][ja] --- The subjects of a ruler.
 
-* *Shinsō* [真相][ja] ---
+* *Shinsō* [真相][ja] --- True aspect. The side of something that reveals what it really is.
 
-* *Shi-teki sonzai* [私的存在][ja] ---
+* *Shi-teki sonzai* [私的存在][ja] --- Private existence.
 
-* _Shu_ or _Nushi_ [主][ja] ---
+* _Shu_ or _Nushi_ [主][ja] --- Host or lord. In a dyadic pair with *kyaku* ("guest").
 
-* _Shudai_ [主題][ja] --- 
+* _Shudai_ [主題][ja] --- Subject of discussion.
 
-* _Shugo_ [主語][ja] ---
+* _Shugo_ [主語][ja] --- Subject of a sentence.
 
 * _Shukan_ [主観][ja] --- The subject as perceiver. Literally, the host’s view.
 
-* _Shutai_ [主体][ja] --- The subject as agent. Literally, the host’s body. 
+* _Shutai_ [主体][ja] --- The subject as embodied agent. Literally, the host’s body. 
 
 * _Sonzai_ [存在][ja]  --- Existence. Literally, [存][ja] preserving (temporal) and [在][ja] residing (spatial). Hence existence is a temporary preservation against inevitable loss and residing before inevitable departure.
 
-* _Sukiya_ [好き屋][ja] or [空き屋][ja] or [数寄屋][ja] ---
+* _Sukiya_ [好き屋][ja] or [空き屋][ja] or [数寄屋][ja] --- The tea room. 
 
-* *Suku* [空く][ja] --- 
+* *Suku* [空く][ja] --- To empty.
 
-* *Toi* [問い][ja] --- 
+* *Toi* [問い][ja] --- Inquiry.
 
-* *Tōi* [当為][ja] --- 
+* *Tōi* [当為][ja] --- The ought. Used to translate the German *[Sollen][de]*.
 
 * _Tōsui_ 陶酔 --- Intoxication.
 
-* *Tōitu/bunri/ketsugō* [統一・分離・結合][ja] --- 
+* *Tōitu/bunri/ketsugō* [統一・分離・結合][ja] --- ∞
 Union	Achievement of contact.
 Unity	Primordial state of non-duality.
 
-* _Uchōten_ [有頂天][ja] --- Ecstasy. 
+* _Uchōten_ [有頂天][ja] --- Ecstasy.
 
-* *Uta-makura* [歌枕][ja] --- 
+* *Uta-makura* [歌枕][ja] --- In Japanese poetics, words that connote very specific places or events.
 
-* *Wa* [和][ja] ---
+* *Wa* [和][ja] --- Harmony. Cf. Chinese *he*.
 
 * _Wakaru_ [分かる][ja] or [わかる][ja] --- To understand. Cf. _wake_ and _wakeru_.
 
 * _Wake_ [訳][ja] --- A reason for. Cf. _wakaru_ and _wakeru_.
 
-* _Wa kei sei jaku_ [和敬清寂][ja] --- 
+* _Wa kei sei jaku_ [和敬清寂][ja] --- Harmony, respect, purity, and tranquility. Four values in tea, praised by Sen no Rikyū and others.
 
 * _Wakeru_ [分ける][ja] --- To divide. Cf. _wake_ and _wakeru_.
 
-* _Yo no naka_ 世の中 --- Society or the public. Literally, in the world. Used by Watsuji to translate Heidegger’s _In-der-Welt-sein_. Cf. _seken_ 世間.
-
 * _Yo_ [世][ja] --- World or generation. Notice that _yo_ can be spatial or temporal.
 
-* _Yo no naka_ [世の中][ja] ---
+* _Yo no naka_ [世の中][ja] --- Society or the public. Literally, in the world. Hence its use by Watsuji to translate Heidegger's *[In-der-Welt-Sein][de]* ("being in the world"). Cf. _seken_ [世間][ja] ("the social realm").
 
-* *Yūgen* [幽玄][ja] --- 
+* *Yūgen* [幽玄][ja] --- Mysterious profundity of Noh drama.
 
-* *Zen* [善][ja] --- 
+* *Zen* [善][ja] --- Good. Especially ethical good (German *[Wert][ja]*) as opposed to instrumental good (German *[Güte][de]*).∞
 
-* *Zettai mujun-teki jikō dōitsu* [絶対矛盾的自己同一][ja] --- 
+* *Zettai mujun-teki jikō dōitsu* [絶対矛盾的自己同一][ja] --- In Nishida's philosophy, absolutely contradictory self-identity.
 
 
 ###Latin
@@ -410,6 +406,6 @@ Unity	Primordial state of non-duality.
 
 
 ###Sanskrit terms
-* [*Anātman*][sa] <!-- अनात्मन्--> --- No self. In Buddhism, one of the three marks of existence is the lack of a substantial self. Interpretations of this doctrine vary by sect. Cf. Japanese *muga* [無我][ja].
+* *[Anātman][sa]* <!-- अनात्मन्--> --- No self. In Buddhism, one of the three marks of existence is the lack of a substantial self. Interpretations of this doctrine vary by sect. Cf. Japanese *muga* [無我][ja].
 
-* [*Śūnyatā*][sa] <!--शून्यता--> --- Emptiness. Cf. Japanese *kū* [空][ja].
+* *[Śūnyatā][sa]* <!--शून्यता--> --- Emptiness. Cf. Japanese *kū* [空][ja].
