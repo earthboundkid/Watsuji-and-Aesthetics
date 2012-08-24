@@ -7,45 +7,88 @@
 [de]: lang:de
 [fr]: lang:fr
 [la]: lang:la
+[pi]: lang:pi
 
 ##Glossary
-Union	Achievement of contact.
-Unity	Primordial state of non-duality.
+###Chinese terms
+Terms are sorted according to the pinyin romanization of modern standard Mandarin, but definitions are classical unless otherwise noted. 
 
+- _Ai_ [愛][zh] --- Possessive love. To treat something sparingly. Affective concern.
 
-###Chinese (Pinyin romanization)
-* _Li_ 禮 — Ritual propriety, rites, ritual action. A central virtue in Confucianism, _li_ is at once the attitude one is supposed to take during ritual action and the ritual action itself.
+- _Ben_ [本][zh] --- Root. Often erroneously translated as "original."
 
-* _Liangxin_ 良心 — Conscience. Literally, good functioning of heart-mind. In _Mencius_, Mencius explains that we are all born with a good heart that will allow us to distinguish right from wrong, but only some of us preserve and grow the seeds of this ability. 
+- _Cibei_ [慈悲][zh] --- Buddhist compassion. Used to translate Sanskrit *[karuṇā][sa]* and Pāli *[metti][pi]*.
 
-* _Nei_ 内 — Inside as opposed to outside. Groups closer to oneself as opposed to further. Various Mencian scholars have taken the precise sense of internality differently, but most likely it involves those tastes that are individually, subjectively, and emotionally determined rather than those that are determined by a fixed, non-emotive procedure. See Shun, 94–112.
+- _Cun_ [存][zh] --- To preserve against loss over time.
 
-* _Wai_ 外 — External. Cf. _Nei_ 内.
+- _Dao_ [道][zh] --- A way, a path, walking a path, making a path, a method, or explaining a method.
 
-戀, 有, 同, 美, 間, 外, 愛, 氣, 義, 在, 倫, 本, 禮, 人, 仁, 心, 德, 良心, 和, 道, 體, 存, 內, 慈悲, 体, 良, 陰, 陽
+- _De_ [德][zh] --- Excellence, virtue, insistent particularity.
 
-###Greek
-- *Agápi̱* [ἀγάπη][el] ---
+- _He_ [和][zh] --- Harmony. According to _Analects_ 13.23, it is superior to mere conformity (_tong_ [同][zh]).
 
-- *Aisthi̱tá* [αἰσθητά][el] ---
+- _Jian_ [間][zh] --- An interval, space, or realm.
 
-- *Aisthánomai* [αἰσθάνομαι][el] ---
+- _Li_ [禮][zh] --- Ritual propriety, rites, ritual action, etiquette, manners. A central virtue in Confucianism, _li_ is at once the attitude one is supposed to take during ritual action and the ritual action itself.
 
-- *Aretí̱* [ἀρετή][el] ---
+- _Lian_ [戀][zh] --- Romantic love.
+
+- _Liang_ [良][zh] --- Well functioning, instrumentally good.
+
+- _Liangxin_ [良心][zh] --- “Conscience” in modern Chinese. Literally, good functioning of heart-mind. In _Mencius_ 6A.8, Mencius explains that we are all born with a good heart that will allow us to distinguish right from wrong, but only some of us preserve and grow the seeds of this ability. 
+
+- _Lun_ [倫][zh] --- Human relationships.
+
+- _Mei_ [美][zh] --- Beautiful, attractive, or excellent. Note that there is no tendency in ancient texts to treat _mei_ as a freestanding abstract “Beauty.”
+
+* _Nei_ [內][zh] --- Inside as opposed to outside (_wai_ [外][zh]). Groups closer to oneself as opposed to further. Various Mencian scholars have taken the precise sense of internality debated in *Mencius* 6A differently, but most likely it involves those tastes that are individually, subjectively, and emotionally determined rather than those that are determined by a fixed, non-emotive procedure. See Shun, 94--112.
+
+- _Qi_ [氣][zh] --- Air, breath, vital energy, or spirit. The hylozoistic, processual “stuff” making up the world in Chinese cosmology.
+
+- _Ren_ [人][zh] --- A person, human beings, or member of society.
+
+- _Ren_ [仁][zh] --- Humane, benevolent, noble, or authoritative conduct. The graph is a person and the number two, indicating sociability. Note its homophony with _ren_ [人][zh] (“person”), which is also attested to in the earliest reconstructed pronunciations.
+
+- _Ti_ [體][zh] or [体][zh] --- The body. Counterposed with _jian_ [兼][zh], it means “unit” as opposed to “whole.” Counterposed with _yong_ [用][zh], it means the “matter” as opposed to the “functioning.”
+
+- _Tong_ [同][zh] --- Sameness, uniformity, or identity.
+
+* _Wai_ [外][zh] --- External. See _nei_ [內][zh].
+
+- _Xin_ [心][zh] --- The heart-and-mind. Unlike the English “heart” and “mind,” _xin_ is both rational and emotive.
+
+- _Yang_ [陽][zh] --- The bright side of a hill. By extension, things associated with light, masculinity, and height.
+
+- _Yi_ [義][zh] --- A sense of moral appropriateness. Sometimes translated as “duty” or "righteousness," but these translations fail to convey its psychological aspect or flexibility.
+
+- _Yin_ [陰][zh] --- The dark side of a hill. By extension, things associated with darkness, femininity, and depth.
+
+- _You_ [有][zh] --- Having, possessing, being, or existence. The graph is a picture of a hand holding a piece of meat.
+
+- _Zai_ [在][zh] --- Being located at or within a particular place in space.
+
+###Greek terms
+- *Agápi̱* [ἀγάπη][el] --- Christian love or charity.
+
+- *Aisthi̱tá* [αἰσθητά][el] --- Sensible things.
+
+- *Aisthánomai* [αἰσθάνομαι][el] --- “I perceive.”
+
+- *Aretí̱* [ἀρετή][el] --- The excellence or virtue of a thing that allows it to fulfill its function. E.g. The sharpness of a knife or vision in the eyes.
 
 - *Aísthi̱sis* [αἴσθησις][el] ---
 
 - *Chó̱ra* [χώρα][el] ---
 
-- *Éro̱s* [ἔρως][el] ---
+- *Éro̱s* [ἔρως][el] --- Erotic love.
 
-- *Filía* [φιλία][el] ---
+- *Filía* [φιλία][el] --- Brotherly love.
 
 - *Í̱thi̱* [ἤθη][el] ---
 
 - *I̱thikós* [ἠθικός][el] ---
 
-- *Kalón* [καλόν][el] ---
+- *Kalón* [καλόν][el] --- 
 
 - *Kátharsis* [κάθαρσις][el] ---
 
@@ -53,64 +96,60 @@ Unity	Primordial state of non-duality.
 
 - *Noi̱tá* [νοητά][el] ---
 
-- *Poiéo̱* [ποιέω][el] ---
+- *Poiéo̱* [ποιέω][el] --- Making. Root of the English word "poetry."
 
 - *Storgí̱* [στοργή][el] ---
 
-- *Télos* [τέλος][el] ---
+- *Télos* [τέλος][el] --- The end or goal of a thing.
 
 - *Tópos* [τόπος][el] ---
 
-###German
-- *[Darstellung][de]* --- 
+###German terms
+- *[Darstellung][de]* --- Expression.
 
-- *[Das Man][de]* --- 
+- *[Das Man][de]* --- The They. For Heidegger, the inauthentic, anonymous mob of mass society to which we are lose our authentic selves.
 
-- *[Einfühlung][de]* --- 
+- *[Einfühlung][de]* --- Empathy.
 
-- *[Einstellung][de]* --- 
+- *[Einstellung][de]* --- Attitude or mindset.
 
-- *[Fülle][de]* --- 
+- *[Fülle][de]* --- Fullness, abundance, or richness.
 
-- *[Gegenstand][de]* --- 
+- *[Gegenstand][de]* --- An object.
 
-- *[Geist][de]* --- 
+- *[Geist][de]* --- Spirit, ghost, or mind. Usually refers to the Hegelian World Spirit in its dialectical progression.
 
-- *[Genießen][de]* --- 
+- *[Genießen][de]* --- Enjoyment, relishing, or savoring. 
 
 - *[In-der-Welt-Sein][de]* --- Heidegger’s Being-in-the-world. Cf. _yo no naka_ 世の中 in Japanese.
 
-- *[Interesse][de]* --- 
+- *[Interesse][de]* --- Interest. For Kant, a practical concern for existence of the object.
 
-- *[Können][de]* --- 
+- *[Können][de]* --- Ability, skill, mastery, or “can do.”
 
-- *[Mit-teilen][de]* --- 
+- *[Mit-teilen][de]* --- Communication. Literally, to divide up together.
 
-- *[Nachhängen][de]* --- 
+- *[Nachhängen][de]* --- Normally, to indulge, but for Heidegger, projection from inside toward something.
 
-- *[Persönlichkeit][de]*, --- 
+- *[Persönlichkeit][de]* --- Personhood or personality. What makes a human being a human being.
 
-- *[Räumen][de]* --- 
+- *[Räumen][de]* --- To clear or evacuate an area. Hence _Raum_ is space.
 
-* _Rausch_ — Intoxication.
+- _[Rausch][de]_ — Intoxication for Nietzsche. Cf. Japanese _tôsui_ [陶酔][ja].
 
-- *[Roden][de]* --- 
+- *[Roden][de]* --- To clear.
 
-* _Schein_ — Semblance.
+- *[Sein][de]* --- Being.
 
-* _Schönheit_ — Beauty. Notice its connection to _Schein_.
+- *[Sollen][de]* --- Ought. Cf. Japanese *tôi* [当為][ja].
 
-- *[Sein][de]* --- 
+- *[Uninteressiert][de]* --- Uninterested.
 
-- *[Sollen][de]* --- 
+- *[Welt][de]* --- The world. Previously, a generation.
 
-- *[uninteressiert][de]* --- 
+- *[Widerstand][de]* --- Opposition, resistance, or withstanding.
 
-- *[Welt][de]* --- 
-
-- *[Widerstand][de]* --- 
-
-- *[Wollen][de]* --- 
+- *[Wollen][de]* --- Volition.
 
 ###Japanese terms
 * _Aida_ [間][ja] — Also read _ma_, _kan_, _ken_, or _gen_. Betweenness, mediance. As _ma_, a room in a house or the spatial relationship of parts in an aesthetic object or experience. Literally, an interval of space or time. 
@@ -330,6 +369,10 @@ Unity	Primordial state of non-duality.
 [道][ja]
 [道徳][ja]
 [還元・構成・破壊][ja]
+
+Union	Achievement of contact.
+Unity	Primordial state of non-duality.
+
 
 ###Latin
 De gustibus non disputandum est
