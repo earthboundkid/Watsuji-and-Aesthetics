@@ -277,7 +277,7 @@ Watsuji wrote the initial form of this book after his 1927--28 journey to study 
 
 [^fn5-20]: Watsuji devotes a chapter of the book to explaining Herder’s theory of climate, which unfortunately has not been translated into English (WTZ 8:209--24). Naoki Sakai considers this omission a somewhat sinister attempt to cover up the Western antecedents of Watsuji’s work (_Translation and Subjectivity_, 150--1), but the more charitable interpretation is that Bownas felt that the chapter, being mostly historically focused, did not add much to existing English language scholarship on the German enlightenment. Instead, Bownas chose to include an essay by [Furukawa][sc] Tetsushi that puts _Milieu_ into the context of Watsuji’s life and work.
 
-[^fn5-21]: “Place” in Japanese is _basho_ [場所][ja] and corresponds to Plato’s *chora* <!--[χώρα][el]--> or Aristotle’s <!--[τόπος][el]--> *topos*. Nishida published an article under the title _Basho_ [場所][ja] in June of 1926 in _Tetsugaku Kenkyū_ [哲学研究][ja] vol. 123, crucially just before Watsuji’s journey when both were employed at Kyōto University.
+[^fn5-21]: “Place” in Japanese is _basho_ [場所][ja] and corresponds to Plato’s [χώρα][el] or Aristotle’s [τόπος][el]. Nishida published an article under the title _Basho_ [場所][ja] in June of 1926 in _Tetsugaku Kenkyū_ [哲学研究][ja] vol. 123, crucially just before Watsuji’s journey when both were employed at Kyōto University.
 
 In _Milieu_, Watsuji aims to show not just that space is as important as time, but in many ways, he wants to elevate it over time in our understanding:
 
