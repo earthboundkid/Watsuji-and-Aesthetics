@@ -92,6 +92,8 @@
 
 * Kant, Immanuel. _Critique of Judgment_. Translated by Werner S. Pluhar. Indianapolis: Hackett, 1987.
 
+* ⎯⎯⎯. _Critique of Practical Reason_. Translated by Werner S. Pluhar. Indianapolis: Hackett, 2002.
+
 * ⎯⎯⎯. _Critique of Pure Reason_. Translated by Werner S. Pluhar. Indianapolis: Hackett, 1996.
 
 * ⎯⎯⎯. _Logic_. Translated by Robert S. Hartman and Wolfgang Schwarz. Indianapolis: Bobbs-Merrill, 1974.
