@@ -15,7 +15,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 - _Ai_ [愛][zh] --- Possessive love. To treat something sparingly. Affective concern.
 
-- _Ben_ [本][zh] --- Root. Often erroneously translated as "original."
+- _Ben_ [本][zh] --- Root. Often erroneously translated as “original.”
 
 - _Cibei_ [慈悲][zh] --- Buddhist compassion. Used to translate Sanskrit *[karuṇā][sa]* and Pāli *[metti][pi]*.
 
@@ -59,7 +59,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 - _Yang_ [陽][zh] --- The bright side of a hill. By extension, things associated with light, masculinity, and height.
 
-- _Yi_ [義][zh] --- A sense of moral appropriateness. Sometimes translated as “duty” or "righteousness," but these translations fail to convey its psychological aspect or flexibility.
+- _Yi_ [義][zh] --- A sense of moral appropriateness. Sometimes translated as “duty” or “righteousness,” but these translations fail to convey its psychological aspect or flexibility.
 
 - _Yin_ [陰][zh] --- The dark side of a hill. By extension, things associated with darkness, femininity, and depth.
 
@@ -137,13 +137,13 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 - *Kalón* [καλόν][el] --- Beauty or goodness. The attractive quality that makes something excellent or noble.
 
-- *Kátharsis* [κάθαρσις][el] --- Purgation or purification. Hence Aristotle's theory of emotional catharsis from drama.
+- *Kátharsis* [κάθαρσις][el] --- Purgation or purification. Hence Aristotle’s theory of emotional catharsis from drama.
 
 - *Lógos* [λόγος][el] --- Speech, account, ratio, rationality, or reason. In speech, we give each other accounts and in so doing show our ability to think proportionately.
 
 - *Noi̱tá* [νοητά][el] --- Intelligible things.
 
-- *Poiéo̱* [ποιέω][el] --- Making. Root of the English word "poetry."
+- *Poiéo̱* [ποιέω][el] --- Making. Root of the English word “poetry.”
 
 - *Storgí̱* [στοργή][el] --- Familial love.
 
@@ -152,11 +152,11 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 - *Tópos* [τόπος][el] --- Place or location.
 
 ###Japanese terms
-* _Aida_, _ma_, _kan_, _ken_, or _gen_ [間][ja] --- An interval or expanse of time or space. In the construction A _to_ B _to no aida ni_, "between" A and B. When read as _ma_, a room in a house or the spatial relationship of parts in an aesthetic object or experience.
+* _Aida_, _ma_, _kan_, _ken_, or _gen_ [間][ja] --- An interval or expanse of time or space. In the construction A _to_ B _to no aida ni_, “between” A and B. When read as _ma_, a room in a house or the spatial relationship of parts in an aesthetic object or experience.
 
-* _Aidagara_ [間柄][ja] --- Persistent relationship. Frequently mistranslated as "betweenness" on analogy to _aida_, but a better overly literal rendering is "pattern of betweenness." _Aidagara_ are the relationships that make up a life.
+* _Aidagara_ [間柄][ja] --- Persistent relationship. Frequently mistranslated as “betweenness” on analogy to _aida_, but a better overly literal rendering is “pattern of betweenness.” _Aidagara_ are the relationships that make up a life.
 
-- *Basho* [場所][ja] --- Place. Used in Nishida on analogy to Plato's [χώρα][el] or Aristotle’s [τόπος][el].
+- *Basho* [場所][ja] --- Place. Used in Nishida on analogy to Plato’s [χώρα][el] or Aristotle’s [τόπος][el].
 
 * _Bi_ [美][ja] --- Beautiful. Notice that, like the Chinese _mei_ and unlike the Greek [καλόν][el], _bi_ is adjectival, not an abstract noun.
 
@@ -166,7 +166,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * _Dearu_ [である][ja] --- Japanese copula. Unlike the English *is*, it cannot be used existentially, only for predication. 
 
-- *Dōtoku* [道徳][ja] --- Morality. Some thinker contrast this to *rinri* [倫理][ja] "ethical." Derives from the title of the *Daodejing* [道德經][zh].
+- *Dōtoku* [道徳][ja] --- Morality. Some thinker contrast this to *rinri* [倫理][ja] “ethical.” Derives from the title of the *Daodejing* [道德經][zh].
 
 * _Fūdo_ [風土][ja] --- Milieu or climate. Literally, wind and soil. The title of Watsuji’s book on his trip to Europe, referred to here as *Milieu* and translated by Bownas as _Climate and Culture_. Related to _Fūdoki_ [風土記][ja], an eighth century chronicle of the geography and culture of Japan and a general name for the genre of such works chronicling the particularities of regions. 
 
@@ -176,7 +176,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * _Ga aru_ [がある][ja] --- Japanese existential verb. Unlike the English *is*, it cannot be used for predication.
 
-- *Gaku* [学][ja] --- Study. As a suffix, "the study of" X, similar to -ology in English.
+- *Gaku* [学][ja] --- Study. As a suffix, “the study of” X, similar to -ology in English.
 
 - *Gakumon* [学問][ja] --- Scholarship, science, inquiry.
 
@@ -206,7 +206,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * _Ichigo ichie_ [一期一会][ja] --- One time, one meeting. Used in tea ceremony and Noh theater to emphasize the unrepeatability of a particular situation.
 
-* _Ishiki_ [意識][ja] --- Consciousness. Notice the dissimilarity to _ryōshin_ [良心][ja] ("conscience"), unlike their similarity in many European languages.
+* _Ishiki_ [意識][ja] --- Consciousness. Notice the dissimilarity to _ryōshin_ [良心][ja] (“conscience”), unlike their similarity in many European languages.
 
 - *Jihi* [慈悲][ja] --- Buddhist compassion. Used to translate Sanskrit *[karuṇā][sa]* and Pāli *[metti][pi]*.
 
@@ -214,7 +214,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * _Jinkaku_ [人格][ja] --- Personality or personhood. What makes a person a person. Used to translate Kant’s _[Persönlichkeit][de]_.
 
-* _Jinruigaku_ [人類学][ja] --- Physical anthropology. Literally, the study of humankind. Cf. _ningengaku_ [人間学][ja] ("philosophical anthropology").
+* _Jinruigaku_ [人類学][ja] --- Physical anthropology. Literally, the study of humankind. Cf. _ningengaku_ [人間学][ja] (“philosophical anthropology”).
 
 * _Jinsei_ [人性][ja] --- Humanity or human nature. Used to translate Kant’s *[Menschlichkeit][de]*.
 
@@ -224,7 +224,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 - *Kan* [感][ja] --- Feeling. The moving of the heart-mind in response to some stimulus.
 
-- *Kangen/Kōsei/hakai* [還元・構成・破壊][ja] --- ∞
+- *Kangen/kōsei/hakai* [還元・構成・破壊][ja] --- Restoration/construction/destruction or returning to the source/developing out/breaking open. *Kangen* is also translated as “reduction,” but in Watsuji’s project means something more like “returning to everyday experience.” *Kōsei* is the process by which subjects and objects are formed. *Hakai* can also be translated as “deconstruction.”
 
 * *Kankei* [関係][ja] --- Relationship. Cf. *aidagara*.
 
@@ -242,7 +242,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * *Kōi* [行為][ja] --- Conduct or behavior. Actions that have moral valence.
 
-* *Kōi-teki chokkan* [行為的直観][ja] --- Acting intuition. Concept in Nishida's philosophy that we know through acting.
+* *Kōi-teki chokkan* [行為的直観][ja] --- Acting intuition. Concept in Nishida’s philosophy that we know through acting.
 
 * *Kōi-teki renkan* [行為的連関][ja] --- The linkage of conduct. The way that the acts that we do as human beings come together to form relationships and identities.
 
@@ -260,7 +260,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 - *Kyakkansei* [客観性][ja] --- Objectivity.
 
-- *Kyaku* [客][ja] --- A guest. Dyadic pair with _shu_ ("host").
+- *Kyaku* [客][ja] --- A guest. Dyadic pair with _shu_ (“host”).
 
 * *Kyōdō* [共同][ja] --- Communal. Literally, shared sameness.
 
@@ -274,7 +274,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * _Magokoro_ [まごころ][ja] or [真心][ja] --- A pure heart, sincerity, or truthfulness.
 
-* *Meibutsu* [名物][ja] --- Goods for which a particular region is famous. In contemporary Japanese culture, the gifting of *meibutsu* to one's hometown acquaintances after a trip is considered good etiquette.
+* *Meibutsu* [名物][ja] --- Goods for which a particular region is famous. In contemporary Japanese culture, the gifting of *meibutsu* to one’s hometown acquaintances after a trip is considered good etiquette.
 
 * *Men* [面][ja] --- See *omote*.
 
@@ -284,7 +284,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * *Mono no yū* [物の有][ja] --- The being of a thing.
 
-* *Motsu* [有つ][ja] --- *Motsu* is usually written [持つ][ja] and means to have or hold. Watsuji writes it as [有つ][ja] to show the connection between "being" (Chinese *you* [有][zh]) and human possession.
+* *Motsu* [有つ][ja] --- *Motsu* is usually written [持つ][ja] and means to have or hold. Watsuji writes it as [有つ][ja] to show the connection between “being” (Chinese *you* [有][zh]) and human possession.
 
 - *Muga* [無我][ja] --- Selflessness. Ecstasy. Cf. Sanskrit *[anātman][sa]*.
 
@@ -292,7 +292,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * *Naka* [仲][ja] or [中][ja] --- Close relationships or being inside a relationship. 
 
-* _Nakama_ [なかま][ja] or [仲間][ja] --- One's close companions or fellows. Literally, one's inner *aida* or the space in which good relationships are kept up.
+* _Nakama_ [なかま][ja] or [仲間][ja] --- One’s close companions or fellows. Literally, one’s inner *aida* or the space in which good relationships are kept up.
 
 * *Nihonjinron* [日本人論][ja] --- Theories of Japanese uniqueness. 
 
@@ -328,7 +328,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * _Shakaigaku_ [社会学][ja] --- Sociology. Literally, the study of society.
 
-* *Shii* [私意][ja] --- Private implications. In Japanese poetics, this means focusing on one's idiosyncratic reaction to a situation rather than its deeper emotional meaning, the *hon'i*.
+* *Shii* [私意][ja] --- Private implications. In Japanese poetics, this means focusing on one’s idiosyncratic reaction to a situation rather than its deeper emotional meaning, the *hon’i*.
 
 * *Shinmin* [臣民][ja] --- The subjects of a ruler.
 
@@ -336,7 +336,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * *Shi-teki sonzai* [私的存在][ja] --- Private existence.
 
-* _Shu_ or _Nushi_ [主][ja] --- Host or lord. In a dyadic pair with *kyaku* ("guest").
+* _Shu_ or _Nushi_ [主][ja] --- Host or lord. In a dyadic pair with *kyaku* (“guest”).
 
 * _Shudai_ [主題][ja] --- Subject of discussion.
 
@@ -358,9 +358,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * _Tōsui_ 陶酔 --- Intoxication.
 
-* *Tōitu/bunri/ketsugō* [統一・分離・結合][ja] --- ∞
-Union	Achievement of contact.
-Unity	Primordial state of non-duality.
+* *Tōitsu/bunri/ketsugō* [統一・分離・結合][ja] --- Unity/division/combination or taking as one/pulling apart/tying together. *Tōitsu* is a primordial state of non-duality. *Bunri* is the process by which self and other or subject and object come to be separated out. Combination is the achievement of contact that reunifies the whole in cleavage without the loss of the prior lines of division.
 
 * _Uchōten_ [有頂天][ja] --- Ecstasy.
 
@@ -378,17 +376,17 @@ Unity	Primordial state of non-duality.
 
 * _Yo_ [世][ja] --- World or generation. Notice that _yo_ can be spatial or temporal.
 
-* _Yo no naka_ [世の中][ja] --- Society or the public. Literally, in the world. Hence its use by Watsuji to translate Heidegger's *[In-der-Welt-Sein][de]* ("being in the world"). Cf. _seken_ [世間][ja] ("the social realm").
+* _Yo no naka_ [世の中][ja] --- Society or the public. Literally, in the world. Hence its use by Watsuji to translate Heidegger’s *[In-der-Welt-Sein][de]* (“being in the world”). Cf. _seken_ [世間][ja] (“the social realm”).
 
 * *Yūgen* [幽玄][ja] --- Mysterious profundity of Noh drama.
 
-* *Zen* [善][ja] --- Good. Especially ethical good (German *[Wert][ja]*) as opposed to instrumental good (German *[Güte][de]*).∞
+* *Zen* [善][ja] --- Good. Used by Watsuji to indicate ethical good as opposed to instrumental good (*yoshi* [良し][ja]). Cf. German, *[das Gute][ja]* versus *[das Wohl][de]* in Kant, *Critique of Practical Reason*, Ak. 59.
 
-* *Zettai mujun-teki jikō dōitsu* [絶対矛盾的自己同一][ja] --- In Nishida's philosophy, absolutely contradictory self-identity.
+* *Zettai mujun-teki jikō dōitsu* [絶対矛盾的自己同一][ja] --- In Nishida’s philosophy, absolutely contradictory self-identity.
 
 
 ###Latin
-- *[De gustibus non disputandum est][la]* --- "There's no arguing taste."
+- *[De gustibus non disputandum est][la]* --- “There’s no arguing taste.”
 
 - *[Essentia][la]* --- The what-it-is of a thing. Coined to translate Aristotle.
 
