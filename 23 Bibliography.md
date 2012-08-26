@@ -86,7 +86,9 @@
 
 * ⎯⎯⎯. *Philosophy of Right*. Translated by S.W Dyde. Kitchener, Ontario: Batoche Books, 2001.
 
-* Hume, David. “Of the Standard of Taste.” Last accessed, Spring 2012. `http://en.wikisource.org/wiki/Of_the_Standard_of_Taste`.
+* Hume, David. “An Enquiry Concerning Human Understanding.” Last accessed, Summer 2012. `http://en.wikisource.org/wiki/An_Enquiry_Concerning_Human_Understanding`.
+
+* ⎯⎯⎯. “Of the Standard of Taste.” Last accessed, Spring 2012. `http://en.wikisource.org/wiki/Of_the_Standard_of_Taste`.
 
 * Jencks, Charles A. _The Language of Post-Modern Architecture_. New York: Rizzoli, 1977.
 
