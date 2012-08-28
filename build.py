@@ -2,7 +2,7 @@
 
 import os
 import pubtools.txt2web as t2w
-from pubtools.prince import pdf_from_file as prince
+#from pubtools.prince import pdf_from_file as prince
 from pubtools.toc_hard import add_toc
 import string
 
@@ -93,10 +93,11 @@ def main():
     with open(html_filepath, "w", encoding="UTF-8") as f:
         f.write(html)
     
-    
-    #Make PDF
-    print("Writing PDF.")
-    prince(html_filepath, pdf_filepath)
+    #Just do this from the command line.
+    #That way you can see prince's results as it goes.
+    ##Make PDF
+    #print("Writing PDF.")
+    #prince(html_filepath, pdf_filepath)
     
     #Done
     print("Done.")
