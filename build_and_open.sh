@@ -1,0 +1,1 @@
+./build.py && prince -v output/dissertation.html && open output/dissertation.pdf
