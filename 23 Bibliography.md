@@ -16,6 +16,8 @@
 
 * Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” Accessed Spring 2012. `http://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm`.
 
+* Bein, Steve. _Purifying Zen: Watsuji Tetsurō’s_ Shamon Dōgen. Honolulu: University of Hawaiʻi Press, 2011.
+
 * Bernier, Bernard. “National Communion: Watsuji Tetsurō’s Conception of Ethics, Power, and the Japanese Imperial State.” _Philosophy East and West_ 56.1 (Jan., 2006): 84--105. `http://www.jstor.org/stable/4488002`.
 
 * Berque, Augustin, trans. _Fûdo: Le milieu humain_. Paris: CNRS, 2011.
@@ -56,7 +58,7 @@
 
 * ⎯⎯⎯. “The Artworld.” In *Aesthetics and the Philosophy of Art*, edited by Peter Lamarque and Stein Haugom Olsen, 27--34. Oxford: Blackwell, 2004.
 
-* De Gruchy, John Walter. *Orienting Arthur Waley: Japonism, Orientalism, and the Creation of Japanese Literature in English*. Honolulu: University of Hawaii Press, 2003.
+* De Gruchy, John Walter. *Orienting Arthur Waley: Japonism, Orientalism, and the Creation of Japanese Literature in English*. Honolulu: University of Hawaiʻi Press, 2003.
 
 * Diamond, Jared. _Guns, Germs, and Steel: The Fates of Human Societies_. New York: W.W. Norton, 1997.
 
@@ -124,9 +126,9 @@
 
 * Marra, Michael F. “On Japanese Things and Words: An Answer to Heidegger’s Question.” *Philosophy East and West* 54.4 (Oct., 2004): 555--568. `http://www.jstor.org/stable/4148019`.
 
-* ⎯⎯⎯, ed. _A History of Modern Japanese Aesthetics_. Honolulu: University of Hawaii Press, 2001.
+* ⎯⎯⎯, ed. _A History of Modern Japanese Aesthetics_. Honolulu: University of Hawaiʻi Press, 2001.
 
-* ⎯⎯⎯, trans. and ed. *The Poetics of Motoori Norinaga: A Hermeneutical Journey*. Honolulu: University of Hawaii Press, 2007.
+* ⎯⎯⎯, trans. and ed. *The Poetics of Motoori Norinaga: A Hermeneutical Journey*. Honolulu: University of Hawaiʻi Press, 2007.
 
 * Masheck, Joseph. Introduction to _Composition_, by Arthur Dow, 1--61. Berkley: University of California Press, 1997.
 
@@ -134,7 +136,7 @@
 
 * Merleau-Ponty, Maurice. _Phenomenology of Perception_. Translated by Donald Landes. New York: Routledge, 2002.
 
-* [Miki][sc] Kiyoshi. “The Study of the Human.” Translated by Gereon Kopf. In _Japanese Philosophy: A Sourcebook_, 702--705. Honolulu: University of Hawaii Press, 2011.
+* [Miki][sc] Kiyoshi. “The Study of the Human.” Translated by Gereon Kopf. In _Japanese Philosophy: A Sourcebook_, 702--705. Honolulu: University of Hawaiʻi Press, 2011.
 
 * [Miyagawa][sc] Keiji [宮川敬之][ja]. _Watsuji Tetsurō Jinkaku kara Aidagara e (Saihakken Nihon no Tetsugaku)_ [和辻哲郎 人格から間柄へ (再発見 日本の哲学)][ja] (_Watsuji Tetsurō: From Personhood to Persistent Relationality [Rediscovering Japanese Philosophy]_). Tokyo: Kodansha [講談社][ja], 2008.
 
@@ -158,7 +160,7 @@
 
 * [Nose][sc] Asaji [能勢朝次][ja]. *Sanzōshi hyōshaku* [三冊子評釈][ja]. Tokyo: Meicho Kankōkai [名著刊行会][ja], 1970.
 
-* Odin, Steve. _Artistic Detachment in Japan and the West: Psychic Distance in Comparative Aesthetics_. Honolulu: University of Hawaii Press, 2001.
+* Odin, Steve. _Artistic Detachment in Japan and the West: Psychic Distance in Comparative Aesthetics_. Honolulu: University of Hawaiʻi Press, 2001.
 
 * [Okakura][sc] Kakuzō. _The Awakening of Japan_. New York: Japan Society, 1921.
 
@@ -188,11 +190,13 @@
 
 * Pronko, Leonard C. _Theater East and West_. Berkeley: University of California Press, 1967.
 
+* Putnam, Hilary. “Brains in a Vat.” In _Reason, Truth, and History_, 1--21. Cambridge University Press, 1982. Accessed Summer 2012. `http://www.cavehill.uwi.edu/bnccde/ph29a/putnam.html`.
+
 * Reynolds, Simon. _Rip It Up and Start Again : Postpunk 1978--1984_. New York: Penguin Books, 2006.
 
 * _Ruigo Reikai Jiten_ [類語例解辞典][ja]. Tokyo: Shogakukan [小学館][ja], 2006.
 
-* [Sakabe][sc] Megumi. “Mask and Shadow in Japanese Culture: Implicit Ontology in Japanese Thought.” In _Modern Japanese Aesthetics: A Reader_, translated by Michele Marra, 242--251. Honolulu: University of Hawaii Press, 1999.
+* [Sakabe][sc] Megumi. “Mask and Shadow in Japanese Culture: Implicit Ontology in Japanese Thought.” In _Modern Japanese Aesthetics: A Reader_, translated by Michele Marra, 242--251. Honolulu: University of Hawaiʻi Press, 1999.
 
 * Sakai, Naoki. *Translation and Subjectivity: On Japan and Cultural Nationalism*. Minneapolis: University of Minnesota Press, 1997.
 
