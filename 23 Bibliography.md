@@ -230,6 +230,6 @@
 
 * Yamamoto, Seisaku and Robert Carter, trans. _[Watsuji][sc] Tetsurō’s_ Rinrigaku: _Ethics in Japan_. Albany: SUNY Press, 1996. 
 
-* [Yoshida][sc] Kazuhisa. “Two Faces of Postmodernism: Postmodernist Critiques of Cultural Typologies and the Future of Comparative Studies of Culture.” Saitama University Journal (College of General Education) _Saitama Daigaku Kiyō (Kyōyō Gakubu)_ 埼玉大学紀要（教養学部） 46.2 (2010): 219--241. Last accessed, Spring 2012. `http://sucra.saitama-u.ac.jp/modules/xoonips/detail.php?item_id=14722`.
+* [Yoshida][sc] Kazuhisa. “Two Faces of Postmodernism: Postmodernist Critiques of Cultural Typologies and the Future of Comparative Studies of Culture.” Saitama University Journal (College of General Education) _Saitama Daigaku Kiyō (Kyōyō Gakubu)_ [埼玉大学紀要（教養学部）][ja] 46.2 (2010): 219--241. Last accessed, Spring 2012. `http://sucra.saitama-u.ac.jp/modules/xoonips/detail.php?item_id=14722`.
 
 * Zemach, Eddy. “Putnam’s Theory on the Reference of Substance Terms.” _The Journal of Philosophy_ 73.5 (Mar., 1976): 116--127. `http://www.jstor.org/stable/2025740`.

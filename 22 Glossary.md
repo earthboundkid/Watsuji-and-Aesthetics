@@ -84,7 +84,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 - *[Genießen][de]* --- Enjoyment, relishing, or savoring. 
 
-- *[In-der-Welt-Sein][de]* --- Heidegger’s Being-in-the-world. Cf. _yo no naka_ 世の中 in Japanese.
+- *[In-der-Welt-Sein][de]* --- Heidegger’s Being-in-the-world. Cf. _yo no naka_ [世の中][ja] in Japanese.
 
 - *[Interesse][de]* --- Interest. For Kant, a practical concern for existence of the object.
 
@@ -160,7 +160,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * _Bi_ [美][ja] --- Beautiful. Notice that, like the Chinese _mei_ and unlike the Greek [καλόν][el], _bi_ is adjectival, not an abstract noun.
 
-* _Bigaku_ [美学][ja] --- Literally, the study of the beautiful. Often used to translate “aesthetics.” Cf. _Kansei_ 感性.
+* _Bigaku_ [美学][ja] --- Literally, the study of the beautiful. Often used to translate “aesthetics.” Cf. _Kansei_ [感性][ja].
 
 - *Bushidō* [武士道][ja] --- The way of the warrior. The Confucian and Buddhist influenced ethical code of the samurai.
 
@@ -356,7 +356,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * *Tōi* [当為][ja] --- The ought. Used to translate the German *[Sollen][de]*.
 
-* _Tōsui_ 陶酔 --- Intoxication.
+* _Tōsui_ [陶酔][ja] --- Intoxication.
 
 * *Tōitsu/bunri/ketsugō* [統一・分離・結合][ja] --- Unity/division/combination or taking as one/pulling apart/tying together. *Tōitsu* is a primordial state of non-duality. *Bunri* is the process by which self and other or subject and object come to be separated out. Combination is the achievement of contact that reunifies the whole in cleavage without the loss of the prior lines of division.
 
