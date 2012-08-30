@@ -474,12 +474,12 @@ div {
 }
 
 .frontquote {
-    font: 12pt/16pt "Palatino", serif;
+    font-size: 12pt;
+    line-height: 16pt;
     width: 4in;
     margin: 4in auto;
 }
 .frontquote blockquote p {
     font-size: 12pt;
     line-height: 16pt;
-    display: none;
 }
