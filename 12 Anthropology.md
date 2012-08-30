@@ -222,7 +222,7 @@ The pattern of double negation in human existence can be subsumed under a more g
 <figcaption>**Figure 1.** The structure of unity/division/combination and destruction/construction/restoration.</figcaption>
 </figure>
 
-[f1]: file:///Users/cjohnson/Dropbox/Dissertation/images/udu.png =600
+[f1]: ../images/udu.png =600
 
 As illustrated by figure one, unity/division/union and destruction/construction/restoration are parallel to the pattern of double negation at work in human existence. As human beings, we come from a place of betweenness where there are no defined boundaries between self and other. There is a difference between our core and those around us (as symbolized by the gradient from black to white), but this difference is a vague one with no bright line of discontinuity, only opposing poles. This is the first phase, unity. Then in negation we carve out a space between our self and our surroundings. We oppose those around us and so define ourselves. We abstract the content from its context and separate the focus from its field. This is the second phase, division. In the third phase, we bring self and other together in a union to form a community. As individuals, we reconcile ourselves to society. Notice, however, that the marks of cleavage remain even after this reunion. After this, the cycle continues again from unity as we continually define and redefine through action our relations with others and objects.
 
