@@ -286,7 +286,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * *Motsu* [有つ][ja] --- *Motsu* is usually written [持つ][ja] and means to have or hold. Watsuji writes it as [有つ][ja] to show the connection between “being” (Chinese *you* [有][zh]) and human possession.
 
-- *Muga* [無我][ja] --- Selflessness. Ecstasy. Cf. Sanskrit *[anātman][sa]*.
+- *Muga* [無我][ja] --- No-self, selflessness, or ecstasy. Cf. Sanskrit *[anātman][sa]*.
 
 - *Mujōkan* [無常感][ja] --- Feeling of impermanence or transience.
 
@@ -404,6 +404,8 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 
 ###Sanskrit terms
-* *[Anātman][sa]* <!-- अनात्मन्--> --- No self. In Buddhism, one of the three marks of existence is the lack of a substantial self. Interpretations of this doctrine vary by sect. Cf. Japanese *muga* [無我][ja].
+* *[Anātman][sa]* <!-- अनात्मन्--> --- No-self. In Buddhism, one of the three marks of existence is the lack of a substantial self. Interpretations of this doctrine vary by sect. Cf. Japanese *muga* [無我][ja].
+
+* *[Pratītyasamutpāda][sa]* <!--प्रतीत्यसमुत्पाद --> --- Dependent origination. The Buddhist doctrine that nothing has independent existence because everything is causally conditioned. In Japanese, *engi* [縁起][ja].
 
 * *[Śūnyatā][sa]* <!--शून्यता--> --- Emptiness. Cf. Japanese *kū* [空][ja].
