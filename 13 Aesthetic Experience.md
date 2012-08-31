@@ -231,4 +231,4 @@ In the next chapter, I will show how it is that aesthetic judgments and tastes c
 <figcaption>**Figure 2.** Noh mask shown from three angles, showing three different emotions. Photo credit: Wikipedia.</figcaption>
 </figure>
 
-[mask]: file:///Users/cjohnson/Dropbox/Dissertation/images/noh_mask.jpg =600
+[mask]: ../images/noh_mask.jpg =600
