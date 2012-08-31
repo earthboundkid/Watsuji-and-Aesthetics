@@ -208,6 +208,8 @@
 
 * Shun, Kwong-Loi. _Mencius and Early Chinese Thought_. Stanford University Press, 1997.
 
+* Slater, William. *Lexicon to Pindar*. Berlin: De Gruyter, 1969. `http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0072%3Aentry%3Dkalo%2Fs`.
+
 * Snow, C. P. _The Two Cultures and the Scientific Revolution_. Cambridge University Press, 1961.
 
 * Tolstoy, Leo. _What is Art? And Essays on Art_. Translated by Aylmer Maude. New York: Oxford University Press, 1962.

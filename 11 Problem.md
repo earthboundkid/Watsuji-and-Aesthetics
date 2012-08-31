@@ -94,9 +94,11 @@ Whether a judgment interpreted in the manner of (4) or (5) should be classified 
 If we take our starting point in aesthetics to be either the experience of a suitable spectator or the capacity of an object to induce such an experience, then questions about what makes a spectator suitable and how the spectator relates to the object of experience naturally follow. To begin the investigation, I wish to briefly examine how Plato (428--347 B.C.E.) and Immanuel Kant (1724--1804) would have resolved these questions in order to show that existing approaches to aesthetics have been hampered by an unnecessarily dualistic account of subject and object at the surface level, which must then be punctured at a transcendental level in order accommodate intuitions about aesthetics.
 
 ####Plato, beauty, and the form of the good
-To speak of Plato’s approach to aesthetics is peculiar in the sense that he rejects [αἴσθησις][el][^fn1-3] (value neutral perception) as a means of grasping the form of beauty itself ([καλόν][el], a word that means both “beautiful” and “good”). Plato’s aesthetics are large topic and my criticisms are of him somewhat tangential to the discussion that follows in later chapters, so here I will restrict myself to a relatively brief description of his explanation of beauty in *The Republic*.
+To speak of Plato’s approach to aesthetics is peculiar in the sense that he rejects [αἴσθησις][el][^fn1-3] (value neutral perception) as a means of grasping the form of beauty itself ([καλόν][el], a word that means both “beautiful” and “good”[^fn-kalon]). Plato’s aesthetics are large topic and my criticisms are of him somewhat tangential to the discussion that follows in later chapters, so here I will restrict myself to a relatively brief description of his explanation of beauty in *The Republic*.
 
 [^fn1-3]: All Greek terms and their English transliterations available in the glossary.
+
+[^fn-kalon]: Slater’s *Lexicon* gives the root word [καλός][el] the definitions “1. of actions, noble, honorable” and “2. beautiful.” <!--page #? ∞-->
 
 Although the phrase “beauty is in the eye of the beholder” is a mutilated paraphrase of Plato,[^fn1-4] his actual view was nearly the opposite. Of the interpretations offered earlier, Plato's view of beauty is closest to (5), "the work under discussion possesses a capacity to induce experiences of beauty in suitable spectators." For Plato, the beauty of a work is measured by how well it participates in the form of beauty, not by the subjective capacity of perceivers to recognize this beauty.
 
