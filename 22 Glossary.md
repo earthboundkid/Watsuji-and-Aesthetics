@@ -294,7 +294,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * _Nakama_ [なかま][ja] or [仲間][ja] --- One’s close companions or fellows. Literally, one’s inner *aida* or the space in which good relationships are kept up.
 
-* *Nihonjinron* [日本人論][ja] --- Theories of Japanese uniqueness. 
+* *Nihonjinron* [日本人論][ja] --- Theories of Japanese uniqueness. The study of the Japanese people can become an excuse for nationalistic chauvinism if not balanced by a sense of the uniqueness of each group of people.
 
 * _Ningen_ [人間][ja] --- Human beings, collectively or individually. Literally, person (_hito_) plus interval (_aida_). In Buddhism, it refers to the realm of humans as contrasted with the realm of gods, animals, spirits, etc. In Japanese, it came to take on individual and collective meanings.
 
