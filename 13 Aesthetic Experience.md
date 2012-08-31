@@ -98,7 +98,7 @@ When we follow aesthetic experience, we give ourselves over to our object, disre
 
 Psychic distancing and intoxicated dissolution are what allow us to appreciate the fullness of the object as a value feeling without thereby committing our ordinary self to an interest in it.
 
-The concept of disinterested enjoyment is also present in the work of [Nishida][sc] Kitarō ([西田幾多郎][ja], 1870--1945), who had a profound effect on Watsuji’s philosophy. In “An Explanation of Beauty,”[^fn3-10] Nishida connects the feeling of beauty to the Buddhist concept of *muga* [無我][ja]. *Muga* is written with characters that literally mean “without” and “I,” and it was used as a translation of the Sanskrit term *[anātman][sa]* or “no self.” According to Nishida, beauty is the particular form of enjoyment we feel when we achieve a state of selfless ecstasy:
+The concept of disinterested enjoyment is also present in the work of [Nishida][sc] Kitarō ([西田幾多郎][ja], 1870--1945), who had a profound effect on Watsuji’s philosophy. In “An Explanation of Beauty,”[^fn3-10] Nishida connects the feeling of beauty to the Buddhist concept of *muga* [無我][ja]. *Muga* is written with characters that literally mean “without” and “I,” and it was used as a translation of the Sanskrit term *[anātman][sa]* or “no-self.” According to Nishida, beauty is the particular form of enjoyment we feel when we achieve a state of selfless ecstasy:
 
 [^fn3-10]: “An Explanation of Beauty” is *Bi no Setsumei* [美の説明][ja]. Translations are by Steve Odin.
 
