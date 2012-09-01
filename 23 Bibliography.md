@@ -76,7 +76,7 @@
 
 * Frascina, Francis, ed. *Pollock and After: The Critical Debate, Second Edition*. London: Routledge, 2000.
 
-* Gordon, David B. _Self-Overcoming as the Overcoming of Modernity: Watsuji Tetsurō’s “A Study of Nietzsche” (1913) and Its Place in the Development of His Thought_. Doctoral thesis, University of Hawaii, 1997.
+* Gordon, David B. “Self-Overcoming as the Overcoming of Modernity: Watsuji Tetsurō’s ‘A Study of Nietzsche’ (1913) and Its Place in the Development of His Thought.” Doctoral thesis, University of Hawaii, 1997.
 
 * Heidegger, Martin. “Art and Space.” Translated by Charles Seibert. *Man and World* 6.1 (1973): 3--8. `doi:10.1007/BF01252779`.
 
