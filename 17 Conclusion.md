@@ -13,11 +13,39 @@ title: Concluding Remarks
 ###Unifying themes
 To conclude, I would like to review what has been proposed so far before leaving it to reader for further judgment. Looking back, it is clear that the unifying theme of these chapters has been the application of Watsuji’s anthropology of double negation to aesthetics. Aesthetics has been consistently revealed as a process of unity/division/combination (*tōitsu/bunri/ketsugō* [統一・分離・結合][ja]) understood through a hermeneutic of restoration/construction/destruction (*kangen/kōsei/hakai* [還元・構成・破壊][ja]).
 
+<figure id="fig3">
+![Figure 3. Aesthetic experience][f3]
+<figcaption>**Figure 3.** Aesthetic experience as double negation.</figcaption>
+</figure>
+
+[f3]: ../images/ae.png =600
+
 In the hermeneutic step of restoration of everyday experience, aesthetic experience was shown to be a interplay of subject and object. In ordinary experience, we experience a fusion of subject and object as we act, but this pre-reflective fusion is not true aesthetic experience. Aesthetic experience requires that we first distance the ordinary self from the object so that we no longer see it aspectivally as a component of the self. Once this negation is in place, a further negation is possible, the negation of intoxicated dissolution. In the second negation, we leave the ordinary self in its distance from the object but take up a perspective that is larger than ordinary self---the perspective of the no-self (*muga* [無我][ja]). From this larger perspective, rather than seeing the object aspectivally “as” useful for some practical end, we see the object “as if” it had practical value---we see the object as intrinsically valuable in its own perspective. For this reason, it is appropriate to label the process of aesthetic experience as a whole “disinterested enjoyment.” Disinterested enjoyment does not mean enjoyment that is aloof from things, but enjoyment that comes from inhabiting the perspective of things rather than inhabiting the perspective of the ordinary self.
+
+<figure id="fig4">
+![Figure 4. Normativity in aesthetic judgment and taste][f4]
+<figcaption>**Figure 4.** Normativity in aesthetic judgment and taste.</figcaption>
+</figure>
+
+[f4]: ../images/norm.png =600
 
 In the hermeneutic step of construction, I looked at the subject and object as built up in aesthetic normativity and theories of art. Aesthetic normativity as expressed in judgment and taste was similarly shown to be the result of double negation. This double negation takes place between self and other as well as the subject and object negation of aesthetic experience. The individual develops a unique sensibility by forming aesthetic judgments that contradict the taste of the community, but the taste of the community is the matrix out of which aesthetic experiences are made possible, so these tastes hold normative significance for the individual. My judgments stem from the tastes of others and must return to them to bear fruit. The basis for this process is not a universal subjectivity, but a local and connected one. It is not that there is a singular ideal of the “suitable spectator” that holds for all aesthetic judgments across time. Rather, we create a subject suitable for aesthetic experience together and in so doing also give birth to the aesthetic predicates that our community takes as norms. The tastes of my community are normative for me because they made my experiences possible, and my judgments are normative for our community because I am an autonomous member of that community. The sphere of the aesthetic is not universal but expanding at the speed of sound---by speaking together we create a space in which suitable subjects and ideal objects can flourish.
 
+<figure id="fig5">
+![Figure 5. History and milieu in art][f5]
+<figcaption>**Figure 5.** History and milieu in art.</figcaption>
+</figure>
+
+[f5]: ../images/art.png =600
+
 Our understanding of theories of art is also enhanced by looking through the lens of double negation. Artist, work, and audience must come together in a particular time and place in order to create art. Art is the concretion of a context. It is the blossoming of a historical pursuit of aesthetic excellence within a particular milieu. History is a process by which time is invested with significance through the interplay of works and styles. A milieu is enriched by the interplay of humanity and nature within a socio-ecological niche. Individual artworks are created out of the ideals of a context, which they negate, and in so negating they create a context of new ideals for new works to negate.
+
+<figure id="fig6">
+![Figure 6. Genius][f6]
+<figcaption>**Figure 6.** Genius and criticism.</figcaption>
+</figure>
+
+[f6]: ../images/genius.png =600
 
 Finally, the hermeneutic step of destruction showed that genius as well is a process of double negation. Genius is neither the artifact of sheer individual will nor the predetermined product of nature. It is the outcome of an interplay with critics. A true genius is one who smashes up old values that have grown into mere idols and reveals the shining core of truth that comes from the flow of life itself. In doing so, the private values of the genius become public and thereby risk their own idolization. When this happens, it is time for a new genius to revive the old idols and bring new life to the values they once represented.
 
@@ -85,7 +113,7 @@ Second, the balance between the spatial and temporal aspects of aesthetics can b
 
 Third, I was not able to explore the issue of truth in aesthetics in as great a depth as I would have liked. I described aesthetic normativity in chapter four, but I had to table a discussion of the relationship between trust and truth. For Watsuji, the spirit of truthfulness (*magokoro* [まごころ][ja]) is arguably a more basic concept that “truth” itself. Truth about matters of natural fact stems from attitude of trustworthiness towards other. This being so, what are the implications for aesthetic truth? What does it mean to comport myself in trustworthy manner within the normativity of my aesthetic community? Does a genius have to be a liar in a certain sense in order to shatter the old paradigm of trust and forge a new one? How do we correct the truth of a culture that has lost its trustworthiness?
 
-Four, as was stated several times in chapter five, I have not been able to present a complete theory of art here, though I have indicated the centrality of context to art and the important roles of the artist, work, and audience. A complete theory of art would likely require a greater grounding in the global history of the arts than I am capable of providing. Nevertheless, this might be a fruitful area for future scholars to explore.
+Fourth, as was stated several times in chapter five, I have not been able to present a complete theory of art here, though I have indicated the centrality of context to art and the important roles of the artist, work, and audience. A complete theory of art would likely require a greater grounding in the global history of the arts than I am capable of providing. Nevertheless, this might be a fruitful area for future scholars to explore.
 
 Finally, my discussion of genius hinted at the importance of religion and nationalism to aesthetics, but these topics deserve a greater degree of deconstruction in order to untangle their intertwined roots. It cannot be a coincidence that contemporary art museums are an important locus of the national cult. What would France be without the Louvre and how could Britain return the Elgin Marbles without completely repudiating its former empire? These questions are important not only from a theoretical perspective but also from the very hard-nosed perspective of political philosophy.
 
