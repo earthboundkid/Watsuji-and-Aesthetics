@@ -300,7 +300,7 @@ This surely is the greatest testament to the genius of *The Tale of Genji* and i
 ####*Genji* and the critical tradition
 The earliest bit of “critical reception” to *The Tale of Genji* that we have outside of Murasaki’s own diary is by the thirteen year old author of the Sarashina Diary (*Sarashina nikki* [更級日記][ja], c. 1022):
 
-> I read *Waka Murasaki* and a few of the other early books in *The Tale of Genji*, and I longed to see the later parts… I was feeling most dejected about it when one day I called on an aunt of mine… And so it was that she presented me with fifty-odd volumes of *The Tale of Genji* in a special case… Oh, how happy I was when I came home with all these books in a bag*!* (Morris, 263)
+> I read *Waka Murasaki* and a few of the other early books in *The Tale of Genji*, and I longed to see the later parts… […] I was feeling most dejected about it when one day I called on an aunt of mine […]. And so it was that she presented me with fifty-odd volumes of *The Tale of Genji* in a special case […]. Oh, how happy I was when I came home with all these books in a bag*!* (Morris, 263)
 
 Besides helping us set a *[terminus ante quem][la]* for the composition of the bulk of the tale, this shows the enthusiasm that readers have brought to the text for centuries. A work like *Genji* is not yet a work of genius when its author lays down her pen. Rather, it grows into the work of genius that it is by affecting this sort of response in those critics who later approach it with an empathetic heart. A coming together of vital energy is thereby achieved, and the course of art history altered.
 
