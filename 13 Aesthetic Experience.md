@@ -26,7 +26,7 @@ The distinction between these three ways of talking about aesthetics is register
 Traditional definitions are given by a genus and a specific difference. Clearly, the genus for aesthetic experience is experience. But what is the specific difference between aesthetic experience and other experiences? What are the conditions for having an aesthetic experience and what is the outcome of aesthetic experience? In what follows, I will first attempt a basic description of the nature of ordinary experience. Then I will show that a pre-condition of aesthetic experience is a sense of *psychic distance* between the ordinary self and the aesthetic object. The outcome of aesthetic experience is feeling of *intoxicated dissolution* or ecstatic unity with the object of experience. Aesthetic experience as a whole may be characterized as a process of *disinterested enjoyment* of the object’s existence. In making this argument, I will take some basic elements from Watsuji’s thought but use these elements to construct a framework for understanding aesthetic experience that goes beyond any of the particular accounts of aesthetics he gave.
 
 ###Perception in everyday experience
-To understand aesthetic experience, we must first have a basic grasp of ordinary experience, in order to form a contrast between the two. For the most part, in ordinary experience we do not distinctly perceive the objects around us, but we unselfconsciously treat them as tools for manipulating our environment. As Heidegger explains in his famous example of the hammer from _Being and Time_, we treat objects that are ready-to-hand around us as having an in-order-to structure, and it is only when something occurs to make them unusable that they become conspicuous and obtrusive as present-at-hand.[^fn3-5] When one hammers at a nail expertly, one does not think of the hammer or the nail. Rather, they melt into the background of experience. But when something happens to break the union of self and tool, say the head of the hammer becomes lose or the hammer is not there when one reaches for it, suddenly these background elements in experience are sharply foregrounded because they have frustrated one’s desires.
+To understand aesthetic experience, we must first have a basic grasp of ordinary experience, in order to form a contrast between the two. For the most part, in ordinary experience we do not distinctly perceive the objects around us, but we unselfconsciously treat them as tools for manipulating our environment. As Martin Heidegger (1889--1976) explains in his famous example of the hammer from _Being and Time_, we treat objects that are ready-to-hand around us as having an in-order-to structure, and it is only when something occurs to make them unusable that they become conspicuous and obtrusive as present-at-hand.[^fn3-5] When one hammers at a nail expertly, one does not think of the hammer or the nail. Rather, they melt into the background of experience. But when something happens to break the union of self and tool, say the head of the hammer becomes lose or the hammer is not there when one reaches for it, suddenly these background elements in experience are sharply foregrounded because they have frustrated one’s desires.
 
 [^fn3-5]: See Martin Heidegger, _Being and Time_, Division One, Part III, A.
 
@@ -168,6 +168,13 @@ In the essay “Mask and Persona,”[^fn3-21] Watsuji further explores the relat
 
 [^fn3-21]: “Mask and Persona” is _Men to Perusona_ [面とペルソナ][ja], included in WTZ 17:289--95. The essay was first published in 1935, and then used as the title essay for a collection of essays published by Watsuji in 1937.
 
+<figure id="fig2">
+![Figure 2. Noh mask shown from three angles][mask]
+<figcaption>**Figure 2.** Noh mask shown from three angles, showing three different emotions. Photo credit: Wikipedia.</figcaption>
+</figure>
+
+[mask]: ../images/noh_mask.jpg =600
+
 On the one hand, typical Noh masks are completely blank and “washed clean” of all specific facial features. On the other hand, when employed dynamically by a skillful actor, these masks are able to come to life in a way not possible for other, more ostensibly realistic masks. From this Watsuji concludes that,
 
 > A mask is just the facial surface that remained when the body and head were stripped away from the original physical person, but that mask acquires a body once again. To express a person, it can be cut down to just a facial surface, but this cut down surface has the power to freely restore itself to a body. Seen this way, the facial surface has a core significance for the existence of a person (*hito no sonzai* [人の存在][ja]). It is not simply one part of the physical body, but it is none other than the seat of the subjective (*shutai-teki naru mono no za* [主体的なるものの座][ja]) that subdues the physical body for itself, that is, the seat of personality (*jinkaku* [人格][ja]). (WTZ 17:293)
@@ -225,10 +232,3 @@ In this chapter, I followed the hermeneutic method specified in the last chapter
 To illustrate this theory of aesthetic experience, I used examples taken from the theater. Aristotle’s theory of catharsis can be understood in terms of the importance of psychic distance and the effect of intoxicated dissolution. Nietzsche’s theory of Apollonian rationality and Dionysian frenzy in Greek theater corresponds as well to the difference between psychic distancing on the one hand and intoxicated dissolution on the other. Two of the central concepts in Noh theater are _ri-ken no ken_ [離見の見][ja] (“the seeing of distant seeing”) and _yūgen_ [幽玄][ja] (“mysterious profundity”). _Ri-ken no ken_ shows the importance of perspective taking to theater---the audience takes up the perspective of the actor, the actor takes up the perspective of the character, and, at the height of many Noh plays, the character takes up the perspective of a spirit. _Yūgen_ meanwhile shows the importance of expressing a hidden depth on the surface of things. Great Noh theater comes about when the actors and chorus are able to present clearly the inner quality of the object for inhabitation by the audience.
 
 In the next chapter, I will show how it is that aesthetic judgments and tastes can be shared by exploring the nature of the subject-object division in greater detail.
-
-<figure id="fig2">
-![Figure 2. Noh mask shown from three angles][mask]
-<figcaption>**Figure 2.** Noh mask shown from three angles, showing three different emotions. Photo credit: Wikipedia.</figcaption>
-</figure>
-
-[mask]: ../images/noh_mask.jpg =600
