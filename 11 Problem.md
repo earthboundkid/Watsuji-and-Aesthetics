@@ -98,7 +98,7 @@ To speak of Plato’s approach to aesthetics is peculiar in the sense that he re
 
 [^fn1-3]: All Greek terms and their English transliterations available in the glossary.
 
-[^fn-kalon]: Slater’s *Lexicon* gives the root word [κᾰλός][el] the definitions “1. of actions, noble, honorable” and “2. beautiful” (263). In his *Rhetoric*, Aristotle writes that it is "that which, being desirable in itself is at the same time worthy of praise, or which, being good, is pleasant because it is good" (1.9.3, 1366a). <!-- ∞-->
+[^fn-kalon]: Slater’s *Lexicon* gives the root word [κᾰλός][el] the definitions “1. of actions, noble, honorable” and “2. beautiful” (263). In *On Rhetoric*, Aristotle writes that “*kalon* describes whatever, through being chosen for itself, is praiseworthy or whatever, through being good (*agathon*), is pleasant because it is good (*agathon*)” (1.9.3, 1366a).
 
 Although the phrase “beauty is in the eye of the beholder” is a mutilated paraphrase of Plato,[^fn1-4] his actual view was nearly the opposite. Of the interpretations offered earlier, Plato's view of beauty is closest to (5), "the work under discussion possesses a capacity to induce experiences of beauty in suitable spectators." For Plato, the beauty of a work is measured by how well it participates in the form of beauty, not by the subjective capacity of perceivers to recognize this beauty.
 
