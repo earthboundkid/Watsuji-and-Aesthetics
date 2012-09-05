@@ -10,9 +10,11 @@
 
 * Aristotle. _Nicomachean Ethics_. Second Edition. Translated by Terence Irwin. Indianapolis: Hackett, 1999.
 
+* ⎯⎯⎯. _On Rhetoric: A Theory of Civic Discourse._ Translated by George A. Kennedy. New York: Oxford University Press, 1991.
+
 * ⎯⎯⎯. _Poetics_. In *Aristotle in 23 Volumes*, translated by W. H. Fyfe, vol. 23. Cambridge, MA: Harvard University Press, 1932.
 
-* ⎯⎯⎯. _Politics_. In *Aristotle in 23 Volumes*, translated by W. H. Fyfe, vol. 21. Cambridge, MA: Harvard University Press, 1932.
+* ⎯⎯⎯. _Politics_. In *Aristotle in 23 Volumes*, translated by W. H. Fyfe, vol. 21. Cambridge, MA: Harvard University Press, 1932. 
 
 * Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” Accessed Spring 2012. `http://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm`.
 
@@ -30,11 +32,13 @@
 
 * Blyth, R. H. _Haiku. Volume I: Eastern Culture_. Paperback edition. Tokyo: Hokuseido Press, 1981.
 
+* Bontekoe, Ronald. *Dimensions of the Hermeneutic Circle*. Amherst, New York: Humanity Books, 2000.
+
 * Borges, Jorge Luis. “Pierre Menard, Author of the _Quixote_.” Translated by James E. Irby. In _Labyrinths: Selected Stories and Other Writings by Jorge Luis Borges_, edited by Donald A. Yates and James E. Irby, 36--44. New York: New Directions, 1964.
 
 * Bownas, Geoffrey, trans. _Climate and Culture: A Philosophical Study_. New York: Greenwood Press, 1988.
 
-* Bowring, Richard. *Murasaki Shikibu: Her Diary and Poetic Memoirs, A Translation and Study*. Princeton University Press: 1982.
+* Bowring, Richard. *Murasaki Shikibu: Her Diary and Poetic Memoirs, A Translation and Study*. Princeton: Princeton University Press, 1982.
 
 * Baumgarten, Alexander Gottlieb. *Aesthetica*. Ioannis Christiani Kleyb, 1750. `http://www.archive.org/details/aestheticascrip00baumgoog`.
 
@@ -122,6 +126,8 @@
 
 * Lewis, Martin and Kären Wigen. *The Myth of Continents: A Critique of Metageography*. Berkeley: University of California Press, 1997.
 
+* Maraldo, John C. “Between Individual and Communal, Subject and Object, Self and Other: Mediating Watsuji Tetsurō’s Hermeneutics.” In *Japanese Hermeneutics: Current Debates on Aesthetics and Interpretations*, edited by Michael Marra, 76--86. Honolulu: University of Hawaiʻi Press, 2002.
+
 * Marion, Mathieu. “Wittgenstein on Heidegger and Cosmic Emotions.” In _Philosophical Papers Dedicated to Kevin Mulligan_, edited by Anne Reboul. Accessed Spring 2012. `http://www.philosophie.ch/kevin/festschrift/Marion-paper.pdf`.
 
 * Marra, Michael F. “On Japanese Things and Words: An Answer to Heidegger’s Question.” *Philosophy East and West* 54.4 (Oct., 2004): 555--568. `http://www.jstor.org/stable/4148019`.
@@ -199,6 +205,8 @@
 * [Sakabe][sc] Megumi. “Mask and Shadow in Japanese Culture: Implicit Ontology in Japanese Thought.” In _Modern Japanese Aesthetics: A Reader_, translated by Michele Marra, 242--251. Honolulu: University of Hawaiʻi Press, 1999.
 
 * Sakai, Naoki. *Translation and Subjectivity: On Japan and Cultural Nationalism*. Minneapolis: University of Minnesota Press, 1997.
+
+* Scarry, Elaine. _On Beauty and Being Just_. Princeton: Princeton University Press, 1999.
 
 * Sekine, Seizo. _A Comparative Study of the Origins of Ethical Thought: Hellenism and Hebraism_. Translated by Judy Wakabayashi. Lanham, Maryland: Rowman and Littlefield, 2005.
 

@@ -228,7 +228,11 @@ The pattern of double negation in human existence can be understood as an instan
 
 [^fn2-16]: _Kangen_ is also translated as “reduction.” For example, see Carter and Yamamoto, 45. However, as explained in the last section, this translation creates a misleading understanding of Watsuji’s project. Taken literally, the characters [還元][ja] mean a “return to the origin,” or as Watsuji writes about _kangen_, “from expressions, it goes back to what was expressed, that is, back to human existence” (WTZ 10:48). The point is not to “reduce” human existence to expressions or vice-versa but to restore by means of expressions our ability to focus attention on lived human existence.
 
-<!--Dilthey?∞ -->
+Watsuji’s understanding of hermeneutics is heavily influenced by his teacher at Tokyo Imperial University, Raphael von Koeber (1848--1923), who imparted in his students an appreciation of the work of Wilhelm Dilthey (1833--1911) and other German thinkers.[^fn1-koeber] Dilthey was part of a wave of philosophers and philologists who sought to establish hermeneutics as “the science of interpretation,” in which our understanding of the relationship between the text as a part and the text as a whole could be progressively enhanced. According to Ronald Bontekoe in *Dimensions of the Hermeneutic Circle*, Dilthey’s basic theory is that “the relationship between an expression and the mental content that it reveals is fixed by a common order of socially determined associations, which in turn is grounded in the commonness of human nature” (54--5). Furthermore, “given our common human nature, there will be standard meanings, the relevant expressions for which we will be able to determine inductively” (55). Watsuji’s basic methodological assumptions are the same as Dilthey’s. He hopes to work out a progressively more comprehensive theory of the nature of the human being by using concrete expressions as point of entry. Where Watsuji differs from Dilthey is that Watsuji takes society as something just as subjective as the individual.[^fn2-maraldo]
+
+[^fn1-koeber]: Watsuji’s reflections on the life and teachings of Professor Koeber are contained in *Professor Koeber*, *Keeberu Sensei* [ケーベル先生][ja], WTZ 6:1--39.
+
+[^fn2-maraldo]: For a good explanations of the basics of Watsuji’s concept of hermeneutics and its departures from its predecessors, see John Maraldo’s “Between Individual and Communal, Subject and Object, Self and Other.”
 
 <figure id="fig1">
 ![Figure 1. The structure of unity/division/combination][f1]
