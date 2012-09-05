@@ -4,3 +4,5 @@ The central problem of aesthetics is the problem of subjectivity and objectivity
 
 
 <!--350 words max.-->
+
+[sc]: smallcaps
