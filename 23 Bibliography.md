@@ -52,6 +52,8 @@
 
 * Chiaro Brivio. “The Human Being: When Philosophy Meets History, Miki Kiyoshi, Watsuji Tetsurō and their Quest for a New Ningen.” Doctoral thesis, University of Leiden, 2009. `https://openaccess.leidenuniv.nl/handle/1887/13835`.
 
+* Clark, Andy and David Chalmers. “The Extended Mind.” *Analysis* 58.1, (Jan. 1998), 7--19. `http://www.jstor.org/stable/3328150`.
+
 * _Daijisen_ [大辞泉][ja]. Tokyo: Shogakukan [小学館][ja], 2006.
 
 * *Dai Kan-Wa Jiten* [大漢和辭典][ja] (*Great Chinese-Japanese Dictionary*). Compiled by [Morohashi][sc] Tetsuji [諸橋轍次][ja]. Tokyo: Taishūkan shoten [大修館書店][ja], 1955--1960.
