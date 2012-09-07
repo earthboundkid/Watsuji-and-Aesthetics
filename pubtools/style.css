@@ -474,8 +474,16 @@ section {
     font-size: 12pt;
     line-height: 16pt;
     width: 4in;
+}
+
+.threeinch {
+    margin: 3in auto;
+}
+
+.fourinch {
     margin: 4in auto;
 }
+
 .frontquote blockquote p {
     font-size: 12pt;
     line-height: 16pt;
