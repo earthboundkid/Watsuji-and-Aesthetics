@@ -447,7 +447,7 @@
 
 /*Dissertation junk*/
 
-div {
+section {
     page-break-before: always;
 }
 
@@ -459,11 +459,8 @@ div {
     counter-reset: page 1
 }
 
-.titlepage {
-    font-variant: small-caps;
-    text-align: center;
-}
 .titlepage p {
+    font-family: Helvetica, Arial, sans-serif;
     text-indent: 0;
     width: 100%;
     text-align: center;
