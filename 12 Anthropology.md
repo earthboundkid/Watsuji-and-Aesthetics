@@ -134,7 +134,7 @@ We discover the person of our friend and not a mere object, yet this does not oc
 
 Hence our individuality as subjects cannot cash out in our independence as physical objects without either nihilistically cutting off our personhood or admitting the emptiness of individuality itself.
 
-If this is so, perhaps we should look for our individuality in the mind rather than the body. However, there too our search fails. Language is a core aspect of thought, yet, as was shown, the language *I* use is inevitably the language *we* use, because words are both individual and communal. Watsuji notes that according to Johann Gottlieb Fichte, the independence of consciousness
+If this is so, perhaps we should look for our individuality in the mind rather than the body. However, there too our search fails. Language is a core aspect of thought, yet, as was shown, the language *I* use is inevitably the language *we* use, because words are both individual and communal. Watsuji notes that according to Johann Gottlieb Fichte (1762--1814), the independence of consciousness
 
 > is like thinking of the self that sees the wall when one is alone in one’s study looking at a wall all by oneself. However, if in this case one is conscious of *the wall as a wall*, social consciousness has already infiltrated into it. (WTZ 10:77)
 
