@@ -98,6 +98,8 @@
 
 * ⎯⎯⎯. “Of the Standard of Taste.” Last accessed, Spring 2012. `http://en.wikisource.org/wiki/Of_the_Standard_of_Taste`.
 
+* [Kumakura][sc] Isao. “Reexamining Tea: ‘Yuisho,’ ‘Suki,’ ‘Yatsushi,’ and ‘Furumai’.” Translated by Peter McMillan. _Monumenta Nipponica_, 57.1 (Spring, 2002): 1--42. `http://www.jstor.org/stable/3096690`.
+
 * Jencks, Charles A. _The Language of Post-Modern Architecture_. New York: Rizzoli, 1977.
 
 * Kant, Immanuel. _Critique of Judgment_. Translated by Werner S. Pluhar. Indianapolis: Hackett, 1987.
@@ -200,6 +202,8 @@
 
 * Putnam, Hilary. “Brains in a Vat.” In _Reason, Truth, and History_, 1--21. Cambridge University Press, 1982. Accessed Summer 2012. `http://www.cavehill.uwi.edu/bnccde/ph29a/putnam.html`.
 
+* Racel, Masako. “Finding their Place in the World: Meiji Intellectuals and the Japanese Construction of an East-West Binary, 1868-1912.” Doctoral thesis, Georgia State University, 2011. `http://digitalarchive.gsu.edu/history_diss/26/`.
+
 * Reynolds, Simon. _Rip It Up and Start Again : Postpunk 1978--1984_. New York: Penguin Books, 2006.
 
 * _Ruigo Reikai Jiten_ [類語例解辞典][ja]. Tokyo: Shogakukan [小学館][ja], 2006.
@@ -218,7 +222,7 @@
 
 * Shun, Kwong-Loi. _Mencius and Early Chinese Thought_. Stanford University Press, 1997.
 
-* Slater, William. *Lexicon to Pindar*. Berlin: De Gruyter, 1969. `http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0072%3Aentry%3Dkalo%2Fs`.
+* Slater, William. *Lexicon to Pindar*. Berlin: De Gruyter, 1969.
 
 * Snow, C. P. _The Two Cultures and the Scientific Revolution_. Cambridge University Press, 1961.
 
