@@ -96,11 +96,11 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 - *[Persönlichkeit][de]* --- Personhood or personality. What makes a human being a human being.
 
-- *[Räumen][de]* --- To clear or evacuate an area. Hence _Raum_ is space.
+- *[Räumen][de]* --- To clear away or evacuate an area. Hence _Raum_ is space.
 
 - _[Rausch][de]_ --- Intoxication for Nietzsche. Cf. Japanese _tōsui_ [陶酔][ja].
 
-- *[Roden][de]* --- To clear.
+- *[Roden][de]* --- To clear out.
 
 - *[Sein][de]* --- Being.
 
