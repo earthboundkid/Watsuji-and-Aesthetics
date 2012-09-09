@@ -12,7 +12,7 @@ body-class: unnumbered
 
 ##Chapter 2. Anthropology and Methodology
 ###Ethics as first philosophy
-####Inquiry as human inquiry
+####Human inquiry
 Having raised the question of subjectivity and objectivity in aesthetics, where should I begin my investigation? I will argue that [Watsuji][sc] Tetsurō was right to suggest that our first philosophy must be “the study of ethics as the study of human beings” (_ningen no gaku to shite no rinrigaku_ [人間の学としての倫理学][ja]), and that this must also be the basis of our theory of aesthetics. To understand the relationship between the subject and object of aesthetics, we must first understand who is having an aesthetic experience and why. Kant famously concludes the _Critique of Pure Reason_ with three questions---“What can I know? What ought I to do? What may I hope?”---to which he later adds a fourth---“What is a human being?”[^fn2-1] Though the questions are hopelessly intertwined, Kant comes to conclusion that the fourth relates to the other three. Through a philosophical anthropology, we learn what we as human beings may know, what we ought to do as the sort of beings we are, and what aspirations are rational for us to have. Similarly, our understanding of how aesthetics is possible will be critically shaped by our philosophical anthropology. As I showed in the first chapter, the question of subjectivity and objectivity in aesthetics cannot be addressed without first having a clear philosophical anthropology.
 
 [^fn2-1]: The three questions first appear in the _Critique of Pure Reason_ on B 832--3. The fourth question is added in the _Logic_ (Ak. IX, 25).
