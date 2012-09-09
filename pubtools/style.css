@@ -475,6 +475,7 @@ section {
     font-size: 12pt;
     line-height: 16pt;
     width: 4in;
+    margin: auto;
 }
 
 .threeinch {
@@ -488,4 +489,8 @@ section {
 .frontquote blockquote p {
     font-size: 12pt;
     line-height: 16pt;
+}
+
+.invisible {
+    visibility: hidden;
 }
