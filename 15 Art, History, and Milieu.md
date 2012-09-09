@@ -38,13 +38,20 @@ For example, one artist-centric theory might explain that what makes one an arti
 
 On the other hand, some theories of art focus on the importance of the “spontaneity” of the artist over mere skill. Such theories describe skill as a quality of the *craftsperson* rather than the artist proper. Related theories hold that it is the process of “expression” that makes an act artistic. In these theories, artworks are the result of processes in which artists express for others some strongly felt emotion through their art. A great artwork is a kind of mirror reflecting the soul of its creator: the greater the soul, the greater the art. This set of theories eliminates banal but meticulously crafted objects from consideration as art on the grounds that such purported artworks fail to express any aspect of the inner life of the artist. Similarly, overtly commercial objects are viewed with suspicion because they were created according to commercial necessity rather than an individual impulse.
 
-The apotheosis of the artist-centric view must be the famous urinal of Marcel Duchamp (or “R. Mutt,” 1887--1968).[^5-3] The first and most famous of Duchamp’s series of “readymades,” the urinal was an ordinary object with no claim to being art until Duchamp submitted to a gallery for exhibition under the title _Fountain_. For the artists and theoreticians who followed Duchamp, the primordial artistic act is the signing of one’s work. This act deems the work finalized and transforms the finished product into art. In 1917, _The Blind Man_ (a Dadaist publication from New York) defended the work against its critics. They wrote, “the _Fountain_ was not made by a plumber but by the force of an imagination” (6) and
+The apotheosis of the artist-centric view must be the famous urinal of Marcel Duchamp (1887--1968) or, as the signature has it, “R. Mutt.”[^5-3] (See figure three below.) The first and most famous of Duchamp’s series of “readymades,” the urinal was an ordinary object with no claim to being art until Duchamp submitted to a gallery for exhibition under the title _Fountain_. For the artists and theoreticians who followed Duchamp, the primordial artistic act is the signing of one’s work. This act deems the work finalized and transforms the finished product into art. In 1917, _The Blind Man_ (a Dadaist publication from New York) defended the work against its critics. They wrote, “the _Fountain_ was not made by a plumber but by the force of an imagination” (6) and
 
 [^5-3]: The portrait of Duchamp’s theoretical position painted here is, by necessity, somewhat of a caricature. For example, in an essay entitled “The Creative Act,” Duchamp himself calls artist and *audience* “the two poles of the creation of art” (77). For purposes of theoretical clarity, however, we can ignore this aspect of his thinking for now.
 
 > Whether Mr. Mutt with his own hands made the fountain or not has no importance. He CHOSE it. He took an ordinary article of life, place it so that its useful significance disappeared under the new title and point of view---created a new thought for that object. (5)
 
 Once an artist has chosen to deem a work final all that remains is for a gallery to accept it and exhibit it to the public. When Duchamp signed a store-bought urinal, it was transfigured into art, and the fact that the urinal itself was ugly or beautiful became immaterial to its artistic value. 
+
+<figure id="fig3">
+![Figure 3. Fountain by Marcel Duchamp][f3]
+<figcaption>**Figure 3.** _Fountain_ by Marcel Duchamp under the name “R. Mutt,” as shown on page four of _The Blind Man_.</figcaption>
+</figure>
+
+[f3]: ../images/blindman.jpg =600
 
 The clearest shortcoming of such a theory of art is that it utterly neglects the artwork itself, and yet there must be something about the artwork that makes it a topic of concern for parties besides the artist. (Bear in mind that Duchamp and the other Dada artists also meant to satirize the self-importance of art with their readymades.) To remedy this oversight, next let’s look at the work-centric theories.
 
