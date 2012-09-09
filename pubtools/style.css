@@ -66,6 +66,7 @@
     }
     figure {
         margin: .25in 0;
+        text-indent: 0;
     }
 
 /* Inline tags */
