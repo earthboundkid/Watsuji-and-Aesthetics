@@ -13,7 +13,7 @@
 ###Chinese terms
 Terms are sorted according to the pinyin romanization of modern standard Mandarin, but definitions are classical unless otherwise noted. 
 
-- _Ai_ [愛][zh] --- Possessive love. To treat something sparingly. Affective concern.
+- _Ai_ [愛][zh] --- Possessive love. In earlier texts, to treat something sparingly. In Buddhist texts, sometimes used for worldly “attachments.” Affective concern.
 
 - _Ben_ [本][zh] --- Root. Often erroneously translated as “original.”
 
