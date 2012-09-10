@@ -457,7 +457,7 @@ section {
 }
 
 .bodytext {
-    counter-reset: page 1
+    counter-reset: page 1;
 }
 
 .titlepage p {
