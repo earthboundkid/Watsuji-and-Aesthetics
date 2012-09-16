@@ -9,10 +9,10 @@
 
 * [Figure 3. _Fountain_ by Marcel Duchamp.](#fig3)
 
-* [Figure 4. Aesthetic experience as double negation.](#fig3)
+* [Figure 4. Aesthetic experience as double negation.](#fig4)
 
-* [Figure 5. Normativity in aesthetic judgment and taste.](#fig4)
+* [Figure 5. Normativity in aesthetic judgment and taste.](#fig5)
 
-* [Figure 6. History and milieu in art.](#fig5)
+* [Figure 6. History and milieu in art.](#fig6)
 
-* [Figure 7. Genius and criticism.](#fig6)
+* [Figure 7. Genius and criticism.](#fig7)

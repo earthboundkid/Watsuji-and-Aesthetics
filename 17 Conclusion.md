@@ -18,7 +18,7 @@ To conclude, I would like to review what has been proposed so far before leaving
 <figcaption>**Figure 4.** Aesthetic experience as double negation.</figcaption>
 </figure>
 
-[f3]: ../images/ae.png =600
+[f4]: ../images/ae.png =600
 
 In the hermeneutic step of restoration of everyday experience, aesthetic experience was shown to be a interplay of subject and object. As seen on the right side of figure four, in ordinary experience, we experience a fusion of subject and object as we act, but this pre-reflective fusion is not true aesthetic experience because it is defined instrumentally by the dimensions of the ordinary self. Aesthetic experience requires that we first distance the ordinary self from the object (as seen in the center of the diagram) so that we no longer see the object aspectivally as a component of the self. Once this negation is in place, a further negation is possible, the negation of intoxicated dissolution (on the left side of the diagram). In the second negation, we leave the ordinary self in its place at the center of experience and distant from the object on the periphery of experience, but we take up a perspective that is larger than ordinary self---the perspective of the no-self (*muga* [無我][ja]). From this larger perspective, rather than seeing the object along the boundary of the self aspectivally “as” useful for some practical end, we see the object “as if” it had practical value---we see the object as intrinsically valuable even from its own perspective apart from the self. For this reason, it is appropriate to label the process of aesthetic experience as a whole “disinterested enjoyment.” Disinterested enjoyment does not mean enjoyment that is aloof from things, but enjoyment that comes from inhabiting the perspective of things rather than inhabiting the perspective of the ordinary self.
 
@@ -27,7 +27,7 @@ In the hermeneutic step of restoration of everyday experience, aesthetic experie
 <figcaption>**Figure 5.** Normativity in aesthetic judgment and taste.</figcaption>
 </figure>
 
-[f4]: ../images/norm.png =600
+[f5]: ../images/norm.png =600
 
 In the hermeneutic step of construction, I looked at the subject and object as built up in aesthetic normativity and theories of art. Aesthetic normativity as expressed in judgment and taste was similarly shown to be the result of double negation. As seen in figure five, we begin in a unified background possibility space of communally shared norms, but we carve out an individual identity with an aesthetic judgment before reintegrating into communal taste. This double negation takes place between self and other as well as the subject and object negation of aesthetic experience. The individual develops a unique sensibility by forming aesthetic judgments that contradict the taste of the community, but the taste of the community is the matrix out of which aesthetic experiences are made possible, so these tastes hold normative significance for the individual. My judgments stem from the tastes of others and must return to them to bear fruit. The basis for this process is not a universal subjectivity, but a local and connected one. It is not that there is a singular ideal of the “suitable spectator” that holds for all aesthetic judgments across time. Rather, we create a subject suitable for aesthetic experience together and in so doing also give birth to the aesthetic predicates that our community takes as norms. The tastes of my community are normative for me because they made my experiences possible, and my judgments are normative for our community because I am an autonomous member of that community. The sphere of the aesthetic is not universal but expanding at the speed of sound---by speaking together we create a space in which suitable subjects and ideal objects can flourish.
 
@@ -36,7 +36,7 @@ In the hermeneutic step of construction, I looked at the subject and object as b
 <figcaption>**Figure 6.** History and milieu in art.</figcaption>
 </figure>
 
-[f5]: ../images/art.png =600
+[f6]: ../images/art.png =600
 
 Our understanding of theories of art is also enhanced by looking through the lens of double negation. As seen in figure six, the artist, work, and audience emerge as novel entities out of the background of the past context of creation, and as they combine into a new unity the significance they invest their context with significance, thereby transforming mere time and space into a meaningful history and milieu. Art is the concretion of a context. It is the blossoming of a historical pursuit of aesthetic excellence within a particular milieu. History is a process by which time is invested with significance through the interplay of works and styles. A milieu is enriched by the interplay of humanity and nature within a socio-ecological niche. Individual artworks are created out of the ideals of a context, which they negate, and in so negating they create a context of new ideals for new works to negate.
 
@@ -45,7 +45,7 @@ Our understanding of theories of art is also enhanced by looking through the len
 <figcaption>**Figure 7.** Genius and criticism.</figcaption>
 </figure>
 
-[f6]: ../images/genius.png =600
+[f7]: ../images/genius.png =600
 
 Finally, the hermeneutic step of destruction showed that genius as well is a process of double negation. As seen in figure seven, genius is neither the artifact of sheer individual will nor the predetermined product of nature. It is the outcome of an interplay with critics. A true genius is one who smashes up old public values that have solidified into mere idols and reveals the shining core of truth that comes from the flow of life itself. In doing so, the private values of the genius become public and thereby risk their own idolization. When this happens, it is time for a new genius to revive the old idols and bring new life to the values they once represented.
 
@@ -105,7 +105,7 @@ Kant does a better job of balancing the communal and individual moments of human
 In summary, I hope that I have shown that my system of employing Watsuji’s anthropology has allowed me to preserve our basic intuitions about aesthetics while extending the insights of forebears like Plato and Kant.
 
 ###Future directions
-To truly employ the hermeneutic method given in chapter two, it is not enough to stop here. Preferably, this process would be repeated indefinitely, with each cycle of the hermeneutic circle bringing greater clarity of understanding. Unfortunately, it is not feasible to do this here, but I hope that by ending with a few suggestions for directions for future research, other scholars will be able to pursue in greater depths the questions I have only touched upon. If I have been successfully in expressing my meaning here, the reader should now be equipped to continue this project in her own way.
+To truly employ the hermeneutic method given in chapter two, it is not enough to stop here. Preferably, this process would be repeated indefinitely, with each cycle of the hermeneutic circle bringing greater clarity of understanding. Unfortunately, it is not feasible to do this here, but I hope that by ending with a few suggestions for directions for future research, other scholars will be able to pursue in greater depths the questions I have only touched upon. If I have been successful in expressing my meaning here, the reader should now be equipped to continue this project in her own way.
 
 One of my initial retrospective concerns is the degree of anthropocentrism in Watsuji’s project and my own. While I hope that I have balanced this out with an emphasis on the role of the object in aesthetics, I believe that greater work in this field is possible. How do we balance the inextricably human element of existence on the one hand with the deep interiority of things on the other? How is the aesthetic experience of things (for example, in viewing a flower) different than the aesthetic experience of another subject (for example, in the viewing of a performance)?
 
