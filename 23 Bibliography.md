@@ -4,9 +4,7 @@
 ##Works Cited
 * Adelson, Edward H. “Checkershadow Illusion.” Accessed Summer 2012. `http://web.mit.edu/persci/people/adelson/checkershadow_illusion.html`.
 
-* Ames, Roger T. and Henry Rosemont, trans. _The Analects of Confucius: A Philosophical Translation_. New York: Ballantine, 1998.
-
-* ⎯⎯⎯ and David Hall, trans. _Dao De Jing “Making This Life Significant”: A Philosophical Translation_. New York: Ballantine, 2003.
+* Ames, Roger T. and David Hall, trans. _Dao De Jing “Making This Life Significant”: A Philosophical Translation_. New York: Ballantine, 2003.
 
 * Aristotle. _Nicomachean Ethics_. Second Edition. Translated by Terence Irwin. Indianapolis: Hackett, 1999.
 
@@ -204,7 +202,7 @@
 
 * Racel, Masako. “Finding their Place in the World: Meiji Intellectuals and the Japanese Construction of an East-West Binary, 1868-1912.” Doctoral thesis, Georgia State University, 2011. `http://digitalarchive.gsu.edu/history_diss/26/`.
 
-* Reynolds, Simon. _Rip It Up and Start Again : Postpunk 1978--1984_. New York: Penguin Books, 2006.
+* Reynolds, Simon. _Rip It Up and Start Again: Postpunk 1978--1984_. New York: Penguin Books, 2006.
 
 * _Ruigo Reikai Jiten_ [類語例解辞典][ja]. Tokyo: Shogakukan [小学館][ja], 2006.
 
@@ -213,10 +211,6 @@
 * Sakai, Naoki. *Translation and Subjectivity: On Japan and Cultural Nationalism*. Minneapolis: University of Minnesota Press, 1997.
 
 * Scarry, Elaine. _On Beauty and Being Just_. Princeton: Princeton University Press, 1999.
-
-* Sekine, Seizo. _A Comparative Study of the Origins of Ethical Thought: Hellenism and Hebraism_. Translated by Judy Wakabayashi. Lanham, Maryland: Rowman and Littlefield, 2005.
-
-* ⎯⎯⎯. _Transcendency and symbols in the Old Testament: A genealogy of the hermeneutical experiences_. Translated by Judy Wakabayashi. Berlin: Walter de Gruyter, 1999.
 
 * Shirane, Haruo. _Traces of Dreams: Landscape, Cultural Memory, and the Poetry of Bashō_. Stanford: Stanford University Press, 1998.
 
