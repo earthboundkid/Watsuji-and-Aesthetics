@@ -100,6 +100,8 @@
 
 * Jencks, Charles A. _The Language of Post-Modern Architecture_. New York: Rizzoli, 1977.
 
+* Johnson, Carl M., trans. “Mask and Persona.” _Japan Studies Review_ (2011): 147--155. `http://asian.fiu.edu/projects-and-grants/japan-studies-review/journal-archive/2011.pdf`. 
+
 * Kant, Immanuel. _Critique of Judgment_. Translated by Werner S. Pluhar. Indianapolis: Hackett, 1987.
 
 * ⎯⎯⎯. _Critique of Practical Reason_. Translated by Werner S. Pluhar. Indianapolis: Hackett, 2002.
