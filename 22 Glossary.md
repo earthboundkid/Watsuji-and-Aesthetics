@@ -13,7 +13,7 @@
 ###Chinese terms
 Terms are sorted according to the pinyin romanization of modern standard Mandarin, but definitions are classical unless otherwise noted. 
 
-- _Ai_ [愛][zh] --- Possessive love. In earlier texts, to treat something sparingly. In Buddhist texts, sometimes used for worldly “attachments.” Affective concern.
+- _Ai_ [愛][zh] --- Possessive love. In earlier texts, to treat something sparingly. In Buddhist texts, sometimes used for worldly attachments. Affective concern.
 
 - _Ben_ [本][zh] --- Root. Often erroneously translated as “original.”
 
@@ -45,11 +45,11 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 - _Qi_ [氣][zh] --- Air, breath, vital energy, or spirit. The hylozoistic, processual “stuff” making up the world in Chinese cosmology.
 
-- _Ren_ [人][zh] --- A person, human beings, or member of society.
+- _Ren_ [人][zh] --- A person, human beings, or a member of society.
 
 - _Ren_ [仁][zh] --- Humane, benevolent, noble, or authoritative conduct. The graph is a person and the number two, indicating sociability. Note its homophony with _ren_ [人][zh] (“person”), which is also attested to in the earliest reconstructed pronunciations.
 
-- _Ti_ [體][zh] or [体][zh] --- The body. Counterposed with _jian_ [兼][zh], it means “unit” as opposed to “whole.” Counterposed with _yong_ [用][zh], it means the “matter” as opposed to the “functioning.”
+- _Ti_ [體][zh] or [体][zh] --- The body. Counterposed with _jian_ [兼][zh], it means “part” as opposed to “whole.” Counterposed with _yong_ [用][zh], it means the “forming” as opposed to the “functioning.”
 
 - _Tong_ [同][zh] --- Sameness, uniformity, or identity.
 
@@ -90,11 +90,9 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 - *[Können][de]* --- Ability, skill, mastery, or “can do.”
 
-- *[Mit-teilen][de]* --- Communication. Literally, to divide up together.
+- *[Mitteilen][de]* --- Communication. Literally, to divide up together.
 
 - *[Nachhängen][de]* --- Normally, to indulge, but for Heidegger, projection from inside toward something.
-
-- *[Persönlichkeit][de]* --- Personhood or personality. What makes a human being a human being.
 
 - *[Räumen][de]* --- To clear away or evacuate an area. Hence _Raum_ is space.
 
@@ -115,48 +113,48 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 - *[Wollen][de]* --- Volition.
 
 ###Greek terms
-- *Agápi̱* [ἀγάπη][el] --- Christian love or charity.
+- [ἀγάπη][el] --- Christian love or charity.
 
-- *Aisthánomai* [αἰσθάνομαι][el] --- “I perceive.”
+- [αἰσθάνομαι][el] --- “I perceive.”
 
-- *Aísthi̱sis* [αἴσθησις][el] --- Sensation or perception.
+- [αἴσθησις][el] --- Sensation or perception.
 
-- *Aisthi̱tá* [αἰσθητά][el] --- Sensible things.
+- [αἰσθητά][el] --- Sensible things.
 
-- *Aretí̱* [ἀρετή][el] --- The excellence or virtue of a thing that allows it to fulfill its function. E.g. The sharpness of a knife or vision in the eyes.
+- [ἀρετή][el] --- The excellence or virtue of a thing that allows it to fulfill its function. E.g. The sharpness of a knife or vision in the eyes.
 
-- *Chó̱ra* [χώρα][el] --- Land, space, or receptacle. 
+- [ἔρως][el] --- Erotic love.
 
-- *Éro̱s* [ἔρως][el] --- Erotic love.
+- [ἤθη][el] --- Ethos or the habitual patterns of a person or society.
 
-- *Filía* [φιλία][el] --- Brotherly love.
+- [ἠθικός][el] --- Ethics.
 
-- *Í̱thi̱* [ἤθη][el] --- Ethos or the habitual patterns of a person or society.
+- [κάθαρσις][el] --- Purgation or purification. Hence Aristotle’s theory of emotional catharsis from drama.
 
-- *I̱thikós* [ἠθικός][el] --- Ethics.
+- [καλόν][el] --- Beauty or goodness. The attractive quality that makes something excellent or noble.
 
-- *Kalón* [καλόν][el] --- Beauty or goodness. The attractive quality that makes something excellent or noble.
+- [λόγος][el] --- Speech, account, ratio, rationality, or reason. In speech, we give each other accounts and in so doing show our ability to think proportionately.
 
-- *Kátharsis* [κάθαρσις][el] --- Purgation or purification. Hence Aristotle’s theory of emotional catharsis from drama.
+- [νοητά][el] --- Intelligible things.
 
-- *Lógos* [λόγος][el] --- Speech, account, ratio, rationality, or reason. In speech, we give each other accounts and in so doing show our ability to think proportionately.
+- [ποιέω][el] --- Making. Root of the English word “poetry.”
 
-- *Noi̱tá* [νοητά][el] --- Intelligible things.
+- [στοργή][el] --- Familial love.
 
-- *Poiéo̱* [ποιέω][el] --- Making. Root of the English word “poetry.”
+- [τέλος][el] --- The end or goal of a thing.
 
-- *Storgí̱* [στοργή][el] --- Familial love.
+- [τόπος][el] --- Place or location.
 
-- *Télos* [τέλος][el] --- The end or goal of a thing.
+- [φιλία][el] --- Brotherly love.
 
-- *Tópos* [τόπος][el] --- Place or location.
+- [χώρα][el] --- Land, space, or receptacle. 
 
 ###Japanese terms
-* _Aida_, _ma_, _kan_, _ken_, or _gen_ [間][ja] --- An interval or expanse of time or space. In the construction A _to_ B _to no aida ni_, “between” A and B. When read as _ma_, a room in a house or the spatial relationship of parts in an aesthetic object or experience.
+* _Aida_, _ma_, _kan_, _ken_, or _gen_ [間][ja] --- An interval or expanse of time or space. In the construction A _to_ B _to no aida_, “between A and B.” When read as _ma_, a room in a house or the spatial relationship of parts in an aesthetic object or experience.
 
 * _Aidagara_ [間柄][ja] --- Persistent relationship. Frequently mistranslated as “betweenness” on analogy to _aida_, but a better overly literal rendering is “pattern of betweenness.” _Aidagara_ are the relationships that make up a life.
 
-- *Basho* [場所][ja] --- Place. Used in Nishida on analogy to Plato’s [χώρα][el] or Aristotle’s [τόπος][el].
+- *Basho* [場所][ja] --- Place. Used in Nishida similarly to Plato’s [χώρα][el] or Aristotle’s [τόπος][el].
 
 * _Bi_ [美][ja] --- Beautiful. Notice that, like the Chinese _mei_ and unlike the Greek [καλόν][el], _bi_ is adjectival, not an abstract noun.
 
@@ -166,13 +164,13 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * _Dearu_ [である][ja] --- Japanese copula. Unlike the English *is*, it cannot be used existentially, only for predication. 
 
-- *Dōtoku* [道徳][ja] --- Morality. Some thinker contrast this to *rinri* [倫理][ja] “ethical.” Derives from the title of the *Daodejing* [道德經][zh].
+- *Dōtoku* [道徳][ja] --- Morality. Some thinkers contrast this to *rinri* [倫理][ja] “ethical.” Derives from the title of the *Daodejing* [道德經][zh].
 
-* _Fūdo_ [風土][ja] --- Milieu or climate. Literally, wind and soil. The title of Watsuji’s book on his trip to Europe, referred to here as *Milieu* and translated by Bownas as _Climate and Culture_. Related to _Fūdoki_ [風土記][ja], an eighth century chronicle of the geography and culture of Japan and a general name for the genre of such works chronicling the particularities of regions. 
+* _Fūdo_ [風土][ja] --- Milieu or climate. Literally, wind and soil. The title of Watsuji’s book on his trip to Europe, referred to here as *Milieu* and translated by Bownas as _Climate and Culture_. Related to _Fudoki_ [風土記][ja], an eighth century chronicle of the geography and culture of Japan and a general name for the genre of such works chronicling the particularities of regions. 
 
 * _Fūdosei_ [風土性][ja] --- Climaticity. Berque proposes the translation “mediance.”
 
-* _Fūdo-teki_ [風土的][ja] --- Climactical or climactically. The suffix *-teki* forms an adjective or adverb out of base nouns.
+* _Fūdo-teki_ [風土的][ja] --- Climactic or climactically. The suffix *-teki* forms an adjective or adverb out of base nouns.
 
 * _Ga aru_ [がある][ja] --- Japanese existential verb. Unlike the English *is*, it cannot be used for predication.
 
@@ -190,7 +188,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * _Hito no sonzai_ [人の存在][ja] --- The existence of (particular) persons.
 
-* _Hito to hito to no aidagara ni_ [人と人との間柄][ja] --- The persistent relationships between (particular) person and (particular) person.
+* _Hito to hito to no aidagara_ [人と人との間柄][ja] --- The persistent relationships between (particular) person and (particular) person.
 
 * _Hito to hito to no aida ni_ [人と人との間に][ja] --- Between person and person.
 
@@ -212,7 +210,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * _Jikaku_ [自覚][ja] --- Self-awareness, self-consciousness, transcendent unity of apperception, or the noumenal aspect of the self.
 
-* _Jinkaku_ [人格][ja] --- Personality or personhood. What makes a person a person. Used to translate Kant’s _[Persönlichkeit][de]_.
+* _Jinkaku_ [人格][ja] --- Person. What makes a person a person. Used to translate Kant’s _[Person][de]_.
 
 * _Jinruigaku_ [人類学][ja] --- Physical anthropology. Literally, the study of humankind. Cf. _ningengaku_ [人間学][ja] (“philosophical anthropology”).
 
@@ -232,13 +230,13 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * *Kaze* [風][ja] --- Wind.
 
-- *Ketsujōtai* [欠如態][ja] --- Privative or lacking state. 
+- *Ketsujotai* [欠如態][ja] --- Privative or lacking state. 
+
+- *Ki* [気][ja] --- See Chinese *qi* [氣][zh].
 
 - *Ki ai* [気合い][ja] --- Meeting of vital energy. Also used as a focusing cry in martial arts.
 
 - *Ki ga au* [気が合う][ja] --- The coming together of the particular vital energy that makes each thing up. 
-
-- *Ki* [気][ja] --- See Chinese *qi* [氣][zh].
 
 * *Kōi* [行為][ja] --- Conduct or behavior. Actions that have moral valence.
 
@@ -282,7 +280,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * _Mono no aware_ [もののあはれ][ja] or [もののあわれ][ja] or [物の哀れ][ja] --- The pathos of things. Empathy or loving compassion for the world. The feeling of infinite depth that wells up in things one when is keenly attuned to their transience.
 
-* *Mono no yū* [物の有][ja] --- The being of a thing.
+* *Mono no u* [物の有][ja] --- The being of a thing.
 
 * *Motsu* [有つ][ja] --- *Motsu* is usually written [持つ][ja] and means to have or hold. Watsuji writes it as [有つ][ja] to show the connection between “being” (Chinese *you* [有][zh]) and human possession.
 
@@ -312,17 +310,17 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * *Rin* [倫][ja] --- Human relationships.
 
-* *Rinri* [倫理][ja] --- Ethics. Sometimes contrasted with *dôtoku*, morals.
+* *Rinri* [倫理][ja] --- Ethics. Sometimes contrasted with *dōtoku*, morals.
 
 * _Rinrigaku_ [倫理学][ja] --- The study of ethics. Literally, the study of the pattern of human relations.
 
 * _Ryōshin_ [良心][ja] --- Conscience. Literally, good functioning of heart-mind. From the Chinese, _liangxing_, see above. Watsuji notes that unlike the English “conscience,” it is not directly connected to “consciousness” (_ishiki_), although there is an indirect connection.
 
-* *Satoru* [悟る][ja] --- Enlightenment or awakening.
+* *Satoru* [悟る][ja] --- To enlighten or awaken.
 
 * *Seishin* [精神][ja] --- Spirit. Primarily used as a translation of the German *[Geist][de]*.
 
-* _Seken_ [世間][ja] --- The social realm. Cf. _yo no naka_, _ningen_, and _kyôdôtai_.
+* _Seken_ [世間][ja] --- The social realm. Cf. _yo no naka_, _ningen_, and _kyōdōtai_.
 
 * _Shakai_ [社会][ja] --- Society. Literally, a meeting around the sacred communal pole.
 
@@ -330,7 +328,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * *Shii* [私意][ja] --- Private implications. In Japanese poetics, this means focusing on one’s idiosyncratic reaction to a situation rather than its deeper emotional meaning, the *hon’i*.
 
-* *Shinmin* [臣民][ja] --- The subjects of a ruler.
+* *Shimmin* [臣民][ja] --- The subjects of a ruler.
 
 * *Shinsō* [真相][ja] --- True aspect. The side of something that reveals what it really is.
 
@@ -344,7 +342,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * _Shukan_ [主観][ja] --- The subject as perceiver. Literally, the host’s view.
 
-* _Shutai_ [主体][ja] --- The subject as embodied agent. Literally, the host’s body. 
+* _Shutai_ [主体][ja] --- The subject as embodying agent. Literally, the host’s body. 
 
 * _Sonzai_ [存在][ja]  --- Existence. Literally, [存][ja] preserving (temporal) and [在][ja] residing (spatial). Hence existence is a temporary preservation against inevitable loss and residing before inevitable departure.
 
@@ -380,7 +378,7 @@ Terms are sorted according to the pinyin romanization of modern standard Mandari
 
 * *Yūgen* [幽玄][ja] --- Mysterious profundity of Noh drama.
 
-* *Zen* [善][ja] --- Good. Used by Watsuji to indicate ethical good as opposed to instrumental good (*yoshi* [良し][ja]). Cf. German, *[das Gute][ja]* versus *[das Wohl][de]* in Kant, *Critique of Practical Reason*, Ak. 59.
+* *Zen* [善][ja] --- Good. Used by Watsuji to indicate ethical good as opposed to instrumental good (*yoshi* [良し][ja]). Cf. German, *[das Gute][de]* versus *[das Wohl][de]* in Kant, *Critique of Practical Reason*, Ak. 59.
 
 * *Zettai mujun-teki jikō dōitsu* [絶対矛盾的自己同一][ja] --- In Nishida’s philosophy, absolutely contradictory self-identity.
 
