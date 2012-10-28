@@ -74,7 +74,7 @@
 
 * Duchamp, Marcel. “The Creative Act.” In *Marcel Duchamp*, by Robert Lebel, 77--78. New York: Grove Press, 1959. `http://www.iaaa.nl/cursusAA&AI/duchamp.html`.
 
-* Eaton, Marcia. _Art and nonart : reflections on an orange crate and a moose call_. London: Associated University Press, 1983.
+* Eaton, Marcia. _Art and Nonart: Reflections on an Orange Crate and a Moose Call_. London: Associated University Press, 1983.
 
 * Feldman, Stuart. “A Conversation with Alan Kay.” *ACM Queue: Tomorrow’s Computing Today* 2.9 (Dec./Jan. 2004): 20--30. `http://queue.acm.org/detail.cfm?id=1039523`.
 
@@ -92,9 +92,9 @@
 
 * ⎯⎯⎯. *Philosophy of Right*. Translated by S.W Dyde. Kitchener, Ontario: Batoche Books, 2001.
 
-* Hume, David. “An Enquiry Concerning Human Understanding.” Last accessed, Summer 2012. `http://en.wikisource.org/wiki/An_Enquiry_Concerning_Human_Understanding`.
+* Hume, David. _An Enquiry Concerning Human Understanding_. Second edition. Edited, with Introduction, by Eric Steinberg. Indianapolis: Hackett, 1993.
 
-* ⎯⎯⎯. “Of the Standard of Taste.” Last accessed, Spring 2012. `http://en.wikisource.org/wiki/Of_the_Standard_of_Taste`.
+* ⎯⎯⎯. “Of the Standard of Taste.” Accessed Spring 2012. `http://en.wikisource.org/wiki/Of_the_Standard_of_Taste`.
 
 * [Kumakura][sc] Isao. “Reexamining Tea: ‘Yuisho,’ ‘Suki,’ ‘Yatsushi,’ and ‘Furumai’.” Translated by Peter McMillan. _Monumenta Nipponica_, 57.1 (Spring, 2002): 1--42. `http://www.jstor.org/stable/3096690`.
 
@@ -148,7 +148,7 @@
 
 * [Miki][sc] Kiyoshi. “The Study of the Human.” Translated by Gereon Kopf. In _Japanese Philosophy: A Sourcebook_, 702--705. Honolulu: University of Hawaiʻi Press, 2011.
 
-* [Miyagawa][sc] Keiji [宮川敬之][ja]. _Watsuji Tetsurō Jinkaku kara Aidagara e (Saihakken Nihon no Tetsugaku)_ [和辻哲郎 人格から間柄へ (再発見 日本の哲学)][ja] (_Watsuji Tetsurō: From Personhood to Persistent Relationality [Rediscovering Japanese Philosophy]_). Tokyo: Kodansha [講談社][ja], 2008.
+* [Miyagawa][sc] Keishi [宮川敬之][ja]. _Watsuji Tetsurō Jinkaku kara Aidagara e (Saihakken Nihon no Tetsugaku)_ [和辻哲郎 人格から間柄へ (再発見 日本の哲学)][ja] (_Watsuji Tetsurō: From Personhood to Persistent Relationality [Rediscovering Japanese Philosophy]_). Tokyo: Kodansha [講談社][ja], 2008.
 
 * Morris, Ivan. *The World of the Shining Prince: Court Life in Ancient Japan*. New York: Knopf, 1964.
 
@@ -167,6 +167,8 @@
 * ⎯⎯⎯. “An Explanation of Beauty. Nishida Kitarō’s Bi no Setsumei.” Translated by Steve Odin. *Monumenta Nipponica* 42.2 (Summer, 1987): 211--217. `http://www.jstor.org/stable/2384952`.
 
 * ⎯⎯⎯. _Nishida Kitarō Zenshū_ [西田幾多郎全集][ja] (*Collected Works of Nishida Kitarō*). Tokyo: Iwanami Shoten  [岩波書店][ja], 1947--1966.
+
+* [Nitobe][sc] Inazō. _Bushido, the Soul of Japan_. 13th Edition. New York: Putnam, 1908. `http://www.gutenberg.org/ebooks/12096`.
 
 * [Nose][sc] Asaji [能勢朝次][ja]. *Sanzōshi hyōshaku* [三冊子評釈][ja]. Tokyo: Meicho Kankōkai [名著刊行会][ja], 1970.
 
@@ -246,6 +248,6 @@
 
 * Yamamoto, Seisaku and Robert Carter, trans. _[Watsuji][sc] Tetsurō’s_ Rinrigaku: _Ethics in Japan_. Albany: SUNY Press, 1996. 
 
-* [Yoshida][sc] Kazuhisa. “Two Faces of Postmodernism: Postmodernist Critiques of Cultural Typologies and the Future of Comparative Studies of Culture.” Saitama University Journal (College of General Education) _Saitama Daigaku Kiyō (Kyōyō Gakubu)_ [埼玉大学紀要（教養学部）][ja] 46.2 (2010): 219--241. Last accessed, Spring 2012. `http://sucra.saitama-u.ac.jp/modules/xoonips/detail.php?item_id=14722`.
+* [Yoshida][sc] Kazuhisa. “Two Faces of Postmodernism: Postmodernist Critiques of Cultural Typologies and the Future of Comparative Studies of Culture.” Saitama University Journal (College of General Education) _Saitama Daigaku Kiyō (Kyōyō Gakubu)_ [埼玉大学紀要（教養学部）][ja] 46.2 (2010): 219--241. Accessed Spring 2012. `http://sucra.saitama-u.ac.jp/modules/xoonips/detail.php?item_id=14722`.
 
 * Zemach, Eddy. “Putnam’s Theory on the Reference of Substance Terms.” _The Journal of Philosophy_ 73.5 (Mar., 1976): 116--127. `http://www.jstor.org/stable/2025740`.
