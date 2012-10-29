@@ -26,5 +26,4 @@
 - - - - -
 
 <h2 class="roman">Acknowledgements</h2>
-
-To come.
+I would like to express his heartfelt thanks to each of the following: Shigeharu Kobayashi and Nan Chen for suggesting examples that proved most illuminating; Shusuke Yagi, Sarah Worth, and David Shaner of Furman University for introducing me to Japanese, aesthetics, and Japanese aesthetics; Hiroshi Nara for correspondence about Watsuji and Okakura; my committee members---David Ashworth for his long conversations, Masato Ishida for his practical orienteering, Arindam Chakrabarti for his sharpening of my arguments, Roger Ames for emphasizing the importance of doing one’s own translation, and Steve Odin for inspiring the project and shepherding it to completion; Coffee Bar Kissaten for selling me caffeine long after midnight; my cats for distractions; my family, and most especially my wife, for their love and support. The faults that remain in this text are my own.
